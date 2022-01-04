@@ -5,7 +5,7 @@
 #EXTINF: -1 tvg-id = "tv1tvjornal" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV JORNAL CARUARU/SBT HD
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
   
-#EXTINF: -1 tvg-id = "Tv2redemassa" tvg-logo="https://www.londrinaconvention.com.br/up/News/68/6813331-rede-massalogo-copy.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede Massa HD
+#EXTINF: -1 tvg-id = "Tv2redemassa" tvg-logo="https://www.londrinaconvention.com.br/up/News/68/6813331-rede-massalogo-copy.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede Massa/SBT HD
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
    
 #EXTINF: -1 tvg-id = "Tv3BAND" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RBA/BAND HD
@@ -14,10 +14,10 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF: -1 tvg-id = "tv4BAND" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "TV5redetv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV! TO HD
+#EXTINF: -1 tvg-id = "TV5redetv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV!/TO HD
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "TV6redetv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV! ES HD
+#EXTINF: -1 tvg-id = "TV6redetv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV!/ES HD
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=7643402979693365000
 
 #EXTINF: -1 tvg-id = "TV7loading" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", loading HD
@@ -29,7 +29,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF: -1 tvg-id = "TVCH9" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Record HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF: -1 tvg-id = "tvCH10" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV CAMERA HD
+#EXTINF: -1 tvg-id = "tvCH10" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Camera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF: -1 tvg-id = "tvCH11" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TVE/TV BRASIL HD
@@ -53,7 +53,7 @@ https://livefocamundo.com:8081/tvaracati/index.m3u8
 #EXTINF: -1 tvg-id = "Tv17" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title = "TV" pltv-subgroup = "NTRU", Record News HD
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "TVCH21" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Cultura BA
+#EXTINF: -1 tvg-id = "TVCH21" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Cultura/BA HD
 https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "TVCH22'" tvg-logo="https://tvdigitalpe.files.wordpress.com/2017/05/13226859_1032230843481228_8757449635664623176_n.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV NOVA
@@ -81,10 +81,10 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 https://live-ak.vimeocdn.com/exp=1624990637~acl=%2Fa6530629-4850-4aaa-a0c0-9206bdb2dda0%2F%2A~hmac=51d1b91c81e19eadd36214c3a3ec92ce43b6b490558145394b8f1993810cf048/a6530629-4850-4aaa-a0c0-9206bdb2dda0/chunklist_b416000.m3u8?max_segments=10
 
 
-#EXTINF: -1 tvg-id = "tvpe" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", 46.1 TV BRASIL
+#EXTINF: -1 tvg-id = "tvpe" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", 46.1 TV Brasil
 https://www.dailymotion.com/cdn/live/video/x82pp99.m3u8?sec=VaebMKMQriWHXjzZJRc4PN5sbK4P4ZMbmbBUAQXVpvUKKz_Hkr6H21xb04SqPA1RY8_LDlBPBkUZz_gcF14EGQ&dmTs=207297&dmV1st=0B4F03D6897CEA8D7C91B321FCE4A4B0
 
-#EXTINF: -1 tvg-id = "csaude" tvg-logo="https://play-lh.googleusercontent.com/Q6yjrH1sViWgxH2KAXTvMwWPdPMgE7X8yveLfhXsWWGf9Q774lxbfcQaUZmCjpmRyA" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", 46.2 TV Escola (REDE)
+#EXTINF: -1 tvg-id = "csaude" tvg-logo="https://play-lh.googleusercontent.com/Q6yjrH1sViWgxH2KAXTvMwWPdPMgE7X8yveLfhXsWWGf9Q774lxbfcQaUZmCjpmRyA" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Escola HD
 https://video-rvd-pe-cdc-gw-1-1.rnp.br/live/ocp(t(FlCzb2PxvL0)r(fVR9ug)a(v_PjPg)p(d(2xc)k(q8I)m(v2n0ZEifOYIrjlzJSEztNA)n(a(gEclcg)s(n4Y)'a(GCXkWA)s(EcU)))s(s(AiY)b(yptHuizVPf6SJWBSPyttZ7IXKm8s_xXWRJSl1VPs2x-9yY5jVKoTfNsL62QroEixJb9IPCp3xCiGBuxiMg)'s(puo)b(oic0pbrX2Ozdqn-AGLzsoavtEUT0CRuoj1-hK1RpkbjlikHcCxdYp9W9Edd4UpyL34wdUDPuvOP25SrQGel43_ZbMZqIGGU90HjhiqrB)'s(xjI)b(GyTZaRYc))m(0))/index.m3u8
 
 #EXTINF: -1 tvg-id = "csaude" tvg-logo="https://www.gov.br/pt-br/apps/canal-saude/view/++widget++form.widgets.imagem/@@download/Canal+Sa%C3%BAde.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Canal Saúde
@@ -112,10 +112,10 @@ https://tvstreaming.cl:1936/8062/8062/playlist.m3u8
 #EXTINF: -1 tvg-id = "NGT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 23 TV Tropical (Rede Record)
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "Rede TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyAhxDoqcLhpQcO8HoCZFHnjAzaPPF2bJnX06fEVQ=s900-c-k-c0xffffffff-no-rj-mo" group-title = "TV" pltv-subgroup = "BAND", CATV 40 TV ARAPUAN
+#EXTINF: -1 tvg-id = "Rede TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyAhxDoqcLhpQcO8HoCZFHnjAzaPPF2bJnX06fEVQ=s900-c-k-c0xffffffff-no-rj-mo" group-title = "TV" pltv-subgroup = "BAND", CATV 40 TV ARAPUAN/RedeTV! HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
-#EXTINF: -1 tvg-id = "Rede BrasilTBO" tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTA1MjcxLmdwdThjMWYxMjczOGVlMGMwNjk2MGRiN2FmNzY2Mjg4ODVhX2ljb25fMTU0NTQyOTU3Ml8wMzY/icon.png?w=170&fakeurl=1" group-title = "TV" pltv-subgroup = "Rede Brasil", CATV 54 TV BRASIL OESTE
+#EXTINF: -1 tvg-id = "Rede BrasilTBO" tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTA1MjcxLmdwdThjMWYxMjczOGVlMGMwNjk2MGRiN2FmNzY2Mjg4ODVhX2ljb25fMTU0NTQyOTU3Ml8wMzY/icon.png?w=170&fakeurl=1" group-title = "TV" pltv-subgroup = "Rede Brasil", TV BRASIL OESTE/Rede Brasil HD
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "rbtv" tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/04/rbtv00000-678x381.jpeg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 50 RBTV
