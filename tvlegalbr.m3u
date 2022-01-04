@@ -2,10 +2,10 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id = "tv1tvjornal" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV JORNAL CARUARU HD
+#EXTINF: -1 tvg-id = "tv1tvjornal" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV JORNAL CARUARU/SBT HD
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
   
-#EXTINF: -1 tvg-id = "Tv2redemassa" tvg-logo="https://www.londrinaconvention.com.br/up/News/68/6813331-rede-massalogo-copy.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", REDE MASSA HD
+#EXTINF: -1 tvg-id = "Tv2redemassa" tvg-logo="https://www.londrinaconvention.com.br/up/News/68/6813331-rede-massalogo-copy.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", REDE MASSA/SBT HD
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
    
 #EXTINF: -1 tvg-id = "Tv3BAND" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RBA/BAND HD
@@ -74,10 +74,10 @@ https://video.kshost.com.br/player/moises3834?ar=16&as=1
 #EXTINF: -1 tvg-id = "TV34gazeta" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/d4/2019/07/17/logo-tv-gazeta-1563401680791_v2_1920x1080.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV GRÃO PARA HD
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "Rede Brasil" tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e_400x400.jpg" group-title = "TV" pltv-subgroup = "Rede Brasil", 41.1 REDE BRASIL (REDE)
+#EXTINF: -1 tvg-id = "RedeBrasil" tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e_400x400.jpg" group-title = "TV" pltv-subgroup = "Rede Brasil", Rede Brasil HD
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "Rede Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/7ae04cf56682c31b2894181fd4bc8175.png" group-title = "TV" pltv-subgroup = "RBI", 43.1 RBI
+#EXTINF: -1 tvg-id = "RedeBrasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/7ae04cf56682c31b2894181fd4bc8175.png" group-title = "TV" pltv-subgroup = "RBI", 43.1 RBI
 https://live-ak.vimeocdn.com/exp=1624990637~acl=%2Fa6530629-4850-4aaa-a0c0-9206bdb2dda0%2F%2A~hmac=51d1b91c81e19eadd36214c3a3ec92ce43b6b490558145394b8f1993810cf048/a6530629-4850-4aaa-a0c0-9206bdb2dda0/chunklist_b416000.m3u8?max_segments=10
 
 
@@ -87,7 +87,7 @@ https://www.dailymotion.com/cdn/live/video/x82pp99.m3u8?sec=VaebMKMQriWHXjzZJRc4
 #EXTINF: -1 tvg-id = "csaude" tvg-logo="https://play-lh.googleusercontent.com/Q6yjrH1sViWgxH2KAXTvMwWPdPMgE7X8yveLfhXsWWGf9Q774lxbfcQaUZmCjpmRyA" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", 46.2 TV Escola (REDE)
 https://video-rvd-pe-cdc-gw-1-1.rnp.br/live/ocp(t(FlCzb2PxvL0)r(fVR9ug)a(v_PjPg)p(d(2xc)k(q8I)m(v2n0ZEifOYIrjlzJSEztNA)n(a(gEclcg)s(n4Y)'a(GCXkWA)s(EcU)))s(s(AiY)b(yptHuizVPf6SJWBSPyttZ7IXKm8s_xXWRJSl1VPs2x-9yY5jVKoTfNsL62QroEixJb9IPCp3xCiGBuxiMg)'s(puo)b(oic0pbrX2Ozdqn-AGLzsoavtEUT0CRuoj1-hK1RpkbjlikHcCxdYp9W9Edd4UpyL34wdUDPuvOP25SrQGel43_ZbMZqIGGU90HjhiqrB)'s(xjI)b(GyTZaRYc))m(0))/index.m3u8
 
-#EXTINF: -1 tvg-id = "csaude" tvg-logo="https://www.gov.br/pt-br/apps/canal-saude/view/++widget++form.widgets.imagem/@@download/Canal+Sa%C3%BAde.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", 46.3 Canal Saúde (REDE)
+#EXTINF: -1 tvg-id = "csaude" tvg-logo="https://www.gov.br/pt-br/apps/canal-saude/view/++widget++form.widgets.imagem/@@download/Canal+Sa%C3%BAde.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 
 
