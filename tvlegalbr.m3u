@@ -42,6 +42,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF: -1 tvg-id = "Tv13" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title = "TV" pltv-subgroup = "NTRU", Globo Nordeste HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globonordeste/video.m3u8?md5=E5IH-f3r0tIJR5wlmArYVQ&expires=1641526629
 
+
 #EXTINF: -1 tvg-id = "Tv14" tvg-logo="https://pbs.twimg.com/profile_images/916530446/Untitled-2_400x400.jpg" group-title = "TV" pltv-subgroup = "NTRU", REDE ESTATÃO HD
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 
