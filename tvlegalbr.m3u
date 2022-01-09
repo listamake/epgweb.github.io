@@ -33,16 +33,23 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF: -1 tvg-id = "tv18" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6a9wVaOGB6q9EkRQ2jXRS8obA7MifL81xLrKqq91v32ergE5YRmj48O4HYgrmWO3Av-o&usqp=CAU" group-title = "TV" pltv-subgroup = "NTRU", Rede Familia
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "TV7loading" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", loading 
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
-
 #EXTINF: -1 tvg-id = "TV8idealtv" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", IDEAL TV HD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-
-
 #EXTINF: -1 tvg-id = "tvCH10" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Camera
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF: -1 tvg-id = "tvCH10" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc38fd936776666be9f3cc8788da9607.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Senado
+https://www12.senado.leg.br/com-midia-tvprod/cod_midia_468269.mp4
+
+#EXTINF: -1 tvg-id = "tv28" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Diário
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8TbyZAsCYJWSdRnkHd2Fg-HkKAsSapKdjKlC2hwC9J92evyGH6q8e60EBWVCbVrGMgIg&dmTs=861247&dmV1st=39A9767417D5506D90D54E417569CC4E
+
+#EXTINF: -1 tvg-id = "TV29" tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e_400x400.jpg" group-title = "TV" pltv-subgroup = "Rede Brasil", Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Rede BrasilTBO" tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTA1MjcxLmdwdThjMWYxMjczOGVlMGMwNjk2MGRiN2FmNzY2Mjg4ODVhX2ljb25fMTU0NTQyOTU3Ml8wMzY/icon.png?w=170&fakeurl=1" group-title = "TV" pltv-subgroup = "Rede Brasil", TV BRASIL OESTE HD
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "tvCH11" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -53,14 +60,14 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF: -1 tvg-id = "Tv13" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title = "TV" pltv-subgroup = "NTRU", Globo SP
 https://m3u9.ml/b/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=nNnUDUqhSWGMzO3y2Tzxiw&3U1G7qaTxrPbalZnEx=1641533932
 
-#EXTINF: -1 tvg-id = "Tv14" tvg-logo="https://pbs.twimg.com/profile_images/916530446/Untitled-2_400x400.jpg" group-title = "TV" pltv-subgroup = "NTRU", REDE ESTATÃO HD
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-
 #EXTINF: -1 tvg-id = "Tv15" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be677f392b634453f48ef4e0819c7532.webp" group-title = "TV" pltv-subgroup = "NTRU", TV Aracati HD
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 
 #EXTINF: -1 tvg-id = "Tv19" tvg-logo="https://yt3.ggpht.com/lhcHWrfljkOYs1iRSJhCiY2nm16eoU5ahIiGkHA_J5ZV2WTD_OXrxsTZJsrYVtZDtWKtk1DZ=s88-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "NTRU", Play Channel HD
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master
+
+#EXTINF: -1 tvg-id = "TV7loading" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", loading 
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "tv20" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp" group-title = "TV" pltv-subgroup = "NTRU", Yeeaah HD
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -89,14 +96,8 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF: -1 tvg-id = "TV27" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIt0ZnveIgW-vllHgVQG-DpAIKjOO90vAUQ&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "tv28" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Diário
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb4t0LLTh5cN3OpVW_RopSNyyRhRUN2G-AExYwX6EZIKMkhv-85Iy_fWGi8bAN3R0Xw&dmTs=861247&dmV1st=39A9767417D5506D90D54E417569CC4E
-
-#EXTINF: -1 tvg-id = "TV29" tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e_400x400.jpg" group-title = "TV" pltv-subgroup = "Rede Brasil", Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "Rede BrasilTBO" tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTA1MjcxLmdwdThjMWYxMjczOGVlMGMwNjk2MGRiN2FmNzY2Mjg4ODVhX2ljb25fMTU0NTQyOTU3Ml8wMzY/icon.png?w=170&fakeurl=1" group-title = "TV" pltv-subgroup = "Rede Brasil", TV BRASIL OESTE HD
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF: -1 tvg-id = "Tv14" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title = "TV" pltv-subgroup = "NTRU", Rede Vida HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "tv4BAND" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
