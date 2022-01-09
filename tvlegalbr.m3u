@@ -36,12 +36,6 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "TV8idealtv" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", IDEAL TV HD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "tvCH10" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Camera
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF: -1 tvg-id = "tvCH10" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc38fd936776666be9f3cc8788da9607.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Senado
-https://www12.senado.leg.br/com-midia-tvprod/cod_midia_468
-
 #EXTINF: -1 tvg-id = "tv28" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Diário
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8TbyZAsCYJWSdRnkHd2Fg-HkKAsSapKdjKlC2hwC9J92evyGH6q8e60EBWVCbVrGMgIg&dmTs=861247&dmV1st=39A9767417D5506D90D54E417569CC4E
 
@@ -51,14 +45,14 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "Rede BrasilTBO" tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTA1MjcxLmdwdThjMWYxMjczOGVlMGMwNjk2MGRiN2FmNzY2Mjg4ODVhX2ljb25fMTU0NTQyOTU3Ml8wMzY/icon.png?w=170&fakeurl=1" group-title = "TV" pltv-subgroup = "Rede Brasil", TV BRASIL OESTE HD
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
+#EXTINF: -1 tvg-id="tvcamera.br" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Camera
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
 #EXTINF: -1 tvg-id = "tvCH11" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "TV12" tvg-logo="https://cdn.mitvstatic.com/channels/br_futura-hd_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Futura 
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "Tv13" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title = "TV" pltv-subgroup = "NTRU", Globo SP
-https://m3u9.ml/b/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=nNnUDUqhSWGMzO3y2Tzxiw&3U1G7qaTxrPbalZnEx=1641533932
 
 #EXTINF: -1 tvg-id = "Tv15" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be677f392b634453f48ef4e0819c7532.webp" group-title = "TV" pltv-subgroup = "NTRU", TV Aracati HD
 https://livefocamundo.com:8081/tvaracati/index.m3u8
@@ -70,7 +64,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "Tv19" tvg-logo="https://yt3.ggpht.com/lhcHWrfljkOYs1iRSJhCiY2nm16eoU5ahIiGkHA_J5ZV2WTD_OXrxsTZJsrYVtZDtWKtk1DZ=s88-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "NTRU", Play Channel HD
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master
+https://i.ytimg.com/vi/mO98ninuGJc/maxresdefault.jpg
 
 #EXTINF: -1 tvg-id = "TV7loading" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", loading 
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
@@ -126,14 +120,11 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF: -1 tvg-id = "TV33gazeta" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "tvgazeta", Gazeta HD
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 
-#EXTINF: -1 tvg-id = "TV34gazeta" tvg-logo="https://lh6.googleusercontent.com/proxy/1lptxoeFmB-AfCoCN-Dc3H9F07FwdJa2yef6tLJw7VB8JTROhUxne6nZe_Nryr3pKIY=w1200-h630-p-k-no-nu" group-title = "TV" pltv-subgroup = "tvgazeta", TV GRÃO PARA HD
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-
 #EXTINF: -1 tvg-id = "35NGT" tvg-logo="http://2.bp.blogspot.com/-L_temn2uDLo/UpzFZI2oY1I/AAAAAAAAAk0/dWMoHVZv6RI/s1600/Rede-NGT.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede NGT HD
 https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "NGT" tvg-logo="https://pbs.twimg.com/profile_images/1403206096454574081/_Np6uTBL_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RBI HD
-https://live-api.vimeocdn.com/sessions/abd83352-e4f4-455c-8516-d96c7923ac6f/playlist/hls.m3u8?cdn=akamai&json=1&~id=player&~exp=1641751200&~sig=clct5FNwb2vVg_KGVnFprORaGaeRg9MK8J6DpXApQ1o
+https://live-ak.vimeocdn.com/exp=1641764615~acl=%2Fabd83352-e4f4-455c-8516-d96c7923ac6f%2F%2A~hmac=e18dafb582b46876db47e61fdc19227b7fc0648f633017fe071eb63a93285fab/abd83352-e4f4-455c-8516-d96c7923ac6f/chunklist_b416000.m3u8?max_segments=10
 
 #EXTINF: -1 tvg-id = "tv36" tvg-logo="https://play-lh.googleusercontent.com/Q6yjrH1sViWgxH2KAXTvMwWPdPMgE7X8yveLfhXsWWGf9Q774lxbfcQaUZmCjpmRyA" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Escola
 https://edge-sp-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(YGZMV3kiOs8Ell07oQb28A)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGWVQBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuAfecBVa16Et9eMjlLC13Rq6Cwwi8mycU0Iwr-66QiAe98vgBCT-AiPs61W_9bjrtb8ATEJw-JsxpVNlotY)'t(wDM)b(pbCqvGJQQWqY9cAtI-9-O9bngy67xc2Xu8ug)))/live_540_index.m3u8
@@ -144,6 +135,9 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 #EXTINF: -1 tvg-id = "TV38" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRi9NuJeLkOQNq647miDRmag8GLu1i4ag67ZrPZ=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8
 
+#EXTINF: -1 tvg-id = "TV34gazeta" tvg-logo="https://lh6.googleusercontent.com/proxy/1lptxoeFmB-AfCoCN-Dc3H9F07FwdJa2yef6tLJw7VB8JTROhUxne6nZe_Nryr3pKIY=w1200-h630-p-k-no-nu" group-title = "TV" pltv-subgroup = "tvgazeta", TV GRÃO PARA HD
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
 #EXTINF:-1,Rádio Jornal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
@@ -152,11 +146,10 @@ https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m
 https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CpAFbcH0F7zUFUGoZHxMKJyslolvnIN5zYxDKt8lzI3tsU9N9hTPqmmuCNRsN3Euv7wyYQkP4GBNlsLLbF91vVgzdjF68H-kVrnRCWrWjpWoCAj8rehSYyD0iA7vYdYni_fRXVBJUbjvGdcssS36UGJzY-hMuUKzKMwXjrndb_XTKByT56DTKfLm18t1eob2Yc4dwj2MaEopL9fLxCADexCZx0oX_O1M2Drras_iusR6WYHbr7nIMCmXOIA57MjKqIpGL3E3-M_8SlqAqb8iWz89BX6yBUbQAbeFljzND3yoEMo0n43fUFpzsz2keBtIeryac-TIEhmlEwWyf1VyEPoqLMhKAPCcaV4MoN_cOY3Eh0sVQaC1NGjcMLatUf0v5vO9tm9Qjp2D8d_42tqfWp1ufiRczOtFu5JsBL3Z3C1_KjNF0geUFWheI3TAaO0xLX8InneJs65IMZ4EmkHddDn8gxKlXdOgqk9rts51_65VjujW7vZQ6JMsflt3ufo2Hyc2JsfvJWReFyS3y3UVP7zui7zBqrersUtN-Bn44IgQq7wivf9xndjMd3jQK2y276Zn09IA4DEudAGTiN4E4U8Ik31siqvNGorixp7uyHP15ef3iS6Fri6DnwPqtvowyHgHC1_ykcfkjAhkGPYRvSYfMCJkWtegkmj5JBNIHLewCvg1FlCW4G2P6kAgsaitBu7PubJtf-X98DpT0UeEKINnHHY84_b4uMd5HGk2VhFupyIY7xJRXKY0eipOX8MbQNwW2AO5H-7mFhWJgpP8y0la6aYGrOyWhTow8ktnPEMpLLtt_T8eb315QMlB8ebL5oEDIIGVBG_vIl7LjWnIj6UzOi3Kx1jlNHejdDBUeDXxbfMaDJMZDXQVYigikTpdXiABKgl1cy1lYXN0LTEwjwE.m3u8
 
 #EXTINF: -1 tvg-id = "tvpe" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Brasil
-https://www.dailymotion.com/cdn/live/video/x82pp99.m3u8?sec=VaebMKMQriWHXjzZJRc4PN5sbK4P4ZMbmbBUAQXVpvUKKz_Hkr6H21xb04SqPA1RY8_LDlBPBkUZz_gcF14EGQ&dmTs=207297&dmV1st=0B4F03D6897CEA8D7C91B321FCE4A4B0
+https://www.dailymotion.com/cdn/live/video/x82pp99.m3u8?sec=VaebMKMQriWHXjzZJRc4PK7w6Wb7LNgLUda8M72PvO3bbuJJz6BSSn_axm9Ko-szm8ztR-GDfclqVJAd_KX8Uw&dmTs=861247&dmV1st=39A9767417D5506D90D54E417569CC4E
 
-
-#EXTINF: -1 tvg-id="tvcamera" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 7 RADIO JORNAL
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w172434799.m3u8
+#EXTINF: -1 tvg-id = "Tv13" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title = "TV" pltv-subgroup = "NTRU", Globo SP
+https://m3u9.ml/b/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=nNnUDUqhSWGMzO3y2Tzxiw&3U1G7qaTxrPbalZnEx=1641533932
 
 #EXTINF: -1 tvg-id = "band" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWJi0iCC9l5wA5FecEtpAEhfgA6XbzRdIhA&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 20 Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -165,24 +158,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF: -1 tvg-id = "NGT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 23 TV Tropical (Rede Record)
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "Rede BrasilTBO" tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTA1MjcxLmdwdThjMWYxMjczOGVlMGMwNjk2MGRiN2FmNzY2Mjg4ODVhX2ljb25fMTU0NTQyOTU3Ml8wMzY/icon.png?w=170&fakeurl=1" group-title = "TV" pltv-subgroup = "Rede Brasil", TV BRASIL OESTE HD
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "rbtv" tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/04/rbtv00000-678x381.jpeg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 50 RBTV
-https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "rbtv" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 51 RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-
-#EXTINF: -1 tvg-id = "rbtv" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 52 RETRO CARTOON 2
-https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "rbtv" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 53 CANAL YEEAAH
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "MUNDOTv" tvg-logo="https://www.mundotv.tv.br/assets/images/5-logo.png" group-title = "TV" pltv-subgroup = "NTU", CATV 58 MUNDOTV
-https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w663338047.m3u8
-
+#EXTINF: -1 tvg-id = "MUNDOTv" tvg-logo="https://www.mundotv.tv.br/assets/images/5-logo.png" group-title = "TV" pltv-subgroup = "NTU", MUNDOTV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 
 
 ###################### XXXX CANAIS RADIO XXXX #############################
