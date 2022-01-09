@@ -7,7 +7,7 @@
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
   
 #EXTINF: -1 tvg-id = "Tv2redemassa" tvg-logo="https://www.londrinaconvention.com.br/up/News/68/6813331-rede-massalogo-copy.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede Massa(SBT PARANA)
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tooncasthd/video.m3u8?md5=wKpwhOiyNm9PyC6-f1PsTA&expires=1641641354
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "Tv3BAND" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Band Belém 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
