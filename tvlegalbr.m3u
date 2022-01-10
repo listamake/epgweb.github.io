@@ -24,7 +24,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 #EXTINF: -1 tvg-id = "Rede TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyAhxDoqcLhpQcO8HoCZFHnjAzaPPF2bJnX06fEVQ=s900-c-k-c0xffffffff-no-rj-mo" group-title = "TV" pltv-subgroup = "redetv", TV Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
-#EXTINF: -1 tvg-id="jovempan.br" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title = "TV" pltv-subgroup = "NTRU", Jovem Pan News
+#EXTINF: -1 tvg-id="jovempannews" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title = "TV" pltv-subgroup = "NTRU", Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8
 
 #EXTINF: -1 tvg-id = "Tv17" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title = "TV" pltv-subgroup = "NTRU", Record News
@@ -99,8 +99,9 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF: -1 tvg-id = "TV27" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIt0ZnveIgW-vllHgVQG-DpAIKjOO90vAUQ&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "Tv14" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title = "TV" pltv-subgroup = "NTRU", Rede Vida HD
+#EXTINF: -1 tvg-id = "redevida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title = "TV" pltv-subgroup = "NTRU", Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "tv4BAND" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
@@ -135,18 +136,18 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 #EXTINF: -1 tvg-id = "TV38" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRi9NuJeLkOQNq647miDRmag8GLu1i4ag67ZrPZ=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF: -1 tvg-id = "TV34gazeta" tvg-logo="https://lh6.googleusercontent.com/proxy/1lptxoeFmB-AfCoCN-Dc3H9F07FwdJa2yef6tLJw7VB8JTROhUxne6nZe_Nryr3pKIY=w1200-h630-p-k-no-nu" group-title = "TV" pltv-subgroup = "tvgazeta", TV GRÃO PARA HD
+#EXTINF: -1 tvg-id="TV34gazeta" tvg-logo="https://lh6.googleusercontent.com/proxy/1lptxoeFmB-AfCoCN-Dc3H9F07FwdJa2yef6tLJw7VB8JTROhUxne6nZe_Nryr3pKIY=w1200-h630-p-k-no-nu" group-title = "TV" pltv-subgroup = "tvgazeta", TV GRÃO PARA HD
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-
-#EXTINF:-1,Rádio Jornal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "TV41" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/29e36ad62ed2f52f7631ec5c5faf91a7.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Gazeta Centro Oste HD
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CpAFbcH0F7zUFUGoZHxMKJyslolvnIN5zYxDKt8lzI3tsU9N9hTPqmmuCNRsN3Euv7wyYQkP4GBNlsLLbF91vVgzdjF68H-kVrnRCWrWjpWoCAj8rehSYyD0iA7vYdYni_fRXVBJUbjvGdcssS36UGJzY-hMuUKzKMwXjrndb_XTKByT56DTKfLm18t1eob2Yc4dwj2MaEopL9fLxCADexCZx0oX_O1M2Drras_iusR6WYHbr7nIMCmXOIA57MjKqIpGL3E3-M_8SlqAqb8iWz89BX6yBUbQAbeFljzND3yoEMo0n43fUFpzsz2keBtIeryac-TIEhmlEwWyf1VyEPoqLMhKAPCcaV4MoN_cOY3Eh0sVQaC1NGjcMLatUf0v5vO9tm9Qjp2D8d_42tqfWp1ufiRczOtFu5JsBL3Z3C1_KjNF0geUFWheI3TAaO0xLX8InneJs65IMZ4EmkHddDn8gxKlXdOgqk9rts51_65VjujW7vZQ6JMsflt3ufo2Hyc2JsfvJWReFyS3y3UVP7zui7zBqrersUtN-Bn44IgQq7wivf9xndjMd3jQK2y276Zn09IA4DEudAGTiN4E4U8Ik31siqvNGorixp7uyHP15ef3iS6Fri6DnwPqtvowyHgHC1_ykcfkjAhkGPYRvSYfMCJkWtegkmj5JBNIHLewCvg1FlCW4G2P6kAgsaitBu7PubJtf-X98DpT0UeEKINnHHY84_b4uMd5HGk2VhFupyIY7xJRXKY0eipOX8MbQNwW2AO5H-7mFhWJgpP8y0la6aYGrOyWhTow8ktnPEMpLLtt_T8eb315QMlB8ebL5oEDIIGVBG_vIl7LjWnIj6UzOi3Kx1jlNHejdDBUeDXxbfMaDJMZDXQVYigikTpdXiABKgl1cy1lYXN0LTEwjwE.m3u8
 
 #EXTINF: -1 tvg-id = "tvpe" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Brasil
 https://www.dailymotion.com/cdn/live/video/x82pp99.m3u8?sec=VaebMKMQriWHXjzZJRc4PK7w6Wb7LNgLUda8M72PvO3bbuJJz6BSSn_axm9Ko-szm8ztR-GDfclqVJAd_KX8Uw&dmTs=861247&dmV1st=39A9767417D5506D90D54E417569CC4E
+
+#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg",Rádio Jornal Recife 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "TV41" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr1HXA8Evxg_c6SjZt-MIPoEzn2pF-C41lA&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede Clube FM 
+https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "Tv13" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title = "TV" pltv-subgroup = "NTRU", Globo SP
 https://m3u9.ml/b/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=nNnUDUqhSWGMzO3y2Tzxiw&3U1G7qaTxrPbalZnEx=1641533932
