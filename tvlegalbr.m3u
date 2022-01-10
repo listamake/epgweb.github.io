@@ -57,7 +57,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF: -1 tvg-id = "Tv15" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be677f392b634453f48ef4e0819c7532.webp" group-title = "TV" pltv-subgroup = "NTRU", TV Aracati HD
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 
-#EXTINF: -1 tvg-id = "rbtv" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RETRO CARTOON SD
+#EXTINF: -1 tvg-id="tooncast.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RETRO CARTOON SD
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
 #EXTINF: -1 tvg-id = "RedeBrasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title = "TV" pltv-subgroup = "RBI", TV CINE HD
@@ -99,12 +99,11 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF: -1 tvg-id = "TV27" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIt0ZnveIgW-vllHgVQG-DpAIKjOO90vAUQ&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "redevida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title = "TV" pltv-subgroup = "NTRU", Rede Vida HD
+#EXTINF: -1 tvg-id = "redevida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title = "TV" pltv-subgroup = "NTRU", Rede Vida
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "tv4BAND" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Terraviva HD
+#EXTINF: -1 tvg-id="terraviva" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "TV30" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Canal Rural
@@ -157,11 +156,11 @@ https://m3u9.ml/b/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=nNnUDUqhSWGMzO3y2Tzxiw&3U1G7
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-#EXTINF: -1 tvg-id = "NGT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CATV 23 TV Tropical (Rede Record)
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF: -1 tvg-id = "NGT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/08bb2dcf3ec4ceeb988d9a6b19270047.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Vila Real
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8?wowzatokenstarttime=1641775126&wowzatokenendtime=1641782326&wowzatokencustomparameter=YNAoVHK2q7lG&wowzatokenhash=nq8SU9XsXgoZ0q3LvoJvw8X4qilC0-1AOMlqhp7nEi8=
 
-#EXTINF: -1 tvg-id = "MUNDOTv" tvg-logo="https://www.mundotv.tv.br/assets/images/5-logo.png" group-title = "TV" pltv-subgroup = "NTU", MUNDOTV
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF: -1 tvg-id = "MUNDOTv" tvg-logo="https://static.wixstatic.com/media/3165ba_51363b0446614b4383af5b7d4b1a71d1~mv2.png/v1/fill/w_260,h_258,al_c,q_85,usm_0.66_1.00_0.01/1-top-logo-editable-texts-436x436.webp" group-title = "TV" pltv-subgroup = "NTU", MUNDOTV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w769880177.m3u8
 
 
 ###################### XXXX CANAIS RADIO XXXX #############################
