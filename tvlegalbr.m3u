@@ -82,7 +82,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOG1ODolW_dHehN3XvnrGCh7hIwDbvRWE-ag&usqp=CAU" group-title="Canais de Esportes",BAND SPORTS HD
 http://solutionplay.xyz:8080/techruthes/10987658/27375
 
-#EXTINF: -1 tvg-id="espn.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgwezRVvJUahz7PoTvY92dfkzHCq1iFd_EA&usqp=CAU" group-title="Canais de Esportes" pltv-subgroup = "NTRU", ESPN HD
+#EXTINF: -1 tvg-id="espnbrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgwezRVvJUahz7PoTvY92dfkzHCq1iFd_EA&usqp=CAU" group-title="Canais de Esportes" pltv-subgroup = "NTRU", ESPN HD
 https://player.brasiltv.club/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=9MhCFRsUTt7D&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://player.brasiltv.club/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642290312&token=1D24D2A56DBF707E504B4C8422555EED&media_code=m3_ScQBL06LuJftF_264
 
 #EXTINF: -1 tvg-id="culturapara.br" tvg-logo="https://lh3.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=s200" group-title = "TV" pltv-subgroup = "NTRU", Rede Cultura 
