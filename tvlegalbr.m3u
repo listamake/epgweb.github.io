@@ -4,7 +4,7 @@
 ###################### XXXX CANAIS XXXX #############################
 
 #EXTINF: -1 tvg-id = "Tv13" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title = "TV" pltv-subgroup = "NTRU", Globo SP
-https://play.brasiltvweb.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=MRytGol3AFD6&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642952447&token=BE5150A0F6C3C36DE3E91CAF87B8AFFF&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
+https://play.brasiltvweb.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=sbl4Oyh7LGW&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642985445&token=28AF3454DB17A9243CF3D718735E0CFF&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
 
 #EXTINF: -1 tvg-id = "tv1tvjornal" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
@@ -71,7 +71,7 @@ https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "Tv19" tvg-logo="https://yt3.ggpht.com/lhcHWrfljkOYs1iRSJhCiY2nm16eoU5ahIiGkHA_J5ZV2WTD_OXrxsTZJsrYVtZDtWKtk1DZ=s88-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "NTRU", Play Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://i.ytimg.com/vi/mO98ninuGJc/maxresdefault.jpg
+https://play.brasiltvweb.com/v3/youshi/m1_2lt7haK8B0Gm3sDHTzW9eSdF_480p.m3u8?session_id=tWp01YEQm17W&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642985607&token=76A1C3554FF8C033F176ECC0ADF93E29&media_code=m1_2lt7haK8B0Gm3sDHTzW9eSdF_480p
 
 #EXTINF: -1 tvg-id = "loading" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title = "TV" pltv-subgroup ="Sis.Jornal do Comer.", loading 
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
@@ -89,7 +89,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 http://solutionplay.xyz:8080/techruthes/10987658/27375
 
 #EXTINF: -1 tvg-id="espnbrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgwezRVvJUahz7PoTvY92dfkzHCq1iFd_EA&usqp=CAU" group-title="Canais de Esportes" pltv-subgroup = "NTRU", ESPN HD
-https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=oJc9iSsgdayF&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642968391&token=2A6DE70D304370624819F357219EE649&media_code=m3_ScQBL06LuJftF_264
+https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=sbl4Oyh7LGW&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642985445&token=28AF3454DB17A9243CF3D718735E0CFF&media_code=m3_ScQBL06LuJftF_264
 
 #EXTINF: -1 tvg-id="culturapara.br" tvg-logo="https://lh3.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=s200" group-title = "TV" pltv-subgroup = "NTRU", Rede Cultura 
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
@@ -146,7 +146,7 @@ https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/playlist.m3u8
 https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8
 
 #EXTINF: -1 tvg-id="redemeionorte.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8mE_clVEnqOAH0iESa_w3xBJ4DRPpzI8IlM2s=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede Meio Norte HD 
-https://player-api.new.livestream.com/accounts/3332377/events/10079047/broadcasts/228857091.secure.m3u8?dw=80&hdnea=st=1642857631~exp=1642859431~acl=/i/3332377_10079047_lsiw6e35e8g9x2ya7dw_1@408182/*~hmac=cddf56ca7b113f8a6944c24810e4bfc63bf52ea96766e5a42f6160962cf890c1&token=61ec05cb_ef1f90bb8d953500707e5765db64b3773cb95627
+https://player-api.new.livestream.com/accounts/3332377/events/10079047/broadcasts/228870185.secure.m3u8?dw=80&hdnea=st=1642970958~exp=1642972758~acl=/i/3332377_10079047_lsiy1f25fefripz0a81_1@687987/*~hmac=6d204ea54e4e7a6bde35ef41998a4ca2558cf7a8cb054e85d31c7cc46ea836e7&token=61edc07a_df786778bcc0e0351996e8226e26d6918fa2f0d6
 
 #EXTINF: -1 tvg-id = "NGT" tvg-logo="https://pbs.twimg.com/profile_images/1403206096454574081/_Np6uTBL_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RBI HD
 https://live-ak.vimeocdn.com/exp=1641764615~acl=%2Fabd83352-e4f4-455c-8516-d96c7923ac6f%2F%2A~hmac=e18dafb582b46876db47e61fdc19227b7fc0648f633017fe071eb63a93285fab/abd83352-e4f4-455c-8516-d96c7923ac6f/chunklist_b416000.m3u8?max_segments=10
@@ -166,29 +166,30 @@ https://tv.unisc.br/hls/test.m3u8
 #EXTINF: -1 tvg-id="TV34gazeta" tvg-logo="https://lh6.googleusercontent.com/proxy/1lptxoeFmB-AfCoCN-Dc3H9F07FwdJa2yef6tLJw7VB8JTROhUxne6nZe_Nryr3pKIY=w1200-h630-p-k-no-nu" group-title = "TV" pltv-subgroup = "tvgazeta", TV GRÃO PARA HD
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg",Rádio Jornal Recife 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "TV41" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr1HXA8Evxg_c6SjZt-MIPoEzn2pF-C41lA&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede Clube FM 
-https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
-
-
-#EXTINF: -1 tvg-id="redemeionorte.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8mE_clVEnqOAH0iESa_w3xBJ4DRPpzI8IlM2s=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede Meio Norte HD 
-https://player-api.new.livestream.com/accounts/3332377/events/10079047/broadcasts/228820542.secure.m3u8?dw=80&hdnea=st=1642722339~exp=1642724139~acl=/i/3332377_10079047_lsik68rero4wdzrngdk_1@688779/*~hmac=0b2044ffad54367a7389c046c855da719d0312b316e7a5b51417aee0b70eaebe&token=61e9f54f_378ed7b10a46977e7158d2bb1366d33c6aa9e3c5
-
 #EXTINF: -1 tvg-id = "MUNDOTv" tvg-logo="https://static.wixstatic.com/media/3165ba_51363b0446614b4383af5b7d4b1a71d1~mv2.png/v1/fill/w_260,h_258,al_c,q_85,usm_0.66_1.00_0.01/1-top-logo-editable-texts-436x436.webp" group-title = "TV" pltv-subgroup = "NTU", MUNDOTV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w769880177.m3u8
 
 
 ###################### XXXX CANAIS RADIO XXXX #############################
 
-#EXTINF: -1 tvg-id = "Rádio Universitaria" tvg-logo="https://www.guiademidia.com.br/imagens/radios/pe/radio-universitaria-fm-recife.png" group-title = "radio" radio="true",Rádio Universitaria FM
+
+#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "TV41" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr1HXA8Evxg_c6SjZt-MIPoEzn2pF-C41lA&usqp=CAU" group-title="Canais de Áudio" radio="true", Rede Clube FM 
+https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
+
+
+#EXTINF: -1 tvg-id="redemeionorte.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio" radio="true", CBN São Paulo HD
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF: -1 tvg-id = "Rádio Universitaria" tvg-logo="https://www.guiademidia.com.br/imagens/radios/pe/radio-universitaria-fm-recife.png" group-title="Canais de Áudio" radio="true",Rádio Universitaria FM
 http://150.161.93.221/hls/stream/index.m3u8
 
-#EXTINF: -1 tvg-id = "Rádio Clube AM PE" tvg-logo="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG" group-title = "radio" radio="true",Rádio Clube AM 
+#EXTINF: -1 tvg-id = "Rádio Clube AM PE" tvg-logo="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG" group-title="Canais de Áudio" radio="true",Rádio Clube AM 
 https://radio.saopaulo01.com.br/8018/stream?1625627194922
 
-#EXTINF: -1 tvg-id = "Rádio Clube AM PE" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title = "radio" radio="true",Rádio Jornal AM/FM 
-https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-recife-audio-web.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id = "Rádio Clube AM PE" tvg-logo="https://img.radios.com.br/radio/lg/radio14371_1628262087.jpg" group-title="Canais de Áudio" radio="true",Rádio Rural FM
+http://cast2.youngtech.radio.br:8120/radio
 
