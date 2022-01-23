@@ -4,7 +4,7 @@
 ###################### XXXX CANAIS XXXX #############################
 
 #EXTINF: -1 tvg-id = "Tv13" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title = "TV" pltv-subgroup = "NTRU", Globo SP
-https://player.brasiltv.club/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=3O9CjSCYLs0J&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://player.brasiltv.club/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642290485&token=AF64ED4873A29974B13D687ABB984C2F&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
+https://play.brasiltvweb.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=MRytGol3AFD6&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642952447&token=BE5150A0F6C3C36DE3E91CAF87B8AFFF&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
 
 #EXTINF: -1 tvg-id = "tv1tvjornal" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
@@ -16,7 +16,7 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF: -1 tvg-id = "Tv3BAND" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", Band Belém 
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+https://streaming.gruporba.com.br/rba.m3u8
 
 #EXTINF: -1 tvg-id = "Redetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV!
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=7643402979693365000
@@ -83,7 +83,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 http://solutionplay.xyz:8080/techruthes/10987658/27375
 
 #EXTINF: -1 tvg-id="espnbrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgwezRVvJUahz7PoTvY92dfkzHCq1iFd_EA&usqp=CAU" group-title="Canais de Esportes" pltv-subgroup = "NTRU", ESPN HD
-https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=AhBxN2FVvLis&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642872165&token=603EB9B402FFEE3C75972F8E00FB0B48&media_code=m3_ScQBL06LuJftF_264
+https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=amk3BgmqnYxl&app_ver=10101&auth_id=59574780_com.global.brasiltvweb&client_ip=45.164.9.179&user_id=59574780&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d465fa63&expired=1642952549&token=13CCB18A7C29DC3F0CA8DCBDBE457BAD&media_code=m3_ScQBL06LuJftF_264
 
 #EXTINF: -1 tvg-id="culturapara.br" tvg-logo="https://lh3.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=s200" group-title = "TV" pltv-subgroup = "NTRU", Rede Cultura 
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
