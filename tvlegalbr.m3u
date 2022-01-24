@@ -67,6 +67,7 @@ https://livefocamundo.com:8081/tvaracati/index.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
 #EXTINF: -1 tvg-id="tooncast.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Tooncast SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://m3u9.ml/a2/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=NPq5rVet-g6U4uveGDQggg&3U1G7qaTxrPbalZnEx=1643011168
 
 #EXTINF: -1 tvg-id = "RedeBrasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title = "TV" pltv-subgroup = "RBI", TV CINE HD
