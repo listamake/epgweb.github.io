@@ -130,6 +130,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "TV30" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1334cc9d017c352142a824679947cb40.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Agro Mais HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "TV30" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Canal Rural
@@ -174,7 +175,8 @@ https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/playlist.m3u8
 #EXTINF: -1 tvg-id="TV34gazeta" tvg-logo="https://lh6.googleusercontent.com/proxy/1lptxoeFmB-AfCoCN-Dc3H9F07FwdJa2yef6tLJw7VB8JTROhUxne6nZe_Nryr3pKIY=w1200-h630-p-k-no-nu" group-title = "TV" pltv-subgroup = "tvgazeta", TV GRÃO PARA HD
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "MUNDOTv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title = "TV" pltv-subgroup = "NTU", Clone TV
+#EXTINF: -1 tvg-id="MUNDOTv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title = "TV" pltv-subgroup = "NTU", Clone TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/playlist.m3u8
 
 
