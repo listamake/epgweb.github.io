@@ -38,7 +38,7 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF: -1 tvg-id="Gazeta" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "tvgazeta", Gazeta HD
+#EXTINF: -1 tvg-id="TV Gazeta" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "tvgazeta", Gazeta HD
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 
 #EXTINF: -1 tvg-id="redefamilia.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6a9wVaOGB6q9EkRQ2jXRS8obA7MifL81xLrKqq91v32ergE5YRmj48O4HYgrmWO3Av-o&usqp=CAU" group-title = "TV" pltv-subgroup = "NTRU", Rede Familia
@@ -125,7 +125,7 @@ https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 #EXTINF: -1 tvg-id="terraviva.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title="Agronegócio" pltv-subgroup = "Canais NewCom", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF: -1 tvg-id="agro-mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1334cc9d017c352142a824679947cb40.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Agro Mais HD
+#EXTINF: -1 tvg-id="Agro+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1334cc9d017c352142a824679947cb40.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Agro Mais HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
@@ -138,7 +138,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "TV31" tvg-logo="https://i0.wp.com/i.imgur.com/xGYSOgE.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="rede21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede 21 HD
+#EXTINF: -1 tvg-id="Rede 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede 21 HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
 #EXTINF: -1 tvg-id="idealtv" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", IDEAL TV HD
