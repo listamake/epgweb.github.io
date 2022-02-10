@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml" #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title = "TV" pltv-subgroup = "NTRU", Globo SP
+#EXTINF: -1 tvg-id="globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title="TV ABERTA" pltv-subgroup = "NTRU", Globo SP
 http://50.7.34.155:2200/BR/Globo_HD_SP-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF: -1 tvg-id="sbt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", SBT HD
@@ -12,7 +12,7 @@ https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 #EXTINF: -1 tvg-id="TV Jornal Caruaru" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
   
-#EXTINF: -1 tvg-id="record" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RecordTV
+#EXTINF: -1 tvg-id="record" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF: -1 tvg-id="record-rio" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Record TV Rio HD
@@ -25,16 +25,16 @@ https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm41bv4lZ2m3GCla42dV
 #EXTINF: -1 tvg-id = "Tv3BAND" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", Band Belém 
 https://streaming.gruporba.com.br/rba.m3u8
 
-#EXTINF: -1 tvg-id = "Redetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV!
+#EXTINF: -1 tvg-id = "Redetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV!
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=7643402979693365000
 
 #EXTINF: -1 tvg-id="Redetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV! Tocantins 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF: -1 tvg-id="jovempannews" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title = "TV" pltv-subgroup = "NTRU", Jovem Pan News
+#EXTINF: -1 tvg-id="jovempannews" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Notícias" pltv-subgroup = "NTRU", Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8
 
-#EXTINF: -1 tvg-id = "recordnews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title = "TV" pltv-subgroup = "NTRU", Record News
+#EXTINF: -1 tvg-id = "recordnews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias" pltv-subgroup = "NTRU", Record News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
