@@ -1,4 +1,4 @@
-#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml" x-tvg-url="http://195.154.221.171/epg/guideiran.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
 ###################### XXXX CANAIS XXXX #############################
 
