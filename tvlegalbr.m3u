@@ -129,13 +129,13 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
-#EXTINF: -1 tvg-id="agrobrasiltv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Canal Rural
+#EXTINF: -1 tvg-id="Canal Rural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "TV30" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS83g-7PSQ5blTJoNLpjoyC27a7TPzHLtjJrDsl=s900-c-k-c0x00ffffff-no-rj" group-title="Agronegócio", Canal do Criador
+#EXTINF: -1 tvg-id = "Canal do Criador" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS83g-7PSQ5blTJoNLpjoyC27a7TPzHLtjJrDsl=s900-c-k-c0x00ffffff-no-rj" group-title="Agronegócio", Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "TV31" tvg-logo="https://i0.wp.com/i.imgur.com/xGYSOgE.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", AgroBrasil TV
+#EXTINF: -1 tvg-id = "Agro Brasil TV" tvg-logo="https://i0.wp.com/i.imgur.com/xGYSOgE.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Rede 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede 21 HD
@@ -144,7 +144,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="idealtv" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", IDEAL TV HD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF: -1 tvg-id="cnt" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CNT HD
+#EXTINF: -1 tvg-id="Rede CNT Rio de Janeiro" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CNT HD
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 
 #EXTINF: -1 tvg-id="redemeionorte.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxMkERnpmNOn07MVanJLvtOeYRrpgh1bpaQ&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede Meio Norte HD
@@ -206,10 +206,10 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF: -1 tvg-id="TV19" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYwEo99hniHqmAOlgAQrjL5AAJYwL6G5Gjw&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Rede 41 SD 
 https://stmv1.srvstm.com/bruno4723/bruno4723/playlist.m3u8
 
-#EXTINF: -1 tvg-id="tvcamera.br" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Camera
+#EXTINF: -1 tvg-id="TV Câmera" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Câmera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF: -1 tvg-id="tveducacao.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Master
+#EXTINF: -1 tvg-id="Univesp TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Master
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 
 #EXTINF: -1 tvg-id="combrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVcgcHXRWZL91PQvzjv9cTlfkt-3oSuJ4jQ&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Comunitária HD
