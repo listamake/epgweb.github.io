@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+
 
 ###################### XXXX CANAIS XXXX #############################
 
