@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="http://195.154.221.171/epg/guideiran.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
 
 ###################### XXXX CANAIS XXXX #############################
@@ -9,7 +9,7 @@ http://50.7.34.155:2200/BR/Globo_HD_SP-br/index.m3u8?token=fwBlCndpe3MTCXplN3Vje
 #EXTINF: -1 tvg-id="sbt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", SBT HD
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
   
-#EXTINF: -1 tvg-id="tvjornal" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
+#EXTINF: -1 tvg-id="TV Jornal Caruaru" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
   
 #EXTINF: -1 tvg-id="record" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", RecordTV
@@ -100,7 +100,7 @@ http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/chunklist_w654374104.m3u8
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas HD
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF: -1 tvg-id = "futura" tvg-logo="https://cdn.mitvstatic.com/channels/br_futura-hd_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Futura 
+#EXTINF: -1 tvg-id="futura" tvg-logo="https://cdn.mitvstatic.com/channels/br_futura-hd_m.png" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Futura 
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF: -1 tvg-id="tvescola.br" tvg-logo="https://play-lh.googleusercontent.com/Q6yjrH1sViWgxH2KAXTvMwWPdPMgE7X8yveLfhXsWWGf9Q774lxbfcQaUZmCjpmRyA" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Escola
@@ -162,7 +162,7 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u
 #EXTINF: -1 tvg-id="tcm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTYF_KrysV3Iwsc3H5beiNFzso9AJqinZaUA&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Cine Life Classic HD
 https://alanza.iptv2022.com/CLC/index.m3u8
 
-#EXTINF: -1 tvg-id="telecineaction" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKZbz8GpczJGBYENVQ6-Dh5ZWClgx2PrQVA&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV AGUA BOA SD 
+#EXTINF: -1 tvg-id="Tele Cine Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKZbz8GpczJGBYENVQ6-Dh5ZWClgx2PrQVA&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV AGUA BOA SD 
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
 #EXTINF: -1 tvg-id="on.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3337d2f7661df3b60eae7c7b18b706d8.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", ONTV HD
