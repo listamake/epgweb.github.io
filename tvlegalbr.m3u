@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
-
+EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml" x-tvg-url="http://195.154.221.171/epg/guideiran.xml"
 
 ###################### XXXX CANAIS XXXX #############################
 
@@ -123,7 +121,7 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF: -1 tvg-id="TV34gazeta" tvg-logo="https://lh6.googleusercontent.com/proxy/1lptxoeFmB-AfCoCN-Dc3H9F07FwdJa2yef6tLJw7VB8JTROhUxne6nZe_Nryr3pKIY=w1200-h630-p-k-no-nu" group-title = "TV" pltv-subgroup = "tvgazeta", TV GRÃO PARA HD
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "milagrotv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c6a2c0305c3bd211de04763c27a9b6b9.webp" group-title = "TV" pltv-subgroup = "NTRU", TV Milagro HD
+#EXTINF: -1 tvg-id="milagrotv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c6a2c0305c3bd211de04763c27a9b6b9.webp" group-title = "TV" pltv-subgroup = "NTRU", TV Milagro HD
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 
 #EXTINF: -1 tvg-id="terraviva.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title="Agronegócio" pltv-subgroup = "Canais NewCom", Terraviva HD
@@ -147,6 +145,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
 #EXTINF: -1 tvg-id="idealtv" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", IDEAL TV HD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="Rede CNT Rio de Janeiro" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", CNT HD
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
