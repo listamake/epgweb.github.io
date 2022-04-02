@@ -4,7 +4,6 @@
 ###################### XXXX CANAIS XXXX #############################
 
 #EXTINF: -1 tvg-id="Rede Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title="TV ABERTA" pltv-subgroup = "NTRU", Globo SP
-#EXTVLCOPT:audio-track="https://radio.saopaulo01.com.br/8018/stream?1625627194922
 http://50.7.34.155:2200/BR/Globo_HD_SP-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF: -1 tvg-id="SBT Nacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", SBT HD
@@ -136,6 +135,17 @@ https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 
 #EXTINF: -1 tvg-id="terraviva.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title="Agronegócio" pltv-subgroup = "Canais NewCom", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canaldoboi.png" group-title="Variedades",Canal do Boi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/096507120760362020454067.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="Variedades", TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Variedades",Agro Canal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
 
 #EXTINF: -1 tvg-id="Agro+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1334cc9d017c352142a824679947cb40.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Agro Mais HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
