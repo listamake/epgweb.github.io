@@ -94,7 +94,7 @@ https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVparanaturismo.br" group-title="TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" tvg-name="TV Paraná Turismo",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF: -1 tvg-id="culturapara.br" tvg-logo="https://lh3.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=s200" group-title = "TV" pltv-subgroup = "NTRU", Rede Cultura SD
+#EXTINF: -1 tvg-id="culturapara.br" tvg-logo="https://lh3.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=s200" group-title = "TV" pltv-subgroup = "NTRU", Rede Cultura HD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVE Bahia"  group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e5NwTWwNgSuxhCV8bg5VLP5OWbfHeQeypQ&usqp=CAU",TVE Bahia HD
