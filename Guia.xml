@@ -3,7 +3,7 @@
 <channel id="anitv.br">
  <display-name lang="pt">anitv</display-name>
 </channel>
-<programme start="20220520151800 -0300" stop="20220520181800 -0300" channel="Ani TV HD">
- <title lang="pt">errtgg</title>
- <desc lang="en"></desc>
+<programme start="20220520150000 -0300" stop="2022092012359 -0300" channel="Ani TV HD">
+ <title lang="pt">Programação AniTv</title>
+ <desc lang="pt"></desc>
 </programme>
