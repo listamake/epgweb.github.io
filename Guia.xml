@@ -17,8 +17,8 @@
     <display-name lang="pt">Ani TV HD</display-name>
     <url>https://raw.githubusercontent.com/Emanueldelima/Emanueldelima/main/epg_anitv.html</url>
   </canal>
-  <channel id="CABO BRANCO FM - JOÃO PESSOA">
-    <display-name lang="pt">CABO BRANCO FM - JOÃO PESSOA</display-name>
+  <channel id="Rádio Clube 720AM">
+    <display-name lang="pt">Rádio Clube 720AM</display-name>
     <icon src="http://www.lineup.tv.br/canais/tvpontal.gif|http://www.lineup.tv.br/canais/band.gif" />
     <url>http://www.lineup.net.br</url>
   </canal>
