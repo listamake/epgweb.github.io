@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
-<channel id="anitv">
- <display-name lang="en">anitv</display-name>
+<channel id="anitv.br">
+ <display-name lang="pt">anitv</display-name>
 </channel>
-<programme start="20220520151800 -0300" stop="20220520181800 -0300" channel="anitv">
- <title lang="en">errtgg</title>
+<programme start="20220520151800 -0300" stop="20220520181800 -0300" channel="Ani TV HD">
+ <title lang="pt">errtgg</title>
  <desc lang="en"></desc>
 </programme>
