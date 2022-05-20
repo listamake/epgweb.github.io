@@ -22,8 +22,9 @@
     <icon src="http://www.lineup.tv.br/canais/tvpontal.gif|http://www.lineup.tv.br/canais/band.gif" />
     <url>https://cdn.discordapp.com/attachments/977029405996109874/977029434668372028/epg_anitv.html</url>
   </canal>
-  <programme start="20200107000000 +0000" stop="20200107235900 +0000" channel="Example">
+  <programme start="20220507000000 -0300" stop="20220807235900 -0300" channel="Example">
     <title lang="en">programa fictício - Show de dia inteiro</title>
     <desc lang="en">Criado por WebGrab+Plus, seu guia de TV Grabber(n) favorito</desc>
   </programa>
 </tv>
+
