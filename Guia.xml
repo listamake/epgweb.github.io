@@ -20,7 +20,7 @@
   <channel id="Rádio Clube 720AM">
     <display-name lang="pt">Rádio Clube 720AM</display-name>
     <icon src="http://www.lineup.tv.br/canais/tvpontal.gif|http://www.lineup.tv.br/canais/band.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>https://cdn.discordapp.com/attachments/977029405996109874/977029434668372028/epg_anitv.html</url>
   </canal>
   <programme start="20200107000000 +0000" stop="20200107235900 +0000" channel="Example">
     <title lang="en">programa fictício - Show de dia inteiro</title>
