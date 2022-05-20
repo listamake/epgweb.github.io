@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channelList>
-    <channel>
-        <tvg-id name="Ani TV HD" icon="https://icon_url.png">anitv.br</tvg-id>
-        <provider code="PC001">https://raw.githubusercontent.com/Emanueldelima/Emanueldelima/main/epg_anitv.html</provider>
-    </channel>
-    ...
-</channelList>
+<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- versão V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <id do canal="Exemplo">
+    <display-name lang="en">Exemplo</display-name>
+    <url>http://www.dummy</url>
+  </canal>
+  <id do canal="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </canal>
+  <id do canal="SBT PI HD">
+    <display-name lang="pt">SBT PI HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/atvsur.gif" />
+    <url>http://www.lineup.net.br</url>
+  </canal>
+  <id do canal="Ani TV HD">
+    <display-name lang="pt">SBT PE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </canal>
+  <channel id="CABO BRANCO FM - JOÃO PESSOA">
+    <display-name lang="pt">CABO BRANCO FM - JOÃO PESSOA</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvpontal.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </canal>
+  <programme start="20200107000000 +0000" stop="20200107235900 +0000" channel="Example">
+    <title lang="en">programa fictício - Show de dia inteiro</title>
+    <desc lang="en">Criado por WebGrab+Plus, seu guia de TV Grabber(n) favorito</desc>
+  </programa>
+</tv>
