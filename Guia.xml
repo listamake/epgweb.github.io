@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channelList>
     <channel>
-        <tvg-id name="REDE ESTATÃO HD" icon="https://icon_url.png">channel_id</tvg-id>
-        <provider code="PC001">PROVIDER</provider>
+        <tvg-id name="Ani TV HD" icon="https://icon_url.png">anitv.br</tvg-id>
+        <provider code="PC001">https://raw.githubusercontent.com/Emanueldelima/Emanueldelima/main/epg_anitv.html</provider>
     </channel>
     ...
 </channelList>
