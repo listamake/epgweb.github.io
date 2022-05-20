@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- versão V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <id do canal="Exemplo">
-    <display-name lang="en">Exemplo</display-name>
-    <url>http://www.dummy</url>
-  </canal>
-  <id do canal="TV BS HD">
-    <display-name lang="pt">SBT</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </canal>
-  <id do canal="SBT PI HD">
-    <display-name lang="pt">SBT PI HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/atvsur.gif" />
-    <url>http://www.lineup.net.br</url>
-  </canal>
-  <id do canal="Ani TV HD">
-    <display-name lang="pt">Ani TV HD</display-name>
-    <url>https://raw.githubusercontent.com/Emanueldelima/Emanueldelima/main/epg_anitv.html</url>
-  </canal>
-  <channel id="Rádio Clube 720AM">
-    <display-name lang="pt">Rádio Clube 720AM</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvpontal.gif|http://www.lineup.tv.br/canais/band.gif" />
-    <url>https://cdn.discordapp.com/attachments/977029405996109874/977029434668372028/epg_anitv.html</url>
-  </canal>
-  <programme start="20220507000000 -0300" stop="20220807235900 -0300" channel="Example">
-    <title lang="en">programa fictício - Show de dia inteiro</title>
-    <desc lang="en">Criado por WebGrab+Plus, seu guia de TV Grabber(n) favorito</desc>
-  </programa>
-</tv>
-
+<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
+<channel id="anitv">
+ <display-name lang="en">anitv</display-name>
+</channel>
+<programme start="20220520151800 -0300" stop="20220520181800 -0300" channel="anitv">
+ <title lang="en">errtgg</title>
+ <desc lang="en"></desc>
+</programme>
