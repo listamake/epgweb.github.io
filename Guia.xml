@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
 <channel id="anitv.br">
- <display-name lang="pt">anitv</display-name>
+ <display-name lang="en">anitv.br</display-name>
 </channel>
-<programme start="20220520150000 -0300" stop="2022092012359 -0300" channel="Ani TV HD">
- <title lang="pt">Programação AniTv</title>
- <desc lang="pt"></desc>
+<programme start="20220520000000 -0300" stop="20220720003000 -0300" channel="anitv.br">
+ <title lang="en">Akame ga kill</title>
+ <desc lang="en"></desc>
 </programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br</display-name>
+</channel>
+<programme start="20220520003000 -0300" stop="20220720013000 -0300" channel="anitv.br">
+ <title lang="en">Banana Fich</title>
+ <desc lang="en"></desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br</display-name>
+</channel>
+<programme start="20220520013000 -0300" stop="20220720000000 -0300" channel="anitv.br">
+ <title lang="en">kiss×kss</title>
+ <desc lang="en"></desc>
+</programme>
+
