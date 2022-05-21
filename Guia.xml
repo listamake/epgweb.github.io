@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
+<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 <channel id="anitv.br">
- <display-name lang="en">anitv.br</display-name>
+<display-name lang="pt">anitv.br</display-name>
+<url>http://domain.com/files/chlogos/youtube.png</url>
 </channel>
-<programme start="20220520000000 -0300" stop="20220720003000 -0300" channel="anitv.br">
- <title lang="pt">Akame ga kill</title>
- <desc lang="pt"></desc>
+<programme start="20220516000000 -0300" stop="20220716060000 -3400" channel="anitv.br">
+<title lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</title>
+<desc lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="pt">anitv.br</display-name>
-</channel>
-<programme start="20220520003000 -0300" stop="20220720013000 -0300" channel="anitv.br">
- <title lang="pt">Banana Fich</title>
- <desc lang="pt"></desc>
-</programme>
-<channel id="anitv.br">
- <display-name lang="pt">anitv.br</display-name>
-</channel>
-<programme start="20220520013000 -0300" stop="20220720000000 -0300" channel="anitv.br">
- <title lang="pt">kiss×kss</title>
- <desc lang="pt"></desc>
+<programme start="20220516060000 -0300" stop="20220716120000 -0300" channel="anitv.br">
+<title lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</title>
+<desc lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</desc>
 </programme>
 </tv>
