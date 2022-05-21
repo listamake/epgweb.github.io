@@ -4,11 +4,11 @@
 <display-name lang="pt">anitv.br</display-name>
 <url>http://domain.com/files/chlogos/youtube.png</url>
 </channel>
-<programme start="20220516000000 -0300" stop="20220716060000 -3400" channel="anitv.br">
+<programme start="20220516000000 -0300" stop="20220716060000 -0300" channel="anitv.br">
 <title lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</title>
 <desc lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</desc>
 </programme>
-<programme start="20220516060000 -0300" stop="20220716120000 -0300" channel="anitv.br">
+<programme start="20220516060000 -0300" stop="20220716000000 -0300" channel="anitv.br">
 <title lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</title>
 <desc lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</desc>
 </programme>
