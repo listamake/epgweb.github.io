@@ -1,181 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
-
-  <id do canal="anitv.br">
-    <display-name>13 KERA</display-name>
-    <display-name>13 KERA TX42822:-</display-name>
-    <display-name>13</display-name>
-    <display-name>13 KERA fcc</display-name>
-    <display-name>KERA</display-name>
-    <display-name>KERA</display-name>
-    <display-name>Afiliado da PBS</display-name>
-    <icon src="file://C:\Perl\site/share/xmltv/icons/KERA.gif" />
-  </canal>
-  <id do canal="I10759.labs.zap2it.com">
-    <display-name>11 KTVT</display-name>
-    <display-name>11 KTVT TX42822:-</display-name>
-    <display-name>11</display-name>
-    <display-name>11 KTVT fcc</display-name>
-    <display-name>KTVT</display-name>
-    <display-name>KTVT</display-name>
-    <display-name>Afiliado da CBS</display-name>
-    <icon src="file://C:\Perl\site/share/xmltv/icons/KTVT.gif" />
-  </canal>
-  <programme start="20080715003000 -0600" stop="20080715010000 -0600" channel="I10436.labs.zap2it.com">
-    <title lang="en">AGORA na PBS</title>
-    <desc lang="en">A rainha Rania, da Jordânia, fez da criação de empregos uma prioridade para ajudar a conter as taxas de desemprego impressionantes entre os jovens no Oriente Médio.</desc>
-    <date>20080711</date>
-    <category lang="en">Revista</category>
-    <category lang="en">Entrevista</category>
-    <category lang="en">Assuntos Públicos</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">EP01006886.0028</episode-num>
-    <episode-num system="onscreen">427</episode-num>
-    <áudio>
-      <stereo>estéreo</stereo>
-    </audio>
-    <início mostrado anteriormente="20080711000000" />
-    <subtitles type="teletexto" />
-  </programa>
-  <programme start="20080715010000 -0600" stop="20080715023000 -0600" channel="I10436.labs.zap2it.com">
-    <title lang="en">Mistério!</title>
-    <sub-title lang="en">Foyle's War, Série IV: Bleak Midwinter</sub-title>
-    <desc lang="en">Foyle investiga uma explosão em uma fábrica de munições, que ele acredita ter sido premeditada.</desc>
-    <date>20070701</date>
-    <category lang="en">Antologia</category>
-    <category lang="en">Mistério</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">EP00003026.0665</episode-num>
-    <episode-num system="onscreen">2705</episode-num>
-    <áudio>
-      <stereo>estéreo</stereo>
-    </audio>
-    <início mostrado anteriormente="20070701000000" />
-    <subtitles type="teletexto" />
-  </programa>
-  <programme start="20080715023000 -0600" stop="20080715040000 -0600" channel="I10436.labs.zap2it.com">
-    <title lang="en">Mistério!</title>
-    <sub-title lang="en">Guerra de Foyle, Série IV: Vítimas de Guerra</sub-title>
-    <desc lang="en">O assassinato de um cientista proeminente pode ter sido devido a uma dívida de jogo.</desc>
-    <date>20070708</date>
-    <category lang="en">Antologia</category>
-    <category lang="en">Mistério</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">EP00003026.0666</episode-num>
-    <episode-num system="onscreen">2706</episode-num>
-    <áudio>
-      <stereo>estéreo</stereo>
-    </audio>
-    <início mostrado anteriormente="20070708000000" />
-    <subtitles type="teletexto" />
-  </programa>
-  <programme start="20080715040000 -0600" stop="20080715043000 -0600" channel="I10436.labs.zap2it.com">
-    <title lang="en">Notícias mundiais da BBC</title>
-    <desc lang="en">Questões internacionais.</desc>
-    <category lang="en">Notícias</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">SH00315789.0000</episode-num>
-    <mostrado anteriormente />
-    <subtitles type="teletexto" />
-  </programa>
-  <programme start="20080715043000 -0600" stop="20080715050000 -0600" channel="I10436.labs.zap2it.com">
-    <title lang="en">Sente-se e fique em forma</title>
-    <date>20070924</date>
-    <category lang="en">Exercício</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">EP00003847.0074</episode-num>
-    <episode-num system="onscreen">901</episode-num>
-    <áudio>
-      <stereo>estéreo</stereo>
-    </audio>
-    <início mostrado anteriormente="20070924000000" />
-    <subtitles type="teletexto" />
-  </programa>
-  <programme start="20080715060000 -0600" stop="20080715080000 -0600" channel="I10759.labs.zap2it.com">
-    <title lang="en">O show inicial</title>
-    <desc lang="en">Candidato republicano John McCain; estreia do filme "O Cavaleiro das Trevas."</desc>
-    <date>20080715</date>
-    <category lang="en">Conversa</category>
-    <category lang="en">Notícias</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">EP00337003.2361</episode-num>
-    <áudio>
-      <stereo>estéreo</stereo>
-    </audio>
-    <subtitles type="teletexto" />
-  </programa>
-  <programme start="20080715080000 -0600" stop="20080715090000 -0600" channel="I10759.labs.zap2it.com">
-    <title lang="en">Rachael Ray</title>
-    <desc lang="pt">As atrizes Kim Raver, Brooke Shields e Lindsay Price ("Batom Jungle"); mulheres na faixa dos 40 anos contam por que fizeram implantes mamários; uma refeição de 30 minutos.</desc>
-    <créditos>
-      <presenter>Rachael Ray</presenter>
-    </créditos>
-    <date>20080306</date>
-    <category lang="en">Conversa</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">EP00847333.0303</episode-num>
-    <episode-num system="onscreen">2119</episode-num>
-    <áudio>
-      <stereo>estéreo</stereo>
-    </audio>
-    <início mostrado anteriormente="20080306000000" />
-    <subtitles type="teletexto" />
-  </programa>
-  <programme start="20080715090000 -0600" stop="20080715100000 -0600" channel="I10759.labs.zap2it.com">
-    <title lang="en">O preço é justo</title>
-    <desc lang="en">Os participantes fazem lances para prêmios e depois concorrem a vitrines fabulosas.</desc>
-    <créditos>
-      <diretor>Bart Eskander</diretor>
-      <produtor>Roger Dobkowitz</produtor>
-      <presenter>Drew Carey</presenter>
-    </créditos>
-    <category lang="en">Game show</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">SH00004372.0000</episode-num>
-    <áudio>
-      <stereo>estéreo</stereo>
-    </audio>
-    <subtitles type="teletexto" />
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </classificação>
-  </programa>
-  <programme start="20080715100000 -0600" stop="20080715103000 -0600" channel="I10759.labs.zap2it.com">
-    <title lang="en">Perigo!</title>
-    <créditos>
-      <presenter>Alex Trebek</presenter>
-    </créditos>
-    <date>20080715</date>
-    <category lang="en">Game show</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">EP00002348.1700</episode-num>
-    <episode-num system="onscreen">5507</episode-num>
-    <subtitles type="teletexto" />
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </classificação>
-  </programa>
-  <programme start="20080715103000 -0600" stop="20080715113000 -0600" channel="I10759.labs.zap2it.com">
-    <title lang="en">Os jovens e os inquietos</title>
-    <sub-title lang="en">Sabrina oferece trégua a Victoria</sub-title>
-    <desc lang="en">Jeff acha que Kyon roubou o creme facial; Nikki pede a Nick para dar uma chance a David; Amber implora que Adrian vá para a Austrália.</desc>
-    <créditos>
-      <actor>Peter Bergman</actor>
-      <actor>Eric Braeden</actor>
-      <actor>Jeanne Cooper</actor>
-      <actor>Melody Thomas Scott</actor>
-    </créditos>
-    <date>20080715</date>
-    <category lang="en">Sabão</category>
-    <category lang="en">Série</category>
-    <episode-num system="dd_progid">EP00004422.1359</episode-num>
-    <episode-num system="onscreen">8937</episode-num>
-    <áudio>
-      <stereo>estéreo</stereo>
-    </audio>
-    <subtitles type="teletexto" />
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </classificação>
-  </programa>
-</tv>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br</display-name>
+</channel>
+<programme start="20220520000000 -0300" stop="20220720003000 -0300" channel="anitv.br">
+ <title lang="en">Akame ga kill</title>
+ <desc lang="en"></desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br</display-name>
+</channel>
+<programme start="20220520010000 -0300" stop="20220720013000 -0300" channel="anitv.br">
+ <title lang="en">Banana Fich</title>
+ <desc lang="en"></desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br</display-name>
+</channel>
+<programme start="20220520013000 -0300" stop="20220720000000 -0300" channel="anitv.br">
+ <title lang="en">kiss×kss</title>
+ <desc lang="en"></desc>
+</programme>
