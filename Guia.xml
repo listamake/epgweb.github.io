@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
 
-<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/ 03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
   <id do canal="anitv.br">
     <display-name>13 KERA</display-name>
     <display-name>13 KERA TX42822:-</display-name>
