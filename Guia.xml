@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
 <channel id="anitv.br">
- <display-name lang="en">anitv.br</display-name>
+ <display-name lang="en">https://raw.githubusercontent.com/Emanueldelima/Emanueldelima/main/anitv_epg.xml</display-name>
 </channel>
 </tv>
