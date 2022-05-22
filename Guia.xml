@@ -1,6 +1,6 @@
 <RiGHTvEPG xmlns="http://www.orca.tv/RiGHTv/7.0/EPG" 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-version="1.0" language="en" xsi:schemaLocation="http://www.orca.tv/RiGHTv/7.0/EPG 
+version="1.0" language="pt" xsi:schemaLocation="http://www.orca.tv/RiGHTv/7.0/EPG 
 RiGHTvEPG.xsd">    
   <ChannelsList>
     <channel id="anitv.br">
