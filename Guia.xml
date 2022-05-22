@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<channel id="anitv.br">
-<display-name lang="pt">anitv.br</display-name>
-<url>http://domain.com/files/chlogos/youtube.png</url>
-</channel>
-<programme start="20220516000000 -0300" stop="20220716060000 -0300" channel="anitv.br">
-<title lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</title>
-<desc lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</desc>
-</programme>
-<programme start="20220516060000 -0300" stop="20220716000000 -0300" channel="anitv.br">
-<title lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</title>
-<desc lang="pt">YouTube Restreams. If stream asleep, please allow up to 10 seconds to start..</desc>
-</programme>
-</tv>
+<RiGHTvEPG xmlns="http://www.orca.tv/RiGHTv/7.0/EPG" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+version="1.0" language="en" xsi:schemaLocation="http://www.orca.tv/RiGHTv/7.0/EPG 
+RiGHTvEPG.xsd">    
+  <ChannelsList>
+    <channel id="anitv.br">
+      <program id="3394" time="2022-05-22T01:25:00Z" duration="PT01H45M" 
+      delete="false" pvrEnabled="false" stovEnabled="false" catchUpEnabled="false">
+        <title>Video Title</title>
+        <description>
+        <![CDATA[
+        Description of your video asset.
+        ]]>
+        </description>
+      </program>
+    </channel>
+  </ChannelsList>
+</RiGHTvEPG>
