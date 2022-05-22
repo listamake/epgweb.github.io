@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
+
+<channel xmltv_id="https://raw.githubusercontent.com/Emanueldelima/Emanueldelima/main/anitv_epg.xml">Ani TV HD</channel>
+    <channel update="i" site="oi.com.br" site_id="115356" xmltv_id="Agromais HD">Agromais HD</channel>
+
 <channel id="anitv.br">
- <display-name lang="en">https://raw.githubusercontent.com/Emanueldelima/Emanueldelima/main/anitv_epg.xml</display-name>
+ <display-name lang="en"></display-name>
 </channel>
 </tv>
