@@ -4,8 +4,8 @@
  <display-name lang="en">anitv.br </display-name>
 </channel>
 <programme start="202205230000 -0300" stop="202205280030 -0300" channel="anitv.br ">
- <title lang="en">Akame ga Kill!</title>
- <desc lang="en"></desc>
+ <title lang="pt">Akame ga Kill!</title>
+ <desc lang="pt"></desc>
 </programme>
 <channel id="anitv.br">
  <display-name lang="en">anitv.br </display-name>
@@ -59,28 +59,28 @@
 <channel id="anitv.br">
  <display-name lang="en">anitv.br </display-name>
 </channel>
-<programme start="20220522070000 -0300" stop="20220527073000 -0300" channel="anitv.br ">
+<programme start="20220523070000 -0300" stop="20220527073000 -0300" channel="anitv.br ">
  <title lang="en">Yu Yu Hakusho</title>
  <desc lang="en">anime</desc>
 </programme>
 <channel id="anitv.br">
  <display-name lang="en">anitv.br </display-name>
 </channel>
-<programme start="20220522073000 -0300" stop="20220527080000 -0300" channel="anitv.br ">
+<programme start="20220523073000 -0300" stop="20220527080000 -0300" channel="anitv.br ">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
 <channel id="anitv.br">
  <display-name lang="en">anitv.br </display-name>
 </channel>
-<programme start="20220522080000 -0300" stop="20220527083000 -0300" channel="anitv.br ">
+<programme start="20220523080000 -0300" stop="20220527083000 -0300" channel="anitv.br ">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 <channel id="anitv.br">
  <display-name lang="en">anitv.br </display-name>
 </channel>
-<programme start="20220522083000 -0300" stop="20220527090000 -0300" channel="anitv.br ">
+<programme start="20220523083000 -0300" stop="20220527090000 -0300" channel="anitv.br ">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">divirta-se com a lamu e a turma do barulho!!</desc>
 </programme>
