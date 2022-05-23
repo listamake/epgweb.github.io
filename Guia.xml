@@ -206,14 +206,14 @@
 <channel id="anitv.br">
  <display-name lang="en">anitv.br </display-name>
 </channel>
-<programme start="20220522220000 -0300" stop="20220527223000 -0300" channel="anitv.br ">
+<programme start="20220523220000 -0300" stop="20220527223000 -0300" channel="anitv.br ">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 <channel id="anitv.br">
  <display-name lang="en">anitv.br</display-name>
 </channel>
-<programme start="20220522223000 -0300" stop="20220527230000 -0300" channel="anitv.br">
+<programme start="20220523223000 -0300" stop="20220527230000 -0300" channel="anitv.br">
  <title lang="en">SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -234,7 +234,7 @@
 <channel id="anitv.br">
  <display-name lang="en">anitv.br</display-name>
 </channel>
-<programme start="20220522230000 -0300" stop="20220522000000 -0300" channel="anitv.br">
+<programme start="20220522230000 -0300" stop="20220523000000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta </title>
  <desc lang="en">anime</desc>
 </programme>
