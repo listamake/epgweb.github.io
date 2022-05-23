@@ -1,13 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
-  <channels>
-
-<channel xmltv_id="https://raw.githubusercontent.com/Emanueldelima/Emanueldelima/main/anitv_epg.xml">Ani TV HD</channel>
-    <channel update="i" site="oi.com.br" site_id="115356" xmltv_id="Agromais HD">Agromais HD</channel>
-
 <channel id="anitv.br">
- <display-name lang="en"></display-name>
+ <display-name lang="en">anitv.br </display-name>
 </channel>
-  </channels>
-
+<programme start="20220522000000 -0300" stop="20220528003000 -0300" channel="anitv.br ">
+ <title lang="en">Akame ga Kill!</title>
+ <desc lang="en"></desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522003000 -0300" stop="20220528010000 -0300" channel="anitv.br ">
+ <title lang="en">Banana Fish</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522010000 -0300" stop="20220528013000 -0300" channel="anitv.br ">
+ <title lang="en">Kiss-x-sis</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522013000 -0300" stop="20220528020000 -0300" channel="anitv.br ">
+ <title lang="en">Shimoneta</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522020000 -0300" stop="20220528030000 -0300" channel="anitv.br ">
+ <title lang="en">A Lenda - Um Luxo de Sonhar</title>
+ <desc lang="en">dorama</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522030000 -0300" stop="20220528050000 -0300" channel="anitv.br ">
+ <title lang="en">AniBox</title>
+ <desc lang="en">as melhores músicas de anime estão aqui.</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522050000 -0300" stop="20220528060000 -0300" channel="anitv.br ">
+ <title lang="en">AniBox City Pop</title>
+ <desc lang="en">as melhores músicas de anime estão aqui.</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522060000 -0300" stop="20220527070000 -0300" channel="anitv.br ">
+ <title lang="en">Tecendo o Saber</title>
+ <desc lang="en">Educativo</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522070000 -0300" stop="20220527073000 -0300" channel="anitv.br ">
+ <title lang="en">Yu Yu Hakusho</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522073000 -0300" stop="20220527080000 -0300" channel="anitv.br ">
+ <title lang="en">Cardcaptor Sakura</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522080000 -0300" stop="20220527083000 -0300" channel="anitv.br ">
+ <title lang="en">Super Campeões</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522083000 -0300" stop="20220527090000 -0300" channel="anitv.br ">
+ <title lang="en">Urusei Yatsura</title>
+ <desc lang="en">divirta-se com a lamu e a turma do barulho!!</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522090000 -0300" stop="20220527093000 -0300" channel="anitv.br ">
+ <title lang="en">Cowboy Bebop</title>
+ <desc lang="en"> anime </desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522093000 -0300" stop="20220527100000 -0300" channel="anitv.br ">
+ <title lang="en">My Hero Academia 2ª Temp</title>
+ <desc lang="en"> anime </desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522100000 -0300" stop="20220527120000 -0300" channel="anitv.br ">
+ <title lang="en">AniBox</title>
+ <desc lang="en"> musica </desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522120000 -0300" stop="20220527130000 -0300" channel="anitv.br ">
+ <title lang="en">AniBox City Pop</title>
+ <desc lang="en"> musica </desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522130000 -0300" stop="20220527133000 -0300" channel="anitv.br ">
+ <title lang="en">Umaru-chan</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522133000 -0300" stop="20220527140000 -0300" channel="anitv.br ">
+ <title lang="en">Ranking of Kings</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522140000 -0300" stop="20220527150000 -0300" channel="anitv.br ">
+ <title lang="en">AniBox Compacto</title>
+ <desc lang="en">musica </desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522150000 -0300" stop="20220527160000 -0300" channel="anitv.br ">
+ <title lang="en">A Lenda - Um Luxo de sonhar </title>
+ <desc lang="en">dorama</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522160000 -0300" stop="20220527163000 -0300" channel="anitv.br ">
+ <title lang="en"> SK8 The Infinity</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522163000 -0300" stop="20220527170000 -0300" channel="anitv.br ">
+ <title lang="en"> Miss Kobayashi's Dragon Maid</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522170000 -0300" stop="20220527190000 -0300" channel="anitv.br ">
+ <title lang="en">AniBox</title>
+ <desc lang="en">misica</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522190000 -0300" stop="20220527193000 -0300" channel="anitv.br ">
+ <title lang="en">Cardcaptor Sakura</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522193000 -0300" stop="20220527200000 -0300" channel="anitv.br ">
+ <title lang="en">Umaru-chan</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522200000 -0300" stop="20220527203000 -0300" channel="anitv.br ">
+ <title lang="en">Yu Yu Hakusho</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522203000 -0300" stop="20220527210000 -0300" channel="anitv.br ">
+ <title lang="en">My Hero Academia 2ª Temp</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522210000 -0300" stop="20220527213000 -0300" channel="anitv.br ">
+ <title lang="en">Urusei Yatsura</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522213000 -0300" stop="20220527220000 -0300" channel="anitv.br ">
+ <title lang="en">Ranking of Kings</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br </display-name>
+</channel>
+<programme start="20220522220000 -0300" stop="20220527223000 -0300" channel="anitv.br ">
+ <title lang="en">Super Campeões</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br</display-name>
+</channel>
+<programme start="20220522223000 -0300" stop="20220527230000 -0300" channel="anitv.br">
+ <title lang="en">SK8 The Infinity</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br</display-name>
+</channel>
+<programme start="20220522230000 -0300" stop="20220527233000 -0300" channel="anitv.br">
+ <title lang="en">Miss Kobayashi's Dragon Maid</title>
+ <desc lang="en">anime</desc>
+</programme>
+<channel id="anitv.br">
+ <display-name lang="en">anitv.br</display-name>
+</channel>
+<programme start="20220522233000 -0300" stop="20220527000000 -0300" channel="anitv.br">
+ <title lang="en">Cowboy Bebop</title>
+ <desc lang="en">anime</desc>
+</programme>
 </tv>
