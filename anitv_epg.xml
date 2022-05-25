@@ -7,6 +7,9 @@
 <programme start="20220526000000 -0300" stop="20220526003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt"></desc>
+  <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
 </programme>
 
 <programme start="20220526003000 -0300" stop="20220526010000 -0300" channel="anitv.br">
@@ -109,22 +112,22 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525163000 -0300" stop="20220525170000 -0300" channel="anitv.br">
+<programme start="20220526163000 -0300" stop="20220526170000 -0300" channel="anitv.br">
  <title lang="en"> Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525170000 -0300" stop="20220525190000 -0300" channel="anitv.br">
+<programme start="20220526170000 -0300" stop="20220526190000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">misica</desc>
 </programme>
 
-<programme start="20220525190000 -0300" stop="20220525193000 -0300" channel="anitv.br">
+<programme start="20220526190000 -0300" stop="20220526193000 -0300" channel="anitv.br">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525193000 -0300" stop="20220525200000 -0300" channel="anitv.br">
+<programme start="20220526193000 -0300" stop="20220526200000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -158,26 +161,20 @@
  <title lang="en">SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br</display-name>
-</channel>
+
 <programme start="20220525230000 -0300" stop="20220525233000 -0300" channel="anitv.br">
  <title lang="en">Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br</display-name>
-</channel>
+
 <programme start="20220525233000 -0300" stop="20220525000000 -0300" channel="anitv.br">
- <title lang="en">Cowboy Bebop</title>
- <desc lang="en">anime</desc>
+ <title lang="pt">Cowboy Bebop</title>
+ <desc lang="pt">anime</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br</display-name>
-</channel>
+
 <programme start="20220529230000 -0300" stop="20220529000000 -0300" channel="anitv.br">
- <title lang="en">Shimoneta </title>
- <desc lang="en">anime</desc>
+ <title lang="pt">Shimoneta </title>
+ <desc lang="pt">anime</desc>
 </programme>
 
 </tv>
