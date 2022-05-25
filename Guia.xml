@@ -4,7 +4,7 @@
  <display-name lang="pt">Ani TV HD</display-name>
 
 <programme start="20220525000000 -0300" stop="20220525003000 -0300" channel="anitv.br">
- <title lang="pt">Akame ga Kill!</title>
+ <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt"></desc>
 </programme>
 
@@ -17,50 +17,38 @@
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
-</channel>
-<programme start="20220523013000 -0300" stop="20220528020000 -0300" channel="anitv.br">
+
+<programme start="20220525013000 -0300" stop="20220528020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br </display-name>
-</channel>
-<programme start="20220523020000 -0300" stop="20220528030000 -0300" channel="anitv.br">
+
+<programme start="20220525020000 -0300" stop="20220528030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br </display-name>
-</channel>
-<programme start="20220523030000 -0300" stop="20220528050000 -0300" channel="anitv.br">
+
+<programme start="20220525030000 -0300" stop="20220528050000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br </display-name>
-</channel>
-<programme start="20220523050000 -0300" stop="20220528060000 -0300" channel="anitv.br">
+
+<programme start="20220525050000 -0300" stop="20220528060000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br </display-name>
-</channel>
-<programme start="20220523060000 -0300" stop="20220527070000 -0300" channel="anitv.br ">
+
+<programme start="20220525060000 -0300" stop="20220527070000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">Educativo</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br </display-name>
-</channel>
-<programme start="20220523070000 -0300" stop="20220527073000 -0300" channel="anitv.br ">
+
+<programme start="20220523070000 -0300" stop="20220527073000 -0300" channel="anitv.br">
  <title lang="en">Yu Yu Hakusho</title>
  <desc lang="en">anime</desc>
 </programme>
-<channel id="anitv.br">
- <display-name lang="en">anitv.br </display-name>
 </channel>
-<programme start="20220523073000 -0300" stop="20220527080000 -0300" channel="anitv.br ">
+<programme start="20220523073000 -0300" stop="20220527080000 -0300" channel="anitv.br">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
