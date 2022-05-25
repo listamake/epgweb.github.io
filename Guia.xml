@@ -2,7 +2,7 @@
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
 <channel id="anitv.br">
  <display-name lang="pt">Ani TV HD</display-name>
-</channel>
+
 <programme start="20220525000000 -0300" stop="20220525003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt"></desc>
@@ -17,7 +17,7 @@
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
-
+</channel>
 <programme start="20220523013000 -0300" stop="20220528020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
