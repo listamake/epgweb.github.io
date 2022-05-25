@@ -2,6 +2,7 @@
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
 <channel id="anitv.br">
  <display-name lang="pt">Ani TV HD</display-name>
+  <display-name lang="en">AniTV</display-name>
 
 <programme start="20220526000000 -0300" stop="20220526003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
@@ -90,7 +91,7 @@
 <channel id="anitv.br">
  <display-name lang="en">anitv.br </display-name>
 </channel>
-<programme start="20220525120000 -0300" stop="20220525130000 -0300" channel="anitv.br">
+<programme start="20220526120000 -0300" stop="20220525130000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en"> musica </desc>
 </programme>
