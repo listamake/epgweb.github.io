@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
-<site site="mi.tv">
-
-<channel lang="pt" xmltv_id="ESPN3Brasil.us" site_id="br#espn-plus">ESPN 3 Brasil</channel>
-<channel lang="pt" xmltv_id="" site_id="br#loading">Loading</channel>
 
 <channel id="yaaeeh.br">
  <display-name lang="pt">Loading</display-name>
