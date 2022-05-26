@@ -158,7 +158,7 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220526220000 -0300" stop="20220527223000 -0300" channel="anitv.br">
+<programme start="20220526220000 -0300" stop="20220526223000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -177,7 +177,7 @@
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
 </programme>
-
+   ##domingo anitv##
 <programme start="20220529230000 -0300" stop="20220529000000 -0300" channel="anitv.br">
  <title lang="pt">Shimoneta </title>
  <desc lang="pt">anime</desc>
