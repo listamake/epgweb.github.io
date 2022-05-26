@@ -3,7 +3,12 @@
 <site site="mi.tv">
 
 <channel lang="pt" xmltv_id="ESPN3Brasil.us" site_id="br#espn-plus">ESPN 3 Brasil</channel>
-<channel lang="pt" xmltv_id="Loading.br" site_id="br#loading">Loading</channel>
+<channel lang="pt" xmltv_id="" site_id="br#loading">Loading</channel>
+
+<channel id="Loading.br">
+ <display-name lang="pt">Loading</display-name>
+  <url>mi.tv</url>
+</channel>
 
 <channel id="anitv.br">
  <display-name lang="pt">Ani TV HD</display-name>
