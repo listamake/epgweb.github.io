@@ -14,7 +14,7 @@
  <display-name lang="pt">Ani TV HD</display-name>
   <display-name lang="pt">AniTV</display-name>
 </channel>
-<programme start="20220526000000 -0300" stop="20220526003000 -0300" channel="anitv.br">
+<programme start="20220527000000 -0300" stop="20220527003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -22,7 +22,7 @@
     </rating>
 </programme>
 
-<programme start="20220526003000 -0300" stop="20220526010000 -0300" channel="anitv.br">
+<programme start="20220527003000 -0300" stop="20220527010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -142,42 +142,42 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525200000 -0300" stop="20220525203000 -0300" channel="anitv.br">
+<programme start="20220526200000 -0300" stop="20220526203000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220525203000 -0300" stop="20220525210000 -0300" channel="anitv.br">
+<programme start="20220526203000 -0300" stop="20220526210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525210000 -0300" stop="20220525213000 -0300" channel="anitv.br">
+<programme start="20220526210000 -0300" stop="20220526213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525213000 -0300" stop="20220525220000 -0300" channel="anitv.br ">
+<programme start="20220526213000 -0300" stop="20220526220000 -0300" channel="anitv.br ">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525220000 -0300" stop="20220525223000 -0300" channel="anitv.br">
+<programme start="20220526220000 -0300" stop="20220526223000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525223000 -0300" stop="20220525230000 -0300" channel="anitv.br">
+<programme start="20220526223000 -0300" stop="20220526230000 -0300" channel="anitv.br">
  <title lang="en">SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525230000 -0300" stop="20220525233000 -0300" channel="anitv.br">
+<programme start="20220526230000 -0300" stop="20220526233000 -0300" channel="anitv.br">
  <title lang="en">Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220525233000 -0300" stop="20220526000000 -0300" channel="anitv.br">
+<programme start="20220526233000 -0300" stop="20220527000000 -0300" channel="anitv.br">
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
 </programme>
