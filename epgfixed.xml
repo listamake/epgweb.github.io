@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
+
+   <!-- IDs dos Canais -->
+<channel id="rbtv.br">
+ <display-name lang="pt">Canal RBTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp"/>
+</channel> 
+<channel id="PLAYTV.br">
+ <display-name lang="pt">PlayTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
+</channel>
+
+ <!-- Programas Canal RBTV-->
+<programme start="202308dd140000 -0300" stop="202308dd160000 -0300" channel="rbtv.br">
+ <dd days="dom,seg,ter,qua,qui,sex,sab"/>
+ <title lang="pt">Programação do Canal RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="202308dd160000 -0300" stop="202308dd000000 -0300" channel="rbtv.br">
+ <dd days="dom,seg,ter,qua,qui,sex,sab"/>
+ <title lang="pt">Programação do Canal RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+
+</tv>
