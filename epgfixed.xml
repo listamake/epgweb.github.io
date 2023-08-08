@@ -10,12 +10,12 @@
 </channel>
 
  <!-- Programas Canal RBTV-->
-<programme start="202308dd140000 -0300" stop="202308dd160000 -0300" channel="rbtv.br">
+<programme start="YYYYMMdd000000 -0300" stop="YYYYMMdd160000 -0300" channel="rbtv.br">
  <dd days="dom,seg,ter,qua,qui,sex,sab"/>
  <title lang="pt">Programação do Canal RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="202308dd160000 -0300" stop="202308dd235900 -0300" channel="rbtv.br">
+<programme start="YYYYMMdd160000 -0300" stop="YYYYMMdd235900 -0300" channel="rbtv.br">
  <dd days="dom,seg,ter,qua,qui,sex,sab"/>
  <title lang="pt">Programação do Canal RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
