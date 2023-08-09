@@ -12,7 +12,7 @@
  <!-- Programas Canal RBTV-->
 <programme start="YYYYMMdd000000 -0300" stop="YYYYMMdd160000 -0300" channel="rbtv.br">
  <dd days="everyday"/>
- <title lang="pt">Programação do Canal RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 <programme start="YYYYMMdd160000 -0300" stop="YYYYMMdd235900 -0300" channel="rbtv.br">
@@ -24,12 +24,12 @@
  <!-- Programas Playtv-->
 <programme start="YYYYMMdd000000 -0300" stop="YYYYMMdd160000 -0300" channel="PLAYTV.br">
  <dd days="qua,qui,sex,sab"/>
- <title lang="pt">Programação do Canal RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <title lang="pt">Programação PLaytv</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 <programme start="YYYYMMdd160000 -0300" stop="YYYYMMdd230000 -0300" channel="PLAYTV.br">
  <dd days="qua,qui,sex,sab"/>
- <title lang="pt">Programação do Canal RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <title lang="pt">Programação PlayTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 
