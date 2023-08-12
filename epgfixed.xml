@@ -10,27 +10,26 @@
 </channel>
 
  <!-- Programas Canal RBTV-->
-<validity start="20230808" stop="20230902" channel="rbtv.br">
+<validity start="20230808" stop="20230902" channel="rbtv.br" />
    
-<programme start="000000 -0300" stop="190000 -0300" channel="rbtv.br">
- <weekday days="seg,ter,qui"/>
+<programme start="000000 -0300" stop="060000 -0300" channel="rbtv.br">
+ <weekday days="seg,ter,qui" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="060000 -0300" stop="000000 -0300" channel="rbtv.br">
- <weekday days="qua"/>
+<programme start="060000 -0300" stop="190000 -0300" channel="rbtv.br">
+ <weekday days="qua" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 <programme start="190000 -0300" stop="000000 -0300" channel="rbtv.br">
- <weekday days="sex,sab,dom"/>
+ <weekday days="sex,sab,dom" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-</validity>
 
  <!-- Programas Playtv-->
-   <validity start="20230808" stop="20230902" channel="PLAYTV.br">
+   <validity start="20230808" stop="20230902" channel="PLAYTV.br" />
 <programme start="000000 -0300" stop="160000 -0300" channel="PLAYTV.br">
  <weekday days="qua,qui,sex,sab"/>
  <title lang="pt">Programação PLaytv</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
@@ -41,5 +40,4 @@
  <title lang="pt">Programação PlayTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-</validity>
 </tv>
