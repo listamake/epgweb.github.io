@@ -4,13 +4,15 @@
    <!-- IDs dos Canais -->
 <channel id="rbtv.br">
  <display-name lang="pt">Canal RBTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp"/>
+ <validity start="20230808" stop="20230902" />
 </channel> 
 <channel id="PLAYTV.br">
  <display-name lang="pt">PlayTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
+ <validity start="20230808" stop="20230902" />
 </channel>
 
  <!-- Programas Canal RBTV-->
-<validity start="20230808" stop="20230902" channel="rbtv.br" />
+
    
 <programme start="000000 -0300" stop="060000 -0300" channel="rbtv.br">
  <weekday days="seg,ter,qui" />
@@ -29,7 +31,7 @@
 </programme>
 
  <!-- Programas Playtv-->
-   <validity start="20230808" stop="20230902" channel="PLAYTV.br" />
+
 <programme start="000000 -0300" stop="164500 -0300" channel="PLAYTV.br">
  <weekday days="qua,qui,sex,sab"/>
  <title lang="pt">Programação PLaytv</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
