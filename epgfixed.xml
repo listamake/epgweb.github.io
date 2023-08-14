@@ -20,7 +20,7 @@
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 <programme start="060000 -0300" stop="193000 -0300" channel="rbtv.br">
- <weekday day="qua" />
+ <weekday days="qua" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A14</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
