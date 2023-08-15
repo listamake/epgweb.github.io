@@ -4,11 +4,11 @@
    <!-- IDs dos Canais -->
 <channel id="rbtv.br">
  <display-name lang="pt">Canal RBTV</display-name> <icon src=""/>
- <validity start="20230814" stop="20230902" />
+ <validity start="20230814" stop="20230820" />
 </channel> 
 <channel id="PLAYTV.br">
  <display-name lang="pt">PlayTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
- <validity start="20230813" stop="20230901" />
+ <validity start="20230813" stop="20230820" />
 </channel>
 
  <!-- Programas Canal RBTV-->
