@@ -19,7 +19,12 @@
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="060000 -0300" stop="193000 -0300" channel="rbtv.br">
+<programme start="060000 -0300" stop="130000 -0300" channel="rbtv.br">
+ <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="130000 -0300" stop="193000 -0300" channel="rbtv.br">
  <weekday days="qua" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A14</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Não se preocupe reveja os epsódios de ontem!.</desc>
