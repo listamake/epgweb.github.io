@@ -8,7 +8,7 @@
 </channel> 
 <channel id="PLAYTV.br">
  <display-name lang="pt">PlayTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
- <validity start="20230819" stop="20230902" />
+
 </channel>
 
  <!-- Programas Canal RBTV-->
