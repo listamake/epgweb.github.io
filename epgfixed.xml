@@ -2,18 +2,83 @@
 <tv generator-info-name="epgmaker" generator-info-url="http://maketvbr">
 
    <!-- IDs dos Canais -->
-<channel id="rbtv.br">
- <display-name lang="pt">Canal RBTV</display-name> <icon src=""/>
+<channel id="anitv.br"> <display-name lang="pt">Geekdot HD</display-name>
+   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.webp"/>
+</channel>
+<channel id="canalstart.br"> <display-name lang="pt">Canal Start HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8306e8897f3941eb7c2ac7b583b92f71.webp"/>
+</channel>
+<channel id="pooptv.br"> <display-name lang="pt">PoopTV</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
+</channel>
+<channel id="rbtv.br"> <display-name lang="pt">Canal RBTV</display-name> <icon src=""/>
  <validity start="20230820" stop="20230913" />
 </channel> 
-<channel id="PLAYTV.br">
- <display-name lang="pt">PlayTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
+<channel id="PLAYTV.br"> <display-name lang="pt">PlayTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
  <validity start="20230820" stop="20230910" />
 </channel>
+<channel id="yaaeeh.br"> <display-name lang="pt">Yeeaah HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp"/>
+</channel> 
 
- <!-- Programas Canal RBTV-->
+ <!-- Programas Geekdot--> <!-- Semanal-->
 
+<programme start="000000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
    
+<programme start="020000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="070000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="220000 -0300" stop="221000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+ <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
+</programme>
+<programme start="221000 -0300" stop="224000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+ <desc lang="pt">Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
+</programme>
+<programme start="224000 -0300" stop="231000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="231000 -0300" stop="233000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+ <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
+ <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
+</programme>
+
+ <!-- Programas PoopTV--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
+</programme>
+   
+
+ <!-- Programas Yeeaah--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Yeeaah</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" /> 
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab.dom" />
+ <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" /> 
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+   
+ <!-- Programas Canal RBTV-->
 <programme start="000000 -0300" stop="060000 -0300" channel="rbtv.br">
  <weekday days="seg,ter,qui" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
