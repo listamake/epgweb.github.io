@@ -8,8 +8,23 @@
 <channel id="canalstart.br"> <display-name lang="pt">Canal Start HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8306e8897f3941eb7c2ac7b583b92f71.webp"/>
 </channel>
+<channel id="CanalUsuario.br"> <display-name lang="pt">Canal do Usuario</display-name>
+ <display-name lang="pt">Teste 4</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
+</channel>
+<channel id="CentralTV.br"> <display-name lang="pt">Central TV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/790055262375804928/3gX87zyO_400x400.jpg"/>
+</channel>
 <channel id="pooptv.br"> <display-name lang="pt">PoopTV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
+</channel>
+<channel id="RSNewsSports.br">
+ <display-name lang="pt">RS News Sports</display-name>
+ <display-name lang="pt">RS News Sports 2</display-name>
+ <display-name lang="pt">RS News Sports 3</display-name>
+ <display-name lang="pt">RS News Sports 4</display-name>
+ <display-name lang="pt">RS News Sports 5</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp"/>
 </channel>
 <channel id="rbtv.br"> <display-name lang="pt">Canal RBTV</display-name> <icon src=""/>
  <validity start="20230820" stop="20230913" />
@@ -57,6 +72,56 @@
  <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
 </programme>
 
+ <!-- Programas Canal Usuario--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="020000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="020000 -0300" stop="030000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+ <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+</programme>
+<programme start="030000 -0300" stop="040000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
+ <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+</programme>
+<programme start="040000 -0300" stop="100000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="100000 -0300" stop="110000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
+ <desc lang="pt">Produções da disney.</desc>
+</programme>
+<programme start="110000 -0300" stop="130000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="130000 -0300" stop="140000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+ <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+</programme>
+<programme start="140000 -0300" stop="170000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="170000 -0300" stop="180000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
+ <desc lang="pt">Produções da disney.</desc>
+</programme>
+<programme start="180000 -0300" stop="220000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="220000 -0300" stop="230000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
+ <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+   
  <!-- Programas PoopTV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
@@ -67,7 +132,16 @@
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
 </programme>
    
-
+ <!-- Programas RS News Sports--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="RSNewsSports.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating>
+ <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="RSNewsSports.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação RS News Sports</title>  <rating system="CLASSIND"><value>AL</value></rating>
+ <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+</programme>
+   
  <!-- Programas Yeeaah--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação Yeeaah</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" /> 
