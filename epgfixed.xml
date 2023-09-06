@@ -47,9 +47,17 @@
  <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="070000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="210000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="210000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+ <desc lang="pt">Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
+</programme>
+<programme start="213000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+ <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
 </programme>
 <programme start="220000 -0300" stop="221000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
@@ -61,7 +69,7 @@
 </programme>
 <programme start="224000 -0300" stop="231000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
- <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+ <desc lang="pt">O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
 </programme>
 <programme start="231000 -0300" stop="233000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
@@ -73,51 +81,51 @@
 </programme>
 
  <!-- Programas Canal Usuario--> <!--Seg a Dom-->
-<programme start="000000 -0300" stop="020000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="020000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="020000 -0300" stop="030000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="020000 -0300" stop="030000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="030000 -0300" stop="040000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="030000 -0300" stop="040000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="040000 -0300" stop="100000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="040000 -0300" stop="100000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="100000 -0300" stop="110000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="100000 -0300" stop="110000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="110000 -0300" stop="130000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="110000 -0300" stop="130000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="130000 -0300" stop="140000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="130000 -0300" stop="140000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="140000 -0300" stop="170000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="140000 -0300" stop="170000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="170000 -0300" stop="180000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="170000 -0300" stop="180000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="180000 -0300" stop="220000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="180000 -0300" stop="220000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="220000 -0300" stop="230000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="220000 -0300" stop="230000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="230000 -0300" stop="r000000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="230000 -0300" stop="r000000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
