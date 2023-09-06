@@ -15,6 +15,9 @@
 <channel id="CentralTV.br"> <display-name lang="pt">Central TV HD</display-name>
   <icon src="https://pbs.twimg.com/profile_images/790055262375804928/3gX87zyO_400x400.jpg"/>
 </channel>
+<channel id="ISTVHD.br">
+ <display-name lang="pt">ISTV HD</display-name> <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
+</channel>
 <channel id="pooptv.br"> <display-name lang="pt">PoopTV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
 </channel>
@@ -31,6 +34,8 @@
 </channel> 
 <channel id="PLAYTV.br"> <display-name lang="pt">PlayTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
  <validity start="20230820" stop="20230910" />
+</channel>
+<channel id="vivaxtv.br"> <display-name lang="pt">Vivax TV</display-name> <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
 <channel id="yaaeeh.br"> <display-name lang="pt">Yeeaah HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp"/>
@@ -128,6 +133,70 @@
 <programme start="230000 -0300" stop="r000000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+
+ <!-- Programas ISTV--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="053000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" /> <category>Filme</category>
+ <title lang="pt">Madrugada Cinéfilos</title>  <rating system="CLASSIND"><value>14</value></rating> <icon src="https://istv.rizoo.com.br/assets/madrugada_cinefilos.jpeg" />
+ <desc lang="pt">Filmes que marcaram epocas.</desc>
+</programme>
+<programme start="053000 -0300" stop="090000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" /> <category>Séries</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+<programme start="090000 -0300" stop="110000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" /> <category>Infantil</category>
+ <title lang="pt">Acorda Criança</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_acorda_criancada.jpeg" />
+ <desc lang="pt">Os desenhos de graande sucesso aqui.</desc>
+</programme>
+<programme start="110000 -0300" stop="113000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Músicais</category>
+ <title lang="pt">SÓ Sucessos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_sucessos.jpeg" />
+ <desc lang="pt">Os melhores sucessos musicais aqui.</desc>
+</programme>
+<programme start="113000 -0300" stop="120000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Viagens</category>
+ <title lang="pt">Seta Viagem</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_seta_viagens.jpeg" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="120000 -0300" stop="123000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Série</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+<programme start="123000 -0300" stop="130000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Telejornal</category>
+ <title lang="pt">ISTV Notícias</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_noticias.jpeg" />
+ <desc lang="pt">Fique bem informado.</desc>
+</programme>
+<programme start="130000 -0300" stop="140000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Musicais</category>
+ <title lang="pt">Só no Forró</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_so_no_forro.jpeg" />
+ <desc lang="pt">Fique bem informado.</desc>
+</programme>
+<programme start="140000 -0300" stop="150000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Comédia</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+<programme start="150000 -0300" stop="163000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Comédia</category>
+ <title lang="pt">Tarde ISTV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_so_no_forro.jpeg" />
+ <desc lang="pt">Programa.</desc>
+</programme>
+<programme start="163000 -0300" stop="180000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Comédia</category>
+ <title lang="pt">No Break</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_so_no_forro.jpeg" />
+ <desc lang="pt">Fique bem informado.</desc>
+</programme>
+   <!--Sab-->
+<programme start="110000 -0300" stop="123000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Séries</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+<programme start="123000 -0300" stop="130000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Variedades</category>
+ <title lang="pt">Pet House</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="130000 -0300" stop="160000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Comédia</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+   <!--dom-->
+<programme start="110000 -0300" stop="160000 -0300" channel="ISTVHD.br"> <weekday days="dom" /> <category>Comédia</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
 </programme>
    
  <!-- Programas PoopTV--> <!--Seg a Dom-->
