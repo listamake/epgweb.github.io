@@ -237,11 +237,11 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 <programme start="140000 -0300" stop="144000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Festival Hanna Barbera</title>
+ <title lang="pt">Festival Hanna Barbera</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
 <programme start="144000 -0300" stop="150000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programa Faça e Lucre</title>
+ <title lang="pt">Programa Faça e Lucre</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_15-1024x573.jpg" />
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
 <programme start="150000 -0300" stop="153000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -261,7 +261,7 @@
  <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programação Central TV</title>
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 <programme start="210000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
