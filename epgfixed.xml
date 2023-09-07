@@ -21,6 +21,9 @@
 <channel id="pooptv.br"> <display-name lang="pt">PoopTV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
 </channel>
+<channel id="RetroCartoon.br">
+ <display-name lang="pt">RETRO CARTOON SD</display-name> <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
+</channel>
 <channel id="RSNewsSports.br">
  <display-name lang="pt">RS News Sports</display-name>
  <display-name lang="pt">RS News Sports 2</display-name>
@@ -34,6 +37,8 @@
 </channel> 
 <channel id="PLAYTV.br"> <display-name lang="pt">PlayTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
  <validity start="20230820" stop="20230910" />
+</channel>
+<channel id="ulbtv.br"> <display-name lang="pt">UlbTV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp"/>
 </channel>
 <channel id="vivaxtv.br"> <display-name lang="pt">Vivax TV</display-name> <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
