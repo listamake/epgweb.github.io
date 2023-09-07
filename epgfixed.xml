@@ -214,6 +214,161 @@
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
+
+ <!-- Programas Central--> <!--seg e sex-->
+<programme start="000000 -0300" stop="073000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="073000 -0300" stop="113000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
+ <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
+</programme>
+<programme start="113000 -0300" stop="130000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa 190</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_18-1024x553.png" />
+ <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
+</programme>
+<programme start="130000 -0300" stop="131500 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Momento Mario Celso</title>
+ <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
+</programme>
+<programme start="131500 -0300" stop="140000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="140000 -0300" stop="144000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Festival Hanna Barbera</title>
+ <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
+</programme>
+<programme start="144000 -0300" stop="150000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa Faça e Lucre</title>
+ <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
+</programme>
+<programme start="150000 -0300" stop="153000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="153000 -0300" stop="183000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cinemania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
+ <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
+</programme>
+<programme start="183000 -0300" stop="193000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Milk News</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_3-1024x535.jpg" />
+ <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
+</programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
+ <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Central TV</title>
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+
+ <!-- Programas Central--> <!--sab-->
+<programme start="000000 -0300" stop="030000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Sessão Terror</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/08/Screenshot_53-1024x638.jpg" />
+ <desc lang="pt">Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
+</programme>
+<programme start="030000 -0300" stop="040000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Festival Hanna Barbera</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
+ <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
+</programme>
+<programme start="040000 -0300" stop="070000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">CentralTV CineClassic</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1-1024x508.jpg" />
+ <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
+</programme>
+<programme start="070000 -0300" stop="093000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="093000 -0300" stop="110000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
+ <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
+</programme>
+<programme start="110000 -0300" stop="113000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Programa Câmera Brasil</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/WhatsApp-Image-2022-07-11-at-12.37.28.jpeg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="113000 -0300" stop="133000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Jukebox TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_21-1024x537.jpg" />
+ <desc lang="pt">As mais belas canções do sertanejo raiz você pede aqui no Programa JukeboxTV.</desc>
+</programme>
+<programme start="133000 -0300" stop="143000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Hora do Ulisses</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_19.png" />
+ <desc lang="pt">"Hora do Ulisses" é o programa de culinária que vai transformar as suas refeições em momentos especiais! Comandado pelo renomado Chef Ulisses Viganó Junior, o programa apresenta receitas criativas e práticas, ideais para o dia a dia ou para impressionar em ocasiões especiais.</desc>
+</programme>
+<programme start="141500 -0300" stop="151500 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Programa da Cris</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_4-1-1.png" />
+ <desc lang="pt">O Programa Da Cris é direcionado para incentivar as mulheres a encontrarem e desenvolverem a sua voz, ou seja, identificar os seus ativos e os alavancar.</desc>
+</programme>
+<programme start="151500 -0300" stop="160000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Do Fundo do Baú</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_2-1024x607.jpg" />
+ <desc lang="pt">As velhinhas estão de volta! Os melhores flashbacks dos anos 80 e 90 você acompanha nas edições do programa Do Fundo do Baú…</desc>
+</programme>
+<programme start="160000 -0300" stop="200000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Cinemania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
+ <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
+</programme>
+<programme start="200000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="sab" />
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+
+ <!-- Programas Central--> <!--dom-->
+<programme start="000000 -0300" stop="030000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Sessão Terror</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/08/Screenshot_53-1024x638.jpg" />
+ <desc lang="pt">Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
+</programme>
+<programme start="030000 -0300" stop="070000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">CentralTV CineClassic</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1-1024x508.jpg" />
+ <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
+</programme>
+<programme start="070000 -0300" stop="080000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
+ <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
+</programme>
+<programme start="080000 -0300" stop="110000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="110000 -0300" stop="113000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Programa Câmera Brasil</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/WhatsApp-Image-2022-07-11-at-12.37.28.jpeg" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="113000 -0300" stop="124500 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="124500 -0300" stop="144500 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Jukebox TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_21-1024x537.jpg" />
+ <desc lang="pt">As mais belas canções do sertanejo raiz você pede aqui no Programa JukeboxTV.</desc>
+</programme>
+<programme start="144500 -0300" stop="173000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Super Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_1-1024x559.png" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="173000 -0300" stop="183000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Programa Bate Papo</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_4-1024x574.jpg" />
+ <desc lang="pt">Semanalmente Mário Cesar trás entrevistas com empresários e personalidades da sociedade Paranaense. Não perca, Programa Bate Papo.</desc>
+</programme>
+<programme start="183000 -0300" stop="200000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Cinemania</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
+ <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Planeta Games - Reprise</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_24-1024x619.jpg" />
+ <desc lang="pt">Reprise</desc>
+</programme>
+<programme start="210000 -0300" stop="r003000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+   
  <!-- Programas GLNTV--> <!--Seg a SEX-->
 <programme start="010000 -0300" stop="080000 -0300" channel="GlnTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
