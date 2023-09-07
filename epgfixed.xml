@@ -47,7 +47,7 @@
 </channel> 
 
  <!-- Programas Canal Start--> <!-- Seg a SEx-->
-<programme start="010000 -0300" stop="030000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="030000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
@@ -307,6 +307,18 @@
 <programme start="120000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
+</programme>
+
+ <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Desenhos Clássicos 24h</title>
+ <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Desenhos Clássicos 24h</title>
+ <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
    
  <!-- Programas RS News Sports--> <!--Seg a Dom-->
