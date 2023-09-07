@@ -215,7 +215,7 @@
  <desc lang="pt">Os desenhos de graande sucesso aqui.</desc>
 </programme>
 <programme start="110000 -0300" stop="113000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Músicais</category>
- <title lang="pt">SÓ Sucessos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_sucessos.jpeg" />
+ <title lang="pt">Só Sucessos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_sucessos.jpeg" />
  <desc lang="pt">Os melhores sucessos musicais aqui.</desc>
 </programme>
 <programme start="113000 -0300" stop="120000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Viagens</category>
@@ -258,6 +258,22 @@
  <title lang="pt">Seta Viagem</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_seta_viagens.jpeg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
+<programme start="203000 -0300" stop="210000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Série</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+<programme start="210000 -0300" stop="230000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" /> <category>Filme</category>
+ <title lang="pt">Cine ISTV Play</title>  <rating system="CLASSIND"><value>14</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_cine_istvplay.jpeg" />
+ <desc lang="pt">Filmes que marcaram epocas.</desc>
+</programme>
+<programme start="230000 -0300" stop="233000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Série</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Músicais</category>
+ <title lang="pt">Só Sucessos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_sucessos.jpeg" />
+ <desc lang="pt">Os melhores sucessos musicais aqui.</desc>
+</programme>
    <!--Sab-->
 <programme start="110000 -0300" stop="123000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Séries</category>
  <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
@@ -297,6 +313,43 @@
  <title lang="pt">Programação RS News Sports</title>  <rating system="CLASSIND"><value>AL</value></rating>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
+
+<programme start="000000 -0300" stop="070000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
+ <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
+</programme>
+<programme start="070000 -0300" stop="090000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
+ <desc lang="pt">Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc>
+</programme>
+<programme start="090000 -0300" stop="123000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
+ <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
+</programme>
+<programme start="123000 -0300" stop="150000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Tele Clássicos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
+ <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
+</programme>
+<programme start="150000 -0300" stop="163000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cinema na TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_012605-690x302.jpg" />
+ <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
+</programme>
+<programme start="163000 -0300" stop="183000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Sessão Anime</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Sessao-Anime-690x302.jpeg" />
+ <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
+</programme>
+<programme start="183000 -0300" stop="203000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Ulb Seriados</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-Seriados-690x302.jpg" />
+ <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
+</programme>
+<programme start="203000 -0300" stop="220000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cine Pipoca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_021041-690x302.jpg" />
+ <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
+</programme>
+<programme start="220000 -0300" stop="r000000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
+ <desc lang="pt">No Series você assiste as melhores Series da TV!</desc>
+</programme>
    
  <!-- Programas Yeeaah--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
@@ -310,23 +363,23 @@
    
  <!-- Programas Canal RBTV-->
 <programme start="000000 -0300" stop="060000 -0300" channel="rbtv.br">
- <weekday days="seg,ter,qui" />
- <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 <programme start="060000 -0300" stop="130000 -0300" channel="rbtv.br">
  <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 <programme start="130000 -0300" stop="193000 -0300" channel="rbtv.br">
- <weekday days="qua" />
- <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A14</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A14</value></rating>  <icon src="" />
  <desc lang="pt">Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 <programme start="193000 -0300" stop="r000000 -0300" channel="rbtv.br">
- <weekday days="qua,sex,sab,dom" />
- <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="" />
  <desc lang="pt">Perdeu alguma coisa?.</desc>
 </programme>
 
