@@ -103,6 +103,23 @@
  <title lang="pt">Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
  <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
 </programme>
+ <!-- Programas Geekdot--> <!-- Sab-->
+<programme start="000000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="070000 -0300" stop="080000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Budega Do Maguila</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://apoiocoletivo.com/public/campaigns/large/74541633211598izlwghxly0tipwcd4vdzhmjcos4bqzb8ket1lqao.webp" />
+ <desc lang="pt">Brega, forró, Jovem Guarda, lambada, sertanejo e o que o ouvinte pedir… Toda semana, uma sequência musical escolhida a dedo, dando espaço também para o “lado B” e artistas nem tão conhecidos…</desc>
+</programme>
+<programme start="080000 -0300" stop="103000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Laid-Back Camp (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/LAIDBACK_img_site-200x144.png" />
+ <desc lang="pt">Nadeshiko, uma colegial que se mudou para Yamanashi, decide ir visitar o famoso Monte Fuji das notas de mil ienes. Contudo, enquanto pedalava para Motosu, ela acaba desmaiando de cansaço e acorda à noite num lugar desconhecido, sem saber como voltar pra casa.</desc>
+</programme>
+<programme start="103000 -0300" stop="130000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: I've Been Killing Slimes For 300 Years And Maxed Out My Level</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/SLIME_img_site-200x144.png" />
+ <desc lang="pt">Uma comédia caseira sobre uma garota poderosa que quer evitar a fadiga! Depois de morrer de estafa no mundo real, eu reencarnei como uma bruxa imortal, e passei 300 anos desfrutando a vida boa... Até que acabei batendo no nível 99! Tantos anos matando slimes pra pagar as contas me deram bastante XP...</desc>
+</programme>
 
  <!-- Programas Canal Usuario--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="020000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
