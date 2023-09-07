@@ -41,6 +41,36 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp"/>
 </channel> 
 
+ <!-- Programas Canal Start--> <!-- Seg a SEx-->
+<programme start="010000 -0300" stop="030000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
+ <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+</programme>
+<programme start="030000 -0300" stop="040000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Hora H</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
+ <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+</programme>
+<programme start="040000 -0300" stop="r000000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Gameplay na TV</title>
+ <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+ <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
+</programme>
+ <!-- Programas Canal Start--> <!--SAB E DOM-->
+<programme start="000000 -0300" stop="020000 -0300" channel="canalstart.br"> <weekday days="sab,dom" />
+ <title lang="pt">Hora Cult</title>
+ <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+ <rating system="CLASSIND"><value>16</value></rating> <icon src="https://cantodosclassicos.com/wp-content/uploads/2016/08/10082016-filmes-classicos-cult-gratis.jpg" />
+</programme>
+<programme start="020000 -0300" stop="030000 -0300" channel="canalstart.br"> <weekday days="sab,dom" />
+ <title lang="pt">Hora H - Especial</title>
+ <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+ <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
+</programme>
+<programme start="030000 -0300" stop="r000000 -0300" channel="canalstart.br"> <weekday days="sab,dom" />
+ <title lang="pt">Gameplay na TV - Maratona</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
+ <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+</programme>
+   
  <!-- Programas Geekdot--> <!-- Semanal-->
 
 <programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
