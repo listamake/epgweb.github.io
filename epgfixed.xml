@@ -209,12 +209,24 @@
  <desc lang="pt">Aquela série pra matar a saudades.</desc>
 </programme>
 <programme start="150000 -0300" stop="163000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Comédia</category>
- <title lang="pt">Tarde ISTV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_so_no_forro.jpeg" />
+ <title lang="pt">Tarde ISTV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn-az.allevents.in/events5/banners/709485e80f8bf4713a80872d1876f41c792b6780181dd43d9d0ad9cf263399be-rimg-w526-h296-gmir.jpg" />
  <desc lang="pt">Programa.</desc>
 </programme>
 <programme start="163000 -0300" stop="180000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Comédia</category>
- <title lang="pt">No Break</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_so_no_forro.jpeg" />
+ <title lang="pt">No Break</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn-az.allevents.in/events5/banners/709485e80f8bf4713a80872d1876f41c792b6780181dd43d9d0ad9cf263399be-rimg-w526-h296-gmir.jpg" />
+ <desc lang="pt">Musica</desc>
+</programme>
+<programme start="180000 -0300" stop="193000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Telejornal</category>
+ <title lang="pt">Contra Tempo</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_contra_o_tempo.jpeg" />
  <desc lang="pt">Fique bem informado.</desc>
+</programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Infantil</category>
+<title lang="pt">Hora Animada</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://cdn-az.allevents.in/events5/banners/709485e80f8bf4713a80872d1876f41c792b6780181dd43d9d0ad9cf263399be-rimg-w526-h296-gmir.jpg" />
+ <desc lang="pt">Fique bem informado.</desc>
+</programme>
+<programme start="200000 -0300" stop="203000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Comédia</category>
+ <title lang="pt">Seta Viagem</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_seta_viagens.jpeg" />
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
    <!--Sab-->
 <programme start="110000 -0300" stop="123000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Séries</category>
@@ -229,6 +241,7 @@
  <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
  <desc lang="pt">Aquela série pra matar a saudades.</desc>
 </programme>
+
    <!--dom-->
 <programme start="110000 -0300" stop="160000 -0300" channel="ISTVHD.br"> <weekday days="dom" /> <category>Comédia</category>
  <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
