@@ -505,12 +505,12 @@
  <title lang="pt">Tarde ISTV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn-az.allevents.in/events5/banners/709485e80f8bf4713a80872d1876f41c792b6780181dd43d9d0ad9cf263399be-rimg-w526-h296-gmir.jpg" />
  <desc lang="pt">Programa.</desc>
 </programme>
-<programme start="163000 -0300" stop="180000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Comédia</category>
- <title lang="pt">No Break</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn-az.allevents.in/events5/banners/709485e80f8bf4713a80872d1876f41c792b6780181dd43d9d0ad9cf263399be-rimg-w526-h296-gmir.jpg" />
- <desc lang="pt">Musica</desc>
+<programme start="163000 -0300" stop="180000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Filme</category>
+ <title lang="pt">Cine No Break</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn-az.allevents.in/events5/banners/709485e80f8bf4713a80872d1876f41c792b6780181dd43d9d0ad9cf263399be-rimg-w526-h296-gmir.jpg" />
+ <desc lang="pt">Uma hora de filme sem intervalo</desc>
 </programme>
 <programme start="180000 -0300" stop="193000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Telejornal</category>
- <title lang="pt">Contra Tempo</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_contra_o_tempo.jpeg" />
+ <title lang="pt">Contra o Tempo</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_contra_o_tempo.jpeg" />
  <desc lang="pt">Fique bem informado.</desc>
 </programme>
 <programme start="193000 -0300" stop="200000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Infantil</category>
@@ -556,13 +556,33 @@
  <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
  <desc lang="pt">Aquela série pra matar a saudades.</desc>
 </programme>
+<programme start="160000 -0300" stop="180000 -0300" channel="ISTVHD.br"> <weekday days="dom" /> <category>Filme</category>
+ <title lang="pt">Cine ISTV Play</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_cine_istvplay.jpeg" />
+ <desc lang="pt">Filmes que marcaram epocas.</desc>
+</programme>
+<programme start="180000 -0300" stop="190000 -0300" channel="ISTVHD.br"> <weekday days="dom" /> <category>Infantil</category>
+<title lang="pt">Hora Animada</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://cdn-az.allevents.in/events5/banners/709485e80f8bf4713a80872d1876f41c792b6780181dd43d9d0ad9cf263399be-rimg-w526-h296-gmir.jpg" />
+ <desc lang="pt">Fique bem informado.</desc>
+</programme>
+<programme start="190000 -0300" stop="210000 -0300" channel="ISTVHD.br"> <weekday days="dom" /> <category>Comédia</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="ISTVHD.br"> <weekday days="dom" /> <category>Série</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
    
  <!-- Programas PoopTV--> <!--Seg a Dom-->
-<programme start="000000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
- <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
+<programme start="000000 -0300" stop="030000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">SESSÃO SEM CENSURA (+18)</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">Poops do Mestre3224, Tecraudio, dogpupe e outros sem censura. Não recomendado para menores de 18 anos.</desc>
 </programme>
-<programme start="120000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="030000 -0300" stop="050000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">SESSÃO TV INTERDIMENSIONAL</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">"Nunca assista TV sozinho às 3 da manhã", eles diziam.</desc>
+</programme>
+<programme start="050000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
 </programme>
