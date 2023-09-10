@@ -2,9 +2,7 @@
 <tv generator-info-name="epgmaker" generator-info-url="http://maketvbr">
 
    <!-- IDs dos Canais -->
-<channel id="anitv.br"> <display-name lang="pt">Geekdot HD</display-name>
-   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.webp"/>
-</channel>
+
 <channel id="canalstart.br"> <display-name lang="pt">Canal Start HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8306e8897f3941eb7c2ac7b583b92f71.webp"/>
 </channel>
@@ -14,6 +12,9 @@
 </channel>
 <channel id="CentralTV.br"> <display-name lang="pt">Central TV HD</display-name> 
   <icon src="https://pbs.twimg.com/profile_images/790055262375804928/3gX87zyO_400x400.jpg"/>
+</channel>
+<channel id="anitv.br"> <display-name lang="pt">Geekdot HD</display-name>
+   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.webp"/>
 </channel>
 <channel id="GlnTV.br">
  <display-name lang="pt">GLN TV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d6cb19f3f5b307780c2169b89c826ae.webp"/>
@@ -87,31 +88,31 @@
    
  <!-- Programas Geekdot--> <!-- Semanal-->
 
-<programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="000500 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000500 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
  <desc lang="pt">Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
 </programme>
-<programme start="003000 -0300" stop="003500 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="003000 -0300" stop="003500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
  <desc lang="pt">Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
 </programme>
-<programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Paranoia Agent</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://easternminute.com/wp-content/uploads/Paranoia-Agent-678x381.png" />
  <desc lang="pt">De Satoshi Kon, o lendário diretor de Perfect Blue and Paprika, chega um thriller psicológico sombrio e misterioso. Cidadãos em Musashino estão sendo assaltados e aterrorizados, e dois detetives devem descobrir o mistério do Garoto do Taco.</desc>
 </programme>
-<programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Dororo</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://1.bp.blogspot.com/-QDrFmQp2pVs/X2jwClQAmEI/AAAAAAAAgsE/lXElWIZfnIA6rd5COczxTycBwFGKxe5xwCNcBGAsYHQ/w1200-h630-p-k-no-nu/resenha-dororo-anime.jpg" />
  <desc lang="pt">A terra do ganancioso senhor samurai Daigo Kagemitsu está morrendo, e ele faria qualquer coisa pelo poder, até mesmo renunciar a Buda e fazer um pacto com os demônios. Suas orações são respondidas por 12 demônios que lhe concedem o poder que ele deseja.</desc>
 </programme> 
-<programme start="020000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="020000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
@@ -170,12 +171,32 @@
  <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
 </programme>
 <programme start="143000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">Maratona #FDS: Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+ <title lang="pt">Maratona #FDS: Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2023/07/legiao_8pzv4yqUaZ3A.jpg.webp" />
  <desc lang="pt">Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
 </programme>
 <programme start="170000 -0300" stop="193000 -0300" channel="anitv.br"> <weekday days="dom" />
  <title lang="pt">Maratona #FDS: Ranma ½ (Segunda Parte)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2020/12/Ranma-%C2%BD-Anime-1.jpg" />
  <desc lang="pt">Ranma Saotome é um jovem estudante de artes marciais. Certo dia, ele e seu pai partem para uma jornada de treinamento na China. Para o azar deles, ambos caíram em fontes estranhas durante o treinamento.</desc>
+</programme>
+<programme start="193000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://japan-geeks.com/wp-content/uploads/2022/03/FMNUfRVaUAAVfGq-768x436.jpeg" />
+ <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
+</programme>
+<programme start="220000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">CineDot: Fate/Grand Order: Final Singularity - Grand Temple Of Time: Solomon)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/09/FATE_img_site-200x144.png" />
+ <desc lang="pt">Depois de passar por todas as sete Singularidades, a Organização de Segurança da Caldéia finalmente chegou ao ponto final da Grande Ordem: A Singularidade Final, Grande Templo do Tempo: Salomão. Agora é a hora de derrotar a raiz de todo o mal, Salomão, o Rei dos Magos.</desc>
+</programme>
+<programme start="000000 -0300" stop="023000 -0300" channel="anitv.br"> <weekday days="seg" />
+ <title lang="pt">Maratona #FDS: All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
+ <desc lang="pt">Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
+</programme>
+<programme start="023000 -0300" stop="050000 -0300" channel="anitv.br"> <weekday days="seg" />
+ <title lang="pt">Maratona #FDS: Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
+ <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
+</programme>
+<programme start="050000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="seg" />
+ <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 
  <!-- Programas Canal Usuario--> <!--Seg a Dom-->
