@@ -164,6 +164,19 @@
  <title lang="pt">Maratona #FDS: I've Been Killing Slimes For 300 Years And Maxed Out My Level</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/SLIME_img_site-200x144.png" />
  <desc lang="pt">Uma comédia caseira sobre uma garota poderosa que quer evitar a fadiga! Depois de morrer de estafa no mundo real, eu reencarnei como uma bruxa imortal, e passei 300 anos desfrutando a vida boa... Até que acabei batendo no nível 99! Tantos anos matando slimes pra pagar as contas me deram bastante XP...</desc>
 </programme>
+ <!-- Programas Geekdot--> <!--dom-->
+<programme start="120000 -0300" stop="143000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+ <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
+</programme>
+<programme start="143000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+ <desc lang="pt">Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
+</programme>
+<programme start="170000 -0300" stop="193000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Ranma ½ (Segunda Parte)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2020/12/Ranma-%C2%BD-Anime-1.jpg" />
+ <desc lang="pt">Ranma Saotome é um jovem estudante de artes marciais. Certo dia, ele e seu pai partem para uma jornada de treinamento na China. Para o azar deles, ambos caíram em fontes estranhas durante o treinamento.</desc>
+</programme>
 
  <!-- Programas Canal Usuario--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="020000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
@@ -364,13 +377,29 @@
  <title lang="pt">Planeta Games - Reprise</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_24-1024x619.jpg" />
  <desc lang="pt">Reprise</desc>
 </programme>
-<programme start="210000 -0300" stop="r003000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+<programme start="210000 -0300" stop="213000 -0300" channel="CentralTV.br"> <weekday days="dom" />
  <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
+<programme start="213000 -0300" stop="230000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Debate Bola na TV - Ao Vivo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/06/Backgroud-Debate-Bola-1024x576.png" />
+ <desc lang="pt">Uma seleção de especialistas entra em campo todo Domingo (Ao vivo) para debater os times da capital Paranaense e de todo o Brasil!</desc>
+</programme>
+<programme start="230000 -0300" stop="233000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Programa A Cadeia da Prece</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_17-1024x576.jpg" />
+ <desc lang="pt">Programa da Igreja Quadrangular de Curitiba (IEQ Ecoville) apresentado pelo Pastor Rogério Amorim.</desc>
+</programme>
+<programme start="233000 -0300" stop="235500 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Sessão Mr. Bean</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/11/jpg.jpg" />
+ <desc lang="pt">Mr. Bean é uma sitcom de comédia e humor britânico, estrelada pelo personagem de mesmo nome, criado e interpretado pelo ator e comediante Rowan Atkinson.</desc>
+</programme>
+<programme start="235500 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Meu Segredo</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/05/maxresdefault.jpg" />
+ <desc lang="pt">O Programa Meu Segredo, é um programa voltado aos 3 pilares: Família, Trabalho e Religião, apresentado pelo piloto e apresentador Alexandre Navarro, que direciona o convidado a uma reflexão sobre os 3 temas, resumindo-os em apenas 1 palavra. Agora pela Rede CentralTV Brasil.</desc>
+</programme>
    
  <!-- Programas GLNTV--> <!--Seg a SEX-->
-<programme start="010000 -0300" stop="080000 -0300" channel="GlnTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="080000 -0300" channel="GlnTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -399,16 +428,16 @@
  <title lang="pt">Hits Anos 80, 90 e 2000</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="210000 -0300" stop="r010000 -0300" channel="GlnTV.br"> <weekday days="sex" />
+<programme start="210000 -0300" stop="r000000 -0300" channel="GlnTV.br"> <weekday days="sex" />
  <title lang="pt">GLN SESSÃO TERROR</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://mir-s3-cdn-cf.behance.net/projects/404/cbc6e1103257869.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
 <!--Sab e dom-->
-<programme start="010000 -0300" stop="080000 -0300" channel="GlnTV.br"> <weekday days="sab,dom" />
+<programme start="000000 -0300" stop="080000 -0300" channel="GlnTV.br"> <weekday days="sab,dom" />
  <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="080000 -0300" stop="r010000 -0300" channel="GlnTV.br"> <weekday days="sab,dom" />
+<programme start="080000 -0300" stop="r000000 -0300" channel="GlnTV.br"> <weekday days="sab,dom" />
  <title lang="pt">Diversos</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
