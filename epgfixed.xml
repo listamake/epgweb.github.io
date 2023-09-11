@@ -230,7 +230,19 @@
  <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-
+   
+ <!-- Programas Canal Teste--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="Canalteste"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação de Teste</title>
+ <desc lang="pt">Canal em fase de testes</desc>
+ <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="Canalteste"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação de Teste</title>
+ <desc lang="pt">Canal em fase de testes</desc>
+ <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+</programme>
+   
  <!-- Programas Canal Usuario--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="020000 -0300" channel="CanalUsuario.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
@@ -726,7 +738,7 @@
  <desc lang="pt">Aprofundando a biblia</desc>
 </programme> 
 <programme start="003000 -0300" stop="043000 -0300" channel="vivaxtv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação VivaxTV</title>
+ <title lang="pt">Programação VivaxTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/0_9dE8i1Qf4/mqdefault.jpg" />
  <desc lang="pt">A Rede Vivax de Televisão , É A TV FEITA PARA VOCÊ.</desc>
 </programme>  
 <programme start="043000 -0300" stop="063000 -0300" channel="vivaxtv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
