@@ -644,7 +644,7 @@
  <title lang="pt">Viva Cidade</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p5.jpg" />
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="100000 -0300" stop="130000 -0300" channel="radiocidadeverde.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+<programme start="100000 -0300" stop="113000 -0300" channel="radiocidadeverde.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Tem de Tudo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i1.sndcdn.com/artworks-WSteS34JMJJTvL3M-JSq7Tw-t500x500.jpg" />
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
@@ -672,6 +672,78 @@
  <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
+
+ <!-- Programas Rádio Clube 720AM--> <!--Seg a Sex-->
+<programme start="000000 -0300" stop="050000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Madrugada Clube AM</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
+</programme>
+<programme start="050000 -0300" stop="070000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Você faz a notícia</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">jonal</desc>
+</programme>
+<programme start="070000 -0300" stop="073000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Alvorada Esportiva</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
+</programme>
+<programme start="073000 -0300" stop="083000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Clube Notícias</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">jornal</desc>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+</programme>
+<programme start="083000 -0300" stop="110000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Manhã na Clube</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">jornal</desc>
+</programme>
+<programme start="110000 -0300" stop="120000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Momento Esportivo</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfKzvUQxBvYY7U8Bqt_uErQFzAnGGYj5WHI1T_OJyPS9SyOgbDV8PQF6If4cFrl8hgZue5MhYZBlPk9SYGzCWzRMp3v6w6VeK_5xht7aSZZlrhzWYdLEx1vrqG4ZWqBdT10vqv0LDQOtaTRCubfl9uTIW9QqufrBf9r30azqNvpBvI0ZWRuFmtvTtp8-U/s320/Screenshot_20230910-095715_Instagram20Lite.png" />
+ <desc lang="pt">é uma espaço onde o torcedor tem vez e voz.</desc>
+</programme>
+<programme start="120000 -0300" stop="130000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> 
+ <title lang="pt">Bola ao centro</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjbFOgY7UbIJUmHFa50n32a_996EphyB2xMePFeSjCQoivu91bjhG0AWOWG2sjra_plFc3y29txP0vSje-tWSH6YtrMt39H0gUzcWsEjqyM43hyregmb5q0Pem8gbvrXcnWqiJaBzFR8dG1JWHgczNPsvo1IVdD9uBJjsKJpy-mbL5sTfohvIYB-pb80g/s320/Screenshot_20230909-235649_Instagram20Lite.png" />
+ <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
+</programme>
+<programme start="130000 -0300" stop="140000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Bate bola</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDE5gsTLkWrl-zNNH7Yg5P5yw78kzx7-f-wGyE4kD8BUkQGElP6cHpA03lzjONezK5VCayHZqHTWW2Q5KBhRViTc6Yu9cXNmQSvavK6Irp1G6RUB8hH5fRqin2zKXC9SBOuij93Z1KnFCTM0tAQnGp_noLae6xbrcr23D70oyiapUtV_752RF353ffl98/s320/Screenshot_20230910-095030_Instagram20Lite.png" />
+ <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sexta, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
+</programme>
+<programme start="140000 -0300" stop="170000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua" /> 
+ <title lang="pt">Boa Tarde Clube</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoByY1lt0WONidusG1hU2GqSS63Yd48CmLMa_nszIFyYuoBlMeNojq2ReH7heGwMrE0O1Ecl6HVHyHsVkI91NmdA23Qln5Hu_KCZ7KUlVRF12tPn_m6NULot_U1reSpuEDlXkDR8gyLiX-BbwwhfbcngDtOpcS15kkBbSos6aa_UNLJnvXKRvFl5gD4QU/s320/Screenshot_20230910-093758_Instagram20Lite.png" />
+ <desc lang="pt">Seleção musical</desc>  
+</programme>
+<programme start="140000 -0300" stop="160000 -0300" channel="radioclubeampe.br"> <weekday days="qui" /> 
+ <title lang="pt">Boa Tarde Clube</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoByY1lt0WONidusG1hU2GqSS63Yd48CmLMa_nszIFyYuoBlMeNojq2ReH7heGwMrE0O1Ecl6HVHyHsVkI91NmdA23Qln5Hu_KCZ7KUlVRF12tPn_m6NULot_U1reSpuEDlXkDR8gyLiX-BbwwhfbcngDtOpcS15kkBbSos6aa_UNLJnvXKRvFl5gD4QU/s320/Screenshot_20230910-093758_Instagram20Lite.png" />
+ <desc lang="pt">Seleção musical</desc>  
+</programme>
+<programme start="160000 -0300" stop="170000 -0300" channel="radioclubeampe.br"> <weekday days="qui" /> 
+ <title lang="pt">Microfone Aberto</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiucHcuAf4SoPW1ri010VpA2fIdomn65MSFq3wubxRjiOjCzLNULFyxtKZILMsbNNEWE5M4UM3L9VwBfja0NJfTBOkHGjoeel8VeL91x4o9agpPeyLQAbA_mvJOXS84CNU6j6zEkqciY5wf-cF7qBKnnQIUyfgtZy2eXH9u9ZAa0-W-Y4a_BLy43qWTtBY/s320/Screenshot_20230910-093845_Instagram20Lite.png" />
+ <desc lang="pt">Entrevistas com proficionais que fizeram a historia do radio brasileiro, apresentação de Andre Luiz Cabral.</desc>  
+</programme>
+<programme start="140000 -0300" stop="150000 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
+ <title lang="pt">Boa Tarde Clube</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoByY1lt0WONidusG1hU2GqSS63Yd48CmLMa_nszIFyYuoBlMeNojq2ReH7heGwMrE0O1Ecl6HVHyHsVkI91NmdA23Qln5Hu_KCZ7KUlVRF12tPn_m6NULot_U1reSpuEDlXkDR8gyLiX-BbwwhfbcngDtOpcS15kkBbSos6aa_UNLJnvXKRvFl5gD4QU/s320/Screenshot_20230910-093758_Instagram20Lite.png" />
+ <desc lang="pt">Seleção musical</desc>  
+</programme>
+<programme start="150000 -0300" stop="170000 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
+ <title lang="pt">Cena Livre</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSavbP419bm7eZqulgz9qhsa5QIMpDecNFl-BiAzeCo2S2vWEl2o11FuLuw66RT4zujpiFwTTBl1Lnaj-9jg2XWLf7QKH9KSVmpU_7RFlw1KpFU5s6caKNcz_U4JaEiTtWZ9HaJ_S3T2kWHrRauzw6nB5sr7zIeBgXTC9GHtCbC9oIc0gvclwEWTlouIU/s320/Screenshot_20230910-100325_Instagram20Lite.png" />
+ <desc lang="pt">Seleção musical</desc>  
+</programme>
+<programme start="170000 -0300" stop="180000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Fim de Tarde na Fazenda</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSTh_u6TR0QFFXDKVARFNroxgv2GCVUVCSnFxmbhLOSUSgRGGFlHL1dgQuEqNfb-1SbkRLJzOuOMlEYZOs7vdNLAS_Pp981icROxwucjCNpDA0obPSrsAzrcBhuxikI2d43BmmTUYWbAMUG8ZcKiEyJmsiVjeoNmr1Knzdy1yK0n5Aswt5mJtpn1kgImU/s320/Screenshot_20230910-092948_Instagram20Lite.png" />
+ <desc lang="pt">Do interior pra cidade, o forró raís no fim de tarde na faazenda </desc>
+</programme>
+<programme start="180000 -0300" stop="190000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">A Hora dos Esportes</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWIlHeOJbA9bH49-tXppajjeZz1HoNIH0VMY1O8g_Zn5dtwVu0pAiZnefp4BBSSyuZHOTR1y3xoMyN0Jm0wGx_JccrF4LUkrP1hkfsM9OjT3TDyj-VK9UJ_RZQ6sPV8GjjptEkmWKWEDgUWqPT5ovLjwlZRNLzqyyCgbmYrK3XSlE_Qkhi1w6a-lnH67I/s320/Screenshot_20230910-093652_Instagram20Lite.png" />
+ <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
+</programme> 
+<programme start="190000 -0300" stop="200000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
+ <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
+</programme> 
+<programme start="200000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Faixa Musical/Jornadas Esportivas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+ <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
+</programme>
+
+
    
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
@@ -749,7 +821,7 @@
  <title lang="pt">Seriados</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme>
-<programme start="080000 -0300" stop="080000 -0300" channel="vivaxtv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="080000 -0300" stop="083000 -0300" channel="vivaxtv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Movimente-se Mais </title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwnRFe6Z1yy4EVr1Af1_hY9iWcGesF4xquOY4_wnuFXkvz8pRzetBk5xX3KsSrv6zBAnJ3bTnaIBapMLpMjrDE-tj02l8LfOi244UAq95A98Ze9Ygb3y-lcDC-gz57amEMYGl1EycfL3OIxFqKUJLCNx2-EacTFFrxSGMR75iJnl63IDl2Gz1dn_qP7Q4/s320/Screenshot_20230910-233657_Instagram20Lite.png" />
  <desc lang="pt">Acompanhe as dicas pra ter uma boa saúde.</desc>
 </programme>
