@@ -632,7 +632,7 @@
  <title lang="pt">Viva Cidade</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p5.jpg" />
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="100000 -0300" stop="13000 -0300" channel="radiocidadeverde.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+<programme start="100000 -0300" stop="130000 -0300" channel="radiocidadeverde.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Tem de Tudo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i1.sndcdn.com/artworks-WSteS34JMJJTvL3M-JSq7Tw-t500x500.jpg" />
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
@@ -791,7 +791,7 @@
 </programme>  
    
  <!-- Programas Yeeaah--> <!--Seg a Dom-->
-<programme start="000000 -0300" stop="060000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab.dom" />
+<programme start="000000 -0300" stop="060000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -799,7 +799,7 @@
  <title lang="pt">Programação Yeeaah</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" /> 
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="140000 -0300" stop="180000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab.dom" />
+<programme start="140000 -0300" stop="180000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -807,7 +807,7 @@
  <title lang="pt">Programação Yeeaah</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" /> 
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="220000 -0300" stop="r000000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab.dom" />
+<programme start="220000 -0300" stop="r000000 -0300" channel="yaaeeh.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
