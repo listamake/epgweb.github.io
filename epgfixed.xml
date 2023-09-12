@@ -55,6 +55,9 @@
 <channel id="radiosociedade.br">
  <display-name lang="pt">Rádio Sociedade</display-name> <icon src="https://pbs.twimg.com/profile_images/1638916494741368835/qv4qLgN4_400x400.jpg"/>
 </channel>
+<channel id="rbctv.br">
+ <display-name lang="pt">RBC TV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/23bd43f2aa3a7c5772c2ca92d67dbf3a.webp"/>
+</channel>
 <channel id="TVMaisFamilia.br">
  <display-name lang="pt">Rede Mais Família HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp"/>
 </channel>
@@ -76,6 +79,10 @@
 </channel>
 <channel id="StrikerVerso.br">
  <display-name lang="pt">StrikerVerso HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
+</channel>
+<channel id="TVNBT.br">
+ <display-name lang="pt">TV NBT</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dee1243c933082ee25e309ab91b54f4d.webp"/>
 </channel>
 <channel id="TVMax.br">
  <display-name lang="pt">TV Max RIO</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp"/>
@@ -148,12 +155,40 @@
  <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="070000 -0300" stop="210000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
+<programme start="173000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
+ <desc lang="pt">Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
+</programme>
+<programme start="180000 -0300" stop="183000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Love Hina</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
+ <desc lang="pt">Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
+</programme>
+<programme start="183000 -0300" stop="190000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">El Hazard</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://images.justwatch.com/backdrop/248863068/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Makoto sempre ofusca Jinnai sem tentar, o que só agrava a rivalidade delirante que Jinnai inventou em sua própria mente.</desc>
+</programme>
+<programme start="190000 -0300" stop="193000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Ranma ½ (Segunda Parte)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcV4FF-wLr0q_EXErhjbBEpMtN5bDtyUHsAAyhqcLokvIM50BO-n5ckAJS9AlZG0JK_gYtnZK_A647mwGklslrbKpROL59vGoMPqPjE9pssk5gAMkd1QjrFURyWKWFIhgN-Tn8ITs8NmbtN90R6jRRyQDS7sI3aE_-zH1n1TjIJtgVC4PFJw7RrRRhTg/s960/Ranma.jpg" />
+ <desc lang="pt">Ranma Saotome é um jovem estudante de artes marciais. Certo dia, ele e seu pai partem para uma jornada de treinamento na China. Para o azar deles, ambos caíram em fontes estranhas durante o treinamento.</desc>
+</programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+ <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
+</programme>
+<programme start="200000 -0300" stop="203000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Toradora!</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/272736685/s640/toradora/toradora" />
+ <desc lang="pt">Ryuji é um rapaz que vive sendo mal interpretado por causa do seu olhar ameaçador. Todos pensam que ele é um delinquente juvenil e que a qualquer momento vai atacar alguém. É primavera e em seu primeiro dia no segundo ano no ensino médio ele encontra uma pequena garota.</desc>
+</programme>
+<programme start="203000 -0300" stop="210000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Life Lessons With Uramichi Oniisan</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248552018/s640/uramichioxiong-san/uramichioxiong-san" />
+ <desc lang="pt">Ser um adulto é difícil. Para Uramichi Omota, de 31 anos, essa verdade deprimente pesa. Na TV, ele é um animado instrutor de exercícios em um programa infantil, mas às vezes, ele não consegue segurar seus comentários sarcásticos para si.</desc>
+</programme>
 <programme start="210000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+ <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2023/07/legiao_8pzv4yqUaZ3A.jpg.webp" />
  <desc lang="pt">Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
 </programme>
 <programme start="213000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -744,6 +779,52 @@
 </programme>
 
 
+ <!-- Programas RBC TV--> <!--Seg a Dom-->
+   
+<programme start="000000 -0300" stop="060000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">IGREJA / CONTEÚDO GOSPEL</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/VIDEOS-CLIPS-1-768x511.png" />
+ <desc lang="pt">Musicais.</desc>
+</programme>
+<programme start="060000 -0300" stop="080000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Vídeos Clips</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/VIDEOS-CLIPS-1-768x511.png" />
+ <desc lang="pt">Musicais.</desc>
+</programme>
+<programme start="080000 -0300" stop="120000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">TV Kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/TV-KIDS-1-768x512.png" />
+ <desc lang="pt">Caverna do Dragão, Jaspin, Jiraya,Os Cavalheiros dos Zodíacos e outros.</desc>
+</programme>
+<programme start="120000 -0300" stop="124000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">RBC Notícias</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/RBC-NOTICIAS-768x513.png" />
+ <desc lang="pt">Com uma proposta mais dinâmica, interativa e moderna.</desc>
+</programme>
+<programme start="124000 -0300" stop="140000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Vídeos Clips</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/VIDEOS-CLIPS-1-768x511.png" />
+ <desc lang="pt">Musicais.</desc>
+</programme>
+<programme start="140000 -0300" stop="153000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Sessão Bang Bang</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/BANG-BANG-768x512.png" />
+ <desc lang="pt">Filmes Faroestes.</desc>
+</programme>
+<programme start="153000 -0300" stop="170000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Hiper Shop TV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/LOGO-HIPER-SHOP-TV-768x534.jpg" />
+ <desc lang="pt">INFORMECIAL.</desc>
+</programme>
+<programme start="170000 -0300" stop="190000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">TV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/TV-KIDS-1-768x512.png" />
+ <desc lang="pt">Caverna do Dragão, Jaspin, Jiraya,Os Cavalheiros dos Zodíacos e outros.</desc>
+</programme>
+<programme start="190000 -0300" stop="194000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">RBC Notícias</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/RBC-NOTICIAS-768x513.png" />
+ <desc lang="pt">Com uma proposta mais dinâmica, interativa e moderna.</desc>
+</programme>
+<programme start="194000 -0300" stop="220000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Sessão Seriados</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/SESSAO-1-768x512.png" />
+ <desc lang="pt">Zorro, A Feiticeira, Plantão médico, Arquivo X, 24 Horas.</desc>
+</programme>
+<programme start="220000 -0300" stop="r000000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cine +</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/Logo-Programas-Cine.jpg" />
+ <desc lang="pt">Filmes Variados</desc>
+</programme>
    
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
@@ -913,7 +994,7 @@
  <title lang="pt">James West</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://1.bp.blogspot.com/-Zlc6U8QOEZ0/U7ngpouMkAI/AAAAAAAACJ8/m-sbq87ZHqo/s1600/WILD_WILD_WEST_S3_D2-5_zps62df5ee1.jpg" />
  <desc lang="pt">Quando o presidente Ulysses S. Grant fica sabendo que o diabólico inventor Arliss Loveless planeja assassiná-lo e conquistar os Estados Unidos com suas máquinas modernas, ele encarrega James West, o herói da Guerra Civil americana, e o militar Artemus Gordon de capturá-lo.</desc>
 </programme>
-<programme start="180000 -0300" stop="220000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="180000 -0300" stop="190000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://i.ytimg.com/vi/9B4dOfxjU_s/maxresdefault.jpg" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
