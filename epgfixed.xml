@@ -902,7 +902,7 @@
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
 <programme start="060000 -0300" stop="150000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="" />
+ <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq5efMogcx_T7d1OvHbUZJh_8oOGKLiBMJaJ_iY0h0ovL3v7nQLBgM8xqtWsIEk4KSpQHdKgUWvBwOazGTnff1KPiPZgLBRLv02x0sikTmCcU6bObyZOpo7QQv1jMXfO-4z9jU6YptywojeHsCFWxiZA4UmAkmIwwNvfv-hRvKWKQ9-niB3Y0nZFPO2Q0/s320/Screenshot_20230911-084017_Televizo.png" />
  <desc lang="pt">apresenta shows incríveis de diversos artistas internacionais. As apresentações contam com cantores que marcaram as décadas passadas e com artistas atuais performando shows icônicos com muitos hits de sucesso.</desc>
 </programme>
 <programme start="150000 -0300" stop="170000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -914,7 +914,7 @@
  <desc lang="pt">Quando o presidente Ulysses S. Grant fica sabendo que o diabólico inventor Arliss Loveless planeja assassiná-lo e conquistar os Estados Unidos com suas máquinas modernas, ele encarrega James West, o herói da Guerra Civil americana, e o militar Artemus Gordon de capturá-lo.</desc>
 </programme>
 <programme start="180000 -0300" stop="220000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
+ <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://i.ytimg.com/vi/9B4dOfxjU_s/maxresdefault.jpg" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
 <programme start="190000 -0300" stop="200000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
