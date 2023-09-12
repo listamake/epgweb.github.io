@@ -484,7 +484,7 @@
  <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="210000 -0300" stop="r010000 -0300" channel="GlnTV.br"> <weekday days="seg,ter,qua,qui" />
+<programme start="210000 -0300" stop="r000000 -0300" channel="GlnTV.br"> <weekday days="seg,ter,qua,qui" />
  <title lang="pt">GLN SUPER Clássicos</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -870,7 +870,7 @@
  <desc lang="pt">programa</desc>
 </programme> 
 <programme start="220000 -0300" stop="r000000 -0300" channel="vivaxtv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação VivaxTV</title> <icon src="" />
+ <title lang="pt">Programação VivaxTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">A Rede Vivax de Televisão , É A TV FEITA PARA VOCÊ.</desc>
 </programme>  
    
@@ -905,17 +905,33 @@
  <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="" />
  <desc lang="pt">apresenta shows incríveis de diversos artistas internacionais. As apresentações contam com cantores que marcaram as décadas passadas e com artistas atuais performando shows icônicos com muitos hits de sucesso.</desc>
 </programme>
-<programme start="150000 -0300" stop="180000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="" />
- <desc lang="pt">Produção independente</desc>
+<programme start="150000 -0300" stop="170000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
+ <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
+</programme>
+<programme start="170000 -0300" stop="180000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">James West</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://1.bp.blogspot.com/-Zlc6U8QOEZ0/U7ngpouMkAI/AAAAAAAACJ8/m-sbq87ZHqo/s1600/WILD_WILD_WEST_S3_D2-5_zps62df5ee1.jpg" />
+ <desc lang="pt">Quando o presidente Ulysses S. Grant fica sabendo que o diabólico inventor Arliss Loveless planeja assassiná-lo e conquistar os Estados Unidos com suas máquinas modernas, ele encarrega James West, o herói da Guerra Civil americana, e o militar Artemus Gordon de capturá-lo.</desc>
 </programme>
 <programme start="180000 -0300" stop="220000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
-<programme start="220000 -0300" stop="r000000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="190000 -0300" stop="200000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Brasil News</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.rbtv.com.br/upload_arquivos/2023/08/2023080072025001692899836.png" />
+ <desc lang="pt">o Brasil News apresenta, ao vivo, os principais destaques do noticiário nacional e internacional. Com um formato ágil e dinâmico, o telespectador se mantém informado com os assuntos do dia.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">RB Comédia</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
+ <desc lang="pt">O RB Comédia conta com muita diversão e risadas garantidas com séries.</desc>
+</programme>
+<programme start="210000 -0300" stop="230000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Séries Douradas</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://i.ytimg.com/vi/Gh4pqvuv1Kg/hqdefault.jpg" />
+ <desc lang="pt">Séries Douradas trazem séries aclamadas e de grande sucesso.</desc>
 </programme>
 
  <!-- Programas Playtv-->
