@@ -30,6 +30,9 @@
 <channel id="GlnTV.br">
  <display-name lang="pt">GLN TV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d6cb19f3f5b307780c2169b89c826ae.webp"/>
 </channel>
+<channel id="interativatv.br">
+ <display-name lang="pt">Interativa TV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/27256cbc2324cc3cb146bfae8b5fec67.webp"/>
+</channel>
 <channel id="ISTVHD.br">
  <display-name lang="pt">ISTV HD</display-name> <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
@@ -542,6 +545,63 @@
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
    
+ <!-- Programas Interativa--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="050000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
+ <title lang="pt">Insónia</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">Sem Sono sem problemas, a madrugada só de músicas.</desc>
+</programme>
+<programme start="050000 -0300" stop="060000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
+ <title lang="pt">Museu da IN</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">As classicas esttaão aqui.</desc>
+</programme>
+<programme start="060000 -0300" stop="080500 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
+ <title lang="pt">Falando Sério</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/4xvAhzqOV4tOUdnIxISdjNUsp4MWrjVOkI4N96ev.jpg" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="080500 -0300" stop="100000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Check in</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="100000 -0300" stop="120000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Inbox</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="120000 -0300" stop="132000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Papo Cabeça</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/fEUNrtXSZw9ciOHCq9SMYVALzymQ3Sse8yiwgjBy.jpg" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="132000 -0300" stop="140000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Top Bumerangue</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Bora voltar no tempo e relembrar as musicas classicas que marcarm epoca.</desc>
+</programme>
+<programme start="140000 -0300" stop="150000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Independência</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="150000 -0300" stop="160000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Programação Bumerangue</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Bora voltar no tempo e relembrar as musicas classicas que marcarm epoca.</desc>
+</programme>
+<programme start="160000 -0300" stop="180000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">CPI</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/zaYhyFlKwygB7ItMEgRbZ4Sr6oKgX3erRD7jgvG2.jpg" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="180000 -0300" stop="190000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Doa em Quem Doer</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/9GB1JrASFhChnMMB9FGAEE6xFBDR8rbdtnABGw7k.jpg" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="190000 -0300" stop="210000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Classic Rock</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/5eDeA2p3sBTEGgGnnChalY39PZSgd6SOKNFV3FHQ.jpg" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="210000 -0300" stop="220000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
+ <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
+</programme> 
+<programme start="220000 -0300" stop="r000000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Pra Cima</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
    
  <!-- Programas ISTV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="053000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" /> <category>Filme</category>
@@ -805,25 +865,93 @@
  <title lang="pt">Sessão Bang Bang</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/BANG-BANG-768x512.png" />
  <desc lang="pt">Filmes Faroestes.</desc>
 </programme>
-<programme start="153000 -0300" stop="170000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Hiper Shop TV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/LOGO-HIPER-SHOP-TV-768x534.jpg" />
- <desc lang="pt">INFORMECIAL.</desc>
-</programme>
-<programme start="170000 -0300" stop="190000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">TV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/TV-KIDS-1-768x512.png" />
- <desc lang="pt">Caverna do Dragão, Jaspin, Jiraya,Os Cavalheiros dos Zodíacos e outros.</desc>
-</programme>
-<programme start="190000 -0300" stop="194000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">RBC Notícias</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/RBC-NOTICIAS-768x513.png" />
- <desc lang="pt">Com uma proposta mais dinâmica, interativa e moderna.</desc>
-</programme>
-<programme start="194000 -0300" stop="220000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="153000 -0300" stop="220000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Sessão Seriados</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/SESSAO-1-768x512.png" />
  <desc lang="pt">Zorro, A Feiticeira, Plantão médico, Arquivo X, 24 Horas.</desc>
 </programme>
 <programme start="220000 -0300" stop="r000000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Cine +</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/Logo-Programas-Cine.jpg" />
  <desc lang="pt">Filmes Variados</desc>
+</programme>
+   
+ <!-- Programas Rede Mais Fámilia--> <!--Seg a Sex-->
+<programme start="000000 -0300" stop="010000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
+ <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+</programme>
+<programme start="010000 -0300" stop="030000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="030000 -0300" stop="050000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
+ <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
+</programme>
+<programme start="050000 -0300" stop="070000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Entre Nós - Reprise</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="070000 -0300" stop="080000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Joseph Prince</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
+ <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
+</programme>
+<programme start="080000 -0300" stop="081500 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Brasil em Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://imagens.ebc.com.br/ZZ4GWtExzHOTqtnaxEa3-oustCQ=/960x540/smart/https://play.ebc.com.br/imagens/CCH244_1682688081539.png" />
+ <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
+</programme>
+<programme start="081500 -0300" stop="083000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="083000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
+ <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+</programme>
+<programme start="090000 -0300" stop="100000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="100000 -0300" stop="140000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Mais Alegria</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/06/mais-alegria-1024x1024.jpg" />
+ <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
+</programme>
+<programme start="140000 -0300" stop="150000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="150000 -0300" stop="180000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Sempre Melhor</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a8.png" />
+ <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
+</programme>
+<programme start="180000 -0300" stop="190000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Entre Nós</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
+</programme>
+<programme start="190000 -0300" stop="200000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="210000 -0300" stop="220000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="220000 -0300" stop="230000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Nossa Noite</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a4.png" />
+ <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+</programme>
+<programme start="230000 -0300" stop="232000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+ <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
+</programme>
+<programme start="232000 -0300" stop="r000000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">MAIS FÉ</title>
+ <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
 </programme>
    
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
@@ -990,23 +1118,39 @@
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
-<programme start="170000 -0300" stop="180000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="170000 -0300" stop="180000 -0300" channel="rbtv.br"> <weekday days="seg" />
  <title lang="pt">James West</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://1.bp.blogspot.com/-Zlc6U8QOEZ0/U7ngpouMkAI/AAAAAAAACJ8/m-sbq87ZHqo/s1600/WILD_WILD_WEST_S3_D2-5_zps62df5ee1.jpg" />
  <desc lang="pt">Quando o presidente Ulysses S. Grant fica sabendo que o diabólico inventor Arliss Loveless planeja assassiná-lo e conquistar os Estados Unidos com suas máquinas modernas, ele encarrega James West, o herói da Guerra Civil americana, e o militar Artemus Gordon de capturá-lo.</desc>
+</programme>
+<programme start="170000 -0300" stop="180000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
+ <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
 <programme start="180000 -0300" stop="190000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://i.ytimg.com/vi/9B4dOfxjU_s/maxresdefault.jpg" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
-<programme start="190000 -0300" stop="200000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="190000 -0300" stop="200000 -0300" channel="rbtv.br"> <weekday days="seg" />
  <title lang="pt">Brasil News</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.rbtv.com.br/upload_arquivos/2023/08/2023080072025001692899836.png" />
  <desc lang="pt">o Brasil News apresenta, ao vivo, os principais destaques do noticiário nacional e internacional. Com um formato ágil e dinâmico, o telespectador se mantém informado com os assuntos do dia.</desc>
 </programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="190000 -0300" stop="200000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://i.ytimg.com/vi/9B4dOfxjU_s/maxresdefault.jpg" />
+ <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
+</programme>
+<programme start="200000 -0300" stop="213000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Brasil News</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.rbtv.com.br/upload_arquivos/2023/08/2023080072025001692899836.png" />
+ <desc lang="pt">o Brasil News apresenta, ao vivo, os principais destaques do noticiário nacional e internacional. Com um formato ágil e dinâmico, o telespectador se mantém informado com os assuntos do dia.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="rbtv.br"> <weekday days="seg" />
  <title lang="pt">RB Comédia</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
  <desc lang="pt">O RB Comédia conta com muita diversão e risadas garantidas com séries.</desc>
 </programme>
-<programme start="210000 -0300" stop="230000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="210000 -0300" stop="230000 -0300" channel="rbtv.br"> <weekday days="seg" />
+ <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
+ <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
+</programme>
+<programme start="213000 -0300" stop="230000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
