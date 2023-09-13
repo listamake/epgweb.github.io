@@ -158,9 +158,13 @@
  <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="070000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="163000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="163000 -0300" stop="173000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Nosso Eterno Verão</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nJ98JOaTk8qFpZ4o8otSA2nz1wE_x9Kk03EZJKEDq3Z2vTc15W3jGIRfOovtFRvGJmfyDlFJxQKgFQl65oK_wpgJXC-LOjRI-xDGmefDC97Xv32isAAGj_gmwMTik64xXABj1wh-VeLKj6DFCkGA_yRLM3binvaIa79xXvvxHW5owON-wbEY1uPEHQ/s16000/M-1445AASSEEE8.jpg" />
+ <desc lang="pt">Anos após filmarem um documentário viral na escola, dois ex-namorados voltam para a frente das câmeras e talvez, para a vida um do outro.</desc>
 </programme>
 <programme start="173000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
