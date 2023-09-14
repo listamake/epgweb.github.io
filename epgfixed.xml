@@ -6,6 +6,9 @@
 <channel id="antena1tv.br">
  <display-name lang="pt">Antena 1 TV</display-name> <icon src="https://pbs.twimg.com/profile_images/1491831001873633284/duo6Mk_C_400x400.jpg"/>
 </channel>  
+<channel id="bstv.br">
+ <display-name lang="pt">BSTV HD</display-name> <icon src="https://pbs.twimg.com/media/EYa33F7XQAIqFze.jpg"/>
+</channel>
 <channel id="canalstart.br"> <display-name lang="pt">Canal Start HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8306e8897f3941eb7c2ac7b583b92f71.webp"/>
 </channel>
@@ -14,7 +17,7 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
 <channel id="Canalteste">
- <display-name lang="pt">teste HD</display-name> 
+ <display-name lang="pt">Canal Teste HD</display-name> 
  <display-name lang="pt">Canal Teste 1</display-name>
  <display-name lang="pt">Canal Teste 3</display-name>
  <display-name lang="pt">Canal Teste 4</display-name>
@@ -92,12 +95,45 @@
 </channel>
 <channel id="ulbtv.br"> <display-name lang="pt">UlbTV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp"/>
 </channel>
+<channel id="UrbantvSports.br">
+ <display-name lang="pt">Urban Sports HD</display-name> <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg"/>
+</channel>
 <channel id="vivaxtv.br"> <display-name lang="pt">Vivax TV</display-name> <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
 <channel id="yaaeeh.br"> <display-name lang="pt">Yeeaah HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp"/>
 </channel> 
 
+ <!-- Programas BSTV--> <!-- Seg a Sex-->
+<programme start="000000 -0300" stop="080000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
+ <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+</programme>
+<programme start="080000 -0300" stop="110000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Hora Kids</title>
+ <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+</programme>
+<programme start="110000 -0300" stop="120000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação BSTV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
+ <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+</programme>
+<programme start="120000 -0300" stop="123000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Jornal do Boris</title>
+ <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+</programme>
+<programme start="123000 -0300" stop="140000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
+ <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+</programme>
+<programme start="140000 -0300" stop="160000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cine Play</title>
+ <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+</programme>
+<programme start="160000 -0300" stop="r000000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
+ <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+</programme>
+   
  <!-- Programas Canal Start--> <!-- Seg a SEx-->
 <programme start="000000 -0300" stop="030000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
@@ -628,10 +664,51 @@
  <title lang="pt">Diversos</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-   
+ <!-- Programas Kpop TV Play--> <!--Seg a Sex-->
+<programme start="000000 -0300" stop="190000 -0300" channel="KpopTVPlay.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Programação Kpop TV Play</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
+ <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
+</programme>
+<programme start="190000 -0300" stop="200000 -0300" channel="KpopTVPlay.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Hits on Top</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Hits-On-Top@6x-1024x92.png" />
+ <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="KpopTVPlay.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+ <title lang="pt">Boys VS. Girls</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Ativo-1@6x-1024x626.png" />
+ <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
+</programme>
+<programme start="210000 -0300" stop="213000 -0300" channel="KpopTVPlay.br"> <weekday days="seg,qua,sex" /> <category>Música</category>
+ <title lang="pt">MV e Letra</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/MV_fe@6x-984x640.png" />
+ <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
+</programme>
+<programme start="210000 -0300" stop="233000 -0300" channel="KpopTVPlay.br"> <weekday days="ter,qui" /> <category>Música</category>
+ <title lang="pt">MV e Letra</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/MV_fe@6x-984x640.png" />
+ <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
+</programme>
+<programme start="213000 -0300" stop="233000 -0300" channel="KpopTVPlay.br">  <weekday days="seg,qua,sex" /> <category>Música</category>
+ <title lang="pt">Dança e Joga</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Captura-de-Tela-2022-08-27-a%CC%80s-12.37.08-926x640.png" />
+ <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="KpopTVPlay.br">  <weekday days="seg,ter,qua,qui" /> <category>Música</category>
+ <title lang="pt">Old KPop</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/OldKPOP2-1024x333.png" />
+ <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
+</programme>
+<programme start="203000 -0300" stop="r000000 -0300" channel="KpopTVPlay.br">  <weekday days="sex" /> <category>Música</category>
+ <title lang="pt">Eu Q Mando</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Ativo-12-1024x580.png" />
+ <desc lang="pt">Toda sexta ás 20h30 a Kpop TV abre espaço para os MVs que você pede aqui no site e nas redes sociais, envie seu nome, o MV que você quer ver, e uma mensagem pra quem está assistindo e ele será exibido no “Eu Q Mando“. Clique aqui para enviar o seu pedido.</desc>
+</programme>
+ <!-- Programas Kpop TV Play--> <!--Sab a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="KpopTVPlay.br"> <weekday days="sab,dom" /> <category>Música</category>
+ <title lang="pt">Programação Kpop TV Play</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
+ <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="KpopTVPlay.br"> <weekday days="sab,dom" /> <category>Música</category>
+ <title lang="pt">Programação Kpop TV Play</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
+ <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
+</programme>
  <!-- Programas Interativa--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="050000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
- <title lang="pt">Insónia</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <title lang="pt">Insonia</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">Sem Sono sem problemas, a madrugada só de músicas.</desc>
 </programme>
 <programme start="050000 -0300" stop="060000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
@@ -1095,6 +1172,16 @@
 <programme start="220000 -0300" stop="r000000 -0300" channel="ulbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
  <desc lang="pt">No Series você assiste as melhores Series da TV!</desc>
+</programme>
+
+ <!-- Programas Urban Sports--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="UrbantvSports.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Canal Urban Sports</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="UrbantvSports.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Canal Urban Sports</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
    
  <!-- Programas Vivax TV--> <!--Seg a Dom-->
