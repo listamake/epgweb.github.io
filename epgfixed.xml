@@ -110,7 +110,7 @@
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="080000 -0300" stop="110000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Hora Kids</title>
+ <title lang="pt">Hora Kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="110000 -0300" stop="120000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -118,7 +118,7 @@
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="120000 -0300" stop="123000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Jornal do Boris</title>
+ <title lang="pt">Jornal do Boris</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="123000 -0300" stop="140000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -126,7 +126,7 @@
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="140000 -0300" stop="160000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Cine Play</title>
+ <title lang="pt">Cine Play</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="160000 -0300" stop="r000000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -179,7 +179,7 @@
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
 <programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
- <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
+ <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
  <desc lang="pt">Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
 </programme>
 <programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
@@ -1010,13 +1010,13 @@
  <title lang="pt">Vídeos Clips</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/VIDEOS-CLIPS-1-768x511.png" />
  <desc lang="pt">Musicais.</desc>
 </programme>
-<programme start="080000 -0300" stop="120000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="080000 -0300" stop="110000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">TV Kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/TV-KIDS-1-768x512.png" />
  <desc lang="pt">Caverna do Dragão, Jaspin, Jiraya,Os Cavalheiros dos Zodíacos e outros.</desc>
 </programme>
-<programme start="120000 -0300" stop="124000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">RBC Notícias</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/RBC-NOTICIAS-768x513.png" />
- <desc lang="pt">Com uma proposta mais dinâmica, interativa e moderna.</desc>
+<programme start="110000 -0300" stop="124000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cine +</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/Logo-Programas-Cine.jpg" />
+ <desc lang="pt">Filmes Variados</desc>
 </programme>
 <programme start="124000 -0300" stop="140000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Vídeos Clips</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/VIDEOS-CLIPS-1-768x511.png" />
@@ -1031,7 +1031,7 @@
  <desc lang="pt">Zorro, A Feiticeira, Plantão médico, Arquivo X, 24 Horas.</desc>
 </programme>
 <programme start="220000 -0300" stop="r000000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Cine +</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/Logo-Programas-Cine.jpg" />
+ <title lang="pt">Cine +</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">Filmes Variados</desc>
 </programme>
    
