@@ -1335,7 +1335,7 @@
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="210000 -0300" stop="2220000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+<programme start="210000 -0300" stop="220000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
  <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
