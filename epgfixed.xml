@@ -1198,7 +1198,7 @@
  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
 </programme>
 
-<programme start="00000 -0300" stop="010000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+<programme start="000000 -0300" stop="010000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
  <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
