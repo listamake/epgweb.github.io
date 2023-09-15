@@ -1170,11 +1170,30 @@
  <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="200000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+<programme start="200000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui" /> 
  <title lang="pt">Faixa Musical/Jornadas Esportivas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-
+<programme start="200000 -0300" stop="210000 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
+ <title lang="pt">Ritimos do Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Diversas musicas em varios ritimos diferente, para diferentes gostos</desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
+ <title lang="pt">ABC vs. Sport</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+ <desc lang="pt">Futebol</desc>
+</programme>
+<programme start="000000 -0300" stop="060000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
+ <title lang="pt">Madrugada Clube AM</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
+</programme>
+<programme start="060000 -0300" stop="070000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
+ <title lang="pt">Momento do Rei</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
+</programme>
+<programme start="080000 -0300" stop="120000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
+ <title lang="pt">Por Que Hoje é Sábado</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+ <desc lang="pt">Carnaval é o tema. Os momentos, os destaques, os nomes que fazem e já fizeram esta festa que movimenta Pernambuco, principalmente, com nosso ritmo, o frevo. A comunicação é outra grande atração, este programa é orquestrado pelo mestre Zuca Show.</desc>
+</programme>
 
  <!-- Programas RBC TV--> <!--Seg a Dom-->
    
