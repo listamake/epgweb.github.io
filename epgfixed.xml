@@ -12,6 +12,9 @@
 <channel id="canalstart.br"> <display-name lang="pt">Canal Start HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8306e8897f3941eb7c2ac7b583b92f71.webp"/>
 </channel>
+<channel id="RedeCNT.br"> <display-name lang="pt">CNT Rede HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8306e8897f3941eb7c2ac7b583b92f71.webp"/>
+</channel>
 <channel id="CanalUsuario.br"> <display-name lang="pt">Canal do Usuario</display-name>
  <display-name lang="pt">Teste 4</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
@@ -162,6 +165,64 @@
 <programme start="030000 -0300" stop="r000000 -0300" channel="canalstart.br"> <weekday days="sab,dom" />
  <title lang="pt">Gameplay na TV - Maratona</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+</programme>
+ <!-- Programas CNT--> <!-- Semanal-->
+
+<programme start="000000 -0300" stop="084500 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.minhaoperadora.com.br/wp-content/uploads/2023/01/Igreja-Universal-compra-por-valor-milionario-horario-nobre-na-TV-Gazeta.jpg" />
+ <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="000000 -0300" stop="084500 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">CNT NOTÍCIAS - Reprises</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/jh1uQM5JW2aE7etDTPXrnA8bC3.jpg" />
+ <desc lang="pt">A pauta é intensa e de toda parte chegam notícias que marcaram o dia.</desc>
+</programme>
+<programme start="090000 -0300" stop="174500 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.minhaoperadora.com.br/wp-content/uploads/2023/01/Igreja-Universal-compra-por-valor-milionario-horario-nobre-na-TV-Gazeta.jpg" />
+ <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="175900 -0300" stop="180000 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">CNT News</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_5MSeofuL6H1vwZza7d2mAtO3Gj.jpg" />
+ <desc lang="pt"> Mas a cada hora muitas coisas acontecem no mundo e você precisa estar antenado com todos os fatos.</desc>
+</programme>
+<programme start="180000 -0300" stop="220000 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.minhaoperadora.com.br/wp-content/uploads/2023/01/Igreja-Universal-compra-por-valor-milionario-horario-nobre-na-TV-Gazeta.jpg" />
+ <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme> 
+<programme start="220000 -0300" stop="223000 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">CNT Jornal</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_VnIuFH1Q6LWORhzfxZM9DApGCJ.jpg" />
+ <desc lang="pt">A pauta é intensa e de toda parte chegam notícias que marcaram o dia.</desc>
+</programme>
+<programme start="220000 -0300" stop="223000 -0300" channel="RedeCNT.br"> <weekday days="sab" />
+ <title lang="pt">Família Zoreia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
+ <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
+</programme>
+<programme start="223000 -0300" stop="225500 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">CNT Esportes</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_kLdqmfYjDA1OMJIz4cEhGbx5Vs.jpg" />
+ <desc lang="pt">Tudo o que acontece no futebol em discussão neste espaço que já se tornou tradição. </desc>
+</programme>
+<programme start="225500 -0300" stop="230000 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Terroir Brasileiro</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_lRVqZnJE8jbNvxCwugUsyAH2iS.jpeg" />
+ <desc lang="pt">Ergamos as taças, pois essa novidade merece um brinde! O programa Terroir Brasileiro toma formas para apresentar aos apreciadores de todo o Brasil a distinta qualidade do vinho brasileiro.</desc>
+</programme>
+<programme start="230000 -0300" stop="231500 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">CNT Notícias</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/jh1uQM5JW2aE7etDTPXrnA8bC3.jpg" />
+ <desc lang="pt">A pauta é intensa e de toda parte chegam notícias que marcaram o dia.</desc>
+</programme>
+<programme start="231500 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="qui" />
+ <title lang="pt">CNT Entrevistas</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_i6s0ODo1Wk4rQ2fTFadxXwMAlm.png" />
+ <desc lang="pt">A agilidade na distribuição das notícias proporcionadas pelas novas tecnologias gera o conhecimento dos fatos, mas muitas vezes não permite uma análise mais ampla.</desc>
+</programme>
+<programme start="231500 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="sex" />
+ <title lang="pt">Del Rubens Show</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_pcDyMhEBwSk3xnzraAKgbUQjv5.jpg" />
+ <desc lang="pt">Cantor, compositor e apresentador, Del Rubens gravou mais de 100 composições de sua autoria em 12 álbuns, onde o hit Locutor Apaixonado foi seu maior sucesso ocupando os primeiros lugares nas paradas de sucesso de todo Brasil.</desc>
+</programme>
+<programme start="223000 -0300" stop="233500 -0300" channel="RedeCNT.br"> <weekday days="sab" />
+ <title lang="pt">WooHoo - Reprise</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://tecnoinforme.com.br/wp-content/uploads/2023/06/woohoo-editada.jpg" />
+ <desc lang="pt">o WooHoo é muito mais do que um programa de tevê. Ele é o ponto de encontro de quem curte a vida zelando pela saúde, pelo conhecimento, pela amizade e pela força radical da juventude. </desc>
+</programme>
+<programme start="233500 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="sab" />
+ <title lang="pt">Família Zoreia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
+ <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
 </programme>
    
  <!-- Programas Geekdot--> <!-- Semanal-->
