@@ -1188,6 +1188,31 @@
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
 </programme>
+
+<programme start="00000 -0300" stop="010000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
+ <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+</programme>
+<programme start="010000 -0300" stop="050000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
+ <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
+</programme>
+<programme start="050000 -0300" stop="070000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="070000 -0300" stop="080000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Mais Música</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="080000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Joseph Prince</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
+ <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
+</programme>
+<programme start="090000 -0300" stop="100000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
    
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
