@@ -459,8 +459,8 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 <programme start="213000 -0300" stop="230000 -0300" channel="CentralTV.br"> <weekday days="qui" />
- <title lang="pt">Jeannie é um Gênio</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_1-1024x559.png" />
- <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+ <title lang="pt">Hora do Ulisses</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_19.png" />
+ <desc lang="pt">"Hora do Ulisses" é o programa de culinária que vai transformar as suas refeições em momentos especiais! Comandado pelo renomado Chef Ulisses Viganó Junior, o programa apresenta receitas criativas e práticas, ideais para o dia a dia ou para impressionar em ocasiões especiais.</desc>
 </programme>
 <!--22h-->
 <programme start="220000 -0300" stop="223000 -0300" channel="CentralTV.br"> <weekday days="seg" />
@@ -497,7 +497,7 @@
  <desc lang="pt">O Programa MixTV é uma atração imperdível da Rede CentralTV Brasil, apresentado com muito carisma e simpatia por JC Morais. Este programa traz uma variedade de ofertas e oportunidades que deixam qualquer telespectador animado e motivado.</desc>
 </programme>
 <programme start="230000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="qui" />
- <title lang="pt">Papo Entre PPKs</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/05/Screenshot_3-1024x597.jpg" />
+ <title lang="pt">Papo Entre PPKs</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/05/Screenshot_3-1024x597.jpg" />
  <desc lang="pt">Papo entre Pepecas está chegando para quebrar tabus e abrir espaço para conversas sobre assuntos</desc>
 </programme>
 <programme start="233000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="sex" />
