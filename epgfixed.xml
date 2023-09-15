@@ -121,11 +121,11 @@
 </programme>
    
 <programme start="000000 -0300" stop="120000 -0300" channel="antena1tv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação Antena 1</title>  <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://i.ytimg.com/vi/qM1qXvmeGuI/hqdefault.jpg" />
+ <title lang="pt">Programação Antena 1</title>  <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://yt3.googleusercontent.com/ytc/AOPolaTimZvqjGPrAiE_jHhrPgfum_jeGyql--lhsVh64Rs=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
 </programme>
 <programme start="120000 -0300" stop="r000000 -0300" channel="antena1tv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação Antena 1</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://i.ytimg.com/vi/qM1qXvmeGuI/hqdefault.jpg" />
+ <title lang="pt">Programação Antena 1</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://yt3.googleusercontent.com/ytc/AOPolaTimZvqjGPrAiE_jHhrPgfum_jeGyql--lhsVh64Rs=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
 </programme>
    
@@ -194,9 +194,13 @@
  <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.minhaoperadora.com.br/wp-content/uploads/2023/01/Igreja-Universal-compra-por-valor-milionario-horario-nobre-na-TV-Gazeta.jpg" />
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
-<programme start="000000 -0300" stop="084500 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="084500 -0300" stop="085900 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">CNT NOTÍCIAS - Reprises</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/jh1uQM5JW2aE7etDTPXrnA8bC3.jpg" />
  <desc lang="pt">A pauta é intensa e de toda parte chegam notícias que marcaram o dia.</desc>
+</programme>
+<programme start="085900 -0300" stop="090000 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">CNT News</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_5MSeofuL6H1vwZza7d2mAtO3Gj.jpg" />
+ <desc lang="pt"> Mas a cada hora muitas coisas acontecem no mundo e você precisa estar antenado com todos os fatos.</desc>
 </programme>
 <programme start="090000 -0300" stop="175900 -0300" channel="RedeCNT.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.minhaoperadora.com.br/wp-content/uploads/2023/01/Igreja-Universal-compra-por-valor-milionario-horario-nobre-na-TV-Gazeta.jpg" />
@@ -358,7 +362,59 @@
  <title lang="pt">Maratona #FDS: I've Been Killing Slimes For 300 Years And Maxed Out My Level</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/SLIME_img_site-200x144.png" />
  <desc lang="pt">Uma comédia caseira sobre uma garota poderosa que quer evitar a fadiga! Depois de morrer de estafa no mundo real, eu reencarnei como uma bruxa imortal, e passei 300 anos desfrutando a vida boa... Até que acabei batendo no nível 99! Tantos anos matando slimes pra pagar as contas me deram bastante XP...</desc>
 </programme>
+<programme start="130000 -0300" stop="153000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Horimiya</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/hitsite.com.br/wp-content/uploads/2020/11/Horimiya.jpg" />
+ <desc lang="pt">Quando a popular Hori e o melancólico Miyamura se encontram, eles revelam seus lados ocultos. Isso pode ser o começo de algo novo?</desc>
+</programme>
+<programme start="153000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Lycoris Recoil</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/Lycoris-Recoil-image-anime-03.jpg" />
+ <desc lang="pt">Se há paz no mundo, é graças à Lycoris, uma organização secreta de combate ao crime composta apenas por garotas.</desc>
+</programme>
+<programme start="180000 -0300" stop="203000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Love Hina</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
+ <desc lang="pt">Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
+</programme>
+<programme start="203000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">No.6</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www-animeherald-com.exactdn.com/wp-content/uploads/2021/04/No-6-001-20210402.jpg" />
+ <desc lang="pt">Sion é um adolescente brilhante que vive uma vida confortável e promissora dentro do número 6, uma das seis cidades-estado restantes criadas pelo Tratado da Babilônia depois que a última grande guerra devastou o mundo.</desc>
+</programme>
+<programme start="213000 -0300" stop="223000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Miss Kobayashi's Dragon Maid</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/3936622/s640/xiao-lin-sanchinomeidoragon/xiao-lin-sanchinomeidoragon" />
+ <desc lang="pt">A Srta. Kobayashi é uma funcionária comum que leva uma vida bem banal e mora sozinha em um pequeno apartamento - até que ela salva a vida de um dragão fêmea em apuros.</desc>
+</programme>
+<programme start="223000 -0300" stop="230000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">MangáMotion</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/09/MANGA_img_site-200x144.png" />
+ <desc lang="pt">Manga em animação</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
+ <desc lang="pt">O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
+</programme>
  <!-- Programas Geekdot--> <!--dom-->
+<programme start="000000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
+ <desc lang="pt">O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
+</programme>
+<programme start="013000 -0300" stop="040000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
+ <desc lang="pt">Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
+</programme>
+<programme start="040000 -0300" stop="063000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
+ <desc lang="pt">Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
+</programme>
+<programme start="063000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">MangáMotion</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/09/MANGA_img_site-200x144.png" />
+ <desc lang="pt">Manga em animação</desc>
+</programme>
+<programme start="070000 -0300" stop="093000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Toradora!</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/272736685/s640/toradora/toradora" />
+ <desc lang="pt">Ryuji é um rapaz que vive sendo mal interpretado por causa do seu olhar ameaçador. Todos pensam que ele é um delinquente juvenil e que a qualquer momento vai atacar alguém. É primavera e em seu primeiro dia no segundo ano no ensino médio ele encontra uma pequena garota.</desc>
+</programme>
+<programme start="093000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Life Lessons With Uramichi Oniisan</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248552018/s640/uramichioxiong-san/uramichioxiong-san" />
+ <desc lang="pt">Ser um adulto é difícil. Para Uramichi Omota, de 31 anos, essa verdade deprimente pesa. Na TV, ele é um animado instrutor de exercícios em um programa infantil, mas às vezes, ele não consegue segurar seus comentários sarcásticos para si.</desc>
+</programme>
 <programme start="120000 -0300" stop="143000 -0300" channel="anitv.br"> <weekday days="dom" />
  <title lang="pt">Maratona #FDS: Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
  <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
@@ -588,7 +644,7 @@
  <desc lang="pt">Seja muito bem-vindo ao canal Bôco 7º filho! Aqui você encontra vídeos sobre história, curiosidades, mistérios, mitologia e atualidades.</desc>
 </programme>
 
- <!-- Programas Central--> <!--sab-->
+ <!-- Programas Central TV--> <!--sab-->
 <programme start="000000 -0300" stop="030000 -0300" channel="CentralTV.br"> <weekday days="sab" />
  <title lang="pt">Sessão Terror</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/08/Screenshot_53-1024x638.jpg" />
  <desc lang="pt">Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
@@ -789,7 +845,7 @@
  <title lang="pt">Programação Kpop TV Play</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
- <!-- Programas Interativa--> <!--Seg a Dom-->
+ <!-- Programas Interativa--> <!--Seg a sex-->
 <programme start="000000 -0300" stop="050000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
  <title lang="pt">Insonia</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">Sem Sono sem problemas, a madrugada só de músicas.</desc>
@@ -842,11 +898,48 @@
  <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="220000 -0300" stop="r000000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
+<programme start="220000 -0300" stop="r000000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui" /> <category>Música</category>
  <title lang="pt">Pra Cima</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-   
+<programme start="220000 -0300" stop="230000 -0300" channel="interativatv.br"> <weekday days="sex" /> <category>Música</category>
+ <title lang="pt">Interlatina</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/Izw3Wd8LAfK3zEar1UlTqJXv06G5yr22Et6dQZGV.jpg" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="interativatv.br"> <weekday days="sex" /> <category>Música</category>
+ <title lang="pt">Pra Cima</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+ <!-- Programas Interativa--> <!--Sab-->
+<programme start="080500 -0300" stop="170000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
+ <title lang="pt">Maratona Bumerangue</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Bora voltar no tempo e relembrar as musicas classicas que marcarm epoca.</desc>
+</programme>
+<programme start="170000 -0300" stop="180000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
+ <title lang="pt">Interativa Indie</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/hHOBKAUUlDhC7aJPHk9vJaNAjd9NUcdbHmkCDJMe.jpg" />
+ <desc lang="pt">Musica indie.</desc>
+</programme>
+<programme start="180000 -0300" stop="r000000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
+ <title lang="pt">Intensidade Máxima</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Musica .</desc>
+</programme>
+ <!-- Programas Interativa--> <!--dom-->
+<programme start="000000 -0300" stop="170000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
+ <title lang="pt">Maratona Bumerangue</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Bora voltar no tempo e relembrar as musicas classicas que marcarm epoca.</desc>
+</programme>
+<programme start="170000 -0300" stop="180000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
+ <title lang="pt">Adrenalina</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Musica.</desc>
+</programme>
+<programme start="180000 -0300" stop="190000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
+ <title lang="pt">Sunset Retrô</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/nkd9Vft5fmLZplLJ5OMNNwGsw5uoLbXAS7rcE1a4.jpg" />
+ <desc lang="pt">Musica.</desc>
+</programme>
+<programme start="190000 -0300" stop="r000000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
+ <title lang="pt">Programação Bumerangue</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Bora voltar no tempo e relembrar as musicas classicas que marcarm epoca.</desc>
+</programme>
  <!-- Programas ISTV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="053000 -0300" channel="ISTVHD.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" /> <category>Filme</category>
  <title lang="pt">Madrugada Cinéfilos</title>  <rating system="CLASSIND"><value>14</value></rating> <icon src="https://istv.rizoo.com.br/assets/madrugada_cinefilos.jpeg" />
@@ -1218,9 +1311,37 @@
  <title lang="pt">Joseph Prince</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="090000 -0300" stop="100000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+<programme start="090000 -0300" stop="110000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="110000 -0300" stop="113000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Viagem Comigo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/programa5.jpg" />
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
+<programme start="113000 -0300" stop="120000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Direção Sobre Rodas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/programa6.jpg" />
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
+<programme start="120000 -0300" stop="160000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Parque Patati Patatá</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/parque-patati-patata-tv.jpg" />
+ <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
+</programme>
+<programme start="160000 -0300" stop="190000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
+<programme start="190000 -0300" stop="210000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="210000 -0300" stop="2220000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="220000 -0300" stop="r000000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
+ <title lang="pt">Cine Mais Fámilia</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a5.png" />
+ <desc lang="pt">Prepare a pipoca e convide os amigos. Filmes novos nas noites de sábado no Cine Mais Família!</desc>
 </programme>
    
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
