@@ -3,6 +3,9 @@
 
    <!-- IDs dos Canais -->
 
+<channel id="AllSports.br">
+ <display-name lang="pt">All Sport HD</display-name><icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp"/>
+</channel>
 <channel id="antena1tv.br">
  <display-name lang="pt">Antena 1 TV</display-name> <icon src="https://pbs.twimg.com/profile_images/1491831001873633284/duo6Mk_C_400x400.jpg"/>
 </channel>  
@@ -107,6 +110,16 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp"/>
 </channel> 
 
+ <!-- Programas All Sports--> <!-- Seg a dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="AllSports.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação All Sports</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://i.ytimg.com/vi/OeKWI0n0q1I/maxresdefault.jpg" />
+ <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="AllSports.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação All Sports</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://i.ytimg.com/vi/OeKWI0n0q1I/maxresdefault.jpg" />
+ <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
+</programme>
+   
  <!-- Programas BSTV--> <!-- Seg a Sex-->
 <programme start="000000 -0300" stop="080000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
