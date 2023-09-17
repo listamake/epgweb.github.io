@@ -1842,6 +1842,23 @@
  <title lang="pt">Séries Douradas</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://i.ytimg.com/vi/Gh4pqvuv1Kg/hqdefault.jpg" />
  <desc lang="pt">Séries Douradas trazem séries aclamadas e de grande sucesso.</desc>
 </programme>
+<programme start="000000 -0300" stop="060000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
+ <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="" />
+ <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
+</programme>
+<programme start="060000 -0300" stop="130000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
+ <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq5efMogcx_T7d1OvHbUZJh_8oOGKLiBMJaJ_iY0h0ovL3v7nQLBgM8xqtWsIEk4KSpQHdKgUWvBwOazGTnff1KPiPZgLBRLv02x0sikTmCcU6bObyZOpo7QQv1jMXfO-4z9jU6YptywojeHsCFWxiZA4UmAkmIwwNvfv-hRvKWKQ9-niB3Y0nZFPO2Q0/s320/Screenshot_20230911-084017_Televizo.png" />
+ <desc lang="pt">apresenta shows incríveis de diversos artistas internacionais. As apresentações contam com cantores que marcaram as décadas passadas e com artistas atuais performando shows icônicos com muitos hits de sucesso.</desc>
+</programme>
+<programme start="130000 -0300" stop="150000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
+ <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="150000 -0300" stop="r000000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
+ <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="" />
+ <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
+</programme>
+   
 
  <!-- Programas Playtv-->
 
