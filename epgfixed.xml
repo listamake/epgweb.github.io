@@ -275,6 +275,14 @@
  <title lang="pt">Família Zoreia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
  <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
 </programme>
+<programme start="220000 -0300" stop="230000 -0300" channel="RedeCNT.br"> <weekday days="dom" />
+ <title lang="pt">CNT Esportes Debate</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/crop_CrgWfA59ts8NbuiEMJOvac62UL.jpg" />
+ <desc lang="pt">Em nenhuma outra época o futebol ganhou tanto destaque como em nossos dias. Os maiores campeonatos em diferentes partes do planeta, as seleções que cada vez mais se fortalecem para trazer um equilíbrio maior na Copa do Mundo é claro; os campeonatos regionais e nacionais por onde os craques desfilam e onde também vão surgindo novos talentos para encantar torcedores.</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="dom" />
+ <title lang="pt">Deconto Show de Pesca</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/crop_bULcP7oRwskVGilFENAYxrd6Bg.jpg" />
+ <desc lang="pt">O programa Deconto Show de Pesca surgiu em 2019, em substituição ao famoso e tradicional programa Show de Pesca, no ar desde 2006 e que encerrou suas atividades. </desc>
+</programme>
    
  <!-- Programas Geekdot--> <!-- Semanal-->
 
