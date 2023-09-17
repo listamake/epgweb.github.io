@@ -1267,6 +1267,31 @@
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
 
+<programme start="000000 -0300" stop="060000 -0300" channel="radioclubeampe.br"> <weekday days="dom" /> 
+ <title lang="pt">Madrugada Clube AM</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
+</programme>
+<programme start="060000 -0300" stop="120000 -0300" channel="radioclubeampe.br"> <weekday days="dom" />
+ <title lang="pt">Ritimos do Brasil</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Diversas musicas em varios ritimos diferente, para diferentes gostos</desc>
+</programme>
+<programme start="120000 -0300" stop="150000 -0300" channel="radioclubeampe.br"><weekday days="dom" />
+ <title lang="pt">Show de Notícias</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
+</programme>
+<programme start="150000 -0300" stop="180000 -0300" channel="radioclubeampe.br"><weekday days="dom" />
+ <title lang="pt">Programação Super Rádio Clube</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
+</programme>
+<programme start="180000 -0300" stop="200000 -0300" channel="radioclubeampe.br"> <weekday days="dom" />
+ <title lang="pt">Balanço da Clube</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
+</programme>
+<programme start="200000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="dom" />
+ <title lang="pt">Clube da Seresta</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+
  <!-- Programas RBC TV--> <!--Seg a Dom-->
    
 <programme start="000000 -0300" stop="060000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
