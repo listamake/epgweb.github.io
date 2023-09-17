@@ -76,6 +76,11 @@
 <channel id="TVMaisFamilia.br">
  <display-name lang="pt">Rede Mais Família HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp"/>
 </channel>
+<channel id="TVTop.br">
+ <display-name lang="pt">Top TV HD</display-name>
+ <display-name lang="pt">Catve FM HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3858200bc307bc603e159858383c367c.webp"/>
+</channel>
 <channel id="RetroCartoon.br">
  <display-name lang="pt">RETRO CARTOON SD</display-name> <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
 </channel>
@@ -1706,7 +1711,15 @@
  <title lang="pt">PubliRio Online</title>  <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_ba16cd7393e944c4ad25269dffe92a99~mv2.jpeg" />
  <desc lang="pt">Programa de variedades e entrevistas apresentado pelo publicitário e radialista Silvio Barbosa.</desc>
 </programme>
-
+ <!-- Programas Top TV--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="TVTop.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
+</programme>
+<programme start="10000 -0300" stop="r000000 -0300" channel="TVTop.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
+</programme>
 
  <!-- Programas Urban Sports--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="UrbantvSports.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
