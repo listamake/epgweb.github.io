@@ -762,7 +762,7 @@
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="dom" />
  <title lang="pt">Planeta Games - Reprise</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_24-1024x619.jpg" />
- <desc lang="pt">Reprise</desc>
+ <desc lang="pt">Reprise</desc> 
 </programme>
 <programme start="210000 -0300" stop="213000 -0300" channel="CentralTV.br"> <weekday days="dom" />
  <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
@@ -1487,8 +1487,8 @@
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
 <programme start="120000 -0300" stop="160000 -0300" channel="TVMaisFamilia.br"> <weekday days="dom" />
- <title lang="pt">Parque Patati Patatá</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/parque-patati-patata-tv.jpg" />
- <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
+ <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
 </programme>
 <programme start="160000 -0300" stop="r000000 -0300" channel="TVMaisFamilia.br"> <weekday days="dom" />
  <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
@@ -1716,7 +1716,7 @@
  <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="10000 -0300" stop="r000000 -0300" channel="TVTop.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="100000 -0300" stop="r000000 -0300" channel="TVTop.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
