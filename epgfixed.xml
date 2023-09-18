@@ -259,6 +259,10 @@
  <title lang="pt">CNT Notícias</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/jh1uQM5JW2aE7etDTPXrnA8bC3.jpg" />
  <desc lang="pt">A pauta é intensa e de toda parte chegam notícias que marcaram o dia.</desc>
 </programme>
+<programme start="231500 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="seg" />
+ <title lang="pt">WooHoo</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://tecnoinforme.com.br/wp-content/uploads/2023/06/woohoo-editada.jpg" />
+ <desc lang="pt">o WooHoo é muito mais do que um programa de tevê. Ele é o ponto de encontro de quem curte a vida zelando pela saúde, pelo conhecimento, pela amizade e pela força radical da juventude. </desc>
+</programme>
 <programme start="231500 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="qui" />
  <title lang="pt">CNT Entrevistas</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_i6s0ODo1Wk4rQ2fTFadxXwMAlm.png" />
  <desc lang="pt">A agilidade na distribuição das notícias proporcionadas pelas novas tecnologias gera o conhecimento dos fatos, mas muitas vezes não permite uma análise mais ampla.</desc>
@@ -275,12 +279,20 @@
  <title lang="pt">Família Zoreia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
  <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
 </programme>
-<programme start="220000 -0300" stop="230000 -0300" channel="RedeCNT.br"> <weekday days="dom" />
+<programme start="220000 -0300" stop="224500 -0300" channel="RedeCNT.br"> <weekday days="dom" />
  <title lang="pt">CNT Esportes Debate</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/crop_CrgWfA59ts8NbuiEMJOvac62UL.jpg" />
  <desc lang="pt">Em nenhuma outra época o futebol ganhou tanto destaque como em nossos dias. Os maiores campeonatos em diferentes partes do planeta, as seleções que cada vez mais se fortalecem para trazer um equilíbrio maior na Copa do Mundo é claro; os campeonatos regionais e nacionais por onde os craques desfilam e onde também vão surgindo novos talentos para encantar torcedores.</desc>
 </programme>
-<programme start="230000 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="dom" />
- <title lang="pt">Deconto Show de Pesca</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/crop_bULcP7oRwskVGilFENAYxrd6Bg.jpg" />
+<programme start="224500 -0300" stop="230000 -0300" channel="RedeCNT.br"> <weekday days="dom" />
+ <title lang="pt">Terroir Brasileiro</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_lRVqZnJE8jbNvxCwugUsyAH2iS.jpeg" />
+ <desc lang="pt">Ergamos as taças, pois essa novidade merece um brinde! O programa Terroir Brasileiro toma formas para apresentar aos apreciadores de todo o Brasil a distinta qualidade do vinho brasileiro.</desc>
+</programme>
+<programme start="230000 -0300" stop="233000 -0300" channel="RedeCNT.br"> <weekday days="dom" />
+ <title lang="pt">Tatti Show</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_CbeUfOWSg1kP5N8s7dcIQZvL4m.jpg" />
+ <desc lang="pt">O objetivo da atração é de divulgar a boa música em seus mais variados estilos e assim produzir programas temáticos com artistas já consagrados, relembrar sucessos do passado, e ainda revelar novos artistas desconhecidos da grande mídia, bem como assuntos do cotidiano e a arte em geral.</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="dom" />
+ <title lang="pt">Deconto Show de Pesca</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/crop_bULcP7oRwskVGilFENAYxrd6Bg.jpg" />
  <desc lang="pt">O programa Deconto Show de Pesca surgiu em 2019, em substituição ao famoso e tradicional programa Show de Pesca, no ar desde 2006 e que encerrou suas atividades. </desc>
 </programme>
    
@@ -1633,24 +1645,47 @@
  <title lang="pt">Cidinha Livre</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2020/03/cidinha-campos-entrevista-audiencia-carioca-eduardo-moura-2.jpg" />
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="150000 -0300" stop="160000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
- <desc lang="pt">O Rio Corre pra max!!</desc>
-</programme>
-<programme start="160000 -0300" stop="160000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="150000 -0300" stop="170000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://conceitosdomundo.pt/wp-content/uploads/2021/10/musica.jpg" />
 </programme>
-<programme start="160000 -0300" stop="190000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui,sex" />
+    <!--Seg-->
+<programme start="170000 -0300" stop="210000 -0300" channel="TVMax.br"> <weekday days="seg" />
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="190000 -0300" stop="200000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Vegeta TV</title>
+<programme start="210000 -0300" stop="220000 -0300" channel="TVMax.br"> <weekday days="seg" />
+ <title lang="pt">Conexão 21</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="src="https://static.wixstatic.com/media/0f057e_36c2c8e799884981b2f5c28e7ab7d681~mv2.jpg/v1/fit/w_716,h_546,q_90/0f057e_36c2c8e799884981b2f5c28e7ab7d681~mv2.jpg"" />
  <desc lang="pt">O programa Vegeta TV, a melhor mesa redonda Rubro-Negra você encontra aqui.</desc>
 </programme>
-<programme start="200000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="220000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="seg" />
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ <!--ter-->
+<programme start="170000 -0300" stop="200000 -0300" channel="TVMax.br"> <weekday days="ter" />
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="TVMax.br"> <weekday days="ter" />
+ <title lang="pt">Max Esporte</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_06418e26201240dcbde5534b12ce2a56~mv2.png" />
+ <desc lang="pt">Programa esportivo apresentado por Ricardo Mazella e com a participação de renomados jornalistas e radialistas esportivos. Ilustres convidados participam de um debate de alto nível. </desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="ter" />
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ <!--ter-->
+<programme start="170000 -0300" stop="200000 -0300" channel="TVMax.br"> <weekday days="qua" />
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="TVMax.br"> <weekday days="qua" />
+ <title lang="pt">Viajando Pelo Brasil</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_59de53e06c1a439985a5e718325ab8f7~mv2.png" />
+ <desc lang="pt">Acompanhe esta viagem cheia de aventuras com Marcelo Pinheiro e sua filha Carol.</desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="qua" />
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1691,9 +1726,13 @@
  <title lang="pt">Samba Que é Gol</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_dce74910030640febf6d43895fc6219d~mv2.png" />
  <desc lang="pt">O programa Samba que é Gol apresentado pelo cantor e compositor Leo Russo, um programa que mistura samba e futebol com bom humor e alto astral.</desc>
 </programme>
-<programme start="123000 -0300" stop="140000 -0300" channel="TVMax.br">  <weekday days="dom" />
+<programme start="123000 -0300" stop="130000 -0300" channel="TVMax.br">  <weekday days="dom" />
  <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="130000 -0300" stop="140000 -0300" channel="TVMax.br">  <weekday days="dom" />
+ <title lang="pt">Fofocas e Tal</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_6b9b9a77355a4fadb1634658675e8785~mv2.png" />
+ <desc lang="pt">No programa Fofocas e Tal você vai ficar sabendo sobre tudo o que rola no mundo das celebridades! Sempre com convidados especiais.</desc>
 </programme>
 <programme start="140000 -0300" stop="150000 -0300" channel="TVMax.br">  <weekday days="dom" />
  <title lang="pt">Assim é Portugal</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_3b93c0f838eb4a08a0cc8f44a9577f4f~mv2.jpg" />
@@ -1707,13 +1746,17 @@
  <title lang="pt">Destino Incomum</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_bd925840b8f8436b95a001b49154dfb0~mv2.jpg" />
  <desc lang="pt">A partir de uma série de viagens a destinos inusitados e fora do eixo turístico tradicional, o programa Destino Incomum explora, através da história, cultura local, lifestyle dos habitantes e paisagens, como um destino incomum pode se tornar uma viagem surpreendente e de aventura. </desc>
 </programme>
-<programme start="210000 -0300" stop="220000 -0300" channel="TVMax.br">  <weekday days="dom" />
- <title lang="pt">Max Retrô</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="http://tvmaxrio.com/wp-content/uploads/2019/06/ARTE-FB-MAX-RETRO-1.jpg" />
- <desc lang="pt">No Max Retrô você assiste aquele clipe nostálgico que tanto ama e ainda fica por dentro de curiosidades que ninguém sabe sobre o artista! Apresentação Bruno Garcia.</desc>
+<programme start="210000 -0300" stop="213000 -0300" channel="TVMax.br">  <weekday days="dom" />
+ <title lang="pt">Alô Helô</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_fd3268d9086e418c91e457f16da4a218~mv2.jpg" />
+ <desc lang="pt">Com apresentação da jornalista Helô Pinheiro.Helô, como é sabido de todos, foi a musa inspiradora de Tom Jobim e Vinícius de Morais na composição da música Garota de Ipanema. Porém o que nem todos sabem é que Garota de Ipanema é a música mais tocada na história da MPB. No programa ela entrevista amigos e famosos.</desc>
 </programme>
-<programme start="220000 -0300" stop="230000 -0300" channel="TVMax.br">  <weekday days="dom" />
- <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
+<programme start="213000 -0300" stop="230000 -0300" channel="TVMax.br">  <weekday days="dom" />
+ <title lang="pt">Mini Shows</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="230000 -0300" stop="233000 -0300" channel="TVMax.br">  <weekday days="dom" />
+ <title lang="pt">Deles e Delas</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_d3bd31e8f48d43d0914290ebbf4ac184~mv2.jpg" />
+ <desc lang="pt">Leleco Barbosa, filho de Chacrinha, ao lado de Letícia Levy em novo formato essa dupla de apresentadores comanda o programa com uma dinâmica diferente.</desc>
 </programme>
 <programme start="230000 -0300" stop="r000000 -0300" channel="TVMax.br">  <weekday days="dom" />
  <title lang="pt">PubliRio Online</title>  <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_ba16cd7393e944c4ad25269dffe92a99~mv2.jpeg" />
