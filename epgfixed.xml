@@ -1767,7 +1767,7 @@
  <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="100000 -0300" stop="r000000 -0300" channel="TVTop.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="120000 -0300" stop="r000000 -0300" channel="TVTop.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
