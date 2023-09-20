@@ -297,7 +297,22 @@
 </programme>
    
  <!-- Programas Geekdot--> <!-- Semanal-->
-
+<programme start="000000 -0300" stop="060000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Estamos realizando manuntenção</desc>
+</programme>
+<programme start="060000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Estamos realizando manuntenção</desc>
+</programme>
+<programme start="120000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Estamos realizando manuntenção</desc>
+</programme>
+<programme start="180000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Estamos realizando manuntenção</desc>
+</programme>
 <programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
