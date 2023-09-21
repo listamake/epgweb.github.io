@@ -42,14 +42,17 @@
 <channel id="EsporteBrasilia.br">
  <display-name lang="pt">Esportes Brasília HD</display-name> <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg"/>
 </channel>
+<channel id="KpopTVPlay.br">
+ <display-name lang="pt">Kpop TV Play</display-name> <icon src="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg"/>
+</channel>
 <channel id="interativatv.br">
  <display-name lang="pt">Interativa TV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/27256cbc2324cc3cb146bfae8b5fec67.webp"/>
 </channel>
 <channel id="ISTVHD.br">
  <display-name lang="pt">ISTV HD</display-name> <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
-<channel id="KpopTVPlay.br">
- <display-name lang="pt">Kpop TV Play</display-name> <icon src="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg"/>
+<channel id="loadingweb.br">
+ <display-name lang="pt">Loading Web</display-name> <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
 <channel id="pooptv.br"> <display-name lang="pt">PoopTV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
@@ -1084,7 +1087,7 @@
  <desc lang="pt">Os melhores sucessos musicais aqui.</desc>
 </programme>
    <!--Sab-->
-<programme start="110000 -0300" stop="123000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Séries</category>
+<programme start="103000 -0300" stop="123000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Séries</category>
  <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
  <desc lang="pt">Aquela série pra matar a saudades.</desc>
 </programme>
@@ -1119,6 +1122,68 @@
  <desc lang="pt">Aquela série pra matar a saudades.</desc>
 </programme>
    
+ <!-- Programas Loading Web--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="003000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Love Alarm</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="003000 -0300" stop="030000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Yu Gi Oh</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="010000 -0300" stop="013000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="013000 -0300" stop="020000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="020000 -0300" stop="023000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">The Rizing Shield Hero</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="023000 -0300" stop="030000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Sailor Moon</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="030000 -0300" stop="040000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">The 100</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="040000 -0300" stop="043000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Akuyaku Reijou nanode Last Boss wo Kattemimashita</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="043000 -0300" stop="050000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="050000 -0300" stop="053000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="043000 -0300" stop="050000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="050000 -0300" stop="053000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="053000 -0300" stop="060000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Akuyaku Reijou nanode Last Boss wo Kattemimashita</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="060000 -0300" stop="063000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Love Alarm</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="063000 -0300" stop="070000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">The 100</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+
  <!-- Programas PoopTV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="030000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Sessão Sem Censura (+18)</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
@@ -1429,15 +1494,11 @@
  <title lang="pt">Entre Nós - Reprise</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="070000 -0300" stop="080000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="074000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Joseph Prince</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="080000 -0300" stop="081500 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Brasil em Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://imagens.ebc.com.br/ZZ4GWtExzHOTqtnaxEa3-oustCQ=/960x540/smart/https://play.ebc.com.br/imagens/CCH244_1682688081539.png" />
- <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
-</programme>
-<programme start="081500 -0300" stop="083000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="074000 -0300" stop="083000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
  <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
 </programme>
