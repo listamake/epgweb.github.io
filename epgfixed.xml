@@ -188,18 +188,25 @@
 </programme>
    
  <!-- Programas Canal Start--> <!-- Seg a SEx-->
-<programme start="000000 -0300" stop="030000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="010000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Playlist Start</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+ <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+</programme>
+<programme start="010000 -0300" stop="120000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="030000 -0300" stop="040000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Hora H</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
+<programme start="120000 -0300" stop="130000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Playlist Start</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="040000 -0300" stop="r000000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Gameplay na TV</title>
+<programme start="130000 -0300" stop="233000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
- <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Hora H</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
+ <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
  <!-- Programas Canal Start--> <!--SAB E DOM-->
 <programme start="000000 -0300" stop="020000 -0300" channel="canalstart.br"> <weekday days="sab,dom" />
@@ -266,6 +273,10 @@
  <title lang="pt">WooHoo</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://tecnoinforme.com.br/wp-content/uploads/2023/06/woohoo-editada.jpg" />
  <desc lang="pt">o WooHoo é muito mais do que um programa de tevê. Ele é o ponto de encontro de quem curte a vida zelando pela saúde, pelo conhecimento, pela amizade e pela força radical da juventude. </desc>
 </programme>
+<programme start="231500 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="qua" />
+ <title lang="pt">Qual Viagem</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_wViUBNK7XE8v0kCpy4RusFa9SJ.png" />
+ <desc lang="pt">Com larga experiência em jornalismo, Tony Auad começou sua carreira envolto pelos esportes e tempos depois optou em criar e apresentar seu próprio programa.</desc>
+</programme>
 <programme start="231500 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="qui" />
  <title lang="pt">CNT Entrevistas</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_i6s0ODo1Wk4rQ2fTFadxXwMAlm.png" />
  <desc lang="pt">A agilidade na distribuição das notícias proporcionadas pelas novas tecnologias gera o conhecimento dos fatos, mas muitas vezes não permite uma análise mais ampla.</desc>
@@ -300,111 +311,104 @@
 </programme>
    
  <!-- Programas Geekdot--> <!-- Semanal-->
-<programme start="000000 -0300" stop="060000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
- <desc lang="pt">Estamos realizando manuntenção</desc>
-</programme>
-<programme start="060000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
- <desc lang="pt">Estamos realizando manuntenção</desc>
-</programme>
-<programme start="120000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
- <desc lang="pt">Estamos realizando manuntenção</desc>
-</programme>
-<programme start="180000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
- <desc lang="pt">Estamos realizando manuntenção</desc>
-</programme>
-<programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="ter" />
+
+<programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="000500 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="ter" />
+<programme start="000500 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
  <desc lang="pt">Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
 </programme>
-<programme start="003000 -0300" stop="003500 -0300" channel="anitv.br"> <weekday days="ter" />
+<programme start="003000 -0300" stop="003500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter" />
+<programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
  <desc lang="pt">Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
 </programme>
-<programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="ter" />
+<programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Paranoia Agent</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://easternminute.com/wp-content/uploads/Paranoia-Agent-678x381.png" />
  <desc lang="pt">De Satoshi Kon, o lendário diretor de Perfect Blue and Paprika, chega um thriller psicológico sombrio e misterioso. Cidadãos em Musashino estão sendo assaltados e aterrorizados, e dois detetives devem descobrir o mistério do Garoto do Taco.</desc>
 </programme>
-<programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="ter,qua" />
+<programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Dororo</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://1.bp.blogspot.com/-QDrFmQp2pVs/X2jwClQAmEI/AAAAAAAAgsE/lXElWIZfnIA6rd5COczxTycBwFGKxe5xwCNcBGAsYHQ/w1200-h630-p-k-no-nu/resenha-dororo-anime.jpg" />
  <desc lang="pt">A terra do ganancioso senhor samurai Daigo Kagemitsu está morrendo, e ele faria qualquer coisa pelo poder, até mesmo renunciar a Buda e fazer um pacto com os demônios. Suas orações são respondidas por 12 demônios que lhe concedem o poder que ele deseja.</desc>
 </programme> 
-<programme start="020000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="ter,qua" />
+<programme start="020000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="070000 -0300" stop="163000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="070000 -0300" stop="153000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="163000 -0300" stop="173000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="153000 -0300" stop="160000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Lycoris Recoil</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/289201440/s640/lycoris-recoil/lycoris-recoil" />
+ <desc lang="pt">Se há paz no mundo, é graças à Lycoris, uma organização secreta de combate ao crime composta apenas por garotas.</desc>
+</programme>
+<programme start="160000 -0300" stop="163000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Horimiya</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/244252607/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Quando a popular Hori e o melancólico Miyamura se encontram, eles revelam seus lados ocultos. Isso pode ser o começo de algo novo?</desc>
+</programme>
+<programme start="163000 -0300" stop="173000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Nosso Eterno Verão</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nJ98JOaTk8qFpZ4o8otSA2nz1wE_x9Kk03EZJKEDq3Z2vTc15W3jGIRfOovtFRvGJmfyDlFJxQKgFQl65oK_wpgJXC-LOjRI-xDGmefDC97Xv32isAAGj_gmwMTik64xXABj1wh-VeLKj6DFCkGA_yRLM3binvaIa79xXvvxHW5owON-wbEY1uPEHQ/s16000/M-1445AASSEEE8.jpg" />
  <desc lang="pt">Anos após filmarem um documentário viral na escola, dois ex-namorados voltam para a frente das câmeras e talvez, para a vida um do outro.</desc>
 </programme>
-<programme start="173000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="173000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
  <desc lang="pt">Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
 </programme>
-<programme start="180000 -0300" stop="183000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="180000 -0300" stop="183000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Love Hina</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
  <desc lang="pt">Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
 </programme>
-<programme start="183000 -0300" stop="190000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="183000 -0300" stop="190000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">El Hazard</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://images.justwatch.com/backdrop/248863068/s640/temporada-1/temporada-1" />
  <desc lang="pt">Makoto sempre ofusca Jinnai sem tentar, o que só agrava a rivalidade delirante que Jinnai inventou em sua própria mente.</desc>
 </programme>
-<programme start="190000 -0300" stop="193000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="190000 -0300" stop="193000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Ranma ½ (Segunda Parte)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcV4FF-wLr0q_EXErhjbBEpMtN5bDtyUHsAAyhqcLokvIM50BO-n5ckAJS9AlZG0JK_gYtnZK_A647mwGklslrbKpROL59vGoMPqPjE9pssk5gAMkd1QjrFURyWKWFIhgN-Tn8ITs8NmbtN90R6jRRyQDS7sI3aE_-zH1n1TjIJtgVC4PFJw7RrRRhTg/s960/Ranma.jpg" />
  <desc lang="pt">Ranma Saotome é um jovem estudante de artes marciais. Certo dia, ele e seu pai partem para uma jornada de treinamento na China. Para o azar deles, ambos caíram em fontes estranhas durante o treinamento.</desc>
 </programme>
-<programme start="193000 -0300" stop="200000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="193000 -0300" stop="200000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
  <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
 </programme>
-<programme start="200000 -0300" stop="203000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="200000 -0300" stop="203000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Toradora!</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/272736685/s640/toradora/toradora" />
  <desc lang="pt">Ryuji é um rapaz que vive sendo mal interpretado por causa do seu olhar ameaçador. Todos pensam que ele é um delinquente juvenil e que a qualquer momento vai atacar alguém. É primavera e em seu primeiro dia no segundo ano no ensino médio ele encontra uma pequena garota.</desc>
 </programme>
-<programme start="203000 -0300" stop="210000 -0300" channel="anitv.br"> <weekday days="seg" />
+<programme start="203000 -0300" stop="210000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Life Lessons With Uramichi Oniisan</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248552018/s640/uramichioxiong-san/uramichioxiong-san" />
  <desc lang="pt">Ser um adulto é difícil. Para Uramichi Omota, de 31 anos, essa verdade deprimente pesa. Na TV, ele é um animado instrutor de exercícios em um programa infantil, mas às vezes, ele não consegue segurar seus comentários sarcásticos para si.</desc>
 </programme>
-<programme start="210000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="210000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2023/07/legiao_8pzv4yqUaZ3A.jpg.webp" />
  <desc lang="pt">Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
 </programme>
-<programme start="213000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="213000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://japan-geeks.com/wp-content/uploads/2022/03/FMNUfRVaUAAVfGq-768x436.jpeg" />
  <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
 </programme>
-<programme start="220000 -0300" stop="221000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="220000 -0300" stop="221000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
  <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
-<programme start="221000 -0300" stop="224000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="221000 -0300" stop="224000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
  <desc lang="pt">Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
 </programme>
-<programme start="224000 -0300" stop="231000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="224000 -0300" stop="231000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
  <desc lang="pt">O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
 </programme>
-<programme start="231000 -0300" stop="233000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="231000 -0300" stop="233000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
  <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
-<programme start="233000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="seg,ter" />
+<programme start="233000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
  <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
 </programme>
@@ -495,8 +499,8 @@
  <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
 </programme>
 <programme start="220000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">CineDot: Fate/Grand Order: Final Singularity - Grand Temple Of Time: Solomon</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/09/FATE_img_site-200x144.png" />
- <desc lang="pt"> Depois de passar por todas as sete Singularidades, a Organização de Segurança da Caldéia finalmente chegou ao ponto final da Grande Ordem: A Singularidade Final, Grande Templo do Tempo: Salomão. Agora é a hora de derrotar a raiz de todo o mal, Salomão, o Rei dos Magos.</desc>
+ <title lang="pt">CineDot: A Anunciar</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/09/CINEDOT_img_site-200x144.png" />
+ <desc lang="pt">Nossa sessão de filmes especiais aqui na Geekdot, você irá conferir longas premiados e de grande sucesso, escolhidos especialmente para os seus finais de domingo ficarem cada vez melhor com a gente!</desc>
 </programme>
 <programme start="000000 -0300" stop="023000 -0300" channel="anitv.br"> <weekday days="seg" />
  <title lang="pt">Maratona #FDS: All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
@@ -1124,19 +1128,19 @@
    
  <!-- Programas Loading Web--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="003000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Love Alarm</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="003000 -0300" stop="030000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Yu Gi Oh</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+<programme start="003000 -0300" stop="013000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Yu Gi Oh</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="010000 -0300" stop="013000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <title lang="pt">Power Rangers</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="013000 -0300" stop="020000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <title lang="pt">Bily e Mandy</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="020000 -0300" stop="023000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -1172,17 +1176,70 @@
  <desc lang="pt">.</desc>
 </programme>
 <programme start="053000 -0300" stop="060000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Akuyaku Reijou nanode Last Boss wo Kattemimashita</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <title lang="pt">Yu Gi Oh</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="060000 -0300" stop="063000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Love Alarm</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+<programme start="060000 -0300" stop="070000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="063000 -0300" stop="070000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="080000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">The 100</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
+<programme start="080000 -0300" stop="083000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="083000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="140000 -0300" stop="143000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="143000 -0300" stop="150000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">InuYasha</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="150000 -0300" stop="153000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Boku no Hero</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="153000 -0300" stop="160000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Yu Gi Oh</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="160000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="210000 -0300" stop="213000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Boku no Hero</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="213000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">The Rizing Shield Hero</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="220000 -0300" stop="223000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="223000 -0300" stop="230000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="230000 -0300" stop="233000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+
 
  <!-- Programas PoopTV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="030000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
