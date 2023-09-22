@@ -1364,7 +1364,7 @@
  <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="230000 -0300" stop="r0000000 -0300" channel="cbnrede.br"> <weekday days="sab" />
+<programme start="230000 -0300" stop="r000000 -0300" channel="cbnrede.br"> <weekday days="sab" />
  <title lang="pt">Globo News Painel</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.ytimg.com/vi/5SnySAaKtdY/hqdefault.jpg" />
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
