@@ -1319,7 +1319,7 @@
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
 <programme start="100000 -0300" stop="120000 -0300" channel="cbnrede.br"> <weekday days="seg,ter,qua,qui,sex" /> 
- <title lang="pt">CBN Plaça</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
+ <title lang="pt">CBN Plaça</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg" />
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
 <programme start="120000 -0300" stop="140000 -0300" channel="cbnrede.br"> <weekday days="seg,ter,qua,qui,sex" /> 
@@ -1331,7 +1331,7 @@
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
 <programme start="160000 -0300" stop="210000 -0300" channel="cbnrede.br"> <weekday days="seg,ter,qua,qui,sex" /> 
- <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
+ <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg" />
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
 <programme start="210000 -0300" stop="r000000 -0300" channel="cbnrede.br"> <weekday days="seg,ter,qua,qui,sex" /> 
@@ -1344,16 +1344,16 @@
  <title lang="pt">Jornal da CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1166817519711260679/UjyrWpvZ_400x400.jpg" />
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="090000 -0300" stop=093000 -0300" channel="cbnrede.br"> <weekday days="sab" /> 
- <title lang="pt">O Mundo em Meia Hora</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
+<programme start="090000 -0300" stop="093000 -0300" channel="cbnrede.br"> <weekday days="sab" /> 
+ <title lang="pt">O Mundo em Meia Hora</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg" />
  <desc lang="pt">Com Fernando Andrade, Guga Chacra e Ariel Palacios</desc>
 </programme>
 <programme start="093000 -0300" stop="100000 -0300" channel="cbnrede.br"> <weekday days="sab" />
- <title lang="pt">Bem-estar e Movimento</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
+ <title lang="pt">Bem-estar e Movimento</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg" />
  <desc lang="pt">fique bem brasil.</desc>
 </programme>
 <programme start="100000 -0300" stop="120000 -0300" channel="cbnrede.br"> <weekday days="sab" />
- <title lang="pt">CBN Plaça</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
+ <title lang="pt">CBN Plaça</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg" />
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
 <programme start="120000 -0300" stop="150000 -0300" channel="cbnrede.br"> <weekday days="sab" />
@@ -1368,7 +1368,7 @@
  <title lang="pt">Globo News Painel</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.ytimg.com/vi/5SnySAaKtdY/hqdefault.jpg" />
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
-   ###dom###
+    <!-- Programas Radio CBN--> <!--Sab a Dom-->
 <programme start="000000 -0300" stop="060000 -0300" channel="cbnrede.br"> <weekday days="dom" />
  <title lang="pt">CBN Madrugada</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_MNVGP7SJ62QJukeSGDwV3DKuJIQto1GY4FSeYtdrxJTu8h4jaKuv-ZfOuLs7jY3ElpA0iAXlqphIN17eXp0VbTEiJYpZBxvHev74yac1pGE0L9S8nHojOz_sdEXXkuOtj7FcvBi8TGJkTeJ2M4LmeZiL7uDfqzzHcJ67oy4ud4WttsrKO1epU5qS7pE/s320/cbn%20madrugada.png" />
  <desc lang="pt">Com Paulo Galvão</desc>
