@@ -1519,12 +1519,12 @@
  <title lang="pt">Faixa Musical/Jornadas Esportivas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
- <title lang="pt">Ritimos do Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
- <desc lang="pt">Diversas musicas em varios ritimos diferente, para diferentes gostos</desc>
+<programme start="200000 -0300" stop="204500 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
+ <title lang="pt">Esquenta Clube</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades.</desc>
 </programme>
-<programme start="210000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
- <title lang="pt">ABC vs. Sport</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+<programme start="204500 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
+ <title lang="pt">Sport vs. Londrina</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">Futebol</desc>
 </programme>
 <programme start="000000 -0300" stop="060000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
