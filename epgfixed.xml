@@ -6,13 +6,10 @@
 <channel id="AllSports.br">
  <display-name lang="pt">All Sport HD</display-name><icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp"/>
 </channel>
+   
 <channel id="animetv.br">
  <display-name lang="pt">Otaku Sign TV</display-name>
- <display-name lang="pt">Toonick</display-name>
- <display-name lang="pt">Anime TV</display-name>
- <display-name lang="pt">Locomotion SD</display-name>
-  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
-
+ <display-name lang="pt">Anime TV</display-name><icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
 </channel>
 <channel id="antena1tv.br">
  <display-name lang="pt">Antena 1 TV</display-name> <icon src="https://pbs.twimg.com/profile_images/1491831001873633284/duo6Mk_C_400x400.jpg"/>
@@ -1153,92 +1150,88 @@
 </programme>
    
  <!-- Programas Loading Web--> <!--Seg a Dom-->
-<programme start="000000 -0300" stop="003000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+<programme start="000000 -0300" stop="020000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="003000 -0300" stop="010000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Yu Gi Oh</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+<programme start="020000 -0300" stop="023000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Aggressive Retsuko</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="010000 -0300" stop="013000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Power Rangers</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+<programme start="023000 -0300" stop="030000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Sailor Moon R</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://images.justwatch.com/backdrop/180935792/s640/sailor-moon/sailor-moon" />
+ <desc lang="pt">Sailor Moon conta a história de Usagi Tsukino, uma garota normal e inocente de 14 anos — pelo menos, é isso que ela pensa — que um dia encontra Luna, uma gata falante que revela a identidade de Usagi como "Sailor Moon", uma guerreira mágica destinada a salvar a Terra das forças do mal.</desc>
 </programme>
-<programme start="013000 -0300" stop="020000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Bily e Mandy</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
-</programme>
-<programme start="020000 -0300" stop="023000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Aggressive Retsuko (ONA)</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
-</programme>
-<programme start="023000 -0300" stop="030000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Sailor Moon</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
-</programme>
-<programme start="030000 -0300" stop="033000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="030000 -0300" stop="033000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Konosuba-An Explolion on This Wanderful World!</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="033000 -0300" stop="040000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="033000 -0300" stop="040000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">i'm the villainess só I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="040000 -0300" stop="043000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="040000 -0300" stop="043000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Akuyaku Reijou nanode Last Boss wo Kattemimashita</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="043000 -0300" stop="050000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+<programme start="043000 -0300" stop="050000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="050000 -0300" stop="053000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="050000 -0300" stop="053000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="043000 -0300" stop="050000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+<programme start="050000 -0300" stop="053000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">I'm the villainess só I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="050000 -0300" stop="053000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">i'm the villainess só I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
-</programme>
-<programme start="053000 -0300" stop="060000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="053000 -0300" stop="060000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
  <desc lang="pt">Yu Yu Hakusho é uma série de mangá shonen escrita e ilustrada por Yoshihiro Togashi que conta a história de Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança.</desc>
 </programme>
 <programme start="060000 -0300" stop="070000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="070000 -0300" stop="080000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">The 100</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="080000 -0300" stop="083000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+ <desc lang="pt">Yu Yu Hakusho é uma série de mangá shonen escrita e ilustrada por Yoshihiro Togashi que conta a história de Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança.</desc>
 </programme>
-<programme start="083000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="083000 -0300" stop="120000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="140000 -0300" stop="143000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+<programme start="120000 -0300" stop="123000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fairy Tail</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/242880992/s640/fairy-tail/fairy-tail" />
+ <desc lang="pt">Quando quatro jovens feiticeiros se juntam e trabalham um pouco por todo o reino, criam um elo mais poderoso do que qualquer magia e ficam mais fortes a cada missão.</desc>
+</programme>
+<programme start="123000 -0300" stop="130000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">I'm the Villainess só I'm Taming the Final Boss (MARATOON)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
+</programme>
+<programme start="130000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="140000 -0300" stop="143000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+ <desc lang="pt">Yu Yu Hakusho é uma série de mangá shonen escrita e ilustrada por Yoshihiro Togashi que conta a história de Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança.</desc>
 </programme>
 <programme start="143000 -0300" stop="150000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">InuYasha</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">Inuyasha</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/304878994/s640/inuyasha-guren-no-houraijima/inuyasha-guren-no-houraijima" />
+ <desc lang="pt">Uma adolescente viaja periodicamente no tempo para o Japão feudal para ajudar um jovem meio-demônio a recuperar os cacos de uma joia de grande poder.</desc>
 </programme>
 <programme start="150000 -0300" stop="153000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Boku no Hero</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
+ <desc lang="pt">A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc>
 </programme>
 <programme start="153000 -0300" stop="160000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Yu Gi Oh</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+ <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="160000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -1261,14 +1254,11 @@
  <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="230000 -0300" stop="233000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Naruto</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+<programme start="230000 -0300" stop="r000000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="233000 -0300" stop="r000000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
-</programme>
+   
 <programme start="070000 -0300" stop="090000 -0300" channel="loadingweb.br"> <weekday days="sab" />
  <title lang="pt">The 100</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
@@ -1278,15 +1268,15 @@
  <desc lang="pt">.</desc>
 </programme>
 <programme start="120000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="sab" />
- <title lang="pt">Naruto (MARATOON)</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <title lang="pt">Naruto (MARATOON)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="140000 -0300" stop="160000 -0300" channel="loadingweb.br"> <weekday days="sab" />
- <title lang="pt">i'm the villainess só I'm Taming the Final Boss (MARATOON)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <title lang="pt">I'm the Villainess só I'm Taming the Final Boss (MARATOON)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="160000 -0300" stop="170000 -0300" channel="loadingweb.br"> <weekday days="sab" />
- <title lang="pt">Damon Slayer:  Kumetsu no yaiba</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <title lang="pt">Damon Slayer</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="170000 -0300" stop="183000 -0300" channel="loadingweb.br"> <weekday days="sab" />
@@ -1306,13 +1296,49 @@
  <desc lang="pt">.</desc>
 </programme>
 <programme start="220000 -0300" stop="230000 -0300" channel="loadingweb.br"> <weekday days="sab" />
- <title lang="pt">Konosuba-An Explolion on This Wanderful World! (MARATOON)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <title lang="pt">Tokyo Revengers(MARATOON)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://thesoundcheck.it/wp-content/uploads/2022/11/tokyorev.jpg" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="230000 -0300" stop="r000000 -0300" channel="loadingweb.br"> <weekday days="sab" />
- <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+<!--Dom-->
+
+<programme start="060000 -0300" stop="080000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
+<programme start="080000 -0300" stop="100000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Maratoon: Sailor Moon R</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://images.justwatch.com/backdrop/180935792/s640/sailor-moon/sailor-moon" />
+ <desc lang="pt">Sailor Moon conta a história de Usagi Tsukino, uma garota normal e inocente de 14 anos — pelo menos, é isso que ela pensa — que um dia encontra Luna, uma gata falante que revela a identidade de Usagi como "Sailor Moon", uma guerreira mágica destinada a salvar a Terra das forças do mal.</desc>
+</programme>
+<programme start="100000 -0300" stop="120000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Maratoon: Inuyasha</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/304878994/s640/inuyasha-guren-no-houraijima/inuyasha-guren-no-houraijima" />
+ <desc lang="pt">Uma adolescente viaja periodicamente no tempo para o Japão feudal para ajudar um jovem meio-demônio a recuperar os cacos de uma joia de grande poder.</desc>
+</programme>
+<programme start="120000 -0300" stop="160000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Maratoon: Black Clover</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="160000 -0300" stop="180000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Maratoon: Horimiya</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/244252607/s640/temporada-1/temporada-1" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="180000 -0300" stop="190000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Maratoon: Ranma ½</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/163284174/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Saotome Ranma, um adolescente e artista marcial, e o seu pai Genma viajam até ao 'amaldiçoado campo de treino' de Jusenkyo na China. Lá, apesar dos avisos da guarda chinesa, eles caem nas nascentes amaldiçoadas.</desc>
+</programme>
+<programme start="190000 -0300" stop="200000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Maratoon: My Hero Academia</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
+ <desc lang="pt">A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Anna Bele 2 (filme)</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="210000 -0300" stop="230000 -0300" channel="loadingweb.br"> <weekday days="dom" />
+ <title lang="pt">Maratoon: Fairy Tail</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/242880992/s640/fairy-tail/fairy-tail" />
+ <desc lang="pt">Quando quatro jovens feiticeiros se juntam e trabalham um pouco por todo o reino, criam um elo mais poderoso do que qualquer magia e ficam mais fortes a cada missão.</desc>
+</programme>
+
+   
  <!-- Programas Polidoro TV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="PolidoroTV.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação Polidoro TV</title><rating system="CLASSIND"><value>12</value></rating> <icon src="" />
@@ -1323,7 +1349,6 @@
  <desc lang="pt">Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
  
-
  <!-- Programas PoopTV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="030000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Sessão Sem Censura (+18)</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
