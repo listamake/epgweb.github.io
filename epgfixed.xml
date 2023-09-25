@@ -1151,6 +1151,10 @@
    
  <!-- Programas Loading Web--> <!--Seg a Dom-->
 
+<programme start="000000 -0300" stop="020000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
 <programme start="020000 -0300" stop="023000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Aggressive Retsuko</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/303645569/s640/aggretsuko/aggretsuko" />
  <desc lang="pt">Retsuko, um panda vermelho de 25 anos que trabalha no departamento de contabilidade de sua empresa dos sonhos. Mas acontece que ela é forçada a continuar fazendo tarefas cada vez mais impossíveis por seus superiores e colegas de trabalho. </desc>
@@ -1164,8 +1168,8 @@
  <desc lang="pt">.</desc>
 </programme>
 <programme start="033000 -0300" stop="040000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">i'm the villainess só I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">I'm the Villainess, So I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/302213148/s640/im-the-villainess-so-im-taming-the-final-boss/im-the-villainess-so-im-taming-the-final-boss" />
+ <desc lang="pt">Quando seu noivado com o príncipe termina sem cerimônia, detalhes da vida passada da jovem nobre Aileen voltam correndo e a ajudam a perceber que ela está vivendo dentro do mundo de um de seus jogos favoritos - como a maior rival da heroína! </desc>
 </programme>
 <programme start="040000 -0300" stop="043000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Akuyaku Reijou nanode Last Boss wo Kattemimashita</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
@@ -1251,7 +1255,7 @@
  <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="230000 -0300" stop="r020000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="230000 -0300" stop="r000000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
