@@ -164,10 +164,7 @@
 </programme>
    
  <!-- Programas BSTV--> <!-- Seg a Sex-->
-<programme start="000000 -0300" stop="080000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
- <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
-</programme>
+
 <programme start="080000 -0300" stop="110000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Hora Kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
@@ -188,8 +185,12 @@
  <title lang="pt">Cine Play</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="160000 -0300" stop="r000000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="160000 -0300" stop="230000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
+ <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+</programme>
+<programme start="230000 -0300" stop="r080000 -0300" channel="bstv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 
