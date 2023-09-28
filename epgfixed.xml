@@ -2109,7 +2109,7 @@
 
    
  <!-- Programas TV Max--> <!--Seg a Sex-->
-<programme start="000000 -0300" stop="070000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="070000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qui,sex" />
  <title lang="pt">Programação Max TV</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -2143,7 +2143,11 @@
  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://conceitosdomundo.pt/wp-content/uploads/2021/10/musica.jpg" />
 </programme>
     <!--Seg-->
-<programme start="170000 -0300" stop="210000 -0300" channel="TVMax.br"> <weekday days="seg" />
+<programme start="170000 -0300" stop="180000 -0300" channel="TVMax.br"> <weekday days="seg" />
+ <title lang="pt">Café com Selinho</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_d72278740e4747899524e9b3dcd29422~mv2.jpeg" />
+ <desc lang="pt">Idealizado por Marcello Camargo, filho da apresentadora Hebe Camargo, o programa é voltado para o entretenimento com foco em entrevistas. </desc>
+</programme>
+<programme start="180000 -0300" stop="210000 -0300" channel="TVMax.br"> <weekday days="seg" />
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -2156,19 +2160,47 @@
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  <!--ter-->
-<programme start="170000 -0300" stop="200000 -0300" channel="TVMax.br"> <weekday days="ter" />
- <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+<programme start="170000 -0300" stop="174500 -0300" channel="TVMax.br"> <weekday days="ter,sex" />
+ <title lang="pt">É Show com Vanessa Campos</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/cAUEw18Qj8M/mqdefault.jpg" />
+ <desc lang="pt">Vanessa Campos entrevista brasileiros de sucesso que moram nos EUA diretamente de Miami.</desc>
+</programme>
+<programme start="174500 -0300" stop="180500 -0300" channel="TVMax.br">  <weekday days="ter" />
+ <title lang="pt">Mini Shows</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="180500 -0300" stop="190000 -0300" channel="TVMax.br"> <weekday days="ter,sex" />
+ <title lang="pt">Olha Quem Está falando!</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">Programa de variedades e entrevistas com radialistas consagrados, apresentado por José Milson Fabiano.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="TVMax.br"> <weekday days="ter" />
  <title lang="pt">Max Esporte</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_06418e26201240dcbde5534b12ce2a56~mv2.png" />
  <desc lang="pt">Programa esportivo apresentado por Ricardo Mazella e com a participação de renomados jornalistas e radialistas esportivos. Ilustres convidados participam de um debate de alto nível. </desc>
 </programme>
-<programme start="210000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="ter" />
+<programme start="210000 -0300" stop="220000 -0300" channel="TVMax.br"> <weekday days="ter" />
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
- <!--ter-->
+<programme start="220000 -0300" stop="230000 -0300" channel="TVMax.br"> <weekday days="ter,sex" />
+ <title lang="pt">Destak na TV</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_3078e57edbaf4a838ed31feb465898b3~mv2.png" />
+ <desc lang="pt">O apresentador Sidnei Domingues entrevista personalidades da vida pública e artística do Rio de Janeiro.</desc>
+</programme>
+<programme start="230000 -0300" stop="234000 -0300" channel="TVMax.br">  <weekday days="ter,qui" />
+ <title lang="pt">Museu Da Pelada</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_cfef7f5c85fd494eb82f01b9d26b4e29~mv2.jpg" />
+ <desc lang="pt">O conceituado jornalista Sérgio Pugliese coloca em campo novamente os grandes ídolos do futebol nacional.</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="ter" />
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ <!--qua-->
+<programme start="000000 -0300" stop="003000 -0300" channel="TVMax.br"> <weekday days="qua" />
+ <title lang="pt">Alô Helô</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_fd3268d9086e418c91e457f16da4a218~mv2.jpg" />
+ <desc lang="pt">Com apresentação da jornalista Helô Pinheiro.Helô, como é sabido de todos, foi a musa inspiradora de Tom Jobim e Vinícius de Morais na composição da música Garota de Ipanema. Porém o que nem todos sabem é que Garota de Ipanema é a música mais tocada na história da MPB. No programa ela entrevista amigos e famosos.</desc>
+</programme>
+<programme start="003000 -0300" stop="070000 -0300" channel="TVMax.br"> <weekday days="qua" />
+ <title lang="pt">Programação Max TV</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
 <programme start="170000 -0300" stop="200000 -0300" channel="TVMax.br"> <weekday days="qua" />
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
@@ -2177,12 +2209,53 @@
  <title lang="pt">Viajando Pelo Brasil</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_59de53e06c1a439985a5e718325ab8f7~mv2.png" />
  <desc lang="pt">Acompanhe esta viagem cheia de aventuras com Marcelo Pinheiro e sua filha Carol.</desc>
 </programme>
-<programme start="210000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="qua" />
+<programme start="210000 -0300" stop="220000 -0300" channel="TVMax.br">  <weekday days="qua" />
+ <title lang="pt">Samba Que é Gol</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_dce74910030640febf6d43895fc6219d~mv2.png" />
+ <desc lang="pt">O programa Samba que é Gol apresentado pelo cantor e compositor Leo Russo, um programa que mistura samba e futebol com bom humor e alto astral.</desc>
+</programme>
+<programme start="220000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="qua" />
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
+ <!--qui-->
+<programme start="170000 -0300" stop="213000 -0300" channel="TVMax.br"> <weekday days="qui" />
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="213000 -0300" stop="230000 -0300" channel="TVMax.br"> <weekday days="qui" />
+ <title lang="pt">Só Se For Agora Podcast</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://s3.glbimg.com/v1/AUTH_35862ca5c6ab48b992baf1f1b4f7062e/m-extra-globo-com/incoming/25411532-180-f7b/w488h275-PROP/divulgacao-podcast.jpg" />
+ <desc lang="pt">Jorge Perlingeiro, no seu PODCAST busca criar um acervo de memórias com diversas personalidades com histórias que não poderiam deixar de ser contadas.</desc>
+</programme>
+
+<programme start="234000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="qui" />
+ <title lang="pt">Conexão 21</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_36c2c8e799884981b2f5c28e7ab7d681~mv2.jpg" />
+ <desc lang="pt">O programa Vegeta TV, a melhor mesa redonda Rubro-Negra você encontra aqui.</desc>
+</programme>
+ <!--sex-->
+<programme start="164500 -0300" stop="170000 -0300" channel="TVMax.br"> <weekday days="sex" />
+ <title lang="pt">Moda.Com</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_55fd34ddb82148c68444b6945f50084c~mv2.jpg" />
+ <desc lang="pt">Muita moda, entretenimento, beleza, estética e com uma pitadinha de humor. Apresentado por Sabrinna Zanini.</desc>
+</programme>
+<programme start="174500 -0300" stop="180500 -0300" channel="TVMax.br">  <weekday days="sex" />
+ <title lang="pt">Programa Celebridades</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_dbb83cffd5d14ed49e2dc1cf70a9c8da~mv2.png" />
+ <desc lang="pt">O programa é comandado pela apresentadora e jornalista Fabíola Lyma.</desc>
+</programme>
+<programme start="190000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="sex" />
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+
+   
  <!-- Programas TV Max--> <!--Sab a Dom-->
-<programme start="000000 -0300" stop="180000 -0300" channel="TVMax.br">  <weekday days="sab" />
+<programme start="000000 -0300" stop="140000 -0300" channel="TVMax.br">  <weekday days="sab" />
+ <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="140000 -0300" stop="150000 -0300" channel="TVMax.br"> <weekday days="sab" />
+ <title lang="pt">Olha Quem Está falando!</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">Programa de variedades e entrevistas com radialistas consagrados, apresentado por José Milson Fabiano.</desc>
+</programme>
+<programme start="150000 -0300" stop="180000 -0300" channel="TVMax.br">  <weekday days="sab" />
  <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -2202,10 +2275,15 @@
  <title lang="pt">Alô Helô</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_fd3268d9086e418c91e457f16da4a218~mv2.jpg" />
  <desc lang="pt">Com apresentação da jornalista Helô Pinheiro.Helô, como é sabido de todos, foi a musa inspiradora de Tom Jobim e Vinícius de Morais na composição da música Garota de Ipanema. Porém o que nem todos sabem é que Garota de Ipanema é a música mais tocada na história da MPB. No programa ela entrevista amigos e famosos.</desc>
 </programme>
-<programme start="230000 -0300" stop="r000000 -0300" channel="TVMax.br">  <weekday days="sab" />
- <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
+<programme start="230000 -0300" stop="233000 -0300" channel="TVMax.br">  <weekday days="sab" />
+ <title lang="pt">Mini Shows</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="sab" />
+ <title lang="pt">Viajando Pelo Brasil</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_59de53e06c1a439985a5e718325ab8f7~mv2.png" />
+ <desc lang="pt">Acompanhe esta viagem cheia de aventuras com Marcelo Pinheiro e sua filha Carol.</desc>
+</programme>
+
 <programme start="000000 -0300" stop="100000 -0300" channel="TVMax.br">  <weekday days="dom" />
  <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
@@ -2230,9 +2308,21 @@
  <title lang="pt">Assim é Portugal</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_3b93c0f838eb4a08a0cc8f44a9577f4f~mv2.jpg" />
  <desc lang="pt">O programa Assim é Portugal na TV em seu 9º ano, vem conquistando a cada semana de exibição centenas de novos telespectadores.</desc>
 </programme>
-<programme start="150000 -0300" stop="200000 -0300" channel="TVMax.br">  <weekday days="dom" />
+<programme start="150000 -0300" stop="160000 -0300" channel="TVMax.br">  <weekday days="dom" />
  <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="160000 -0300" stop="170000 -0300" channel="TVMax.br">  <weekday days="dom" />
+ <title lang="pt">PubliRio Online</title>  <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_ba16cd7393e944c4ad25269dffe92a99~mv2.jpeg" />
+ <desc lang="pt">Programa de variedades e entrevistas apresentado pelo publicitário e radialista Silvio Barbosa.</desc>
+</programme>
+<programme start="170000 -0300" stop="183000 -0300" channel="TVMax.br">  <weekday days="dom" />
+ <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="183000 -0300" stop="200000 -0300" channel="TVMax.br"> <weekday days="dom" />
+ <title lang="pt">Só Se For Agora Podcast</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://s3.glbimg.com/v1/AUTH_35862ca5c6ab48b992baf1f1b4f7062e/m-extra-globo-com/incoming/25411532-180-f7b/w488h275-PROP/divulgacao-podcast.jpg" />
+ <desc lang="pt">Jorge Perlingeiro, no seu PODCAST busca criar um acervo de memórias com diversas personalidades com histórias que não poderiam deixar de ser contadas.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="TVMax.br">  <weekday days="dom" />
  <title lang="pt">Destino Incomum</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_bd925840b8f8436b95a001b49154dfb0~mv2.jpg" />
