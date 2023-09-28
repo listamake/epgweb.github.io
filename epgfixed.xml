@@ -2245,7 +2245,7 @@
  <title lang="pt">Programa Celebridades</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_dbb83cffd5d14ed49e2dc1cf70a9c8da~mv2.png" />
  <desc lang="pt">O programa é comandado pela apresentadora e jornalista Fabíola Lyma.</desc>
 </programme>
-<programme start="180500 -0300" stop="220000 -0300" channel="TVMax.br"> <weekday days="qui" />
+<programme start="190000 -0300" stop="220000 -0300" channel="TVMax.br">  <weekday days="sex" />
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
