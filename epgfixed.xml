@@ -2137,7 +2137,7 @@
  <title lang="pt">Cidinha Livre</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2020/03/cidinha-campos-entrevista-audiencia-carioca-eduardo-moura-2.jpg" />
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="150000 -0300" stop="170000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="150000 -0300" stop="170000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qua,qui" />
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://conceitosdomundo.pt/wp-content/uploads/2021/10/musica.jpg" />
@@ -2232,6 +2232,11 @@
  <desc lang="pt">O programa Vegeta TV, a melhor mesa redonda Rubro-Negra você encontra aqui.</desc>
 </programme>
  <!--sex-->
+<programme start="150000 -0300" stop="164500 -0300" channel="TVMax.br"> <weekday days="sex" />
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://conceitosdomundo.pt/wp-content/uploads/2021/10/musica.jpg" />
+</programme>
 <programme start="164500 -0300" stop="170000 -0300" channel="TVMax.br"> <weekday days="sex" />
  <title lang="pt">Moda.Com</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_55fd34ddb82148c68444b6945f50084c~mv2.jpg" />
  <desc lang="pt">Muita moda, entretenimento, beleza, estética e com uma pitadinha de humor. Apresentado por Sabrinna Zanini.</desc>
@@ -2240,7 +2245,11 @@
  <title lang="pt">Programa Celebridades</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_dbb83cffd5d14ed49e2dc1cf70a9c8da~mv2.png" />
  <desc lang="pt">O programa é comandado pela apresentadora e jornalista Fabíola Lyma.</desc>
 </programme>
-<programme start="190000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="sex" />
+<programme start="180500 -0300" stop="220000 -0300" channel="TVMax.br"> <weekday days="qui" />
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="TVMax.br"> <weekday days="sex" />
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/mqdefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
