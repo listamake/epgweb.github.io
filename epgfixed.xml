@@ -62,6 +62,11 @@
 <channel id="pooptv.br"> <display-name lang="pt">PoopTV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
 </channel>
+<channel id="bandfmrede.br">
+ <display-name lang="pt">Band FM</display-name> <display-name lang="pt">Band FM Campinas</display-name>  <display-name lang="pt">Band FM Sorocaba</display-name>
+  <display-name lang="pt">Band FM Pouso Alegre</display-name>
+  <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png"/>
+</channel>
 <channel id="cbnrede.br">
  <display-name lang="pt">Rádio CBN Rede</display-name> <display-name lang="pt">CBN Rio HD</display-name> <display-name lang="pt">CBN São Paulo HD</display-name>
   <icon src="https://www.cxradio.com.br/img/Radio/Logo/b6bc2e62040df6e1f6c2038aa66b755f.jpg"/>
@@ -74,6 +79,17 @@
 </channel>
 <channel id="jhero.br">
  <display-name lang="pt">Rádio JHero</display-name> <icon src="https://static.mytuner.mobi/media/tvos_radios/JaxdA4MwLR.png"/>
+</channel>
+<channel id="jkfmrede.br">
+ <display-name lang="pt">JK FM HD</display-name> <icon src="https://img.radios.com.br/radio/xl/radio13525_1653597884.jpg"/>
+</channel>
+<channel id="MixFMBelem.br">
+ <display-name lang="pt">Mix Belém HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1545103616574459905/YA44Zg0H_400x400.jpg"/>
+</channel>
+<channel id="Movies.br">
+ <display-name lang="pt">Movies HD</display-name>
+  <icon src="https://img.freepik.com/vetores-premium/design-de-icone-de-filme-de-filme-de-badalo_24877-23150.jpg"/>
 </channel>
 <channel id="radiojornalpe.br">
  <display-name lang="pt">Rádio Jornal Recife</display-name> <icon src="https://imagens.ne10.uol.com.br/radio-logo.jpg"/>
@@ -88,16 +104,16 @@
  <display-name lang="pt">Rede Mais Família HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp"/>
 </channel>
 <channel id="TVTop.br">
- <display-name lang="pt">Top TV HD</display-name>
- <display-name lang="pt">Catve FM HD</display-name>
+ <display-name lang="pt">Top TV HD</display-name> <display-name lang="pt">Catve FM HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3858200bc307bc603e159858383c367c.webp"/>
+</channel>
+<channel id="turnerdemo.br">
+ <display-name lang="pt">Promocional HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
 </channel>
 <channel id="RetroCartoon.br">
  <display-name lang="pt">RETRO CARTOON SD</display-name> <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
 </channel>
-<channel id="RSNewsSports.br">
- <display-name lang="pt">RS News Sports</display-name>
- <display-name lang="pt">RS News Sports 2</display-name>
+<channel id="RSNewsSports.br"> <display-name lang="pt">RS News Sports</display-name> <display-name lang="pt">RS News Sports 2</display-name>
  <display-name lang="pt">RS News Sports 3</display-name>
  <display-name lang="pt">RS News Sports 4</display-name>
  <display-name lang="pt">RS News Sports 5</display-name>
@@ -910,6 +926,15 @@
  <title lang="pt">Programação Esportes Brasília</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg" />
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
+ <!-- Programas Movies--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="Movies.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
+ <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="Movies.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
+ <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
+</programme>
    
  <!-- Programas Kpop TV Play--> <!--Seg a Sex-->
 <programme start="000000 -0300" stop="190000 -0300" channel="KpopTVPlay.br"> <weekday days="seg,ter,qua,qui,sex" /> <category>Música</category>
@@ -1371,6 +1396,84 @@
  <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
 </programme>
+
+    <!-- Programas Radio Band FM--> <!--Seg a Sex-->
+   
+<programme start="000000 -0300" stop="050000 -0300" channel="bandfmrede.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
+ <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
+</programme>
+<programme start="050000 -0300" stop="060000 -0300" channel="bandfmrede.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
+ <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
+</programme>
+<programme start="060000 -0300" stop="090000 -0300" channel="bandfmrede.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Hora do Ronco</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/8Yb2Joz5B4Q/sddefault.jpg" />
+ <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
+</programme>
+<programme start="090000 -0300" stop="210000 -0300" channel="bandfmrede.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
+ <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
+</programme>
+<programme start="210000 -0300" stop="220000 -0300" channel="bandfmrede.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
+ <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
+</programme> 
+<programme start="220000 -0300" stop="r000000 -0300" channel="bandfmrede.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
+ <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
+</programme>
+<!--Sab-->
+<programme start="000000 -0300" stop="050000 -0300" channel="bandfmrede.br"> <weekday days="sab,dom" />
+ <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
+ <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
+</programme>
+<programme start="050000 -0300" stop="070000 -0300" channel="bandfmrede.br"><weekday days="sab,dom" />
+ <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
+ <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
+</programme>
+<programme start="070000 -0300" stop="090000 -0300" channel="bandfmrede.br"> <weekday days="sab" />
+ <title lang="pt">Top Five</title>
+ <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
+</programme>
+<programme start="090000 -0300" stop="110000 -0300" channel="bandfmrede.br"> <weekday days="sab" />
+ <title lang="pt">Manhã Show</title>
+ <desc lang="pt">O programa oferece uma mistura de entretenimento e informação por meio de quadros como Caixa Premiada, Super 6 e Band Notícias. Os ouvintes interagem de forma descontraída e se divertem, enquanto recebem informações atualizadas e relevantes.</desc>
+</programme>
+<programme start="110000 -0300" stop="200000 -0300" channel="bandfmrede.br"> <weekday days="sab" />
+ <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
+ <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="bandfmrede.br"> <weekday days="sab" />
+ <title lang="pt">Hora Cheia</title>
+ <desc lang="pt">O Hora Cheia da Band FM toca 1 hora de músicas em sequência e premia os ouvintes sorteados que acertarem quantas músicas foram tocadas na edição.</desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="bandfmrede.br"> <weekday days="sab" />
+ <title lang="pt">Pista da Band</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/01/Pista-da-Band.jpg" />
+ <desc lang="pt">O Pista da Band apresenta, todo sábado a partir das 21h00 às 00h00, 3 horas de programa com as últimas tendências das pistas do mundo. Muito além de tocar os hits, o programa traz informações e atualidades da música eletrônica.</desc>
+</programme>
+<!--Dom-->
+<programme start="070000 -0300" stop="090000 -0300" channel="bandfmrede.br"> <weekday days="dom" />
+ <title lang="pt">Estação Band FM</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/01/Estacao-Band-FM.jpg" />
+ <desc lang="pt">O Estação Band FM é uma opção divertida e descontraída para o fim de tarde, com notícias curiosas e comentários bem humorados.O programa promove uma experiência agradável e dinâmica para seus ouvintes, tornando o momento ainda mais relaxante. Aproveite para se divertir!</desc>
+</programme>
+<programme start="090000 -0300" stop="110000 -0300" channel="bandfmrede.br"> <weekday days="dom" />
+ <title lang="pt">Band Ao Vivo</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/02/Band-Ao-Vivo.jpg" />
+ <desc lang="pt">O Band Ao Vivo é um dos programas mais animados da Band FM.Apresentado de domingo a domingo, o programa passa uma energia contagiante com sucessos ao vivo gravados em shows pelo Brasil a fora.</desc>
+</programme>
+<programme start="110000 -0300" stop="200000 -0300" channel="bandfmrede.br"> <weekday days="dom" />
+ <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
+ <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="bandfmrede.br"> <weekday days="dom" />
+ <title lang="pt">As Mais Pedidas da Semana</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2016/07/As-mais-pedidas-1a.jpg" />
+ <desc lang="pt">a Band FM toca 1 hora de que músicas foram as mais tocadas na semana.</desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="bandfmrede.br"> <weekday days="dom" />
+ <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
+ <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
+</programme>
+   
     <!-- Programas Radio CBN--> <!--Seg a Sex-->
 <programme start="000000 -0300" stop="050000 -0300" channel="cbnrede.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> 
  <title lang="pt">CBN Madrugada</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_MNVGP7SJ62QJukeSGDwV3DKuJIQto1GY4FSeYtdrxJTu8h4jaKuv-ZfOuLs7jY3ElpA0iAXlqphIN17eXp0VbTEiJYpZBxvHev74yac1pGE0L9S8nHojOz_sdEXXkuOtj7FcvBi8TGJkTeJ2M4LmeZiL7uDfqzzHcJ67oy4ud4WttsrKO1epU5qS7pE/s320/cbn%20madrugada.png" />
@@ -1896,17 +1999,24 @@
  <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
+ <!-- Programas Cartoon--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="120000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
+ <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
+ <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
    
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Desenhos Clássicos 24h</title>
+ <title lang="pt">Desenhos Clássicos 24h</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
- <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
 </programme>
 <programme start="120000 -0300" stop="r000000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Desenhos Clássicos 24h</title>
+ <title lang="pt">Desenhos Clássicos 24h</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
- <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
 </programme>
    
  <!-- Programas RS News Sports--> <!--Seg a Dom-->
