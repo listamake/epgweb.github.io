@@ -3,168 +3,296 @@
 <head>
   <title>Extrair informações do EPG de IPTV</title>
   <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
-   
-<link rel="modulepreload" as="script" crossorigin="" href="https://epgweb.github.io/main/scripts/epgviem.js">
+</head>
+<body>
+  <table id="epgTable">
+    <thead>
+      <tr>
+        <th>Canal</th>
+        <th>Nome do Programa</th>
+        <th>Classificação Indicativa</th>
+        <th>Início - Fim</th>
+        <th>Barra de Duração</th>
+        <th>Tempo Restante do Programa</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
   <style>
-    body {
-      font-family: Arial, sans-serif;
+    .program-duration {
+      display: inline-block;
+      margin-right: 8px;
     }
 
-    /* Estilo para as classificações indicativas */
     .rating-square {
       display: inline-block;
       width: 24px;
       height: 24px;
       text-align: center;
       line-height: 24px;
-      border: 1px solid #000;
-      color: #fff;
-      font-size: 14px;
-      font-weight: normal;
-      font-family: "Anton", sans-serif;
-      margin-right: 5px;
+      font-family: 'Anton', sans-serif; /* Adicionando a fonte Anton do Google Fonts */
+      color: white;
+      border-radius: 4px;
+      margin-right: 4px;
     }
 
-    .rating-l { background-color: green; }
-    .rating-a10 { background-color: #00ced1; } /* Azul Celeste */
-    .rating-a12 { background-color: #ffd700; } /* Amarelo Ouro */
-    .rating-a14 { background-color: orange; }
-    .rating-a16 { background-color: red; }
-    .rating-a18 { background-color: black; }
-
-  /* Tamanho da fonte para o nome do canal/IDs */
-  .program-info-container strong {
-    font-size: 14px;
-  }
-
-  /* Tamanho da fonte para o nome do programa */
-  .program-name {
-    font-size: 18px;
-    font-weight: bold;
-  }
-
-  /* Tamanho da fonte para as informações de início, fim e duração dos programas */
-  .program-info-container span {
-   font-size: 16px;
-  }
-
-  /* Estilo para a imagem do programa */
-  .program-image {
-     
-	 width:150%;
-     max-width: 110px; /* Limitar a largura máxima da imagem */
-     height: 75px; /* Ajustar a altura automaticamente de acordo com a largura */
-     object-fit: cover;
-     margin-right: 10px;
-     float: left;
-     border-radius: 10px; /* Adicionando bordas arredondadas */
-     margin-bottom: 18px; /* Adicionando uma margem inferior */
- }
-
-  /* Estilo para as informações do programa */
-  .program-info {
-     display: block;
-     vertical-align: top;
-     margin-top: 10px; /* Adicionar uma margem superior */
-     flex: 1;
-     margin: 0 10px; /* Adicionar margem aos lados para separar os elementos */
+    .rating-l {
+      background-color: green;
     }
-   .program-info-container {
-     display: flex;
-     align-items: center;
-     margin-bottom: 5px;
-   }
- 
- /* Estilo para a lista */
-   #epgList {
-     list-style: none;
-     padding: 0;
-	 margin: 0; /* Remover a margem padrão da lista */
-  }
 
- #epgList li {
-     display: flex;
-     justify-content: space-between;
-	 flex-direction: column;
-	 align-items: stretch;
-     margin-bottom: 10px; /* Adicionar espaço de 5 pixels entre os itens */
-     background-color: #f0f0f0; /* Cor cinza claro */
-     border-radius: 15px; /* Cantos arredondados */
-     padding: 10px; /* Espaçamento interno para afastar o conteúdo das bordas */
-  }
-
-  /* Estilo para o contêiner da barra de duração e tempo restante */
-  .duration-info {
-     display: block;
-     margin-top: 5px;
-  }
-
-  /* Estilo para a barra de duração */
-  .duration-bar {
-     display: block;
-     height: 6px;
-     background-color: #ccc;
-     margin-top: 5px;
-  }
-
-  .duration-progress {
-     height: 100%;
-     background-color: #00ced1; /* Azul Celeste */
-  }
-
-  /* Estilo para o tempo restante */
-  .time-remaining {
-     font-size: 14px;
-     display: flex;
-  }
-
-    .rating-info {
-      display: flex;
-      align-items: center;
+    .rating-10 {
+      background-color: #00ced1; /* Azul Celeste */
     }
-	
-	/* Estilo para a lista em telas pequenas */
-@media screen and (max-width: 480px) {
-  #epgList li {
-    flex-direction: column; /* Alterar para direção de linha em telas pequenas */
-    align-items: stretch; /* Centralizar os elementos horizontalmente */
-  }
 
-  .program-info {
-    flex: 1;
-    margin: 0 10px; /* Adicionar margem aos lados para separar os elementos */
-  }
+    .rating-12 {
+      background-color: #ffd700; /* Amarelo Ouro */
+    }
 
-  .duration-info {
-    margin-top: 10px; /* Aumentar a margem superior para separar os itens */
-  }
+    .rating-14 {
+      background-color: orange;
+    }
 
-  .program-image {
-    /* Reduzir a largura máxima da imagem em telas pequenas */
-    margin-right: 10px;
-    margin-bottom: 0; /* Remover a margem inferior da imagem */
-  }
+    .rating-16 {
+      background-color: red;
+    }
 
-  .time-remaining {
-    margin-left: auto; /* Alinhar o tempo restante à direita */
-  }
+    .rating-18 {
+      background-color: black;
+    }
 
-  .program-info-container strong {
-    font-size: 10px; /* Reduzir o tamanho da fonte para o nome do canal/IDs */
-  }
+    .rating-al {
+      background-color: green;
+    }
 
-  .program-name {
-    font-size: 14px; /* Reduzir o tamanho da fonte para o nome do programa */
-  }
+    .rating-a10,
+    .rating-a12,
+    .rating-a14,
+    .rating-a16,
+    .rating-a18 {
+      font-size: 14px; /* Alterado para 14px */
+      line-height: 24px;
+      text-align: center;
+      font-family: 'Anton', sans-serif; /* Adicionando a fonte Anton do Google Fonts */
+      color: white;
+      border-radius: 4px;
+      margin-right: 4px;
+    }
 
-  .program-info-container span {
-    font-size: 14px; /* Reduzir o tamanho da fonte para as informações de início, fim e duração dos programas */
-  }
-  }
+    .rating-a10 {
+      background-color: #00ced1; /* Azul Celeste */
+    }
+
+    .rating-a12 {
+      background-color: #ffd700; /* Amarelo Ouro */
+    }
+
+    .rating-a14 {
+      background-color: orange;
+    }
+
+    .rating-a16 {
+      background-color: red;
+    }
+
+    .rating-a18 {
+      background-color: black;
+    }
+
+    .duration-bar {
+      width: 100%;
+      height: 20px;
+      background-color: #ddd;
+      position: relative;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .duration-progress {
+      height: 100%;
+      background-color: #4CAF50;
+      border-radius: 10px;
+    }
+  </style>
+
+  <script>
+    const epgUrl = "https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml";
+
+    // Função para extrair informações do EPG
+    function extractEPGInfo() {
+      fetch(epgUrl)
+        .then(response => response.text())
+        .then(xmlString => {
+          parseEPG(xmlString);
+        })
+        .catch(error => {
+          console.error("Erro ao obter o EPG:", error);
+        });
+    }
+
+    // Função para calcular o tempo restante do programa
+    function calculateTimeRemaining(programEnd) {
+      const now = new Date();
+      return (programEnd - now) / 1000; // em segundos
+    }
+
+    // Função para mapear a data e hora no formato "YYYYMMDDHHMMSS TZ"
+    function mapDateTime(dateTimeString) {
+      const regex = /^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})\s([+-])(\d{2})(\d{2})$/;
+      const match = dateTimeString.match(regex);
+      if (match) {
+        const [, year, month, day, hour, minutes, seconds, sign, offsetHours, offsetMinutes] = match;
+        const timezoneOffset = (sign === "+" ? 1 : -1) * (parseInt(offsetHours, 10) * 60 + parseInt(offsetMinutes, 10));
+        return new Date(Date.UTC(year, month - 1, day, hour, minutes, seconds) - timezoneOffset * 60 * 1000);
+      }
+      return null;
+    }
+
+    // Função para adicionar zeros à esquerda
+    function padZero(number) {
+      return number.toString().padStart(2, '0');
+    }
+
+    // Função para formatar a duração em dias, horas e minutos
+    function formatDuration(duration) {
+      const days = Math.floor(duration / 86400); // 86400 segundos em um dia
+      const remainingSeconds = duration % 86400;
+      const hours = Math.floor(remainingSeconds / 3600);
+      const minutes = Math.floor((remainingSeconds % 3600) / 60);
+      let formattedDuration = '';
+      if (days > 0) {
+        formattedDuration += `${days} dia${days > 1 ? 's' : ''} `;
+      }
+      if (hours > 0) {
+        formattedDuration += `${hours} hora${hours > 1 ? 's' : ''} `;
+      }
+      if (minutes > 0) {
+        formattedDuration += `${minutes} minuto${minutes > 1 ? 's' : ''}`;
+      }
+      return formattedDuration.trim();
+    }
+
+    // Função para mapear o número da classificação indicativa
+    function mapRating(rating) {
+      const ratingMap = {
+        "L": { text: "L", color: "green" },
+        "10": { text: "10", color: "#00ced1" }, // Azul Celeste
+        "12": { text: "12", color: "#ffd700" }, // Amarelo Ouro
+        "14": { text: "14", color: "orange" },
+        "16": { text: "16", color: "red" },
+        "18": { text: "18", color: "black" },
+        // Classificações com variantes
+        "AL": { text: "AL", color: "green" },
+        "A10": { text: "A10", color: "#00ced1" }, // Azul Celeste
+        "A12": { text: "A12", color: "#ffd700" }, // Amarelo Ouro
+        "A14": { text: "A14", color: "orange" },
+        "A16": { text: "A16", color: "red" },
+        "A18": { text: "A18", color: "black" }
+      };
+
+      return ratingMap[rating] || null;
+    }
+
+    // Função para mapear o valor da classificação indicativa a partir do elemento <value>
+    function mapRatingValue(ratingElement) {
+      const valueElement = ratingElement.querySelector("value");
+      return valueElement ? valueElement.textContent : null;
+    }
+
+    // Função para mapear a classificação indicativa a partir do elemento <rating system="CLASSIFICACAO_ETARIA"> e <rating system="CLASSIND">
+    function mapProgramRating(programElement) {
+      const programRatingElement = programElement.querySelector("rating[system='CLASSIFICACAO_ETARIA']");
+      const programRatingIndElement = programElement.querySelector("rating[system='CLASSIND']");
+      const programRating = programRatingElement ? mapRatingValue(programRatingElement) : programRatingIndElement ? mapRatingValue(programRatingIndElement) : null;
+      return programRating;
+    }
+
+    // Função para calcular a largura da barra de duração
+    function calculateDurationProgress(programStart, programEnd) {
+      const now = new Date();
+      const totalTime = programEnd - programStart;
+      const elapsedTime = now - programStart;
+      return `${(elapsedTime / totalTime) * 100}%`;
+    }
+
+    // Função para mapear o nome do canal a partir do elemento <display-name lang="pt">
+function mapChannelName(channelElement) {
+  const displayNameElements = channelElement.querySelectorAll("display-name");
   
-   </style>
-</head>
-<body>
-  <ul id="epgList"></ul>
-  </body>
+  for (const displayNameElement of displayNameElements) {
+    const NameAttribute = displayNameElement.getAttribute("lang");
+    if (!NameAttribute || NameAttribute.toLowerCase() === "pt") {
+      return displayNameElement.textContent;
+    }
+  }
+  return null; // Retorna null se não encontrar descrição em português
+}
+
+    // Função para formatar a hora e os minutos no formato "HH:MM"
+    function formatTime(date) {
+      const hours = padZero(date.getHours());
+      const minutes = padZero(date.getMinutes());
+      return `${hours}:${minutes}`;
+    }
+
+    // Função para analisar o XML do EPG e extrair as informações desejadas
+    function parseEPG(xmlString) {
+      const parser = new DOMParser();
+      const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+      const programElements = xmlDoc.getElementsByTagName("programme");
+      const tableBody = document.querySelector("#epgTable tbody");
+
+      // Limpar a tabela antes de preencher os dados
+      tableBody.innerHTML = '';
+
+      for (const programElement of programElements) {
+        const channelId = programElement.getAttribute("channel");
+        const channelElement = xmlDoc.querySelector(`channel[id="${channelId}"]`);
+        if (!channelElement) {
+          continue;
+        }
+        const channelName = mapChannelName(channelElement); // Mapear o nome do canal
+        const programName = programElement.querySelector("title").textContent;
+        const programStart = mapDateTime(programElement.getAttribute("start"));
+        const programEnd = mapDateTime(programElement.getAttribute("stop"));
+        const programRating = mapProgramRating(programElement);
+        const ratingInfo = mapRating(programRating);
+
+        if (!programStart || !programEnd) {
+          continue;
+        }
+
+        // Filtrar programas atuais ou ao vivo
+        const now = new Date();
+        if (programStart <= now && programEnd >= now) {
+          const programDuration = (programEnd - programStart) / 1000; // em segundos
+          const timeRemaining = calculateTimeRemaining(programEnd);
+          const formattedDuration = formatDuration(programDuration);
+          const durationProgress = calculateDurationProgress(programStart, programEnd);
+
+          // Criar uma nova linha na tabela para cada programa
+          const newRow = tableBody.insertRow();
+          newRow.innerHTML = `
+            <td>${channelName ? `${channelName} (${channelId})` : channelId} </td>
+            <td>${programRating ? `<span class="rating-square rating-${programRating.toLowerCase()}" style="background-color: ${ratingInfo.color};">${ratingInfo.text}</span>` : '?'} ${programName}</td>
+            <td></td>
+            <td>${formatTime(programStart)} - ${formatTime(programEnd)} (${formattedDuration})</td>
+            <td>
+              <div class="duration-bar">
+                <div class="duration-progress" style="width: ${durationProgress}"></div>
+              </div>
+            </td>
+            <td>${timeRemaining > 0 ? formatDuration(timeRemaining) : 'Programa encerrado'}</td>
+          `;
+        }
+      }
+    }
+
+    // Chamar a função para extrair informações do EPG inicialmente
+    extractEPGInfo();
+
+    // Definir intervalo de atualização (a cada 30 segundos)
+    setInterval(extractEPGInfo, 30000);
+  </script>
+</body>
 </html>
