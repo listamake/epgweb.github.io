@@ -131,6 +131,10 @@
 <channel id="StrikerVerso.br">
  <display-name lang="pt">StrikerVerso HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
+<channel id="TVGazin.br">
+ <display-name lang="pt">TV Gazin</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1644034655773945857/ZeYcJAWE_400x400.jpg"/>
+</channel>
 <channel id="TVNBT.br">
  <display-name lang="pt">TV NBT</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dee1243c933082ee25e309ab91b54f4d.webp"/>
@@ -245,7 +249,7 @@
  <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="120000 -0300" stop="130000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="120000 -0300" stop="130000 -0300" channel="canalstart.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Playlist Start</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
@@ -631,7 +635,19 @@
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="073000 -0300" stop="113000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="060000 -0300" stop="073000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Terra Brasil</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/aa.jpg" />
+ <desc lang="pt">Na série "Terra Brasil - Trilhas", o biólogo e botânico Anderson Santos e o engenheiro agrônomo Aruay Goldschmidt viajam por diferentes ecossistemas e biomas brasileiros mostrando paisagens naturais, áreas com natureza conservada e unidades de conservação nacionais apresentando toda a sua biodiversidade.</desc>
+</programme>
+<programme start="073000 -0300" stop="080000 -0300" channel="CentralTV.br"> <weekday days="seg" />
+ <title lang="pt">Programa A Cadeia da Prece</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_17-1024x576.jpg" />
+ <desc lang="pt">Programa da Igreja Quadrangular de Curitiba (IEQ Ecoville) apresentado pelo Pastor Rogério Amorim.</desc>
+</programme>
+<programme start="080000 -0300" stop="113000 -0300" channel="CentralTV.br"> <weekday days="seg" />
+ <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
+ <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
+</programme>
+<programme start="073000 -0300" stop="113000 -0300" channel="CentralTV.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
@@ -663,9 +679,13 @@
  <title lang="pt">Cinemania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="183000 -0300" stop="193000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="183000 -0300" stop="190000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Do Fundo do Baú</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_2-1024x607.jpg" />
  <desc lang="pt">As velhinhas estão de volta! Os melhores flashbacks dos anos 80 e 90 você acompanha nas edições do programa Do Fundo do Baú…</desc>
+</programme>
+<programme start="190000 -0300" stop="193000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">CWB Notícias</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/TELA-CWB-NOTICIAS-1920x1080-1-1024x576.png" />
+ <desc lang="pt">Jornal diário de responsabilidade da Agência CWB Notícias.</desc>
 </programme>
 <programme start="193000 -0300" stop="200000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
@@ -693,6 +713,10 @@
  <desc lang="pt">Programa produzido pela PasCom da Paróquia São José das Famílias. Curitiba-PR.</desc>
 </programme>
 <!--21h-->
+<programme start="210000 -0300" stop="213000 -0300" channel="CentralTV.br"> <weekday days="seg" />
+ <title lang="pt">Programa Agihtaí</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_30.jpg" />
+ <desc lang="pt">O programa tem um formato Talk Show e traz talentos regionais, de diferentes nichos, como música, culinária, saúde, cinema e tem um diferencial, tudo é abordado com muito humor e descontração.</desc>
+</programme>
 <programme start="210000 -0300" stop="213000 -0300" channel="CentralTV.br"> <weekday days="ter" />
  <title lang="pt">Miscelânea na TV</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/05/Screenshot_9-1024x589.jpg" />
  <desc lang="pt">Em seu novo programa, Adri Ferraz, nos leva por uma jornada inspiradora e empoderadora. Com seu carisma contagiante e conhecimento profundo do setor, Adri compartilha valiosas dicas e insights planejamento de eventos bem-sucedidos, mas também se dedica a promover o empoderamento feminino e elevar a autoestima.</desc>
@@ -831,13 +855,17 @@
  <title lang="pt">Programa Câmera Brasil</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/WhatsApp-Image-2022-07-11-at-12.37.28.jpeg" />
  <desc lang="pt"></desc>
 </programme>
-<programme start="113000 -0300" stop="124500 -0300" channel="CentralTV.br"> <weekday days="dom" />
+<programme start="113000 -0300" stop="114500 -0300" channel="CentralTV.br"> <weekday days="dom" />
  <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="124500 -0300" stop="144500 -0300" channel="CentralTV.br"> <weekday days="dom" />
+<programme start="114500 -0300" stop="134500 -0300" channel="CentralTV.br"> <weekday days="dom" />
  <title lang="pt">Jukebox TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_21-1024x537.jpg" />
  <desc lang="pt">As mais belas canções do sertanejo raiz você pede aqui no Programa JukeboxTV.</desc>
+</programme>
+<programme start="134500 -0300" stop="144500 -0300" channel="CentralTV.br"> <weekday days="dom" />
+ <title lang="pt">Automania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/10/LOGO_AUTOMANIA-1024x576.jpg" />
+ <desc lang="pt">O Programa Automania tem como suas principais atrações: Lançamentos (carros, caminhões e motos), Mercado, Avaliações, Entrevistas, Dicas, Veículos Antigos, Revendas, Concessionárias, Veículos Antigos e Automobilismo. Não perca aqui na Rede CentralTV Brasil.</desc>
 </programme>
 <programme start="144500 -0300" stop="173000 -0300" channel="CentralTV.br"> <weekday days="dom" />
  <title lang="pt">Super Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_1-1024x559.png" />
@@ -2167,6 +2195,37 @@
  <desc lang="pt">No Series você assiste as melhores Series da TV!</desc>
 </programme>
 
+ <!-- Programas TV Gazin--> <!--Seg a Sex-->
+
+<programme start="000000 -0300" stop="020000 -0300" channel="TVGazin.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cine Gazin</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="" />
+ <desc lang="pt">!</desc>
+</programme>
+<programme start="020000 -0300" stop="103000 -0300" channel="TVGazin.br"> <weekday days="seg,sex" />
+ <title lang="pt">Programação TV Gazin</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="" />
+ <desc lang="pt">!</desc>
+</programme>
+<programme start="020000 -0300" stop="110000 -0300" channel="TVGazin.br"> <weekday days="ter,qua,qui" />
+ <title lang="pt">Programação TV Gazin</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="" />
+ <desc lang="pt">!</desc>
+</programme>
+<programme start="103000 -0300" stop="110000 -0300" channel="TVGazin.br"> <weekday days="seg,sex" />
+ <title lang="pt">Lembranças com Água na Boca</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="" />
+ <desc lang="pt"> Chef Taico relembra sua história gastronômica, desde o tempo de criança, quando acompanhava sua avó e sua mãe na cozinha das fazendas, até os dias de hoje.</desc>
+</programme>
+<programme start="110000 -0300" stop="r000000 -0300" channel="TVGazin.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação TV Gazin</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="" />
+ <desc lang="pt">!</desc>
+</programme>
+
+<programme start="000000 -0300" stop="020000 -0300" channel="TVGazin.br"> <weekday days="sab,dom" />
+ <title lang="pt">Cine Gazin</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="" />
+ <desc lang="pt">!</desc>
+</programme>
+<programme start="020000 -0300" stop="r000000 -0300" channel="TVGazin.br"> <weekday days="sab,dom" />
+ <title lang="pt">Programação TV Gazin</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="" />
+ <desc lang="pt">!</desc>
+</programme>
    
  <!-- Programas TV Max--> <!--Seg a Sex-->
 <programme start="000000 -0300" stop="070000 -0300" channel="TVMax.br"> <weekday days="seg,ter,qui,sex" />
@@ -2520,11 +2579,19 @@
  <title lang="pt">Cine RETRÔ Vivax</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNV1XusyMCsvw3EhxGru3GnT5Z__WpOpmuHobZg_80j038GaWO7Ye_SfbW4crbfxBrWVc7cbIVdZnaQWjSBBEvZayO0L5VSFiQ31Ei7Pl2yv-Ry1hLu_jKxrRVJuvpp-tbQe89pmHiujiQbnbchfovHOcvpd9QRzNUtMj7udkqz9GTGTNSGDOp7BDCzwc/s320/Screenshot_20230910-233744_Instagram20Lite.png" />
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="140000 -0300" stop="150000 -0300" channel="vivaxtv.br">  <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="140000 -0300" stop="150000 -0300" channel="vivaxtv.br">  <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Descomplicando a Saúde</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">Dicas de saaúde e bem-estar.</desc>
 </programme>
-<programme start="150000 -0300" stop="160000 -0300" channel="vivaxtv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="140000 -0300" stop="150000 -0300" channel="vivaxtv.br"> <weekday days="sab,dom" />
+ <title lang="pt">Pod Vivax - Reprise</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAqe8qKKYtBMQXz_Q2Z-E__1UNbJjoAlb_yiKQ2_H23ed44THofvxsgu886pyGla1MSR2TwCMvZ-jFgcDDi73dhHzDoBIKIYHM649NEf2WFyosF_cy9bK7m5YRBhuzw8MYGjTvrwwIMha0y0DBC-PvJaY3jUuZEIsfIkNMtPpHlUna567rezG0rOq9Xak/s320/Screenshot_20230910-233752_Instagram20Lite.png" />
+ <desc lang="pt">programa</desc>
+</programme> 
+<programme start="150000 -0300" stop="160000 -0300" channel="vivaxtv.br"> <weekday days="sab,dom" />
+ <title lang="pt">Redescombrindo com Elias Jó</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">programa</desc>
+</programme> 
+<programme start="150000 -0300" stop="160000 -0300" channel="vivaxtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Pod Vivax - Reprise</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAqe8qKKYtBMQXz_Q2Z-E__1UNbJjoAlb_yiKQ2_H23ed44THofvxsgu886pyGla1MSR2TwCMvZ-jFgcDDi73dhHzDoBIKIYHM649NEf2WFyosF_cy9bK7m5YRBhuzw8MYGjTvrwwIMha0y0DBC-PvJaY3jUuZEIsfIkNMtPpHlUna567rezG0rOq9Xak/s320/Screenshot_20230910-233752_Instagram20Lite.png" />
  <desc lang="pt">programa</desc>
 </programme> 
@@ -2588,47 +2655,43 @@
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
-<programme start="060000 -0300" stop="150000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="060000 -0300" stop="100000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq5efMogcx_T7d1OvHbUZJh_8oOGKLiBMJaJ_iY0h0ovL3v7nQLBgM8xqtWsIEk4KSpQHdKgUWvBwOazGTnff1KPiPZgLBRLv02x0sikTmCcU6bObyZOpo7QQv1jMXfO-4z9jU6YptywojeHsCFWxiZA4UmAkmIwwNvfv-hRvKWKQ9-niB3Y0nZFPO2Q0/s320/Screenshot_20230911-084017_Televizo.png" />
  <desc lang="pt">apresenta shows incríveis de diversos artistas internacionais. As apresentações contam com cantores que marcaram as décadas passadas e com artistas atuais performando shows icônicos com muitos hits de sucesso.</desc>
 </programme>
-<programme start="150000 -0300" stop="170000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="100000 -0300" stop="101500 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fogo Felino</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="101500 -0300" stop="150000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq5efMogcx_T7d1OvHbUZJh_8oOGKLiBMJaJ_iY0h0ovL3v7nQLBgM8xqtWsIEk4KSpQHdKgUWvBwOazGTnff1KPiPZgLBRLv02x0sikTmCcU6bObyZOpo7QQv1jMXfO-4z9jU6YptywojeHsCFWxiZA4UmAkmIwwNvfv-hRvKWKQ9-niB3Y0nZFPO2Q0/s320/Screenshot_20230911-084017_Televizo.png" />
+ <desc lang="pt">apresenta shows incríveis de diversos artistas internacionais. As apresentações contam com cantores que marcaram as décadas passadas e com artistas atuais performando shows icônicos com muitos hits de sucesso.</desc>
+</programme>
+<programme start="150000 -0300" stop="163000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
-<programme start="170000 -0300" stop="180000 -0300" channel="rbtv.br"> <weekday days="seg" />
- <title lang="pt">James West</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://1.bp.blogspot.com/-Zlc6U8QOEZ0/U7ngpouMkAI/AAAAAAAACJ8/m-sbq87ZHqo/s1600/WILD_WILD_WEST_S3_D2-5_zps62df5ee1.jpg" />
- <desc lang="pt">Quando o presidente Ulysses S. Grant fica sabendo que o diabólico inventor Arliss Loveless planeja assassiná-lo e conquistar os Estados Unidos com suas máquinas modernas, ele encarrega James West, o herói da Guerra Civil americana, e o militar Artemus Gordon de capturá-lo.</desc>
+<programme start="163000 -0300" stop="164500 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fogo Felino</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
 </programme>
-<programme start="170000 -0300" stop="180000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="164500 -0300" stop="183000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
-<programme start="180000 -0300" stop="190000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://i.ytimg.com/vi/9B4dOfxjU_s/maxresdefault.jpg" />
- <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
-</programme>
-<programme start="190000 -0300" stop="200000 -0300" channel="rbtv.br"> <weekday days="seg" />
+<programme start="183000 -0300" stop="193000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Brasil News</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.rbtv.com.br/upload_arquivos/2023/08/2023080072025001692899836.png" />
  <desc lang="pt">o Brasil News apresenta, ao vivo, os principais destaques do noticiário nacional e internacional. Com um formato ágil e dinâmico, o telespectador se mantém informado com os assuntos do dia.</desc>
 </programme>
-<programme start="190000 -0300" stop="200000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="193000 -0300" stop="194500 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fogo Felino</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="194500 -0300" stop="213000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://i.ytimg.com/vi/9B4dOfxjU_s/maxresdefault.jpg" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
-<programme start="200000 -0300" stop="213000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
- <title lang="pt">Brasil News</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.rbtv.com.br/upload_arquivos/2023/08/2023080072025001692899836.png" />
- <desc lang="pt">o Brasil News apresenta, ao vivo, os principais destaques do noticiário nacional e internacional. Com um formato ágil e dinâmico, o telespectador se mantém informado com os assuntos do dia.</desc>
-</programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="rbtv.br"> <weekday days="seg" />
- <title lang="pt">RB Comédia</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
- <desc lang="pt">O RB Comédia conta com muita diversão e risadas garantidas com séries.</desc>
-</programme>
-<programme start="210000 -0300" stop="230000 -0300" channel="rbtv.br"> <weekday days="seg" />
- <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
- <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
-</programme>
-<programme start="213000 -0300" stop="230000 -0300" channel="rbtv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="213000 -0300" stop="230000 -0300" channel="rbtv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
@@ -2636,13 +2699,22 @@
  <title lang="pt">Séries Douradas</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://i.ytimg.com/vi/Gh4pqvuv1Kg/hqdefault.jpg" />
  <desc lang="pt">Séries Douradas trazem séries aclamadas e de grande sucesso.</desc>
 </programme>
+   
 <programme start="000000 -0300" stop="060000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
  <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating>  <icon src="" />
  <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
-<programme start="060000 -0300" stop="130000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
+<programme start="060000 -0300" stop="110000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
  <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq5efMogcx_T7d1OvHbUZJh_8oOGKLiBMJaJ_iY0h0ovL3v7nQLBgM8xqtWsIEk4KSpQHdKgUWvBwOazGTnff1KPiPZgLBRLv02x0sikTmCcU6bObyZOpo7QQv1jMXfO-4z9jU6YptywojeHsCFWxiZA4UmAkmIwwNvfv-hRvKWKQ9-niB3Y0nZFPO2Q0/s320/Screenshot_20230911-084017_Televizo.png" />
  <desc lang="pt">apresenta shows incríveis de diversos artistas internacionais. As apresentações contam com cantores que marcaram as décadas passadas e com artistas atuais performando shows icônicos com muitos hits de sucesso.</desc>
+</programme>
+<programme start="110000 -0300" stop="120000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
+ <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="120000 -0300" stop="130000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
+ <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://i.ytimg.com/vi/9B4dOfxjU_s/maxresdefault.jpg" />
+ <desc lang="pt">As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc>
 </programme>
 <programme start="130000 -0300" stop="150000 -0300" channel="rbtv.br"> <weekday days="sab,dom" />
  <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
