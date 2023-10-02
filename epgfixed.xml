@@ -44,6 +44,9 @@
 <channel id="GlnTV.br">
  <display-name lang="pt">GLN TV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d6cb19f3f5b307780c2169b89c826ae.webp"/>
 </channel>
+<channel id="demais.br">
+ <display-name lang="pt">Demais TV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a0ca2ab1c68adcde7bf577af87071b8.webp"/>
+</channel>
 <channel id="EsporteBrasilia.br">
  <display-name lang="pt">Esportes Brasília HD</display-name> <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg"/>
 </channel>
@@ -631,7 +634,7 @@
 </programme>
 
  <!-- Programas Central--> <!--seg e sex-->
-<programme start="000000 -0300" stop="073000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="060000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -947,6 +950,102 @@
  <title lang="pt">Diversos</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
+
+ <!-- Programas DemaisTV--> <!--Seg a Sex-->
+<programme start="000000 -0300" stop="090000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação D+TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="090000 -0300" stop="093000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fatos na TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="093000 -0300" stop="100000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Artesanato em Casa</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="100000 -0300" stop="103000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Turismo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="103000 -0300" stop="110000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Viver Eficiente</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="110000 -0300" stop="120000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="120000 -0300" stop="133000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Demais News</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="133000 -0300" stop="190000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="190000 -0300" stop="200000 -0300" channel="demais.br">  <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Demais News</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="190000 -0300" stop="220000 -0300" channel="demais.br">  <weekday days="seg" />
+ <title lang="pt">Dermeval Show - Entrevistas</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Música e entrevistas, participação de ouvinte no ar, a maior revista eletrônico de São Paulo.</desc>
+</programme>
+<programme start="220000 -0300" stop="r000000 -0300" channel="demais.br">  <weekday days="seg" />
+ <title lang="pt">A Hora é Agora</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="demais.br">  <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="demais.br">  <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="210000 -0300" stop="230000 -0300" channel="demais.br">  <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Cine D+</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="demais.br">  <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+
+<programme start="000000 -0300" stop="080000 -0300" channel="demais.br">  <weekday days="sab,dom" />
+ <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="080000 -0300" stop="080000 -0300" channel="demais.br">  <weekday days="sab,dom" />
+ <title lang="pt">Sessão de Desenhos</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="080000 -0300" stop="093000 -0300" channel="demais.br">  <weekday days="sab,dom" />
+ <title lang="pt">Coração de Noronha</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="093000 -0300" stop="100000 -0300" channel="demais.br">  <weekday days="sab,dom" />
+ <title lang="pt">Artesanato na TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="100000 -0300" stop="103000 -0300" channel="demais.br">  <weekday days="sab,dom" />
+ <title lang="pt">Turismo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="103000 -0300" stop="110000 -0300" channel="demais.br">  <weekday days="sab,dom" />
+ <title lang="pt">Viver Eficiente</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="110000 -0300" stop="210000 -0300" channel="demais.br">  <weekday days="sab,dom" />
+ <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="demais.br">  <weekday days="sab,dom" />
+ <title lang="pt">Cine D+</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="" />
+ <desc lang="pt">No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc>
+</programme>
+   
  <!-- Programas Esportes Brasília--> <!--Seg a Sex-->
 <programme start="000000 -0300" stop="120000 -0300" channel="EsporteBrasilia.br">  <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação Esportes Brasília</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg" />
@@ -956,6 +1055,7 @@
  <title lang="pt">Programação Esportes Brasília</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg" />
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
+   
  <!-- Programas Movies--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="Movies.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
