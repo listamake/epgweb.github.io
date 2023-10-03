@@ -27,8 +27,7 @@
  <display-name lang="pt">Teste 4</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
-<channel id="CanalSaude.br"> <display-name lang="pt">Canal do Usuario</display-name>
- <display-name lang="pt">Canal Saúde</display-name>
+<channel id="CanalSaude.br"> <display-name lang="pt">Canal Saúde</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/245d0e1a9266a0570fde3621c804a2d3.webp"/>
 </channel>
 <channel id="Canalteste">
@@ -2090,8 +2089,8 @@
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
 <programme start="074000 -0300" stop="083000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
- <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+ <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
 <programme start="083000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
@@ -2324,7 +2323,15 @@
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
  <desc lang="pt">No Series você assiste as melhores Series da TV!</desc>
 </programme>
-
+   
+<programme start="000000 -0300" stop="120000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação StrikerVerso</title> <icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>AL</value></rating>
+</programme>
+<programme start="120000 -0300" stop="r000000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação StrikerVerso</title><icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>AL</value></rating>
+</programme>
  <!-- Programas TV Gazin--> <!--Seg a Sex-->
 
 <programme start="000000 -0300" stop="020000 -0300" channel="TVGazin.br"> <weekday days="seg,ter,qua,qui,sex" />
