@@ -41,6 +41,9 @@
 <channel id="CentralTV.br"> <display-name lang="pt">Central TV HD</display-name> 
   <icon src="https://pbs.twimg.com/profile_images/790055262375804928/3gX87zyO_400x400.jpg"/>
 </channel>
+<channel id="Clouding.br"> <display-name lang="pt">Clouding TV</display-name>
+   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp"/>
+</channel>
 <channel id="anitv.br"> <display-name lang="pt">Geekdot HD</display-name>
    <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.webp"/>
 </channel>
@@ -936,6 +939,99 @@
  <desc lang="pt">O Programa Meu Segredo, é um programa voltado aos 3 pilares: Família, Trabalho e Religião, apresentado pelo piloto e apresentador Alexandre Navarro, que direciona o convidado a uma reflexão sobre os 3 temas, resumindo-os em apenas 1 palavra. Agora pela Rede CentralTV Brasil.</desc>
 </programme>
    
+ <!-- Programas Clouding TV--> <!--Seg a SEX-->
+<programme start="000000 -0300" stop="010000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cine Jovem</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">filmes de vários gêneros</desc>
+</programme>
+<programme start="010000 -0300" stop="013000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa Nostalgia clipes</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="013000 -0300" stop="033000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Cine Pipoca</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="033000 -0300" stop="043000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa História sem fim</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="043000 -0300" stop="060000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Super Herói</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="060000 -0300" stop="070000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa Canal triplo G</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="070000 -0300" stop="081000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa Nostalgia clipes</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="081000 -0300" stop="110000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Clouding kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="110000 -0300" stop="120000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa História sem fim</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="120000 -0300" stop="123000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Drake e Josh</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="123000 -0300" stop="130000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa Multiverso</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="130000 -0300" stop="133000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa Em Estado de Banca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="133000 -0300" stop="141000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Jornal Brasil News</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="141000 -0300" stop="160000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Super Herói</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="160000 -0300" stop="170000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa Canal triplo G</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="170000 -0300" stop="183000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Cine Jovem</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="183000 -0300" stop="190000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa Jeplay Games</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="190000 -0300" stop="193000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa Multiverso</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+ <title lang="pt">Programa História sem fim</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="200000 -0300" stop="220000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Sessão animes</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="200000 -0300" stop="220000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Eu,a patroa e as crianças</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="223000 -0300" stop="230000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa Megaverso</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Cine Jovem</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">filmes de vários gêneros</desc>
+</programme>
  <!-- Programas GLNTV--> <!--Seg a SEX-->
 <programme start="000000 -0300" stop="080000 -0300" channel="GlnTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
