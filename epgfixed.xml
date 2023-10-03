@@ -27,6 +27,10 @@
  <display-name lang="pt">Teste 4</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
+<channel id="CanalSaude.br"> <display-name lang="pt">Canal do Usuario</display-name>
+ <display-name lang="pt">Canal Saúde</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/245d0e1a9266a0570fde3621c804a2d3.webp"/>
+</channel>
 <channel id="Canalteste">
  <display-name lang="pt">Canal Teste HD</display-name> 
  <display-name lang="pt">Canal Teste 1</display-name>
@@ -581,6 +585,32 @@
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+</programme>
+   
+ <!-- Programas Canal Saude--> <!--Seg a Dom-->
+<programme start="000000 -0300" stop="070000 -0300" channel="CanalSaude.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Fora do ar</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ayf1sYiNLhQ/mqdefault.jpg" />
+ <desc lang="pt">A programação estara de volta ás 7h.</desc>
+</programme>
+<programme start="070000 -0300" stop="071500 -0300" channel="CanalSaude.br"> <weekday days="seg,qua,sex" />
+ <title lang="pt">Rural Produtivo</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://intranet.canalsaude.fiocruz.br/assets/img/parceiros/programas/territorios-da-agroecologia.png" />
+ <desc lang="pt">Canal de televisão do Sistema Único de Saúde (SUS), criado e gerido pela Fundação Oswaldo Cruz (Fiocruz).</desc>
+</programme>
+<programme start="070000 -0300" stop="071500 -0300" channel="CanalSaude.br"> <weekday days="ter,qui,sab" />
+ <title lang="pt">Territórios da Agroecologia</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://intranet.canalsaude.fiocruz.br/assets/img/parceiros/programas/territorios-da-agroecologia.png" />
+ <desc lang="pt">Canal de televisão do Sistema Único de Saúde (SUS), criado e gerido pela Fundação Oswaldo Cruz (Fiocruz).</desc>
+</programme>
+<programme start="071500 -0300" stop="233000 -0300" channel="CanalSaude.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Canal Saúde</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://intranet.canalsaude.fiocruz.br/assets/img/parceiros/programas/territorios-da-agroecologia.png" />
+ <desc lang="pt">Canal de televisão do Sistema Único de Saúde (SUS), criado e gerido pela Fundação Oswaldo Cruz (Fiocruz).</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="CanalSaude.br"> <weekday days="seg,ter,qua,qui" />
+ <title lang="pt">Cine Saúde</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://intranet.canalsaude.fiocruz.br/assets/img/programas/apresentador/apres-cine-saude.jpg" />
+ <desc lang="pt">Canal de televisão do Sistema Único de Saúde (SUS), criado e gerido pela Fundação Oswaldo Cruz (Fiocruz).</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="CanalSaude.br"> <weekday days="sex" />
+ <title lang="pt">HyperShow</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://intranet.canalsaude.fiocruz.br/assets/img/parceiros/programas/hypershow.jpg" />
+ <desc lang="pt">Canal de televisão do Sistema Único de Saúde (SUS), criado e gerido pela Fundação Oswaldo Cruz (Fiocruz).</desc>
 </programme>
    
  <!-- Programas Canal Usuario--> <!--Seg a Dom-->
