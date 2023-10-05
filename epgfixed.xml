@@ -2051,15 +2051,8 @@
  <title lang="pt">A Hora dos Esportes</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWIlHeOJbA9bH49-tXppajjeZz1HoNIH0VMY1O8g_Zn5dtwVu0pAiZnefp4BBSSyuZHOTR1y3xoMyN0Jm0wGx_JccrF4LUkrP1hkfsM9OjT3TDyj-VK9UJ_RZQ6sPV8GjjptEkmWKWEDgUWqPT5ovLjwlZRNLzqyyCgbmYrK3XSlE_Qkhi1w6a-lnH67I/s320/Screenshot_20230910-093652_Instagram20Lite.png" />
  <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
 </programme> 
-<programme start="190000 -0300" stop="210000 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
- <title lang="pt">Avai vs. Sport</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
- <desc lang="pt">Futebol</desc>
-</programme>
-<programme start="210000 -0300" stop="214500 -0300" channel="radioclubeampe.br"> <weekday days="sex" /> 
- <title lang="pt">Balanço Geral</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
- <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades.</desc>
-</programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui" /> 
+
+<programme start="200000 -0300" stop="210000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
