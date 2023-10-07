@@ -561,7 +561,7 @@
  <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
 </programme>
 <programme start="220000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">CineDot: A Anunciar</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/09/CINEDOT_img_site-200x144.png" />
+ <title lang="pt">CineDot: Patema Inverted</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/10/PATEMA_img_site-200x144.png" />
  <desc lang="pt">Nossa sessão de filmes especiais aqui na Geekdot, você irá conferir longas premiados e de grande sucesso, escolhidos especialmente para os seus finais de domingo ficarem cada vez melhor com a gente!</desc>
 </programme>
 <programme start="000000 -0300" stop="023000 -0300" channel="anitv.br"> <weekday days="seg" />
@@ -1577,8 +1577,8 @@
  <desc lang="pt">.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="sab" />
- <title lang="pt">Anna Bele 2 (filme)</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">O Massacre da Serra Elétrica</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="" />
+ <desc lang="pt">a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana.</desc>
 </programme>
 <programme start="210000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="sab" />
  <title lang="pt">Konosuba-An Explolion on This Wanderful World! (MARATOON)</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="" />
@@ -1619,8 +1619,8 @@
  <desc lang="pt">A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="dom" />
- <title lang="pt">Anna Bele 2 (filme)</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">O Massacre da Serra Elétrica</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="" />
+ <desc lang="pt">a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana.</desc>
 </programme>
 <programme start="210000 -0300" stop="230000 -0300" channel="loadingweb.br"> <weekday days="dom" />
  <title lang="pt">Maratoon: Fairy Tail</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/242880992/s640/fairy-tail/fairy-tail" />
@@ -2081,7 +2081,19 @@
  <title lang="pt">Momento do Rei</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="140000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
+<programme start="140000 -0300" stop="160000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
+ <title lang="pt">Programação Super Rádio Clube</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
+</programme>
+<programme start="160000 -0300" stop="170000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
+ <title lang="pt">Forró da Gente</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
+</programme>
+<programme start="170000 -0300" stop="180000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
+ <title lang="pt">Clube do Brega</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
+</programme>
+<programme start="180000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
  <title lang="pt">Programação Super Rádio Clube</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
