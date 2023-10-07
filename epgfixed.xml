@@ -374,27 +374,27 @@
    
  <!-- Programas Geekdot--> <!-- Semanal-->
 
-<programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="000500 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="000500 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
  <title lang="pt">More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
  <desc lang="pt">Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
 </programme>
-<programme start="003000 -0300" stop="003500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="003000 -0300" stop="003500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
  <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
  <desc lang="pt">Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
 </programme>
-<programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
  <title lang="pt">Paranoia Agent</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://easternminute.com/wp-content/uploads/Paranoia-Agent-678x381.png" />
  <desc lang="pt">De Satoshi Kon, o lendário diretor de Perfect Blue and Paprika, chega um thriller psicológico sombrio e misterioso. Cidadãos em Musashino estão sendo assaltados e aterrorizados, e dois detetives devem descobrir o mistério do Garoto do Taco.</desc>
 </programme>
-<programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
  <title lang="pt">Dororo</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://1.bp.blogspot.com/-QDrFmQp2pVs/X2jwClQAmEI/AAAAAAAAgsE/lXElWIZfnIA6rd5COczxTycBwFGKxe5xwCNcBGAsYHQ/w1200-h630-p-k-no-nu/resenha-dororo-anime.jpg" />
  <desc lang="pt">A terra do ganancioso senhor samurai Daigo Kagemitsu está morrendo, e ele faria qualquer coisa pelo poder, até mesmo renunciar a Buda e fazer um pacto com os demônios. Suas orações são respondidas por 12 demônios que lhe concedem o poder que ele deseja.</desc>
 </programme> 
@@ -475,7 +475,7 @@
  <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
 </programme>
  <!-- Programas Geekdot--> <!-- Sab-->
-<programme start="000000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="sab" />
+<programme start="020000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="sab" />
  <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
