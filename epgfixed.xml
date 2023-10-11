@@ -1028,15 +1028,15 @@
  <title lang="pt">Cine Jovem</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="183000 -0300" stop="190000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+<programme start="183000 -0300" stop="190000 -0300" channel="Clouding.br">  <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programa Jeplay Games</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="190000 -0300" stop="193000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+<programme start="190000 -0300" stop="193000 -0300" channel="Clouding.br">  <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programa Multiverso</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="193000 -0300" stop="200000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+<programme start="193000 -0300" stop="200000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programa História sem fim</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
@@ -1556,9 +1556,13 @@
  <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="160000 -0300" stop="200000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
+<programme start="160000 -0300" stop="193000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
+</programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Ranma ½</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/163284174/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Saotome Ranma, um adolescente e artista marcial, e o seu pai Genma viajam até ao 'amaldiçoado campo de treino' de Jusenkyo na China. Lá, apesar dos avisos da guarda chinesa, eles caem nas nascentes amaldiçoadas.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
  <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
