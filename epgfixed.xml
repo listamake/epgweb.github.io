@@ -1536,15 +1536,23 @@
  <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="160000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="160000 -0300" stop="200000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qu1,sex" />
  <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="210000 -0300" stop="213000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
+ <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="200000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="qui" />
+ <title lang="pt">Elementos</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307455916/s640/elementos/elementos" />
+ <desc lang="pt">Em uma cidade onde os habitantes de fogo, água, terra e ar convivem, uma jovem mulher flamejante e um rapaz que vive seguindo o fluxo descobrem algo surpreendente, porém elementar: o quanto eles têm em comum.</desc>
+</programme>
+<programme start="210000 -0300" stop="213000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
  <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
  <desc lang="pt">A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc>
 </programme>
-<programme start="213000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="213000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
  <title lang="pt">The Rizing Shield Hero</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
@@ -1569,10 +1577,16 @@
  <title lang="pt">Yu Gi Oh (MARATOON)</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
+
 <programme start="120000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="sab" />
+ <title lang="pt">Elementos</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307455916/s640/elementos/elementos" />
+ <desc lang="pt">Em uma cidade onde os habitantes de fogo, água, terra e ar convivem, uma jovem mulher flamejante e um rapaz que vive seguindo o fluxo descobrem algo surpreendente, porém elementar: o quanto eles têm em comum.</desc>
+</programme>
+<programme start="121000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="sab" />
  <title lang="pt">Naruto (MARATOON)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
+   
 <programme start="140000 -0300" stop="160000 -0300" channel="loadingweb.br"> <weekday days="sab" />
  <title lang="pt">Maratoon: I'm the Villainess, So I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/302213148/s640/im-the-villainess-so-im-taming-the-final-boss/im-the-villainess-so-im-taming-the-final-boss" />
  <desc lang="pt">Quando seu noivado com o príncipe termina sem cerimônia, detalhes da vida passada da jovem nobre Aileen voltam correndo e a ajudam a perceber que ela está vivendo dentro do mundo de um de seus jogos favoritos - como a maior rival da heroína! </desc>
