@@ -976,16 +976,28 @@
  <title lang="pt">Clouding kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="110000 -0300" stop="120000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+<programme start="110000 -0300" stop="120000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programa História sem fim</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="120000 -0300" stop="123000 -0300" channel="Clouding.br"> <weekday days="seg,qua,sex" />
+ <title lang="pt">Malcolm in the Middle</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="120000 -0300" stop="123000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
  <title lang="pt">Drake e Josh</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
+<programme start="123000 -0300" stop="130000 -0300" channel="Clouding.br"> <weekday days="seg,qua,sex" />
+ <title lang="pt">Nostalgia clipes</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
 <programme start="123000 -0300" stop="130000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
  <title lang="pt">Programa Multiverso</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="130000 -0300" stop="133000 -0300" channel="Clouding.br"> <weekday days="seg,qua,sex" />
+ <title lang="pt">O Multiverso</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="130000 -0300" stop="133000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
@@ -996,12 +1008,20 @@
  <title lang="pt">Jornal Brasil News</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="141000 -0300" stop="160000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
+<programme start="141000 -0300" stop="160000 -0300" channel="Clouding.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Super Herói</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="160000 -0300" stop="170000 -0300" channel="Clouding.br"> <weekday days="seg,qua,sex" />
+ <title lang="pt">Cartoon Geek</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://pa-str.srvsite.com/arquivos/7030/locutor-7030-20220918164118.jpg" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="160000 -0300" stop="170000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
  <title lang="pt">Programa Canal triplo G</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="170000 -0300" stop="183000 -0300" channel="Clouding.br"> <weekday days="seg,qua,sex" />
+ <title lang="pt">Cine trash</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
 <programme start="170000 -0300" stop="183000 -0300" channel="Clouding.br"> <weekday days="ter,qui" />
@@ -1536,7 +1556,7 @@
  <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="160000 -0300" stop="200000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qu1,sex" />
+<programme start="160000 -0300" stop="200000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
  <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
