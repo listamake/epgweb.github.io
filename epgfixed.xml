@@ -786,24 +786,12 @@
  <desc lang="pt">.</desc>
 </programme>
 
-<programme start="220000 -0300" stop="230000 -0300" channel="CentralTV.br"> <weekday days="ter" />
- <title lang="pt">A Super Máquina</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/11/a_super_maquina.jpg" />
- <desc lang="pt">Depois de ter sido baleado no rosto, Michael Knight praticamente renasceu e decidiu dedicar sua vida em favor da justiça. Em sua luta contra o crime, Michael conta com a ajuda de um carro superpoderoso e veloz que fala e tem personalidade própria.</desc>
-</programme>
-<programme start="220000 -0300" stop="230000 -0300" channel="CentralTV.br"> <weekday days="qui" />
- <title lang="pt">Família Zoreia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
- <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
-</programme>
 <programme start="223000 -0300" stop="233000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Uma Odisseia Coreana</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/10/Design-sem-nome-2-1024x576.png" />
  <desc lang="pt">Um ser mítico luta para se tornar invencível, mas seu plano dá errado quando ele se vê nas mãos de uma garota capaz de ver criaturas sobrenaturais.</desc>
 </programme>
 <!--23h-->
 <programme start="233000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="seg" />
- <title lang="pt">CentralTV CineClassic</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1-1024x508.jpg" />
- <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
-</programme>
-<programme start="230000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="seg" />
  <title lang="pt">CentralTV CineClassic</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1-1024x508.jpg" />
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
