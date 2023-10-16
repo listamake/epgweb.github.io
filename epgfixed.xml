@@ -731,13 +731,9 @@
  <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
 </programme>
 <!--20h-->
-<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="seg,sex" />
+<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,sex" />
  <title lang="pt">Milk News</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_3-1024x535.jpg" />
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
-</programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="ter" />
- <title lang="pt">Automania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/10/LOGO_AUTOMANIA-1024x576.jpg" />
- <desc lang="pt">O Programa Automania tem como suas principais atrações: Lançamentos (carros, caminhões e motos), Mercado, Avaliações, Entrevistas, Dicas, Veículos Antigos, Revendas, Concessionárias, Veículos Antigos e Automobilismo. Não perca aqui na Rede CentralTV Brasil.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="qua" />
  <title lang="pt">Programa Bate Papo</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_4-1024x574.jpg" />
@@ -760,9 +756,13 @@
  <title lang="pt">Miscelânea na TV</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/05/Screenshot_9-1024x589.jpg" />
  <desc lang="pt">Em seu novo programa, Adri Ferraz, nos leva por uma jornada inspiradora e empoderadora. Com seu carisma contagiante e conhecimento profundo do setor, Adri compartilha valiosas dicas e insights planejamento de eventos bem-sucedidos, mas também se dedica a promover o empoderamento feminino e elevar a autoestima.</desc>
 </programme>
-<programme start="213000 -0300" stop="220000 -0300" channel="CentralTV.br"> <weekday days="seg,ter" />
+<programme start="213000 -0300" stop="220000 -0300" channel="CentralTV.br"> <weekday days="seg" />
  <title lang="pt">Momento Mario Celso</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/MARIOCELSO_jpg-1024x576.jpg" />
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
+</programme>
+<programme start="213000 -0300" stop="223000 -0300" channel="CentralTV.br"> <weekday days="ter" />
+ <title lang="pt">Automania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/10/LOGO_AUTOMANIA-1024x576.jpg" />
+ <desc lang="pt">O Programa Automania tem como suas principais atrações: Lançamentos (carros, caminhões e motos), Mercado, Avaliações, Entrevistas, Dicas, Veículos Antigos, Revendas, Concessionárias, Veículos Antigos e Automobilismo. Não perca aqui na Rede CentralTV Brasil.</desc>
 </programme>
 <programme start="210000 -0300" stop="213000 -0300" channel="CentralTV.br"> <weekday days="qua" />
  <title lang="pt">Momento Mario Celso</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/MARIOCELSO_jpg-1024x576.jpg" />
@@ -782,9 +782,10 @@
 </programme>
 <!--22h-->
 <programme start="220000 -0300" stop="223000 -0300" channel="CentralTV.br"> <weekday days="seg" />
- <title lang="pt">Família Zoreia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
- <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
+ <title lang="pt">Podcast Entre Nós</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/10/Captura-de-tela-2023-10-09-154606-1024x575.png" />
+ <desc lang="pt">.</desc>
 </programme>
+
 <programme start="220000 -0300" stop="230000 -0300" channel="CentralTV.br"> <weekday days="ter" />
  <title lang="pt">A Super Máquina</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/11/a_super_maquina.jpg" />
  <desc lang="pt">Depois de ter sido baleado no rosto, Michael Knight praticamente renasceu e decidiu dedicar sua vida em favor da justiça. Em sua luta contra o crime, Michael conta com a ajuda de um carro superpoderoso e veloz que fala e tem personalidade própria.</desc>
@@ -793,12 +794,12 @@
  <title lang="pt">Família Zoreia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
  <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
 </programme>
-<programme start="223000 -0300" stop="230000 -0300" channel="CentralTV.br"> <weekday days="sex" />
- <title lang="pt">Do Fundo do Baú</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_2-1024x607.jpg" />
- <desc lang="pt">As velhinhas estão de volta! Os melhores flashbacks dos anos 80 e 90 você acompanha nas edições do programa Do Fundo do Baú…</desc>
+<programme start="223000 -0300" stop="233000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Uma Odisseia Coreana</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/10/Design-sem-nome-2-1024x576.png" />
+ <desc lang="pt">Um ser mítico luta para se tornar invencível, mas seu plano dá errado quando ele se vê nas mãos de uma garota capaz de ver criaturas sobrenaturais.</desc>
 </programme>
 <!--23h-->
-<programme start="223000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="seg" />
+<programme start="233000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="seg" />
  <title lang="pt">CentralTV CineClassic</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1-1024x508.jpg" />
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
@@ -1564,19 +1565,15 @@
  <title lang="pt">Ranma ½</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/163284174/s640/temporada-1/temporada-1" />
  <desc lang="pt">Saotome Ranma, um adolescente e artista marcial, e o seu pai Genma viajam até ao 'amaldiçoado campo de treino' de Jusenkyo na China. Lá, apesar dos avisos da guarda chinesa, eles caem nas nascentes amaldiçoadas.</desc>
 </programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
+<programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="200000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="qui" />
- <title lang="pt">Elementos</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307455916/s640/elementos/elementos" />
- <desc lang="pt">Em uma cidade onde os habitantes de fogo, água, terra e ar convivem, uma jovem mulher flamejante e um rapaz que vive seguindo o fluxo descobrem algo surpreendente, porém elementar: o quanto eles têm em comum.</desc>
-</programme>
-<programme start="210000 -0300" stop="213000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
+<programme start="210000 -0300" stop="213000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
  <desc lang="pt">A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc>
 </programme>
-<programme start="213000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,sex" />
+<programme start="213000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">The Rizing Shield Hero</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
