@@ -1549,21 +1549,29 @@
  <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
  <desc lang="pt">Yu Yu Hakusho é uma série de mangá shonen escrita e ilustrada por Yoshihiro Togashi que conta a história de Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança.</desc>
 </programme>
-<programme start="083000 -0300" stop="120000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="083000 -0300" stop="103000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
-<programme start="120000 -0300" stop="123000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="103000 -0300" stop="110000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Rangers: Mighty Morphin</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/247591752/s640/power-rangers/power-rangers" />
+ <desc lang="pt">Em uma missão ao planeta Marte dois astronautas encontram uma estranha cápsula encostada no solo do planeta. Eles abrem e libertam a feiticeira espacial do mal Rita Repulsa.</desc>
+</programme>
+<programme start="110000 -0300" stop="113000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Inuyasha</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/304878994/s640/inuyasha-guren-no-houraijima/inuyasha-guren-no-houraijima" />
+ <desc lang="pt">Uma adolescente viaja periodicamente no tempo para o Japão feudal para ajudar um jovem meio-demônio a recuperar os cacos de uma joia de grande poder.</desc>
+</programme>
+<programme start="113000 -0300" stop="120000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Ranma ½</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/163284174/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Saotome Ranma, um adolescente e artista marcial, e o seu pai Genma viajam até ao 'amaldiçoado campo de treino' de Jusenkyo na China. Lá, apesar dos avisos da guarda chinesa, eles caem nas nascentes amaldiçoadas.</desc>
+</programme>
+<programme start="120000 -0300" stop="130000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Fairy Tail</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/242880992/s640/fairy-tail/fairy-tail" />
  <desc lang="pt">Quando quatro jovens feiticeiros se juntam e trabalham um pouco por todo o reino, criam um elo mais poderoso do que qualquer magia e ficam mais fortes a cada missão.</desc>
 </programme>
-<programme start="123000 -0300" stop="130000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">I'm the Villainess, So I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/302213148/s640/im-the-villainess-so-im-taming-the-final-boss/im-the-villainess-so-im-taming-the-final-boss" />
- <desc lang="pt">Quando seu noivado com o príncipe termina sem cerimônia, detalhes da vida passada da jovem nobre Aileen voltam correndo e a ajudam a perceber que ela está vivendo dentro do mundo de um de seus jogos favoritos - como a maior rival da heroína! </desc>
-</programme>
 <programme start="130000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/59/The_100_logo.jpg" />
+ <desc lang="pt">Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</desc>
 </programme>
 <programme start="140000 -0300" stop="143000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
@@ -1573,17 +1581,29 @@
  <title lang="pt">Inuyasha</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/304878994/s640/inuyasha-guren-no-houraijima/inuyasha-guren-no-houraijima" />
  <desc lang="pt">Uma adolescente viaja periodicamente no tempo para o Japão feudal para ajudar um jovem meio-demônio a recuperar os cacos de uma joia de grande poder.</desc>
 </programme>
-<programme start="150000 -0300" stop="153000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="150000 -0300" stop="160000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
  <desc lang="pt">A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc>
 </programme>
-<programme start="153000 -0300" stop="160000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+<programme start="160000 -0300" stop="170000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://images.justwatch.com/backdrop/239548970/s640/jin-ji-noguo-noarisu" />
+ <desc lang="pt">Um gamer e dois amigos são transportados para uma versão paralela de Tóquio, onde precisam participar de diversos jogos mortais caso queiram sobreviver. </desc>
 </programme>
-<programme start="160000 -0300" stop="193000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+<programme start="170000 -0300" stop="173000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Tokyo Revengers</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/304426528/s640/tokyo-revengers/tokyo-revengers" />
+ <desc lang="pt">Takemichi Hanagaki é um desempregado que sobrevive de bicos e está na fossa. Ele descobriu que Hinata Tachibana, sua primeira e última namorada, com quem namorou no fundamental, foi morta pela impiedosa Gangue Manji de Tóquio.</desc>
+</programme>
+<programme start="173000 -0300" stop="183000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Sailor Moon S</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://images.justwatch.com/backdrop/180935792/s640/sailor-moon/sailor-moon" />
+ <desc lang="pt">Sailor Moon conta a história de Usagi Tsukino, uma garota normal e inocente de 14 anos — pelo menos, é isso que ela pensa — que um dia encontra Luna, uma gata falante que revela a identidade de Usagi como "Sailor Moon", uma guerreira mágica destinada a salvar a Terra das forças do mal.</desc>
+</programme>
+<programme start="183000 -0300" stop="190000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Rangers: Mighty Morphin</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/247591752/s640/power-rangers/power-rangers" />
+ <desc lang="pt">Em uma missão ao planeta Marte dois astronautas encontram uma estranha cápsula encostada no solo do planeta. Eles abrem e libertam a feiticeira espacial do mal Rita Repulsa.</desc>
+</programme>
+<programme start="190000 -0300" stop="193000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Inuyasha</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/304878994/s640/inuyasha-guren-no-houraijima/inuyasha-guren-no-houraijima" />
+ <desc lang="pt">Uma adolescente viaja periodicamente no tempo para o Japão feudal para ajudar um jovem meio-demônio a recuperar os cacos de uma joia de grande poder.</desc>
 </programme>
 <programme start="193000 -0300" stop="200000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Ranma ½</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/163284174/s640/temporada-1/temporada-1" />
