@@ -1712,8 +1712,8 @@
  <desc lang="pt">A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="dom" />
- <title lang="pt">O Massacre da Serra Elétrica</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="" />
- <desc lang="pt">a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana.</desc>
+ <title lang="pt">Filme</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="" />
+ <desc lang="pt">Os filmes pra animar as suas noite.</desc>
 </programme>
 <programme start="210000 -0300" stop="230000 -0300" channel="loadingweb.br"> <weekday days="dom" />
  <title lang="pt">Maratoon: Fairy Tail</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/242880992/s640/fairy-tail/fairy-tail" />
@@ -1910,7 +1910,10 @@
  <title lang="pt">Jornal da CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1166817519711260679/UjyrWpvZ_400x400.jpg" />
  <desc lang="pt">Noticiario</desc>
 </programme>
-
+<programme start="090000 -0300" stop="r000000 -0300" channel="cbnrede.br"> <weekday days="dom" />
+ <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
+ <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
+</programme>
  <!-- Programas Radio Cidade Verde--> <!--Seg a Sex-->
 <programme start="000000 -0300" stop="063000 -0300" channel="radiocidadeverde.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
