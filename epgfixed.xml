@@ -406,12 +406,40 @@
  <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="070000 -0300" stop="153000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
+<programme start="120000 -0300" stop="123000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Jiraya – O Incrível Ninja</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://images.justwatch.com/backdrop/265182310/s640/giraya-ninja/giraya-ninja" />
+ <desc lang="pt">Jiraiya é um guerreiro ninja que foi treinado pelo seu pai adotivo Tetsuzan Yamaji, um sábio mestre das artes marciais, para ser seu sucessor na Família de Feiticeiros Togakure. Seu principal desafio é enfrentar um malígno clã da Família de Feiticeiros, que procura o Pako, um antigo mapa para um misterioso tesouro.</desc>
+</programme>
+<programme start="123000 -0300" stop="130000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">O Fantástico Jaspion</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/257472095/s640/o-fantastico-jaspion/o-fantastico-jaspion" />
+ <desc lang="pt">No planeta Edin, um profeta encontra um garoto humano que sobreviveu à queda de uma nave espacial, acidente no qual seus pais morreram. O garoto é adotado e recebe o nome de Jaspion.</desc>
+</programme>
+<programme start="130000 -0300" stop="133000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">The Middle: Uma Família Perdida No Meio Do Nada</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/302907544/s640/uma-familia-perdida-no-meio-do-nada/uma-familia-perdida-no-meio-do-nada" />
+ <desc lang="pt">Seguindo uma mulher chamada Frankie e sua família turbulenta, os Hecks. Seu marido, Mike, sua filha, Sue, e seus dois filhos, Axl e Brick, embarcam no que você pode chamar de aventuras familiares enquanto exploram a vida e seu significado.</desc>
+</programme>
+<programme start="133000 -0300" stop="140000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Como Eu Conheci Sua Mãe</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/178160052/s480/how-i-met-your-mother/how-i-met-your-mother" />
+ <desc lang="pt">Ted Mosby se senta com seus filhos para contar a história de como conheceu a mãe deles. A história é contada através das memórias de seus amigos Marshall, Lily, Robin e Barney Stinson.</desc>
+</programme>
+<programme start="140000 -0300" stop="143000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Três É Demais</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://cdn.fstatic.com/public/articles/files/2014/08/c649dbb1-e042-4836-8516-ae97b1571422.jpg" />
+ <desc lang="pt">Esta é uma história sobre o locutor esportivo que virou apresentador de talk show matinal Danny Tanner e suas filhas, DJ (Donna Jo), Stephanie e Michelle. Antes do show começar, sua esposa Pam, é morta por um motorista bêbado, então ele precisa de ajuda para criar Suas filhas.</desc>
+</programme>
+<programme start="143000 -0300" stop="150000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Laid-Back Camp (Segunda Temporada)</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.jbox.com.br/wp/wp-content/uploads/2022/01/yuru-camp-t2-destacada.jpg" />
+ <desc lang="pt">Nadeshiko, uma colegial que se mudou para Yamanashi, decide ir visitar o famoso Monte Fuji das notas de mil ienes. Contudo, enquanto pedalava para Motosu, ela acaba desmaiando de cansaço e acorda à noite num lugar desconhecido, sem saber como voltar pra casa. Felizmente, ela é salva por Rin, uma garota que está acampando sozinha - e assim começa a história das garotas que adoram a vida a céu aberto.</desc>
+</programme>
+<programme start="150000 -0300" stop="153000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">I've Been Killing Slimes For 300 Years And Maxed Out My Level</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/210184236/s640/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level" />
+ <desc lang="pt">Uma comédia caseira sobre uma garota poderosa que quer evitar a fadiga! Depois de morrer de estafa no mundo real, eu reencarnei como uma bruxa imortal, e passei 300 anos desfrutando a vida boa... Até que acabei batendo no nível 99! Tantos anos matando slimes pra pagar as contas me deram bastante XP... Mas os rumores se espalharam, e agora começam a surgir aventureiros curiosos, dragões afrontosos e até uma garota-monstro que me chama de mãe!</desc>
+</programme>
 <programme start="153000 -0300" stop="160000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Lycoris Recoil</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/289201440/s640/lycoris-recoil/lycoris-recoil" />
+ <title lang="pt">Lycoris Recoil</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/289201440/s640/lycoris-recoil/lycoris-recoil" />
  <desc lang="pt">Se há paz no mundo, é graças à Lycoris, uma organização secreta de combate ao crime composta apenas por garotas.</desc>
 </programme>
 <programme start="160000 -0300" stop="163000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -565,7 +593,7 @@
  <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
 </programme>
 <programme start="220000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">CineDot: A anunciar</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/10/PATEMA_img_site-200x144.png" />
+ <title lang="pt">CineDot: InuYasha Filme 3: A Espada Dominadora Do Mundo</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/10/PATEMA_img_site-200x144.png" />
  <desc lang="pt">Nossa sessão de filmes especiais aqui na Geekdot, você irá conferir longas premiados e de grande sucesso, escolhidos especialmente para os seus finais de domingo ficarem cada vez melhor com a gente!</desc>
 </programme>
 <programme start="000000 -0300" stop="023000 -0300" channel="anitv.br"> <weekday days="seg" />
@@ -1461,16 +1489,24 @@
    
  <!-- Programas Loading Web--> <!--Seg a Dom-->
 
-<programme start="000000 -0300" stop="020000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+<programme start="000000 -0300" stop="003000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://images.justwatch.com/backdrop/239548970/s640/jin-ji-noguo-noarisu" />
+ <desc lang="pt">Um gamer e dois amigos são transportados para uma versão paralela de Tóquio, onde precisam participar de diversos jogos mortais caso queiram sobreviver. </desc>
+</programme>
+<programme start="003000 -0300" stop="010000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Ranma ½</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/163284174/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Saotome Ranma, um adolescente e artista marcial, e o seu pai Genma viajam até ao 'amaldiçoado campo de treino' de Jusenkyo na China. Lá, apesar dos avisos da guarda chinesa, eles caem nas nascentes amaldiçoadas.</desc>
+</programme>
+<programme start="010000 -0300" stop="020000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+ <desc lang="pt">Yu Yu Hakusho é uma série de mangá shonen escrita e ilustrada por Yoshihiro Togashi que conta a história de Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança.</desc>
 </programme>
 <programme start="020000 -0300" stop="023000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Aggressive Retsuko</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/303645569/s640/aggretsuko/aggretsuko" />
  <desc lang="pt">Retsuko, um panda vermelho de 25 anos que trabalha no departamento de contabilidade de sua empresa dos sonhos. Mas acontece que ela é forçada a continuar fazendo tarefas cada vez mais impossíveis por seus superiores e colegas de trabalho. </desc>
 </programme>
 <programme start="023000 -0300" stop="030000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Sailor Moon R</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://images.justwatch.com/backdrop/180935792/s640/sailor-moon/sailor-moon" />
+ <title lang="pt">Sailor Moon S</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://images.justwatch.com/backdrop/180935792/s640/sailor-moon/sailor-moon" />
  <desc lang="pt">Sailor Moon conta a história de Usagi Tsukino, uma garota normal e inocente de 14 anos — pelo menos, é isso que ela pensa — que um dia encontra Luna, uma gata falante que revela a identidade de Usagi como "Sailor Moon", uma guerreira mágica destinada a salvar a Terra das forças do mal.</desc>
 </programme>
 <programme start="030000 -0300" stop="033000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
@@ -1490,8 +1526,8 @@
  <desc lang="pt">.</desc>
 </programme>
 <programme start="050000 -0300" stop="053000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">Tokyo Revengers</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/304426528/s640/tokyo-revengers/tokyo-revengers" />
+ <desc lang="pt">Takemichi Hanagaki é um desempregado que sobrevive de bicos e está na fossa. Ele descobriu que Hinata Tachibana, sua primeira e última namorada, com quem namorou no fundamental, foi morta pela impiedosa Gangue Manji de Tóquio.</desc>
 </programme>
 <programme start="050000 -0300" stop="053000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">I'm the Villainess, So I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/302213148/s640/im-the-villainess-so-im-taming-the-final-boss/im-the-villainess-so-im-taming-the-final-boss" />
@@ -1502,8 +1538,8 @@
  <desc lang="pt">Yu Yu Hakusho é uma série de mangá shonen escrita e ilustrada por Yoshihiro Togashi que conta a história de Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança.</desc>
 </programme>
 <programme start="060000 -0300" stop="070000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://images.justwatch.com/backdrop/239548970/s640/jin-ji-noguo-noarisu" />
+ <desc lang="pt">Um gamer e dois amigos são transportados para uma versão paralela de Tóquio, onde precisam participar de diversos jogos mortais caso queiram sobreviver. </desc>
 </programme>
 <programme start="070000 -0300" stop="080000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
@@ -1562,20 +1598,24 @@
  <desc lang="pt">A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc>
 </programme>
 <programme start="213000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">The Rizing Shield Hero</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">Aggressive Retsuko</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/303645569/s640/aggretsuko/aggretsuko" />
+ <desc lang="pt">Retsuko, um panda vermelho de 25 anos que trabalha no departamento de contabilidade de sua empresa dos sonhos. Mas acontece que ela é forçada a continuar fazendo tarefas cada vez mais impossíveis por seus superiores e colegas de trabalho. </desc>
 </programme>
 <programme start="220000 -0300" stop="223000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">Fairy Tail</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/242880992/s640/fairy-tail/fairy-tail" />
+ <desc lang="pt">Quando quatro jovens feiticeiros se juntam e trabalham um pouco por todo o reino, criam um elo mais poderoso do que qualquer magia e ficam mais fortes a cada missão.</desc>
 </programme>
 <programme start="223000 -0300" stop="230000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+ <title lang="pt">Tokyo Revengers</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/304426528/s640/tokyo-revengers/tokyo-revengers" />
+ <desc lang="pt">Takemichi Hanagaki é um desempregado que sobrevive de bicos e está na fossa. Ele descobriu que Hinata Tachibana, sua primeira e última namorada, com quem namorou no fundamental, foi morta pela impiedosa Gangue Manji de Tóquio.</desc>
 </programme>
-<programme start="230000 -0300" stop="r000000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
- <desc lang="pt">.</desc>
+<programme start="230000 -0300" stop="233000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Power Rangers: Mighty Morphin</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/247591752/s640/power-rangers/power-rangers" />
+ <desc lang="pt">Em uma missão ao planeta Marte dois astronautas encontram uma estranha cápsula encostada no solo do planeta. Eles abrem e libertam a feiticeira espacial do mal Rita Repulsa.</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="loadingweb.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Alice in Borderland</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://images.justwatch.com/backdrop/239548970/s640/jin-ji-noguo-noarisu" />
+ <desc lang="pt">Um gamer e dois amigos são transportados para uma versão paralela de Tóquio, onde precisam participar de diversos jogos mortais caso queiram sobreviver. </desc>
 </programme>
    
 <programme start="070000 -0300" stop="090000 -0300" channel="loadingweb.br"> <weekday days="sab" />
@@ -1587,11 +1627,8 @@
  <desc lang="pt">.</desc>
 </programme>
 
+
 <programme start="120000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="sab" />
- <title lang="pt">Elementos</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307455916/s640/elementos/elementos" />
- <desc lang="pt">Em uma cidade onde os habitantes de fogo, água, terra e ar convivem, uma jovem mulher flamejante e um rapaz que vive seguindo o fluxo descobrem algo surpreendente, porém elementar: o quanto eles têm em comum.</desc>
-</programme>
-<programme start="121000 -0300" stop="140000 -0300" channel="loadingweb.br"> <weekday days="sab" />
  <title lang="pt">Naruto (MARATOON)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme>
@@ -1613,7 +1650,7 @@
  <desc lang="pt">.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="loadingweb.br"> <weekday days="sab" />
- <title lang="pt">O Massacre da Serra Elétrica</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="" />
+ <title lang="pt">Filme</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="" />
  <desc lang="pt">a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana.</desc>
 </programme>
 <programme start="210000 -0300" stop="220000 -0300" channel="loadingweb.br"> <weekday days="sab" />
@@ -2027,8 +2064,20 @@
    
    
  <!-- Programas Rádio Clube--> <!--Seg a Sex-->
-<programme start="000000 -0300" stop="050000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+<programme start="000000 -0300" stop="010000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Madrugada Clube AM</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
+</programme>
+<programme start="010000 -0300" stop="020000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Fim de Tarde na Fazenda - Reprise</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSTh_u6TR0QFFXDKVARFNroxgv2GCVUVCSnFxmbhLOSUSgRGGFlHL1dgQuEqNfb-1SbkRLJzOuOMlEYZOs7vdNLAS_Pp981icROxwucjCNpDA0obPSrsAzrcBhuxikI2d43BmmTUYWbAMUG8ZcKiEyJmsiVjeoNmr1Knzdy1yK0n5Aswt5mJtpn1kgImU/s320/Screenshot_20230910-092948_Instagram20Lite.png" />
+ <desc lang="pt">Do interior pra cidade, o forró raís no fim de tarde na faazenda </desc>
+</programme>
+<programme start="020000 -0300" stop="040000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Madrugada Clube AM</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
+</programme>
+<programme start="040000 -0300" stop="050000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Madrugada Clube AM - Forró</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
 <programme start="050000 -0300" stop="070000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
