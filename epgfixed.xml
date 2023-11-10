@@ -378,19 +378,19 @@
    
  <!-- Programas Geekdot--> <!-- Semanal-->
 
-<programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="000000 -0300" stop="000500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="000500 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="000500 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
  <desc lang="pt">Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
 </programme>
-<programme start="003000 -0300" stop="003500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="003000 -0300" stop="003500 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="003500 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
  <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
  <desc lang="pt">Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
 </programme>
@@ -486,23 +486,35 @@
  <title lang="pt">Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://japan-geeks.com/wp-content/uploads/2022/03/FMNUfRVaUAAVfGq-768x436.jpeg" />
  <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
 </programme>
-<programme start="220000 -0300" stop="221000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="220000 -0300" stop="223000 -0300" channel="anitv.br"> <weekday days="sex" />
+ <title lang="pt">Aquecimento Teleton 2023: Construindo Futuros</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/11/20231106_163136-200x144.png" />
+ <desc lang="pt">Há alguns anos, eu abri os olhos pela primeira vez e vi uma sociedade que ainda não reconhecia todos os seus indivíduos. Eu nasci com uma vontade muito grande de ajudar ao próximo, mas não ia conseguir fazer isso sozinho. Até que um dia, uma senhora de cabelos dourados e risada gostosa me estendeu a mão e disse: 'Seja bem-vindo ao Brasil, Teleton. Eu acredito em você!' A Geekdot, tem o orgulho de apoiar e ajudar essa causa. Portanto, nós estaremos com uma programação especial durante o dia 10 e 11 de Novembro, junto ao SBT.</desc>
+</programme>
+<programme start="223000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="sex" />
+ <title lang="pt">Teleton 2023: Construindo Futuros</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/11/20231106_163136-200x144.png" />
+ <desc lang="pt">Há alguns anos, eu abri os olhos pela primeira vez e vi uma sociedade que ainda não reconhecia todos os seus indivíduos. Eu nasci com uma vontade muito grande de ajudar ao próximo, mas não ia conseguir fazer isso sozinho. Até que um dia, uma senhora de cabelos dourados e risada gostosa me estendeu a mão e disse: 'Seja bem-vindo ao Brasil, Teleton. Eu acredito em você!' A Geekdot, tem o orgulho de apoiar e ajudar essa causa. Portanto, nós estaremos com uma programação especial durante o dia 10 e 11 de Novembro, junto ao SBT.</desc>
+</programme>
+<programme start="000000 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Teleton 2023: Construindo Futuros</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/11/20231106_163136-200x144.png" />
+ <desc lang="pt">Há alguns anos, eu abri os olhos pela primeira vez e vi uma sociedade que ainda não reconhecia todos os seus indivíduos. Eu nasci com uma vontade muito grande de ajudar ao próximo, mas não ia conseguir fazer isso sozinho. Até que um dia, uma senhora de cabelos dourados e risada gostosa me estendeu a mão e disse: 'Seja bem-vindo ao Brasil, Teleton. Eu acredito em você!' A Geekdot, tem o orgulho de apoiar e ajudar essa causa. Portanto, nós estaremos com uma programação especial durante o dia 10 e 11 de Novembro, junto ao SBT.</desc>
+</programme>
+<programme start="220000 -0300" stop="221000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui" />
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
  <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
-<programme start="221000 -0300" stop="224000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="221000 -0300" stop="224000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui" />
  <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
  <desc lang="pt">Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
 </programme>
-<programme start="224000 -0300" stop="231000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="224000 -0300" stop="231000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui" />
  <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
  <desc lang="pt">O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
 </programme>
-<programme start="231000 -0300" stop="233000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="231000 -0300" stop="233000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui" />
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
  <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
-<programme start="233000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="233000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui" />
  <title lang="pt">Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
  <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
 </programme>
@@ -593,7 +605,7 @@
  <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
 </programme>
 <programme start="220000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">CineDot: InuYasha Filme 3: A Espada Dominadora Do Mundo</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/10/PATEMA_img_site-200x144.png" />
+ <title lang="pt">CineDot</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/10/PATEMA_img_site-200x144.png" />
  <desc lang="pt">Nossa sessão de filmes especiais aqui na Geekdot, você irá conferir longas premiados e de grande sucesso, escolhidos especialmente para os seus finais de domingo ficarem cada vez melhor com a gente!</desc>
 </programme>
 <programme start="000000 -0300" stop="023000 -0300" channel="anitv.br"> <weekday days="seg" />
