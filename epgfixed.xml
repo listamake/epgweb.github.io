@@ -547,7 +547,11 @@
  <title lang="pt">Maratona #FDS: Love Hina</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
  <desc lang="pt">Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
 </programme>
-<programme start="203000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="sab" />
+<programme start="203000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Teleton 2023: Construindo Futuros</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/11/20231106_163136-200x144.png" />
+ <desc lang="pt">Há alguns anos, eu abri os olhos pela primeira vez e vi uma sociedade que ainda não reconhecia todos os seus indivíduos. Eu nasci com uma vontade muito grande de ajudar ao próximo, mas não ia conseguir fazer isso sozinho. Até que um dia, uma senhora de cabelos dourados e risada gostosa me estendeu a mão e disse: 'Seja bem-vindo ao Brasil, Teleton. Eu acredito em você!' A Geekdot, tem o orgulho de apoiar e ajudar essa causa. Portanto, nós estaremos com uma programação especial durante o dia 10 e 11 de Novembro, junto ao SBT.</desc>
+</programme>
+<programme start="203200 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="sab" />
  <title lang="pt">No.6</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www-animeherald-com.exactdn.com/wp-content/uploads/2021/04/No-6-001-20210402.jpg" />
  <desc lang="pt">Sion é um adolescente brilhante que vive uma vida confortável e promissora dentro do número 6, uma das seis cidades-estado restantes criadas pelo Tratado da Babilônia depois que a última grande guerra devastou o mundo.</desc>
 </programme>
