@@ -2099,25 +2099,13 @@
  <title lang="pt">Madrugada Clube AM</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="040000 -0300" stop="050000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+<programme start="040000 -0300" stop="070000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Madrugada Clube AM - Forró</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="050000 -0300" stop="070000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+<programme start="070000 -0300" stop="110000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Você faz a notícia</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
- <desc lang="pt">jonal</desc>
-</programme>
-<programme start="070000 -0300" stop="073000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
- <title lang="pt">Alvorada Esportiva</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
- <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
-</programme>
-<programme start="073000 -0300" stop="083000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
- <title lang="pt">Clube Notícias</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
- <desc lang="pt">jornal</desc>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
-</programme>
-<programme start="083000 -0300" stop="110000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
- <title lang="pt">Manhã na Clube</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
- <desc lang="pt">jornal</desc>
+ <desc lang="pt">Você faz a noticia</desc>
 </programme>
 <programme start="110000 -0300" stop="120000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Momento Esportivo</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfKzvUQxBvYY7U8Bqt_uErQFzAnGGYj5WHI1T_OJyPS9SyOgbDV8PQF6If4cFrl8hgZue5MhYZBlPk9SYGzCWzRMp3v6w6VeK_5xht7aSZZlrhzWYdLEx1vrqG4ZWqBdT10vqv0LDQOtaTRCubfl9uTIW9QqufrBf9r30azqNvpBvI0ZWRuFmtvTtp8-U/s320/Screenshot_20230910-095715_Instagram20Lite.png" />
@@ -2160,12 +2148,12 @@
  <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
 </programme> 
 
-<programme start="200000 -0300" stop="210000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+<programme start="190000 -0300" stop="200000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="210000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
- <title lang="pt">Faixa Musical/Jornadas Esportivas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
+<programme start="200000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Faixa Musical</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
 
@@ -2190,7 +2178,7 @@
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
 <programme start="140000 -0300" stop="160000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
- <title lang="pt">Programação Super Rádio Clube</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
+ <title lang="pt">Ritimos do Brasil</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
 <programme start="160000 -0300" stop="170000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
@@ -2220,7 +2208,7 @@
  <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
 </programme>
 <programme start="150000 -0300" stop="180000 -0300" channel="radioclubeampe.br"><weekday days="dom" />
- <title lang="pt">Botafogo vs. Santos</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://img.olhardigital.com.br/wp-content/uploads/2023/06/futebol.jpg" />
+ <title lang="pt">Faixa Músical</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="https://img.olhardigital.com.br/wp-content/uploads/2023/06/futebol.jpg" />
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
 <programme start="180000 -0300" stop="190000 -0300" channel="radioclubeampe.br"> <weekday days="dom" />
