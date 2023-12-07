@@ -76,29 +76,34 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
 </channel>
 <channel id="bandfmrede.br">
- <display-name lang="pt">Band FM</display-name> <display-name lang="pt">Band FM Campinas</display-name>  <display-name lang="pt">Band FM Sorocaba</display-name>
+ <category>Rádio</category> <display-name lang="pt">Band FM</display-name> <display-name lang="pt">Band FM Campinas</display-name>  <display-name lang="pt">Band FM Sorocaba</display-name>
   <display-name lang="pt">Band FM Pouso Alegre</display-name>
   <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png"/>
 </channel>
 <channel id="cbnrede.br">
  <display-name lang="pt">Rádio CBN Rede</display-name> <display-name lang="pt">CBN Rio HD</display-name> <display-name lang="pt">CBN São Paulo HD</display-name>
-  <icon src="https://www.cxradio.com.br/img/Radio/Logo/b6bc2e62040df6e1f6c2038aa66b755f.jpg"/>
+  <category>Rádio</category> <icon src="https://www.cxradio.com.br/img/Radio/Logo/b6bc2e62040df6e1f6c2038aa66b755f.jpg"/>
 </channel>
 <channel id="radioclubeampe.br">
- <display-name lang="pt">Rádio Clube de Pernambuco</display-name> <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
+ <category>Rádio</category> <display-name lang="pt">Rádio Clube de Pernambuco</display-name> <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
+</channel> 
+<channel id="radioclubeamce.br">
+ <category>Rádio</category> <display-name lang="pt">Ceará Rádio Clube</display-name> <icon src="https://img.radios.com.br/radio/lg/radio18263_1694617291.png"/>
 </channel> 
 <channel id="radiocidadeverde.br">
- <display-name lang="pt">Radio Cidade Verde</display-name> <icon src="https://pbs.twimg.com/profile_images/1188171809746751488/KVtOT3ju_400x400.jpg"/>
+ <category>Rádio</category> <display-name lang="pt">Radio Cidade Verde</display-name> <icon src="https://pbs.twimg.com/profile_images/1188171809746751488/KVtOT3ju_400x400.jpg"/>
 </channel>
+<channel id="radiotupi.br">
+ <category>Rádio</category> <display-name lang="pt">Super Rádio Tupi</display-name> <icon src="https://img.radios.com.br/radio/md/radio14215_1562877228.jpg"/>
+</channel> 
 <channel id="jhero.br">
- <display-name lang="pt">Rádio JHero</display-name> <icon src="https://static.mytuner.mobi/media/tvos_radios/JaxdA4MwLR.png"/>
+ <category>Rádio</category> <display-name lang="pt">Rádio JHero</display-name> <icon src="https://static.mytuner.mobi/media/tvos_radios/JaxdA4MwLR.png"/>
 </channel>
 <channel id="jkfmrede.br">
- <display-name lang="pt">JK FM HD</display-name> <icon src="https://img.radios.com.br/radio/xl/radio13525_1653597884.jpg"/>
+ <category>Rádio</category> <display-name lang="pt">JK FM HD</display-name> <icon src="https://img.radios.com.br/radio/xl/radio13525_1653597884.jpg"/>
 </channel>
 <channel id="MixFMBelem.br">
- <display-name lang="pt">Mix Belém HD</display-name>
-  <icon src="https://pbs.twimg.com/profile_images/1545103616574459905/YA44Zg0H_400x400.jpg"/>
+ <category>Rádio</category> <display-name lang="pt">Mix Belém HD</display-name> <icon src="https://pbs.twimg.com/profile_images/1545103616574459905/YA44Zg0H_400x400.jpg"/>
 </channel>
 <channel id="Movies.br">
  <display-name lang="pt">Movies HD</display-name>
@@ -2103,9 +2108,13 @@
  <title lang="pt">Madrugada Clube AM - Forró</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="070000 -0300" stop="110000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+<programme start="070000 -0300" stop="090000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Você faz a notícia</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt">Você faz a noticia</desc>
+</programme>
+<programme start="090000 -0300" stop="110000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">Faixa Músical</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
+ <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
 <programme start="110000 -0300" stop="120000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
  <title lang="pt">Momento Esportivo</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfKzvUQxBvYY7U8Bqt_uErQFzAnGGYj5WHI1T_OJyPS9SyOgbDV8PQF6If4cFrl8hgZue5MhYZBlPk9SYGzCWzRMp3v6w6VeK_5xht7aSZZlrhzWYdLEx1vrqG4ZWqBdT10vqv0LDQOtaTRCubfl9uTIW9QqufrBf9r30azqNvpBvI0ZWRuFmtvTtp8-U/s320/Screenshot_20230910-095715_Instagram20Lite.png" />
@@ -2220,6 +2229,60 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
+ <!-- Programas Ceará Rádio Clube--> <!--Seg a Dom-->
+
+<programme start="000000 -0300" stop="060000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Rádio Tupi</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="060000 -0300" stop="070000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Bola de Ouro</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="070000 -0300" stop="080000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Tabelinha de Fogo</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="080000 -0300" stop="090000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa Océlio Pereira</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="090000 -0300" stop="110000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Rádio Tupi</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="110000 -0300" stop="120000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Contraponto</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="120000 -0300" stop="160000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Rádio Tupi</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="160000 -0300" stop="170000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programa João Paulo Monteiro</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="170000 -0300" stop="180000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">A Hora do Paraíba</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="180000 -0300" stop="190000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Vivência Tricolor</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+<programme start="190000 -0300" stop="200000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" /> 
+ <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
+ <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
+</programme> 
+<programme start="200000 -0300" stop="r000000 -0300" channel="radioclubeamce.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Rádio Tupi</title><rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"></desc>
+</programme>
+
+
+
+   
  <!-- Programas RBC TV--> <!--Seg a Dom-->
    
 <programme start="000000 -0300" stop="060000 -0300" channel="rbctv.br"> <weekday days="seg,ter,qua,qui,sex" />
