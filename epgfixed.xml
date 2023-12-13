@@ -2109,7 +2109,7 @@
  <desc lang="pt">Entrevistas com proficionais que fizeram a historia do radio brasileiro, apresentação de Andre Luiz Cabral.</desc>  
 </programme>
 <programme start="100000 -0300" stop="110000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
- <title lang="pt">Manhâ na Clube</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
+ <title lang="pt">Manhã na Clube</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Suas manhã repletas de noticias.</desc>
 </programme>
 <programme start="110000 -0300" stop="120000 -0300" channel="radioclubeampe.br"> <weekday days="seg,ter,qua,qui,sex" /> 
@@ -2161,11 +2161,7 @@
  <title lang="pt">Forró da Gente</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
-<programme start="170000 -0300" stop="180000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
- <title lang="pt">Clube do Brega</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
- <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
-</programme>
-<programme start="180000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
+<programme start="170000 -0300" stop="r000000 -0300" channel="radioclubeampe.br"> <weekday days="sab" /> 
  <title lang="pt">Programação Super Rádio Clube</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
