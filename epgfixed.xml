@@ -118,6 +118,9 @@
 <channel id="rbctv.br">
  <display-name lang="pt">RBC TV HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/23bd43f2aa3a7c5772c2ca92d67dbf3a.webp"/>
 </channel>
+<channel id="RDCTV.br">
+ <display-name lang="pt">RDCTV</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af54ed561ef9246c6db4cc8c13e5e309.webp"/>
+</channel>
 <channel id="TVMaisFamilia.br">
  <display-name lang="pt">Rede Mais Família HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp"/>
 </channel>
@@ -727,29 +730,37 @@
  <title lang="pt">Programa 190</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_18-1024x553.png" />
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="130000 -0300" stop="131500 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="130000 -0300" stop="134000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Jornal do Boris</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/11/Design-sem-nome-14-1280x720.png" />
+ <desc lang="pt">Boris Casoy faz análises sobre tudo que acontece no universo da política, economia e esporte, passando pelos principais fatos do Brasil e do mundo.</desc>
+</programme>
+<programme start="134000 -0300" stop="140000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Momento Mario Celso</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/MARIOCELSO_jpg-1024x576.jpg" />
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="131500 -0300" stop="140000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="140000 -0300" stop="140000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="140000 -0300" stop="144000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="140000 -0300" stop="143000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Festival Hanna Barbera</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="144000 -0300" stop="150000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="143000 -0300" stop="144500 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programa Faça e Lucre</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_15-1024x573.jpg" />
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="150000 -0300" stop="153000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="144500 -0300" stop="153000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="153000 -0300" stop="183000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="154500 -0300" stop="173000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Cinemania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
+</programme>
+<programme start="173000 -0300" stop="183000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Rede Malaguenha</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/11/maxresdefault-1-1.jpg" />
+ <desc lang="pt">Um novo programa para você acompanhar seu time do coração! Apresentado pelo narrador Moura Junior trazendo convidados e participações do público!</desc>
 </programme>
 <programme start="183000 -0300" stop="190000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Do Fundo do Baú</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_2-1024x607.jpg" />
@@ -759,22 +770,18 @@
  <title lang="pt">CWB Notícias</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/TELA-CWB-NOTICIAS-1920x1080-1-1024x576.png" />
  <desc lang="pt">Jornal diário de responsabilidade da Agência CWB Notícias.</desc>
 </programme>
-<programme start="193000 -0300" stop="200000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="193000 -0300" stop="200000 -0300" channel="CentralTV.br"> <weekday days="seg" />  
  <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
  <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
 </programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="CentralTV.br"> <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Programa A Cadeia da Prece</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_17-1024x576.jpg" />
+ <desc lang="pt">Programa da Igreja Quadrangular de Curitiba (IEQ Ecoville) apresentado pelo Pastor Rogério Amorim.</desc>
+</programme>
 <!--20h-->
-<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,sex" />
- <title lang="pt">Milk News</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_3-1024x535.jpg" />
- <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
-</programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="qua" />
- <title lang="pt">Programa Bate Papo</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_4-1024x574.jpg" />
- <desc lang="pt">Semanalmente Mário Cesar trás entrevistas com empresários e personalidades da sociedade Paranaense. Não perca, Programa Bate Papo.</desc>
-</programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="qui" />
- <title lang="pt">Planeta Games</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_24-1024x619.jpg" />
- <desc lang="pt">.</desc>
+<programme start="200000 -0300" stop="210000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Central Animes</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/11/and-Retro-1280x720.png" />
+ <desc lang="pt">Bem-vindo à vibrante e emocionante seção de Animes da Rede CentralTV Brasil, onde mergulhamos em um mundo repleto de aventura, emoção e narrativas cativantes. Prepare-se para embarcar em jornadas inesquecíveis, explorando mundos fantásticos, personagens cativantes e histórias que transcendem gerações.</desc>
 </programme>
 <programme start="210000 -0300" stop="223000 -0300" channel="CentralTV.br"> <weekday days="sex" />
  <title lang="pt">Programa Altas Graças - Ao Vivo</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1024x576.jpg" />
@@ -819,9 +826,13 @@
  <desc lang="pt">.</desc>
 </programme>
 
-<programme start="223000 -0300" stop="233000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Uma Odisseia Coreana</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/10/Design-sem-nome-2-1024x576.png" />
- <desc lang="pt">Um ser mítico luta para se tornar invencível, mas seu plano dá errado quando ele se vê nas mãos de uma garota capaz de ver criaturas sobrenaturais.</desc>
+<programme start="223000 -0300" stop="233000 -0300" channel="CentralTV.br"> <weekday days="seg,ter,qua,qui" />
+ <title lang="pt">Força de Elite</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/12/300427234_187530513649146_2980102904672444237_n.jpg" />
+ <desc lang="pt">Quatro policiais experientes são transferidos para uma delegacia na periferia da cidade. O que parecia um rebaixamento acabou formando a principal Força de Elite da polícia.</desc>
+</programme>
+<programme start="223000 -0300" stop="233000 -0300" channel="CentralTV.br"> <weekday days="sex" />
+ <title lang="pt">Família Zoreia</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
+ <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
 </programme>
 <!--23h-->
 <programme start="233000 -0300" stop="r000000 -0300" channel="CentralTV.br"> <weekday days="seg" />
@@ -2280,6 +2291,25 @@
 <programme start="120000 -0300" stop="r000000 -0300" channel="rbctv.br"> <weekday days="sab,dom" />
  <title lang="pt">Programação RBC</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">Filmes Variados</desc>
+</programme>
+
+
+ <!-- Programas RDC TV--> <!--Seg a Sex-->
+<programme start="093000 -0300" stop="103000 -0300" channel="RDCTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Manhã RDC</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://rdctv.com.br/wp-content/uploads/2022/04/Site_manha%CC%83RDC-Burd.jpg" />
+ <desc lang="pt">o Manhã RDC traz entrevistas com especialistas e entidades de diversas áreas, abordando os principais assuntos do dia. Além da equipe no estúdio, o programa também conta com a reportagem percorrendo as ruas apurando os fatos e atualizando as notícias.</desc>
+</programme>
+<programme start="103000 -0300" stop="120000 -0300" channel="RDCTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Pode Chegar</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://rdctv.com.br/wp-content/uploads/2021/08/Pode-Chegar-Site.png" />
+ <desc lang="pt">Pode Chegar, sempre trazendo novidades sobre moda, famosos, universo holístico e entusiasmo.</desc>
+</programme>
+<programme start="120000 -0300" stop="150000 -0300" channel="RDCTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">RDC Esportes</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://rdctv.com.br/wp-content/uploads/2021/08/Pode-Chegar-Site.png" />
+ <desc lang="pt">Pode Chegar, sempre trazendo novidades sobre moda, famosos, universo holístico e entusiasmo.</desc>
+</programme>
+<programme start="150000 -0300" stop="183000 -0300" channel="RDCTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Gourmets na TV</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://rdctv.com.br/wp-content/uploads/2021/08/Pode-Chegar-Site.png" />
+ <desc lang="pt">Pode Chegar, sempre trazendo novidades sobre moda, famosos, universo holístico e entusiasmo.</desc>
 </programme>
 
    
