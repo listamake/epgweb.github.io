@@ -433,7 +433,7 @@
  <title lang="pt">Produção Indepedente</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="070000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="093000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
@@ -441,6 +441,19 @@
  <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
  <desc lang="pt">Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
 </programme>
+<programme start="100000 -0300" stop="103000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Aoashi</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/270814875/s640/aoashi/aoashi" />
+ <desc lang="pt">Ashito Aoi é um adolescente que mora no interior do Japão e é o artilheiro de um time de várzea.</desc>
+</programme>
+<programme start="110000 -0300" stop="113000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Yuri!!! On ICE</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://images.justwatch.com/backdrop/11652527/s640/yuri-on-ice" />
+ <desc lang="pt">Yuri Katsuki carregava a esperança de todo o Japão no Grande Prêmio de Patinação Artística, mas sofreu uma derrota esmagadora nas finais.</desc>
+</programme>
+<programme start="113000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Salaryman’s Club</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/266862639/s640/salarymans-club/salarymans-club" />
+ <desc lang="pt">Expulso de seu time, Makoto encontra uma nova chance de brilhar nas quadras de badminton... Tornando-se um assalariado.</desc>
+</programme>
+
 <programme start="120000 -0300" stop="123000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Comando Estelar: Flashman</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/202380194/s640/temporada-1/temporada-1" />
  <desc lang="pt">A história segue cinco jovens terrestres que foram sequestrados por alienígenas e treinados para se tornarem guerreiros Flashman, combatendo uma ameaça cósmica. Com trajes coloridos e robôs gigantes, a equipe enfrenta inimigos intergalácticos enquanto busca reencontrar suas famílias na Terra.</desc>
