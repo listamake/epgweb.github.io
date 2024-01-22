@@ -398,37 +398,61 @@
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
 <programme start="004000 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
- <title lang="pt">Samurai Champloo</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
+ <title lang="pt">Samurai Champloo</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://images.justwatch.com/backdrop/97872143/s640/samurai-champloo" />
  <desc lang="pt">Mugen é um guerreiro feroz e animalista com um estilo de luta inspirado em break-dancing. Jin é um samurai ronin que vaga sozinho pelo campo. Eles podem não ser amigos, mas seus caminhos continuamente se cruzam. E quando a desajeitada garçonete Fuu os tira de apuros com o magistrado local, concordam em acompanhá-la em sua busca pelo samurai que cheira a girassóis.</desc>
 </programme>
 <programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
- <title lang="pt">Paranoia Agent</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://easternminute.com/wp-content/uploads/Paranoia-Agent-678x381.png" />
- <desc lang="pt">De Satoshi Kon, o lendário diretor de Perfect Blue and Paprika, chega um thriller psicológico sombrio e misterioso. Cidadãos em Musashino estão sendo assaltados e aterrorizados, e dois detetives devem descobrir o mistério do Garoto do Taco.</desc>
+ <title lang="pt">Serial Experiments Lain</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/91371064/s640/serial-experiments-lain/serial-experiments-lain" />
+ <desc lang="pt">A série se foca em Lain Iwakura, uma adolescente japonesa moradora dos subúrbios e sua introdução à Wired, uma rede de comunicação global similar à internet. Lain mora com sua família de classe média, que consiste em sua inexpressiva irmã mais velha Mika, sua fria mãe, e seu pai obcecado por computadores.</desc>
 </programme>
 <programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
- <title lang="pt">Dororo</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://1.bp.blogspot.com/-QDrFmQp2pVs/X2jwClQAmEI/AAAAAAAAgsE/lXElWIZfnIA6rd5COczxTycBwFGKxe5xwCNcBGAsYHQ/w1200-h630-p-k-no-nu/resenha-dororo-anime.jpg" />
- <desc lang="pt">A terra do ganancioso senhor samurai Daigo Kagemitsu está morrendo, e ele faria qualquer coisa pelo poder, até mesmo renunciar a Buda e fazer um pacto com os demônios. Suas orações são respondidas por 12 demônios que lhe concedem o poder que ele deseja.</desc>
+ <title lang="pt">Hellsing</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/149275779/s640/herushingu-aruteimetsuto/herushingu-aruteimetsuto" />
+ <desc lang="pt">O vampiro Arucard e sua serva, Seras Victoria, protegem o Império Britânico de ghouls e freaks satânicos. Juntos, eles caçam as sombras como uma sinistra força do bem... e, essa noite, as ruas da Inglaterra fluirão com o sangue de sua presa maligna.</desc>
 </programme> 
-<programme start="020000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
- <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
+<programme start="020000 -0300" stop="030000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+ <title lang="pt">O Primeiro Amor</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://itslizzie.space/wp-content/uploads/2019/05/primeira-vez-amor-serie-netflix-.jpg" />
+ <desc lang="pt">Jovens, livres e apaixonados. Quando adolescentes, eles viviam sem preocupações. Mas na vida adulta, parece que algo importante se perdeu.</desc>
+</programme> 
+<programme start="030000 -0300" stop="040000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+ <title lang="pt">O Tempo Traz Você Pra Mim</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://novaerageek.com.br/wp-content/uploads/2023/09/o-tempo-traz-voce-pra-mim-k-drama.webp" />
+ <desc lang="pt">De luto, uma mulher volta magicamente para o ano de 1998 e conhece um homem que se parece muito com o antigo amor de sua vida.</desc>
+</programme> 
+<programme start="040000 -0300" stop="043000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+ <title lang="pt">Dois Homens E Meio</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/8607461/s640/two-and-a-half-men/two-and-a-half-men" />
+ <desc lang="pt">A série que acompanha a vida de dois irmãos, Charlie e Alan Harper, junto com o filho de Alan, Jake. A trama gira em torno das situações hilárias e complicadas que surgem quando o solteirão Charlie permite que seu irmão divorciado e seu sobrinho morem em sua casa. A série aborda temas como relacionamentos, família e humor adulto.</desc>
+</programme> 
+<programme start="043000 -0300" stop="050000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Como Eu Conheci Sua Mãe</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/178160052/s480/how-i-met-your-mother/how-i-met-your-mother" />
+ <desc lang="pt">Ted Mosby se senta com seus filhos para contar a história de como conheceu a mãe deles. A história é contada através das memórias de seus amigos Marshall, Lily, Robin e Barney Stinson.</desc>
+</programme>
+<programme start="050000 -0300" stop="053000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Três É Demais</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://cdn.fstatic.com/public/articles/files/2014/08/c649dbb1-e042-4836-8516-ae97b1571422.jpg" />
+ <desc lang="pt">Esta é uma história sobre o locutor esportivo que virou apresentador de talk show matinal Danny Tanner e suas filhas, DJ (Donna Jo), Stephanie e Michelle. Antes do show começar, sua esposa Pam, é morta por um motorista bêbado, então ele precisa de ajuda para criar Suas filhas.</desc>
+</programme>
+<programme start="053000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
+ <title lang="pt">Produção Indepedente</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 <programme start="070000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
+<programme start="093000 -0300" stop="100000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
+ <desc lang="pt">Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
+</programme>
 <programme start="120000 -0300" stop="123000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Jiraya – O Incrível Ninja</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://images.justwatch.com/backdrop/265182310/s640/giraya-ninja/giraya-ninja" />
- <desc lang="pt">Jiraiya é um guerreiro ninja que foi treinado pelo seu pai adotivo Tetsuzan Yamaji, um sábio mestre das artes marciais, para ser seu sucessor na Família de Feiticeiros Togakure. Seu principal desafio é enfrentar um malígno clã da Família de Feiticeiros, que procura o Pako, um antigo mapa para um misterioso tesouro.</desc>
+ <title lang="pt">Comando Estelar: Flashman</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/202380194/s640/temporada-1/temporada-1" />
+ <desc lang="pt">A história segue cinco jovens terrestres que foram sequestrados por alienígenas e treinados para se tornarem guerreiros Flashman, combatendo uma ameaça cósmica. Com trajes coloridos e robôs gigantes, a equipe enfrenta inimigos intergalácticos enquanto busca reencontrar suas famílias na Terra.</desc>
 </programme>
 <programme start="123000 -0300" stop="130000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">O Fantástico Jaspion</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/257472095/s640/o-fantastico-jaspion/o-fantastico-jaspion" />
+ <title lang="pt">O Fantástico Jaspion</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/257472095/s640/o-fantastico-jaspion/o-fantastico-jaspion" />
  <desc lang="pt">No planeta Edin, um profeta encontra um garoto humano que sobreviveu à queda de uma nave espacial, acidente no qual seus pais morreram. O garoto é adotado e recebe o nome de Jaspion.</desc>
 </programme>
 <programme start="130000 -0300" stop="133000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">The Middle: Uma Família Perdida No Meio Do Nada</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/302907544/s640/uma-familia-perdida-no-meio-do-nada/uma-familia-perdida-no-meio-do-nada" />
- <desc lang="pt">Seguindo uma mulher chamada Frankie e sua família turbulenta, os Hecks. Seu marido, Mike, sua filha, Sue, e seus dois filhos, Axl e Brick, embarcam no que você pode chamar de aventuras familiares enquanto exploram a vida e seu significado.</desc>
-</programme>
+ <title lang="pt">Dois Homens E Meio</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/8607461/s640/two-and-a-half-men/two-and-a-half-men" />
+ <desc lang="pt">A série que acompanha a vida de dois irmãos, Charlie e Alan Harper, junto com o filho de Alan, Jake. A trama gira em torno das situações hilárias e complicadas que surgem quando o solteirão Charlie permite que seu irmão divorciado e seu sobrinho morem em sua casa. A série aborda temas como relacionamentos, família e humor adulto.</desc>
+</programme> 
 <programme start="133000 -0300" stop="140000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Como Eu Conheci Sua Mãe</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/178160052/s480/how-i-met-your-mother/how-i-met-your-mother" />
  <desc lang="pt">Ted Mosby se senta com seus filhos para contar a história de como conheceu a mãe deles. A história é contada através das memórias de seus amigos Marshall, Lily, Robin e Barney Stinson.</desc>
@@ -438,56 +462,52 @@
  <desc lang="pt">Esta é uma história sobre o locutor esportivo que virou apresentador de talk show matinal Danny Tanner e suas filhas, DJ (Donna Jo), Stephanie e Michelle. Antes do show começar, sua esposa Pam, é morta por um motorista bêbado, então ele precisa de ajuda para criar Suas filhas.</desc>
 </programme>
 <programme start="143000 -0300" stop="150000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Laid-Back Camp (Segunda Temporada)</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.jbox.com.br/wp/wp-content/uploads/2022/01/yuru-camp-t2-destacada.jpg" />
- <desc lang="pt">Nadeshiko, uma colegial que se mudou para Yamanashi, decide ir visitar o famoso Monte Fuji das notas de mil ienes. Contudo, enquanto pedalava para Motosu, ela acaba desmaiando de cansaço e acorda à noite num lugar desconhecido, sem saber como voltar pra casa. Felizmente, ela é salva por Rin, uma garota que está acampando sozinha - e assim começa a história das garotas que adoram a vida a céu aberto.</desc>
+ <title lang="pt">Mais Que Casados, Menos Que Amantes</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
+ <desc lang="pt">Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
 </programme>
 <programme start="150000 -0300" stop="153000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">I've Been Killing Slimes For 300 Years And Maxed Out My Level</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/210184236/s640/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level" />
- <desc lang="pt">Uma comédia caseira sobre uma garota poderosa que quer evitar a fadiga! Depois de morrer de estafa no mundo real, eu reencarnei como uma bruxa imortal, e passei 300 anos desfrutando a vida boa... Até que acabei batendo no nível 99! Tantos anos matando slimes pra pagar as contas me deram bastante XP... Mas os rumores se espalharam, e agora começam a surgir aventureiros curiosos, dragões afrontosos e até uma garota-monstro que me chama de mãe!</desc>
+ <title lang="pt">The Millionaire Detective – Balance: UNLIMITED</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/166370924/s640/fu-hao-xing-shi-balance-unlimited/fu-hao-xing-shi-balance-unlimited" />
+ <desc lang="pt">Talentosos detetives da FTPCM, Daisuke e Haru, podem resolver qualquer mistério que lhes incubirem, a não ser que tenham um ao outro como parceiro.</desc>
 </programme>
 <programme start="153000 -0300" stop="160000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Lycoris Recoil</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/289201440/s640/lycoris-recoil/lycoris-recoil" />
- <desc lang="pt">Se há paz no mundo, é graças à Lycoris, uma organização secreta de combate ao crime composta apenas por garotas.</desc>
-</programme>
-<programme start="160000 -0300" stop="163000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Horimiya</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/244252607/s640/temporada-1/temporada-1" />
+ <title lang="pt">Horimiya: As Peças Perdidas</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/244252607/s640/temporada-1/temporada-1" />
  <desc lang="pt">Quando a popular Hori e o melancólico Miyamura se encontram, eles revelam seus lados ocultos. Isso pode ser o começo de algo novo?</desc>
 </programme>
-<programme start="163000 -0300" stop="173000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Nosso Eterno Verão</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nJ98JOaTk8qFpZ4o8otSA2nz1wE_x9Kk03EZJKEDq3Z2vTc15W3jGIRfOovtFRvGJmfyDlFJxQKgFQl65oK_wpgJXC-LOjRI-xDGmefDC97Xv32isAAGj_gmwMTik64xXABj1wh-VeLKj6DFCkGA_yRLM3binvaIa79xXvvxHW5owON-wbEY1uPEHQ/s16000/M-1445AASSEEE8.jpg" />
- <desc lang="pt">Anos após filmarem um documentário viral na escola, dois ex-namorados voltam para a frente das câmeras e talvez, para a vida um do outro.</desc>
-</programme>
-<programme start="173000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
- <desc lang="pt">Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
-</programme>
+<programme start="160000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+ <title lang="pt">O Primeiro Amor</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://itslizzie.space/wp-content/uploads/2019/05/primeira-vez-amor-serie-netflix-.jpg" />
+ <desc lang="pt">Jovens, livres e apaixonados. Quando adolescentes, eles viviam sem preocupações. Mas na vida adulta, parece que algo importante se perdeu.</desc>
+</programme> 
+<programme start="170000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+ <title lang="pt">O Tempo Traz Você Pra Mim</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://novaerageek.com.br/wp-content/uploads/2023/09/o-tempo-traz-voce-pra-mim-k-drama.webp" />
+ <desc lang="pt">De luto, uma mulher volta magicamente para o ano de 1998 e conhece um homem que se parece muito com o antigo amor de sua vida.</desc>
+</programme> 
 <programme start="180000 -0300" stop="183000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Love Hina</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
- <desc lang="pt">Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
+ <title lang="pt">DNA²</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/244456235/s640/dna2/dna2" />
+ <desc lang="pt">O anime acontece em um futuro onde a superpopulação é um problema. Um jovem chamado Junta, cujo DNA possui o "Mega-Playboy", é enviado de volta ao passado para evitar a existência desse playboy irresistível, mas as coisas não saem como planejado, resultando em uma história de comédia romântica com reviravoltas inesperadas.</desc>
 </programme>
 <programme start="183000 -0300" stop="190000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">El Hazard</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://images.justwatch.com/backdrop/248863068/s640/temporada-1/temporada-1" />
- <desc lang="pt">Makoto sempre ofusca Jinnai sem tentar, o que só agrava a rivalidade delirante que Jinnai inventou em sua própria mente.</desc>
+ <title lang="pt">Tenchi Universe</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/56049725/s640/tenchi-universe/tenchi-universe" />
+ <desc lang="pt">Segue as aventuras de Tenchi Masaki e suas interações com um grupo de mulheres cósmicas, incluindo a princesa alienígena Ayeka e a pirata espacial Ryoko. A trama envolve elementos de comédia, romance e ação enquanto Tenchi equilibra sua vida normal na Terra com os desafios intergalácticos que surgem.</desc>
 </programme>
 <programme start="190000 -0300" stop="193000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Ranma ½ (Segunda Parte)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcV4FF-wLr0q_EXErhjbBEpMtN5bDtyUHsAAyhqcLokvIM50BO-n5ckAJS9AlZG0JK_gYtnZK_A647mwGklslrbKpROL59vGoMPqPjE9pssk5gAMkd1QjrFURyWKWFIhgN-Tn8ITs8NmbtN90R6jRRyQDS7sI3aE_-zH1n1TjIJtgVC4PFJw7RrRRhTg/s960/Ranma.jpg" />
- <desc lang="pt">Ranma Saotome é um jovem estudante de artes marciais. Certo dia, ele e seu pai partem para uma jornada de treinamento na China. Para o azar deles, ambos caíram em fontes estranhas durante o treinamento.</desc>
+ <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+ <desc lang="pt">Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
 </programme>
 <programme start="193000 -0300" stop="200000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
  <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
 </programme>
 <programme start="200000 -0300" stop="203000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Toradora!</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/272736685/s640/toradora/toradora" />
- <desc lang="pt">Ryuji é um rapaz que vive sendo mal interpretado por causa do seu olhar ameaçador. Todos pensam que ele é um delinquente juvenil e que a qualquer momento vai atacar alguém. É primavera e em seu primeiro dia no segundo ano no ensino médio ele encontra uma pequena garota.</desc>
+ <title lang="pt">Kaguya-Sama: O Amor É Uma Guerra</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/192741551/s640/kaguyayang-hagao-rasetai-tian-cai-tachinolian-ai-tou-noy-zhan/kaguyayang-hagao-rasetai-tian-cai-tachinolian-ai-tou-noy-zhan" />
+ <desc lang="pt">Veio de boa família? Sim! Tem uma personalidade promissora? Sim! Todos os jovens de elite com futuros brilhantes acabam indo parar na Academia Shuchiin.</desc>
 </programme>
 <programme start="203000 -0300" stop="210000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Life Lessons With Uramichi Oniisan</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248552018/s640/uramichioxiong-san/uramichioxiong-san" />
- <desc lang="pt">Ser um adulto é difícil. Para Uramichi Omota, de 31 anos, essa verdade deprimente pesa. Na TV, ele é um animado instrutor de exercícios em um programa infantil, mas às vezes, ele não consegue segurar seus comentários sarcásticos para si.</desc>
+ <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/204004750/s640/wen-hao-sutoreidotsugusu/wen-hao-sutoreidotsugusu" />
+ <desc lang="pt">Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
 </programme>
 <programme start="210000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2023/07/legiao_8pzv4yqUaZ3A.jpg.webp" />
- <desc lang="pt">Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
+ <title lang="pt">Cowboy Bebop</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/198463366/s640/cowboy-bebop-tengoku-no-tobira/cowboy-bebop-tengoku-no-tobira" />
+ <desc lang="pt">O advento dos portais hiperespaciais, que permitem a viagem entre planetas em tempo hábil, deram início a uma Era Espacial no Sistema Solar. Spike, um ex-mafioso, e Jet, um ex-policial, são "cowboys", caçadores de recomepensas que voam pelo universo em busca de cabeças a prêmio.</desc>
 </programme>
 <programme start="213000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://japan-geeks.com/wp-content/uploads/2022/03/FMNUfRVaUAAVfGq-768x436.jpeg" />
@@ -498,8 +518,8 @@
  <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
 <programme start="221000 -0300" stop="224000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
- <desc lang="pt">Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
+ <title lang="pt">Rurouni Kenshin</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/311033133/s640/rurouni-kenshin/rurouni-kenshin" />
+ <desc lang="pt">Durante a agitação da Era Bakumatsu, havia um guerreiro Imperialista temido como o "Battousai, o Rewtalhador". No entanto, com a chegada da nova era, o Battosai desapareceu dos olhos do público, deixando para trás apenas sua lenda como o mais forte guerreiro Revolucionário.</desc>
 </programme>
 <programme start="224000 -0300" stop="231000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
