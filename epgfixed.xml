@@ -433,9 +433,13 @@
  <title lang="pt">Produção Indepedente</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="070000 -0300" stop="093000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="090000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="090000 -0300" stop="093000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+ <desc lang="pt">Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
 </programme>
 <programme start="093000 -0300" stop="100000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
@@ -445,6 +449,10 @@
  <title lang="pt">Aoashi</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/270814875/s640/aoashi/aoashi" />
  <desc lang="pt">Ashito Aoi é um adolescente que mora no interior do Japão e é o artilheiro de um time de várzea.</desc>
 </programme>
+<programme start="103000 -0300" stop="110000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">The God Of High School: O Deus Do Colegial</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://images.justwatch.com/backdrop/193558254/s640/the-god-of-high-school" />
+ <desc lang="pt">Jin Mori diz a todos que é o colegial mais forte que existe. Sua vida muda quando é convidado a participar do "God of High School", um torneio que decidirá quem é o colegial mais forte de todos, e que garantirá ao vencedor a realização de qualquer desejo que ele tiver. </desc>
+</programme>
 <programme start="110000 -0300" stop="113000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Yuri!!! On ICE</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://images.justwatch.com/backdrop/11652527/s640/yuri-on-ice" />
  <desc lang="pt">Yuri Katsuki carregava a esperança de todo o Japão no Grande Prêmio de Patinação Artística, mas sofreu uma derrota esmagadora nas finais.</desc>
@@ -453,7 +461,6 @@
  <title lang="pt">Salaryman’s Club</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/266862639/s640/salarymans-club/salarymans-club" />
  <desc lang="pt">Expulso de seu time, Makoto encontra uma nova chance de brilhar nas quadras de badminton... Tornando-se um assalariado.</desc>
 </programme>
-
 <programme start="120000 -0300" stop="123000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Comando Estelar: Flashman</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/202380194/s640/temporada-1/temporada-1" />
  <desc lang="pt">A história segue cinco jovens terrestres que foram sequestrados por alienígenas e treinados para se tornarem guerreiros Flashman, combatendo uma ameaça cósmica. Com trajes coloridos e robôs gigantes, a equipe enfrenta inimigos intergalácticos enquanto busca reencontrar suas famílias na Terra.</desc>
@@ -507,7 +514,7 @@
  <desc lang="pt">Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
 </programme>
 <programme start="193000 -0300" stop="200000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+ <title lang="pt">Dr. Stone</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
  <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
 </programme>
 <programme start="200000 -0300" stop="203000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
