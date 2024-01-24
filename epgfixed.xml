@@ -388,39 +388,39 @@
    
  <!-- Programas Geekdot--> <!-- Semanal-->
 
-<programme start="000000 -0300" stop="001000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="000000 -0300" stop="001000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="001000 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="001000 -0300" stop="003000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Claymore</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/244478370/s640/temporada-1/temporada-1" />
  <desc lang="pt">Quando um demônio metamorfo com sede de carne humana, conhecido como "youma", chegam à vila de Raki, uma mulher solitária com olhos prateados entra na cidade com apenas uma espada nas costas. Ela é uma "Claymore", um ser fabricado, meio humana e meio "youma", com o único propósito de exterminar estes monstros.</desc>
 </programme>
-<programme start="003000 -0300" stop="004000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="003000 -0300" stop="004000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
  <desc lang="pt">A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
 </programme>
-<programme start="004000 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="004000 -0300" stop="010000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Samurai Champloo</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://images.justwatch.com/backdrop/97872143/s640/samurai-champloo" />
  <desc lang="pt">Mugen é um guerreiro feroz e animalista com um estilo de luta inspirado em break-dancing. Jin é um samurai ronin que vaga sozinho pelo campo. Eles podem não ser amigos, mas seus caminhos continuamente se cruzam. E quando a desajeitada garçonete Fuu os tira de apuros com o magistrado local, concordam em acompanhá-la em sua busca pelo samurai que cheira a girassóis.</desc>
 </programme>
-<programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="010000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Serial Experiments Lain</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/91371064/s640/serial-experiments-lain/serial-experiments-lain" />
  <desc lang="pt">A série se foca em Lain Iwakura, uma adolescente japonesa moradora dos subúrbios e sua introdução à Wired, uma rede de comunicação global similar à internet. Lain mora com sua família de classe média, que consiste em sua inexpressiva irmã mais velha Mika, sua fria mãe, e seu pai obcecado por computadores.</desc>
 </programme>
-<programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="013000 -0300" stop="020000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Hellsing</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/149275779/s640/herushingu-aruteimetsuto/herushingu-aruteimetsuto" />
  <desc lang="pt">O vampiro Arucard e sua serva, Seras Victoria, protegem o Império Britânico de ghouls e freaks satânicos. Juntos, eles caçam as sombras como uma sinistra força do bem... e, essa noite, as ruas da Inglaterra fluirão com o sangue de sua presa maligna.</desc>
 </programme> 
-<programme start="020000 -0300" stop="030000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="020000 -0300" stop="030000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">O Primeiro Amor</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://itslizzie.space/wp-content/uploads/2019/05/primeira-vez-amor-serie-netflix-.jpg" />
  <desc lang="pt">Jovens, livres e apaixonados. Quando adolescentes, eles viviam sem preocupações. Mas na vida adulta, parece que algo importante se perdeu.</desc>
 </programme> 
-<programme start="030000 -0300" stop="040000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="030000 -0300" stop="040000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">O Tempo Traz Você Pra Mim</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://novaerageek.com.br/wp-content/uploads/2023/09/o-tempo-traz-voce-pra-mim-k-drama.webp" />
  <desc lang="pt">De luto, uma mulher volta magicamente para o ano de 1998 e conhece um homem que se parece muito com o antigo amor de sua vida.</desc>
 </programme> 
-<programme start="040000 -0300" stop="043000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="040000 -0300" stop="043000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Dois Homens E Meio</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/8607461/s640/two-and-a-half-men/two-and-a-half-men" />
  <desc lang="pt">A série que acompanha a vida de dois irmãos, Charlie e Alan Harper, junto com o filho de Alan, Jake. A trama gira em torno das situações hilárias e complicadas que surgem quando o solteirão Charlie permite que seu irmão divorciado e seu sobrinho morem em sua casa. A série aborda temas como relacionamentos, família e humor adulto.</desc>
 </programme> 
@@ -432,9 +432,13 @@
  <title lang="pt">Três É Demais</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://cdn.fstatic.com/public/articles/files/2014/08/c649dbb1-e042-4836-8516-ae97b1571422.jpg" />
  <desc lang="pt">Esta é uma história sobre o locutor esportivo que virou apresentador de talk show matinal Danny Tanner e suas filhas, DJ (Donna Jo), Stephanie e Michelle. Antes do show começar, sua esposa Pam, é morta por um motorista bêbado, então ele precisa de ajuda para criar Suas filhas.</desc>
 </programme>
-<programme start="053000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex" />
+<programme start="053000 -0300" stop="060000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Produção Indepedente</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="060000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+ <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
 <programme start="070000 -0300" stop="090000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
@@ -496,11 +500,11 @@
  <title lang="pt">Horimiya: As Peças Perdidas</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/244252607/s640/temporada-1/temporada-1" />
  <desc lang="pt">Quando a popular Hori e o melancólico Miyamura se encontram, eles revelam seus lados ocultos. Isso pode ser o começo de algo novo?</desc>
 </programme>
-<programme start="160000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="160000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">O Primeiro Amor</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://itslizzie.space/wp-content/uploads/2019/05/primeira-vez-amor-serie-netflix-.jpg" />
  <desc lang="pt">Jovens, livres e apaixonados. Quando adolescentes, eles viviam sem preocupações. Mas na vida adulta, parece que algo importante se perdeu.</desc>
 </programme> 
-<programme start="170000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="ter,qua,qui,sex,sab" />
+<programme start="170000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">O Tempo Traz Você Pra Mim</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://novaerageek.com.br/wp-content/uploads/2023/09/o-tempo-traz-voce-pra-mim-k-drama.webp" />
  <desc lang="pt">De luto, uma mulher volta magicamente para o ano de 1998 e conhece um homem que se parece muito com o antigo amor de sua vida.</desc>
 </programme> 
@@ -540,15 +544,15 @@
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
  <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
-<programme start="221000 -0300" stop="224000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="221000 -0300" stop="223500 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Rurouni Kenshin</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/311033133/s640/rurouni-kenshin/rurouni-kenshin" />
  <desc lang="pt">Durante a agitação da Era Bakumatsu, havia um guerreiro Imperialista temido como o "Battousai, o Rewtalhador". No entanto, com a chegada da nova era, o Battosai desapareceu dos olhos do público, deixando para trás apenas sua lenda como o mais forte guerreiro Revolucionário.</desc>
 </programme>
-<programme start="224000 -0300" stop="231000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
- <desc lang="pt">O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
+<programme start="223500 -0300" stop="231500 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Classroom of the Elite</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/10151754/s640/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he" />
+ <desc lang="pt">A Koudo Ikusei Senior High School é uma escola de prestígio líder com instalações de última geração, onde quase 100% dos alunos vão para a universidade ou encontram emprego.</desc>
 </programme>
-<programme start="231000 -0300" stop="233000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="231500 -0300" stop="233000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
  <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
