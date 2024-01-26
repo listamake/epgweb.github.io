@@ -210,6 +210,40 @@
  <title lang="pt">Programação Antena 1</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://yt3.googleusercontent.com/ytc/AOPolaTimZvqjGPrAiE_jHhrPgfum_jeGyql--lhsVh64Rs=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
 </programme>
+  <!-- Programas Astral TV--> <!-- Seg a Sex-->
+
+<programme start="000000 -0300" stop="093000 -0300" channel="AstralTV.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Astral TV</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
+ <desc lang="pt">A Astral TV, primeira emissora a dar voz para místicos, terapeutas, esotéricos, astrólogos e comunicadores de bem vai aumentar seu alcance.</desc>
+</programme>
+<programme start="093000 -0300" stop="110000 -0300" channel="AstralTV.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Insight</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
+ <desc lang="pt">No programa Insight o Monge Daiko sempre traz reflexões para o nosso dia a dia. Ele também nos convida ao autoconhecimento através da prática da meditação.</desc>
+</programme>
+<programme start="110000 -0300" stop="130000 -0300" channel="AstralTV.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Bom Astral</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
+ <desc lang="pt">Bate-papos informativos com temática de espiritualidade, autoajuda, bem estar, autoconhecimento, terapias holísticas, dentre outras ferramentas que irão colaborar com o seu desenvolvimento pessoal.</desc>
+</programme>
+<programme start="130000 -0300" stop="133000 -0300" channel="AstralTV.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Terapias e Saúde</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
+ <desc lang="pt">Luciá Kuma traz dicas e conhecimento sobre terapias para ajudar a manter a harmonia da saúde física, mental e espiritual.</desc>
+</programme>
+<programme start="133000 -0300" stop="150000 -0300" channel="AstralTV.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Cozinha Encantada</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
+ <desc lang="pt">Aqui você aprende várias dicas para seu dia a dia. Receitas, encantamentos, tudo para harmonizar seu lar!</desc>
+</programme>
+<programme start="150000 -0300" stop="151500 -0300" channel="AstralTV.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Xícara da Bruxa</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
+ <desc lang="pt">Enquanto tomamos um delicioso chá da tarde aprendemos mais sobre a magia das ervas e conversamos sobre diversos assuntos envolvendo feitiços, poções e tudo sobre o universo encantado da bruxaria natural!</desc>
+</programme>
+<programme start="151500 -0300" stop="153000 -0300" channel="AstralTV.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Dicas da Benzedeira</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
+ <desc lang="pt">Através de uma cultura perdida pelo tempo, o benzimento, ativaremos as lembranças da infância e a conexão com a nossa ancestralidade. </desc>
+</programme>
+<programme start="153000 -0300" stop="r000000 -0300" channel="AstralTV.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Astral TV</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
+ <desc lang="pt">A Astral TV, primeira emissora a dar voz para místicos, terapeutas, esotéricos, astrólogos e comunicadores de bem vai aumentar seu alcance.</desc>
+</programme>
    
  <!-- Programas BSTV--> <!-- Seg a Sex-->
 
@@ -424,19 +458,19 @@
  <title lang="pt">Dois Homens E Meio</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/8607461/s640/two-and-a-half-men/two-and-a-half-men" />
  <desc lang="pt">A série que acompanha a vida de dois irmãos, Charlie e Alan Harper, junto com o filho de Alan, Jake. A trama gira em torno das situações hilárias e complicadas que surgem quando o solteirão Charlie permite que seu irmão divorciado e seu sobrinho morem em sua casa. A série aborda temas como relacionamentos, família e humor adulto.</desc>
 </programme> 
-<programme start="043000 -0300" stop="050000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="043000 -0300" stop="050000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Como Eu Conheci Sua Mãe</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/178160052/s480/how-i-met-your-mother/how-i-met-your-mother" />
  <desc lang="pt">Ted Mosby se senta com seus filhos para contar a história de como conheceu a mãe deles. A história é contada através das memórias de seus amigos Marshall, Lily, Robin e Barney Stinson.</desc>
 </programme>
-<programme start="050000 -0300" stop="053000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="050000 -0300" stop="053000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Três É Demais</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://cdn.fstatic.com/public/articles/files/2014/08/c649dbb1-e042-4836-8516-ae97b1571422.jpg" />
  <desc lang="pt">Esta é uma história sobre o locutor esportivo que virou apresentador de talk show matinal Danny Tanner e suas filhas, DJ (Donna Jo), Stephanie e Michelle. Antes do show começar, sua esposa Pam, é morta por um motorista bêbado, então ele precisa de ajuda para criar Suas filhas.</desc>
 </programme>
-<programme start="053000 -0300" stop="060000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="053000 -0300" stop="060000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Produção Indepedente</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
- <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+ <desc lang="pt">É Anime na veia!.</desc>
 </programme>
-<programme start="060000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="060000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
  <desc lang="pt">Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
 </programme>
@@ -521,7 +555,7 @@
  <desc lang="pt">Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
 </programme>
 <programme start="193000 -0300" stop="200000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Dr. Stone</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+ <title lang="pt">Dr. Stone: Uma Nova Era</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
  <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
 </programme>
 <programme start="200000 -0300" stop="203000 -0300" channel="anitv.br"> <weekday days="seg,ter,qua,qui,sex" />
@@ -561,73 +595,79 @@
  <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
 </programme>
  <!-- Programas Geekdot--> <!-- Sab-->
-<programme start="020000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
- <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-</programme>
-<programme start="070000 -0300" stop="080000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Budega Do Maguila</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://apoiocoletivo.com/public/campaigns/large/74541633211598izlwghxly0tipwcd4vdzhmjcos4bqzb8ket1lqao.webp" />
- <desc lang="pt">Brega, forró, Jovem Guarda, lambada, sertanejo e o que o ouvinte pedir… Toda semana, uma sequência musical escolhida a dedo, dando espaço também para o “lado B” e artistas nem tão conhecidos…</desc>
-</programme>
-<programme start="080000 -0300" stop="103000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Maratona #FDS: Laid-Back Camp (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/LAIDBACK_img_site-200x144.png" />
- <desc lang="pt">Nadeshiko, uma colegial que se mudou para Yamanashi, decide ir visitar o famoso Monte Fuji das notas de mil ienes. Contudo, enquanto pedalava para Motosu, ela acaba desmaiando de cansaço e acorda à noite num lugar desconhecido, sem saber como voltar pra casa.</desc>
-</programme>
-<programme start="103000 -0300" stop="130000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Maratona #FDS: I've Been Killing Slimes For 300 Years And Maxed Out My Level</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/SLIME_img_site-200x144.png" />
- <desc lang="pt">Uma comédia caseira sobre uma garota poderosa que quer evitar a fadiga! Depois de morrer de estafa no mundo real, eu reencarnei como uma bruxa imortal, e passei 300 anos desfrutando a vida boa... Até que acabei batendo no nível 99! Tantos anos matando slimes pra pagar as contas me deram bastante XP...</desc>
-</programme>
-<programme start="130000 -0300" stop="153000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Maratona #FDS: Horimiya</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/hitsite.com.br/wp-content/uploads/2020/11/Horimiya.jpg" />
- <desc lang="pt">Quando a popular Hori e o melancólico Miyamura se encontram, eles revelam seus lados ocultos. Isso pode ser o começo de algo novo?</desc>
-</programme>
-<programme start="153000 -0300" stop="180000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Maratona #FDS: Lycoris Recoil</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/Lycoris-Recoil-image-anime-03.jpg" />
- <desc lang="pt">Se há paz no mundo, é graças à Lycoris, uma organização secreta de combate ao crime composta apenas por garotas.</desc>
-</programme>
-<programme start="180000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Especial Dia E: Yu Yu Hakusho</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
- <desc lang="pt">Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
-</programme>
-<programme start="213000 -0300" stop="230000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Maratona #FDS: Love Hina</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
- <desc lang="pt">Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
-</programme>
-<programme start="230000 -0300" stop="230000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">MangáMotion</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/09/MANGA_img_site-200x144.png" />
- <desc lang="pt">Manga em animação</desc>
-</programme>
-<programme start="230000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="sab" />
- <title lang="pt">Maratona #FDS: Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
- <desc lang="pt">O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
-</programme>
- <!-- Programas Geekdot--> <!--dom-->
-<programme start="000000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">Maratona #FDS: Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
- <desc lang="pt">O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
-</programme>
-<programme start="013000 -0300" stop="040000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">Maratona #FDS: More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
+
+<programme start="070000 -0300" stop="093000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Mais Que Casados, Menos Que Amantes</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
  <desc lang="pt">Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
 </programme>
-<programme start="040000 -0300" stop="063000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">Maratona #FDS: Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
- <desc lang="pt">Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
+<programme start="093000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: The Millionaire Detective – Balance: UNLIMITED</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/166370924/s640/fu-hao-xing-shi-balance-unlimited/fu-hao-xing-shi-balance-unlimited" />
+ <desc lang="pt">Talentosos detetives da FTPCM, Daisuke e Haru, podem resolver qualquer mistério que lhes incubirem, a não ser que tenham um ao outro como parceiro.</desc>
 </programme>
+<programme start="120000 -0300" stop="143000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Aoashi</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/270814875/s640/aoashi/aoashi" />
+ <desc lang="pt">Ashito Aoi é um adolescente que mora no interior do Japão e é o artilheiro de um time de várzea.</desc>
+</programme>
+<programme start="143000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Horimiya: As Peças Perdidas</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/244252607/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Quando a popular Hori e o melancólico Miyamura se encontram, eles revelam seus lados ocultos. Isso pode ser o começo de algo novo?</desc>
+</programme>
+<programme start="170000 -0300" stop="193000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: DNA²</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/244456235/s640/dna2/dna2" />
+ <desc lang="pt">O anime acontece em um futuro onde a superpopulação é um problema. Um jovem chamado Junta, cujo DNA possui o "Mega-Playboy", é enviado de volta ao passado para evitar a existência desse playboy irresistível, mas as coisas não saem como planejado, resultando em uma história de comédia romântica com reviravoltas inesperadas.</desc>
+</programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Futurama</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
+ <desc lang="pt">Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
+</programme>
+<programme start="200000 -0300" stop="213000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="213000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Haikyu!!</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://images.justwatch.com/backdrop/245125507/s640/haikyuu-movie-4-battle-of-concepts" />
+ <desc lang="pt">Depois de perderem para o Aoba Jousai no intercolegial, o time de voleibol do Colégio Karasuno está se empenhando ao máximo rumo ao torneio de primavera. Por isso, foi decidido que eles irão a Tóquio para um treinamento intensivo de amistosos contra Nekoma e demais times fortes da região de Touhoku.</desc>
+</programme>
+<programme start="220000 -0300" stop="223000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Mob Psycho 100</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/103215657/s640/mob-psycho-100/mob-psycho-100" />
+ <desc lang="pt">Kageyama Shigeo, o "Mob", é um garoto que não leva muito jeito pra se expressar, mas que é um poderoso telepata. Decidido a levar uma vida normal, Mob suprime seus poderes extrasensoriais, mas quando suas emoções atingem um pico de 100%, algo terrível lhe acontece!</desc>
+</programme>
+<programme start="223000 -0300" stop="230000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
+ <desc lang="pt">Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="sab" />
+ <title lang="pt">Maratona #FDS: Classroom of the Elite</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/10151754/s640/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he" />
+ <desc lang="pt">A Koudo Ikusei Senior High School é uma escola de prestígio líder com instalações de última geração, onde quase 100% dos alunos vão para a universidade ou encontram emprego.</desc>
+</programme>
+
+ <!-- Programas Geekdot--> <!--dom-->
+<programme start="000000 -0300" stop="013000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Classroom of the Elite</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/10151754/s640/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he" />
+ <desc lang="pt">A Koudo Ikusei Senior High School é uma escola de prestígio líder com instalações de última geração, onde quase 100% dos alunos vão para a universidade ou encontram emprego.</desc>
+</programme>
+<programme start="013000 -0300" stop="040000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Serial Experiments Lain</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/91371064/s640/serial-experiments-lain/serial-experiments-lain" />
+ <desc lang="pt">A série se foca em Lain Iwakura, uma adolescente japonesa moradora dos subúrbios e sua introdução à Wired, uma rede de comunicação global similar à internet. Lain mora com sua família de classe média, que consiste em sua inexpressiva irmã mais velha Mika, sua fria mãe, e seu pai obcecado por computadores.</desc>
+</programme>
+<programme start="040000 -0300" stop="063000 -0300" channel="anitv.br"> <weekday days="dom" />
+ <title lang="pt">Maratona #FDS: Hellsing</title> <rating system="CLASSIND"><value>18</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/149275779/s640/herushingu-aruteimetsuto/herushingu-aruteimetsuto" />
+ <desc lang="pt">O vampiro Arucard e sua serva, Seras Victoria, protegem o Império Britânico de ghouls e freaks satânicos. Juntos, eles caçam as sombras como uma sinistra força do bem... e, essa noite, as ruas da Inglaterra fluirão com o sangue de sua presa maligna.</desc>
+</programme> 
 <programme start="063000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="dom" />
  <title lang="pt">MangáMotion</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/09/MANGA_img_site-200x144.png" />
  <desc lang="pt">Manga em animação</desc>
 </programme>
 <programme start="070000 -0300" stop="093000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">Maratona #FDS: Toradora!</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/272736685/s640/toradora/toradora" />
- <desc lang="pt">Ryuji é um rapaz que vive sendo mal interpretado por causa do seu olhar ameaçador. Todos pensam que ele é um delinquente juvenil e que a qualquer momento vai atacar alguém. É primavera e em seu primeiro dia no segundo ano no ensino médio ele encontra uma pequena garota.</desc>
+ <title lang="pt">Maratona #FDS: The God Of High School: O Deus Do Colegial</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://images.justwatch.com/backdrop/193558254/s640/the-god-of-high-school" />
+ <desc lang="pt">Jin Mori diz a todos que é o colegial mais forte que existe. Sua vida muda quando é convidado a participar do "God of High School", um torneio que decidirá quem é o colegial mais forte de todos, e que garantirá ao vencedor a realização de qualquer desejo que ele tiver. </desc>
 </programme>
 <programme start="093000 -0300" stop="120000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">Maratona #FDS: Life Lessons With Uramichi Oniisan</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/248552018/s640/uramichioxiong-san/uramichioxiong-san" />
- <desc lang="pt">Ser um adulto é difícil. Para Uramichi Omota, de 31 anos, essa verdade deprimente pesa. Na TV, ele é um animado instrutor de exercícios em um programa infantil, mas às vezes, ele não consegue segurar seus comentários sarcásticos para si.</desc>
-</programme>
+ <title lang="pt">Maratona #FDS: Kaguya-Sama: O Amor É Uma Guerra</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/192741551/s640/kaguyayang-hagao-rasetai-tian-cai-tachinolian-ai-tou-noy-zhan/kaguyayang-hagao-rasetai-tian-cai-tachinolian-ai-tou-noy-zhan" />
+ <desc lang="pt">Veio de boa família? Sim! Tem uma personalidade promissora? Sim! Todos os jovens de elite com futuros brilhantes acabam indo parar na Academia Shuchiin.</desc>
+</programme>   
 <programme start="120000 -0300" stop="143000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">Maratona #FDS: Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+ <title lang="pt">Maratona #FDS: Dr. Stone: Uma Nova Era</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
  <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
 </programme>
 <programme start="143000 -0300" stop="170000 -0300" channel="anitv.br"> <weekday days="dom" />
@@ -635,8 +675,8 @@
  <desc lang="pt">Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
 </programme>
 <programme start="170000 -0300" stop="193000 -0300" channel="anitv.br"> <weekday days="dom" />
- <title lang="pt">Maratona #FDS: Ranma ½ (Segunda Parte)</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcV4FF-wLr0q_EXErhjbBEpMtN5bDtyUHsAAyhqcLokvIM50BO-n5ckAJS9AlZG0JK_gYtnZK_A647mwGklslrbKpROL59vGoMPqPjE9pssk5gAMkd1QjrFURyWKWFIhgN-Tn8ITs8NmbtN90R6jRRyQDS7sI3aE_-zH1n1TjIJtgVC4PFJw7RrRRhTg/s960/Ranma.jpg" />
- <desc lang="pt">Ranma Saotome é um jovem estudante de artes marciais. Certo dia, ele e seu pai partem para uma jornada de treinamento na China. Para o azar deles, ambos caíram em fontes estranhas durante o treinamento.</desc>
+ <title lang="pt">Maratona #FDS: Yu Yu Hakusho</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+ <desc lang="pt">Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
 </programme>
 <programme start="193000 -0300" stop="220000 -0300" channel="anitv.br"> <weekday days="dom" />
  <title lang="pt">Maratona #FDS: Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://japan-geeks.com/wp-content/uploads/2022/03/FMNUfRVaUAAVfGq-768x436.jpeg" />
@@ -645,18 +685,6 @@
 <programme start="220000 -0300" stop="r000000 -0300" channel="anitv.br"> <weekday days="dom" />
  <title lang="pt">CineDot</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/10/PATEMA_img_site-200x144.png" />
  <desc lang="pt">Nossa sessão de filmes especiais aqui na Geekdot, você irá conferir longas premiados e de grande sucesso, escolhidos especialmente para os seus finais de domingo ficarem cada vez melhor com a gente!</desc>
-</programme>
-<programme start="000000 -0300" stop="023000 -0300" channel="anitv.br"> <weekday days="seg" />
- <title lang="pt">Maratona #FDS: All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
- <desc lang="pt">Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
-</programme>
-<programme start="023000 -0300" stop="050000 -0300" channel="anitv.br"> <weekday days="seg" />
- <title lang="pt">Maratona #FDS: Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating>  <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
- <desc lang="pt">Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
-</programme>
-<programme start="050000 -0300" stop="070000 -0300" channel="anitv.br"> <weekday days="seg" />
- <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
- <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
    
  <!-- Programas Canal Teste--> <!--Seg a Dom-->
