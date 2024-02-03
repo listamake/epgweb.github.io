@@ -1825,28 +1825,6 @@
  <desc lang="pt">Quando quatro jovens feiticeiros se juntam e trabalham um pouco por todo o reino, criam um elo mais poderoso do que qualquer magia e ficam mais fortes a cada missão.</desc>
 </programme>
 
-   
- <!-- Programas Polidoro TV--> <!--Seg a Dom-->
-<programme start="000000 -0300" stop="120000 -0300" channel="PolidoroTV.br"><weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programação Polidoro TV</title><rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
-</programme>
-<programme start="120000 -0300" stop="r000000 -0300" channel="PolidoroTV.br"><weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programação Polidoro TV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
-</programme>
-<programme start="000000 -0300" stop="120000 -0300" channel="PolidoroTV.br"><weekday days="sab,dom" />
- <title lang="pt">Maratona Filmes Sessão Combo</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
-</programme>
-<programme start="120000 -0300" stop="180000 -0300" channel="PolidoroTV.br"><weekday days="sab,dom" />
- <title lang="pt">Maratona Filmes Sessão Combo</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
-</programme>
-<programme start="180000 -0300" stop="r000000 -0300" channel="PolidoroTV.br"><weekday days="sab,dom" />
- <title lang="pt">Maratona Shurato</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
- <desc lang="pt">Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
-</programme>
  
  <!-- Programas PoopTV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="030000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
@@ -2649,11 +2627,27 @@
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
  <!-- Programas Cartoon--> <!--Seg a Dom-->
-<programme start="000000 -0300" stop="120000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="000000 -0300" stop="010000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">O Que Há de Novo, Scooby-Doo?</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
+ <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="010000 -0300" stop="013000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Manda-Chuva</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
+ <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="013000 -0300" stop="120000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="120000 -0300" stop="r000000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="120000 -0300" stop="130000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">O Que Há de Novo, Scooby-Doo?</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
+ <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="130000 -0300" stop="133000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Manda-Chuva</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
+ <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="133000 -0300" stop="r000000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
