@@ -2628,28 +2628,84 @@
 </programme>
  <!-- Programas Cartoon--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="010000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">O Que Há de Novo, Scooby-Doo?</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
- <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+ <title lang="pt">O Que Há de Novo, Scooby-Doo? - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/258371511/s640/o-que-ha-de-novo-scooby-doo" />
+ <desc lang="pt">Caramba! Quais são as Novas Aventuras do Scooby-Doo? apresenta as famosas "crianças intrometidas" no século 21 quando Scooby e seus corajosos amigos - Salsicha, Velma, Daphne e Fred - topam com novos mistérios e aventuras. </desc>
 </programme>
 <programme start="010000 -0300" stop="013000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Manda-Chuva</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
- <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+ <title lang="pt">Manda-Chuva - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/179276471/s640/manda-chuva-o-filme/manda-chuva-o-filme" />
+ <desc lang="pt">Manda-Chuva - chamado de M.C. por amigos próximos - é o líder de uma gangue de Nova York de gatos de rua: Bacana, Espeto, Batatinha, Gênio e Chu-Chu.</desc>
 </programme>
-<programme start="013000 -0300" stop="120000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="013000 -0300" stop="020000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Krypto, o Supercão - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307600362/s640/krypto-o-supercao/krypto-o-supercao" />
+ <desc lang="pt">Krypto, o Supercão, narra as aventuras caninas do cão herói de Metropolis vindo do Planeta Krypton.</desc>
+</programme>
+<programme start="020000 -0300" stop="031500 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Jetsons - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/183492392/s640/os-jetsons/os-jetsons" />
+ <desc lang="pt">Conheça George Jetson e sua família maluca: sua esposa, Jane; seu filho, Elroy, e sua filha, Judy. </desc>
+</programme>
+<programme start="031500 -0300" stop="040000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Pinky e o Cérebro - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/246726273/s640/pinky-and-the-brain" />
+ <desc lang="pt">Pinky e o Cérebro são dois ratos de laboratório geneticamente modificados que vivem nos Laboratórios Acme.</desc>
+</programme>
+<programme start="040000 -0300" stop="043000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Freakazoid! - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/194444973/s640/freakazoid/freakazoid" />
+ <desc lang="pt">Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Freakazoid!</desc>
+</programme>
+<programme start="043000 -0300" stop="100000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="100000 -0300" stop="110000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Looney Tunes</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
+ <desc lang="pt">Acompanhe os parceiros Pernalonga e Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda, e sempre prontos para fazer novas amizades! </desc>
+</programme>
+<programme start="110000 -0300" stop="113000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Duck Dodgers</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://static.wikia.nocookie.net/international-entertainment-project/images/6/66/DuckDodgersBanner.jpg/" />
+ <desc lang="pt">Estamos na metade do século 24 e o Protetorado Galáctico da Terra possui uma nova arma secreta... um pato congelado. </desc>
+</programme>
+<programme start="113000 -0300" stop="120000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Mistérios de Frajola e Piu-Piu</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/271065704/s640/the-sylvester-and-tweety-mysteries/the-sylvester-and-tweety-mysteries" />
+ <desc lang="pt">Com seus bichinhos de estimação, Frajola e Piu Piu, a tiracolo, a tranquila Vovó se transforma numa investigadora maníaca ao redor do mundo!</desc>
 </programme>
 <programme start="120000 -0300" stop="130000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">O Que Há de Novo, Scooby-Doo?</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
- <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+ <title lang="pt">O Que Há de Novo, Scooby-Doo?</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/258371511/s640/o-que-ha-de-novo-scooby-doo" />
+ <desc lang="pt">Caramba! Quais são as Novas Aventuras do Scooby-Doo? apresenta as famosas "crianças intrometidas" no século 21 quando Scooby e seus corajosos amigos - Salsicha, Velma, Daphne e Fred - topam com novos mistérios e aventuras. </desc>
 </programme>
 <programme start="130000 -0300" stop="133000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Manda-Chuva</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
- <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+ <title lang="pt">Manda-Chuva</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/179276471/s640/manda-chuva-o-filme/manda-chuva-o-filme" />
+ <desc lang="pt">Manda-Chuva - chamado de M.C. por amigos próximos - é o líder de uma gangue de Nova York de gatos de rua: Bacana, Espeto, Batatinha, Gênio e Chu-Chu.</desc>
 </programme>
-<programme start="133000 -0300" stop="r000000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="133000 -0300" stop="140000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Krypto, o Supercão</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307600362/s640/krypto-o-supercao/krypto-o-supercao" />
+ <desc lang="pt">Krypto, o Supercão, narra as aventuras caninas do cão herói de Metropolis vindo do Planeta Krypton.</desc>
+</programme>
+<programme start="140000 -0300" stop="151500 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Jetsons</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/183492392/s640/os-jetsons/os-jetsons" />
+ <desc lang="pt">Conheça George Jetson e sua família maluca: sua esposa, Jane; seu filho, Elroy, e sua filha, Judy. </desc>
+</programme>
+<programme start="151500 -0300" stop="160000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Pinky e o Cérebro</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/246726273/s640/pinky-and-the-brain" />
+ <desc lang="pt">Pinky e o Cérebro são dois ratos de laboratório geneticamente modificados que vivem nos Laboratórios Acme.</desc>
+</programme>
+<programme start="160000 -0300" stop="163000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Freakazoid!</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/194444973/s640/freakazoid/freakazoid" />
+ <desc lang="pt">Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Freakazoid!</desc>
+</programme>
+<programme start="163000 -0300" stop="220000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="220000 -0300" stop="230000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Looney Tunes - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
+ <desc lang="pt">Acompanhe os parceiros Pernalonga e Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda, e sempre prontos para fazer novas amizades! </desc>
+</programme>
+<programme start="230000 -0300" stop="233000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Duck Dodgers - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://static.wikia.nocookie.net/international-entertainment-project/images/6/66/DuckDodgersBanner.jpg/" />
+ <desc lang="pt">Estamos na metade do século 24 e o Protetorado Galáctico da Terra possui uma nova arma secreta... um pato congelado. </desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Mistérios de Frajola e Piu-Piu - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/271065704/s640/the-sylvester-and-tweety-mysteries/the-sylvester-and-tweety-mysteries" />
+ <desc lang="pt">Com seus bichinhos de estimação, Frajola e Piu Piu, a tiracolo, a tranquila Vovó se transforma numa investigadora maníaca ao redor do mundo!</desc>
 </programme>
    
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
