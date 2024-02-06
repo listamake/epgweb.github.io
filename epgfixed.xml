@@ -1828,14 +1828,22 @@
  
  <!-- Programas PoopTV--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="030000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Sessão Sem Censura (+18)</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
- <desc lang="pt">Poops do Mestre3224, Tecraudio, dogpupe e outros sem censura. Não recomendado para menores de 18 anos.</desc>
+ <title lang="pt">Sessão da Meia-noite (+18)</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops e montagens +18.</desc>
 </programme>
 <programme start="030000 -0300" stop="050000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Sessão TV Interdimencional</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
+ <desc lang="pt">Rede Clone, CCETV e afins,"Nunca assista TV sozinho às 3 da manhã", eles diziam.</desc>
+</programme>
+<programme start="050000 -0300" stop="070000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Sessão Repetição </title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">loops de 10 minutos a 1 hora</desc>
+</programme>
+<programme start="070000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">MVMania</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
  <desc lang="pt">"Nunca assista TV sozinho às 3 da manhã", eles diziam.</desc>
 </programme>
-<programme start="050000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="120000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
 </programme>
@@ -2479,8 +2487,8 @@
    
  <!-- Programas Rede Mais Fámilia--> <!--Seg a Sex-->
 <programme start="000000 -0300" stop="010000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
- <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+ <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
+ <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
 <programme start="010000 -0300" stop="030000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
@@ -2494,29 +2502,21 @@
  <title lang="pt">Entre Nós - Reprise</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="070000 -0300" stop="074000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Joseph Prince</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
- <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
-</programme>
-<programme start="074000 -0300" stop="083000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
- <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
-</programme>
-<programme start="083000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
- <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+<programme start="070000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
+ <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
 <programme start="090000 -0300" stop="100000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="100000 -0300" stop="140000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="120000 -0300" stop="130000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Igor Farias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/JlIuRoc3_1Q/hq720.jpg" />
+ <desc lang="pt">Uma mensagem de fé, amor e esperança para toda a família.</desc>
+</programme>
+<programme start="130000 -0300" stop="150000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Mais Alegria</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/06/mais-alegria-1024x1024.jpg" />
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
-</programme>
-<programme start="140000 -0300" stop="150000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
- <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
 </programme>
 <programme start="150000 -0300" stop="180000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Sempre Melhor</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a8.png" />
@@ -2531,26 +2531,16 @@
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
 <programme start="200000 -0300" stop="210000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
- <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+ <title lang="pt">Igor Farias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/JlIuRoc3_1Q/hq720.jpg" />
+ <desc lang="pt">Uma mensagem de fé, amor e esperança para toda a família.</desc>
 </programme>
 <programme start="210000 -0300" stop="220000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
- <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
-</programme>
-<programme start="220000 -0300" stop="230000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Nossa Noite</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a4.png" />
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="230000 -0300" stop="232000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Mais Música</title>
- <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
- <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
-</programme>
-<programme start="232000 -0300" stop="r000000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">MAIS FÉ</title>
- <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
- <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
+<programme start="220000 -0300" stop="r000000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
+ <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
 
 <programme start="000000 -0300" stop="010000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
@@ -2639,9 +2629,13 @@
  <title lang="pt">Krypto, o Supercão - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307600362/s640/krypto-o-supercao/krypto-o-supercao" />
  <desc lang="pt">Krypto, o Supercão, narra as aventuras caninas do cão herói de Metropolis vindo do Planeta Krypton.</desc>
 </programme>
-<programme start="020000 -0300" stop="031500 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="020000 -0300" stop="023000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Os Jetsons - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/183492392/s640/os-jetsons/os-jetsons" />
  <desc lang="pt">Conheça George Jetson e sua família maluca: sua esposa, Jane; seu filho, Elroy, e sua filha, Judy. </desc>
+</programme>
+<programme start="023000 -0300" stop="031500 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Jonny Quest - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/177240463/s640/jonny-quest/jonny-quest" />
+ <desc lang="pt">Jonny Quest, de 11 anos, vive com seu pai, o renomado cientista Dr. Benton Quest, o guarda-costas Race Bannon, o irmão adotivo, Hadji, e o buldogue Bandit. Quando as expedições científicas de Dr. Quest o levam em viagens ao redor do mundo, toda a trupe o acompanha.</desc>
 </programme>
 <programme start="031500 -0300" stop="040000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Pinky e o Cérebro - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/246726273/s640/pinky-and-the-brain" />
@@ -2651,9 +2645,29 @@
  <title lang="pt">Freakazoid! - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/194444973/s640/freakazoid/freakazoid" />
  <desc lang="pt">Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Freakazoid!</desc>
 </programme>
-<programme start="043000 -0300" stop="100000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="043000 -0300" stop="070000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="070000 -0300" stop="073000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Liga da Justica</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306382177/s640/liga-da-justica/liga-da-justica" />
+ <desc lang="pt">Nesta série recheada de ação, os maiores super-heróis do mundo, incluindo Superman, Batman, Mulher-Maravilha, Lanterna Verde, Flash, Mulher-Gavião e Caçador de Marte, se unem como a Liga da Justiça para enfrentar vilões poderosos.</desc>
+</programme>
+<programme start="073000 -0300" stop="083000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Jovens Titas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/249882797/s640/os-jovens-titas/os-jovens-titas" />
+ <desc lang="pt">Cinco adolescentes com superpoderes vivem juntos e tentam combater o crime sem levar um ao outro à loucura. Uma versão adolescente da Liga da Justiça.</desc>
+</programme>
+<programme start="083000 -0300" stop="090000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Tom e Jerry</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/302372815/s640/temporada-1/temporada-1" />
+ <desc lang="pt">O obstinado gato Tom nunca sai da cola de seu arquiinimigo, Jerry, o rato, e nenhum truque, armadilha nem frigideira de ferro o impedirá em sua busca incansável. </desc>
+</programme>
+<programme start="090000 -0300" stop="093000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Filhos de Tom e Jerry</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/310483878/s640/tom-and-jerry-kids/tom-and-jerry-kids" />
+ <desc lang="pt">OS FILHOS DE TOM E JERRY</desc>
+</programme>
+<programme start="093000 -0300" stop="100000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Baby Looney Tunes</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/89663490/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas! </desc>
 </programme>
 <programme start="100000 -0300" stop="110000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Looney Tunes</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
@@ -2679,9 +2693,13 @@
  <title lang="pt">Krypto, o Supercão</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307600362/s640/krypto-o-supercao/krypto-o-supercao" />
  <desc lang="pt">Krypto, o Supercão, narra as aventuras caninas do cão herói de Metropolis vindo do Planeta Krypton.</desc>
 </programme>
-<programme start="140000 -0300" stop="151500 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="140000 -0300" stop="143000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Os Jetsons</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/183492392/s640/os-jetsons/os-jetsons" />
  <desc lang="pt">Conheça George Jetson e sua família maluca: sua esposa, Jane; seu filho, Elroy, e sua filha, Judy. </desc>
+</programme>
+<programme start="143000 -0300" stop="151500 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Jonny Quest</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/177240463/s640/jonny-quest/jonny-quest" />
+ <desc lang="pt">Jonny Quest, de 11 anos, vive com seu pai, o renomado cientista Dr. Benton Quest, o guarda-costas Race Bannon, o irmão adotivo, Hadji, e o buldogue Bandit. Quando as expedições científicas de Dr. Quest o levam em viagens ao redor do mundo, toda a trupe o acompanha.</desc>
 </programme>
 <programme start="151500 -0300" stop="160000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Pinky e o Cérebro</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/246726273/s640/pinky-and-the-brain" />
@@ -2691,9 +2709,29 @@
  <title lang="pt">Freakazoid!</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/194444973/s640/freakazoid/freakazoid" />
  <desc lang="pt">Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Freakazoid!</desc>
 </programme>
-<programme start="163000 -0300" stop="220000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="163000 -0300" stop="190000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+</programme>
+<programme start="190000 -0300" stop="193000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Liga da Justica - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306382177/s640/liga-da-justica/liga-da-justica" />
+ <desc lang="pt">Nesta série recheada de ação, os maiores super-heróis do mundo, incluindo Superman, Batman, Mulher-Maravilha, Lanterna Verde, Flash, Mulher-Gavião e Caçador de Marte, se unem como a Liga da Justiça para enfrentar vilões poderosos.</desc>
+</programme>
+<programme start="193000 -0300" stop="203000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Jovens Titas - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/249882797/s640/os-jovens-titas/os-jovens-titas" />
+ <desc lang="pt">Cinco adolescentes com superpoderes vivem juntos e tentam combater o crime sem levar um ao outro à loucura. Uma versão adolescente da Liga da Justiça.</desc>
+</programme>
+<programme start="203000 -0300" stop="210000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Tom e Jerry - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/302372815/s640/temporada-1/temporada-1" />
+ <desc lang="pt">O obstinado gato Tom nunca sai da cola de seu arquiinimigo, Jerry, o rato, e nenhum truque, armadilha nem frigideira de ferro o impedirá em sua busca incansável. </desc>
+</programme>
+<programme start="210000 -0300" stop="213000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Filhos de Tom e Jerry - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/310483878/s640/tom-and-jerry-kids/tom-and-jerry-kids" />
+ <desc lang="pt">OS FILHOS DE TOM E JERRY</desc>
+</programme>
+<programme start="213000 -0300" stop="220000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Os Baby Looney Tunes - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/89663490/s640/temporada-1/temporada-1" />
+ <desc lang="pt">Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas! </desc>
 </programme>
 <programme start="220000 -0300" stop="230000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Looney Tunes - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
@@ -3152,12 +3190,20 @@
  <title lang="pt">Decisões marcantes</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme> 
-<programme start="160000 -0300" stop="193000 -0300" channel="VitrineEsportiva.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="160000 -0300" stop="180000 -0300" channel="VitrineEsportiva.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Convocados da VE</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme> 
-<programme start="193000 -0300" stop="223000 -0300" channel="VitrineEsportiva.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="180000 -0300" stop="193000 -0300" channel="VitrineEsportiva.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Elas no esporte</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme> 
+<programme start="193000 -0300" stop="203000 -0300" channel="VitrineEsportiva.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Resumo da rodada</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme> 
+<programme start="203000 -0300" stop="223000 -0300" channel="VitrineEsportiva.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Uma trela com Ricardo</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
 </programme> 
 <programme start="223000 -0300" stop="r000000 -0300" channel="VitrineEsportiva.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
