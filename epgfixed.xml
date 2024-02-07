@@ -2568,19 +2568,11 @@
  <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
  <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
-<programme start="010000 -0300" stop="030000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
- <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
-</programme>
 <programme start="030000 -0300" stop="050000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="050000 -0300" stop="070000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Entre Nós - Reprise</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
- <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
-</programme>
-<programme start="070000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="050000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
  <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
@@ -2588,9 +2580,13 @@
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="120000 -0300" stop="130000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="100000 -0300" stop="110000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Igor Farias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/JlIuRoc3_1Q/hq720.jpg" />
  <desc lang="pt">Uma mensagem de fé, amor e esperança para toda a família.</desc>
+</programme>
+<programme start="110000 -0300" stop="130000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
+ <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
 <programme start="130000 -0300" stop="150000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Mais Alegria</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/06/mais-alegria-1024x1024.jpg" />
