@@ -133,7 +133,7 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3858200bc307bc603e159858383c367c.webp"/>
 </channel>
 <channel id="turnerdemo.br">
- <display-name lang="pt">Promocional HD</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
+ <display-name lang="pt">Tooncast</display-name> <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
 </channel>
 <channel id="RetroCartoon.br">
  <display-name lang="pt">RETRO CARTOON SD</display-name> <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
@@ -1835,19 +1835,97 @@
  <title lang="pt">Sessão TV Interdimencional</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
  <desc lang="pt">Rede Clone, CCETV e afins,"Nunca assista TV sozinho às 3 da manhã", eles diziam.</desc>
 </programme>
-<programme start="050000 -0300" stop="070000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="050000 -0300" stop="070000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Sessão Repetição </title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">loops de 10 minutos a 1 hora</desc>
 </programme>
-<programme start="070000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+<programme start="070000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">MVMania</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
  <desc lang="pt">"Nunca assista TV sozinho às 3 da manhã", eles diziam.</desc>
 </programme>
-<programme start="120000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
- <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
+<programme start="120000 -0300" stop="160000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Revirando o HD</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
+ <desc lang="pt">poops clássicos variados. Não recomendado para menores de 16 anos.</desc>
 </programme>
-
+<programme start="160000 -0300" stop="183000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Clube do Chaves</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
+ <desc lang="pt">"Nunca assista TV sozinho às 3 da manhã", eles diziam. Não recomendado para menores de 16 anos.</desc>
+</programme>
+<programme start="183000 -0300" stop="190000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fadentina</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
+ <desc lang="pt">fads e vídeos resposta. Não recomendado para menores de 14 anos.</desc>
+</programme>
+<programme start="190000 -0300" stop="203000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Noobzone</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
+ <desc lang="pt">lançamentos e poopers da nova geração. Não recomendado para menores de 14 anos.</desc>
+</programme>
+<programme start="203000 -0300" stop="210000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">TJ Poop</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops de jornal/entrevistas. Não recomendado para menores de 16 anos.</desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Pingues e Pongues</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">pingpongs, tripongs e afins. Não recomendado para menores de 16 anos.</desc>
+</programme>
+ <!-- Programas PoopTV--> <!--Sab-->
+<programme start="050000 -0300" stop="060000 -0300" channel="pooptv.br"> <weekday days="sab" />
+ <title lang="pt">Fadentina</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops e montagens +18.</desc>
+</programme>
+<programme start="060000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="sab" />
+ <title lang="pt">Sabadesgraçado</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops de desenho.</desc>
+</programme>
+<programme start="120000 -0300" stop="160000 -0300" channel="pooptv.br"> <weekday days="sab" />
+ <title lang="pt">MVMania</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops de desenho.</desc>
+</programme>
+<programme start="160000 -0300" stop="200000 -0300" channel="pooptv.br"> <weekday days="sab" />
+ <title lang="pt">Clube do Chaves</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops de desenho.</desc>
+</programme>
+<programme start="200000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="sab" />
+ <title lang="pt">CollabSpace</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops de desenho.</desc>
+</programme>
+ <!-- Programas PoopTV--> <!--dom-->
+<programme start="050000 -0300" stop="080000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">Revirando o HD</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2020/02/falhas-no-hd.jpg" />
+ <desc lang="pt">poops clássicos variados. Não recomendado para menores de 16 anos.</desc>
+</programme>
+<programme start="080000 -0300" stop="100000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">Sessão Girlpower</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops e montagens +18.</desc>
+</programme>
+<programme start="100000 -0300" stop="110000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">O Show de Limmy</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops e montagens +18.</desc>
+</programme>
+<programme start="110000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">Escolinha na TV</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops e montagens +18.</desc>
+</programme>
+<programme start="120000 -0300" stop="140000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">Sessão De Sato Cheio</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">poops de DBZ, tokusatsu e anime.</desc>
+</programme>
+<programme start="140000 -0300" stop="180000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">Revirando o HD</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2020/02/falhas-no-hd.jpg" />
+ <desc lang="pt">poops clássicos variados. Não recomendado para menores de 16 anos.</desc>
+</programme>
+<programme start="180000 -0300" stop="190000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">Os Pingas nos Yees</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">MVs e montagens do Robotnik e do Yee.Não recomendado para menores de 16 anos.</desc>
+</programme>
+<programme start="190000 -0300" stop="210000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">Entrevistas</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt"> entrevistas TV Sobreverbos e podcasts com poopers. Não recomendado para menores de 14 anos.</desc>
+</programme>
+<programme start="210000 -0300" stop="r000000 -0300" channel="pooptv.br"> <weekday days="dom" />
+ <title lang="pt">Tela Class</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+ <desc lang="pt">Tela Class, imekais e redublagens. Não recomendado para menores de 16 anos.</desc>
+</programme>
+   
     <!-- Programas Radio Band FM--> <!--Seg a Sex-->
    
 <programme start="000000 -0300" stop="050000 -0300" channel="bandfmrede.br"> <weekday days="seg,ter,qua,qui,sex" />
