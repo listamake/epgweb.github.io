@@ -2564,7 +2564,7 @@
 </programme>
    
  <!-- Programas Rede Mais Fámilia--> <!--Seg a Sex-->
-<programme start="000000 -0300" stop="010000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="000000 -0300" stop="030000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
  <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
@@ -2572,9 +2572,13 @@
  <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="050000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="050000 -0300" stop="080000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
  <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
+</programme>
+<programme start="080000 -0300" stop="090000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Joseph Prince</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
+ <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
 <programme start="090000 -0300" stop="100000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
@@ -2604,22 +2608,14 @@
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="200000 -0300" stop="210000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Igor Farias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/JlIuRoc3_1Q/hq720.jpg" />
- <desc lang="pt">Uma mensagem de fé, amor e esperança para toda a família.</desc>
-</programme>
-<programme start="210000 -0300" stop="220000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Nossa Noite</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a4.png" />
- <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
-</programme>
-<programme start="220000 -0300" stop="r000000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="200000 -0300" stop="r000000 -0300" channel="TVMaisFamilia.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
  <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
 
 <programme start="000000 -0300" stop="010000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
- <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
- <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+ <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
+ <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
 <programme start="010000 -0300" stop="050000 -0300" channel="TVMaisFamilia.br"> <weekday days="sab" />
  <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
