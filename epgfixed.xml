@@ -1849,7 +1849,7 @@
 </programme>
 <programme start="160000 -0300" stop="183000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Clube do Chaves</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
- <desc lang="pt">"Nunca assista TV sozinho às 3 da manhã", eles diziam. Não recomendado para menores de 16 anos.</desc>
+ <desc lang="pt">"Poops de Chaves. Não recomendado para menores de 16 anos.</desc>
 </programme>
 <programme start="183000 -0300" stop="190000 -0300" channel="pooptv.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Fadentina</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvau3-sWgDIELx_v9LY2A4fSKx7NHtWP-ANsD4TPw0fJodt8HteUI_q5yH-zy3UEHhZV7rlR-g7COK92WZd5Cog8_HkhOC3_SkY_LzKDRgyDPBKCzGEg5AhN-0YUqcR2zNLwWJfQwxBmiltH5XnZEzGKZWsxSMWVpPcpnHzNyoPigVfgu81tN5iMaJaaU/s1080/Screenshot_20230910-092720_Instagram20Lite.png" />
@@ -1903,11 +1903,11 @@
 </programme>
 <programme start="110000 -0300" stop="120000 -0300" channel="pooptv.br"> <weekday days="dom" />
  <title lang="pt">Escolinha na TV</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
- <desc lang="pt">poops e montagens +18.</desc>
+ <desc lang="pt">Não recomendado para menores de 16 anos.</desc>
 </programme>
 <programme start="120000 -0300" stop="140000 -0300" channel="pooptv.br"> <weekday days="dom" />
  <title lang="pt">Sessão De Sato Cheio</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
- <desc lang="pt">poops de DBZ, tokusatsu e anime.</desc>
+ <desc lang="pt">poops de DBZ, tokusatsu e anime.Não recomendado para menores de 16 anos.</desc>
 </programme>
 <programme start="140000 -0300" stop="180000 -0300" channel="pooptv.br"> <weekday days="dom" />
  <title lang="pt">Revirando o HD</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2020/02/falhas-no-hd.jpg" />
@@ -2679,8 +2679,8 @@
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
 <programme start="120000 -0300" stop="160000 -0300" channel="TVMaisFamilia.br"> <weekday days="dom" />
- <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
- <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+ <title lang="pt">Igreja Unida Deus Proverá</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/2dk-RYCsmfw/maxresdefault.jpg" />
+ <desc lang="pt">Com sua experiência religiosa, o Bispo Luciano Neves busca causar impacto através de conteúdos que trazem avivamento da fé e encorajamento para as dificuldades da vida.</desc>
 </programme>
 <programme start="160000 -0300" stop="r000000 -0300" channel="TVMaisFamilia.br"> <weekday days="dom" />
  <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
@@ -2715,9 +2715,25 @@
  <title lang="pt">Freakazoid! - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/194444973/s640/freakazoid/freakazoid" />
  <desc lang="pt">Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Freakazoid!</desc>
 </programme>
-<programme start="043000 -0300" stop="070000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
- <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+<programme start="043000 -0300" stop="050000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Hi Hi Puffy Ami Yumi - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306135317/s640/hi-hi-puffy-amiyumi/hi-hi-puffy-amiyumi" />
+ <desc lang="pt">Ami e Yumi são cantoras de rock que vivem aventuras incríveis! Nas histórias, as personagens se apresentam em muitos lugares do planeta e fazem o maior sucesso entre os fãs.</desc>
+</programme>
+<programme start="050000 -0300" stop="053000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Mansão Foster para Amigos Imaginários - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/183782622/s640/fosters-home-for-imaginary-friends/fosters-home-for-imaginary-friends" />
+ <desc lang="pt">Todo mundo pode vê-los, todo mundo pode falar com eles, mas algumas vezes, nem todo mundo vai querer eles por perto. Felizmente, eles são sempre bem-vindos na Mansão Foster para Amigos Imaginários.</desc>
+</programme>
+<programme start="053000 -0300" stop="060000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Zuzubalândia - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/300770036/s640/zuzubalandia/zuzubalandia" />
+ <desc lang="pt">A série Zuzubalândia é sobre um reino onde tudo é feito de comida. Tem o bairro das frutas, dos legumes, dos doces, dos sushis e outros alimentos.</desc>
+</programme>
+<programme start="060000 -0300" stop="063000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Legião dos Super-Heróis</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://images.justwatch.com/backdrop/306154336/s640/legiao-dos-super-herois/legiao-dos-super-herois" />
+ <desc lang="pt">Legião dos Super Heróis é um grupo fictício de super-heróis da DC Comics.</desc>
+</programme>
+<programme start="063000 -0300" stop="070000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">X-Men: Evolution</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://www.justwatch.com/images/backdrop/240820606/s640/x-men-evolution/x-men-evolution" />
+ <desc lang="pt">Professor X reúne uma equipe de jovens mutantes sobre-humanos para salvar o mundo das forças do mal.</desc>
 </programme>
 <programme start="070000 -0300" stop="073000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Liga da Justica</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306382177/s640/liga-da-justica/liga-da-justica" />
@@ -2779,12 +2795,28 @@
  <title lang="pt">Freakazoid!</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/194444973/s640/freakazoid/freakazoid" />
  <desc lang="pt">Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Quando é conectado ao ciberespaço em seu computador, um adolescente fica carregado de informações totalmente inúteis e se transforma em Freakazoid!</desc>
 </programme>
-<programme start="163000 -0300" stop="190000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
- <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
+<programme start="163000 -0300" stop="170000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Hi Hi Puffy Ami Yumi</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306135317/s640/hi-hi-puffy-amiyumi/hi-hi-puffy-amiyumi" />
+ <desc lang="pt">Ami e Yumi são cantoras de rock que vivem aventuras incríveis! Nas histórias, as personagens se apresentam em muitos lugares do planeta e fazem o maior sucesso entre os fãs.</desc>
+</programme>
+<programme start="170000 -0300" stop="173000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Mansão Foster para Amigos Imaginários</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/183782622/s640/fosters-home-for-imaginary-friends/fosters-home-for-imaginary-friends" />
+ <desc lang="pt">Todo mundo pode vê-los, todo mundo pode falar com eles, mas algumas vezes, nem todo mundo vai querer eles por perto. Felizmente, eles são sempre bem-vindos na Mansão Foster para Amigos Imaginários.</desc>
+</programme>
+<programme start="173000 -0300" stop="180000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Zuzubalândia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/300770036/s640/zuzubalandia/zuzubalandia" />
+ <desc lang="pt">A série Zuzubalândia é sobre um reino onde tudo é feito de comida. Tem o bairro das frutas, dos legumes, dos doces, dos sushis e outros alimentos.</desc>
+</programme>
+<programme start="180000 -0300" stop="183000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Legião dos Super-Heróis - Reprise</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://images.justwatch.com/backdrop/306154336/s640/legiao-dos-super-herois/legiao-dos-super-herois" />
+ <desc lang="pt">Legião dos Super Heróis é um grupo fictício de super-heróis da DC Comics.</desc>
+</programme>
+<programme start="183000 -0300" stop="190000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">X-Men: Evolution - Reprise</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://www.justwatch.com/images/backdrop/240820606/s640/x-men-evolution/x-men-evolution" />
+ <desc lang="pt">Professor X reúne uma equipe de jovens mutantes sobre-humanos para salvar o mundo das forças do mal.</desc>
 </programme>
 <programme start="190000 -0300" stop="193000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Liga da Justica - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306382177/s640/liga-da-justica/liga-da-justica" />
+ <title lang="pt">Liga da Justica - Reprise</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306382177/s640/liga-da-justica/liga-da-justica" />
  <desc lang="pt">Nesta série recheada de ação, os maiores super-heróis do mundo, incluindo Superman, Batman, Mulher-Maravilha, Lanterna Verde, Flash, Mulher-Gavião e Caçador de Marte, se unem como a Liga da Justiça para enfrentar vilões poderosos.</desc>
 </programme>
 <programme start="193000 -0300" stop="203000 -0300" channel="turnerdemo.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
