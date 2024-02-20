@@ -160,6 +160,10 @@
  <display-name lang="pt">TV Gazin</display-name>
   <icon src="https://pbs.twimg.com/profile_images/1644034655773945857/ZeYcJAWE_400x400.jpg"/>
 </channel>
+<channel id="TVNovaNordeste.br">
+ <display-name lang="pt">TV Nova Nordeste</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1524938958261592069/Q5imifEz_400x400.jpg"/>
+</channel>
 <channel id="TVNBT.br">
  <display-name lang="pt">TV NBT</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dee1243c933082ee25e309ab91b54f4d.webp"/>
