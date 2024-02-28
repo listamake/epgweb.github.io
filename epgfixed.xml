@@ -2776,25 +2776,41 @@
 </programme>
    
  <!-- Programas TVNovaNordeste--> <!--Seg a Dom-->
-<programme start="133000 -0300" stop="143000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Jogo Certo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/271065704/s640/the-sylvester-and-tweety-mysteries/the-sylvester-and-tweety-mysteries" />
- <desc lang="pt">Com seus bichinhos de estimação, Frajola e Piu Piu, a tiracolo, a tranquila Vovó se transforma numa investigadora maníaca ao redor do mundo!</desc>
+<programme start="073000 -0300" stop="080000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Fé Perfeita</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://yt3.googleusercontent.com/JHl6uDucRae__GVcyuKS7l3avN6ZuS8UFsi0T9vaNdtHiU1Y5HCBFonO0GcXyVEQCcJAW-yJOg=s900-c-k-c0x00ffffff-no-rj" />
+ <desc lang="pt">.</desc>
 </programme>
-<programme start="143000 -0300" stop="150000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">QUE BOM TE VER</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/271065704/s640/the-sylvester-and-tweety-mysteries/the-sylvester-and-tweety-mysteries" />
- <desc lang="pt">Com seus bichinhos de estimação, Frajola e Piu Piu, a tiracolo, a tranquila Vovó se transforma numa investigadora maníaca ao redor do mundo!</desc>
+<programme start="080000 -0300" stop="083000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Jornal Fato Novo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/07yPzTcUMd0/maxresdefault.jpg" />
+ <desc lang="pt">O Jornal Fato Novo apresenta os principais fatos de Pernambuco, do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
 </programme>
-<programme start="150000 -0300" stop="163000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/271065704/s640/the-sylvester-and-tweety-mysteries/the-sylvester-and-tweety-mysteries" />
- <desc lang="pt">Com seus bichinhos de estimação, Frajola e Piu Piu, a tiracolo, a tranquila Vovó se transforma numa investigadora maníaca ao redor do mundo!</desc>
+<programme start="100000 -0300" stop="120000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://portalwp.s3.amazonaws.com/wp-content/uploads/2023/07/12172907/thumbnail-default.jpeg" />
+ <desc lang="pt">Religioso</desc>
 </programme>
-<programme start="163000 -0300" stop="180000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Tarde Legal</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/271065704/s640/the-sylvester-and-tweety-mysteries/the-sylvester-and-tweety-mysteries" />
- <desc lang="pt">Com seus bichinhos de estimação, Frajola e Piu Piu, a tiracolo, a tranquila Vovó se transforma numa investigadora maníaca ao redor do mundo!</desc>
+<programme start="120000 -0300" stop="143000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">A Hora do Povo com Dilson Oliveira</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/SeSYuZjxxx0/maxresdefault.jpg" />
+ <desc lang="pt">A Hora do Povo  apresenta os principais fatos de Pernambuco, o programa é apresentado por Dílson Oliveira.</desc>
 </programme>
-<programme start="180000 -0300" stop="183000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Jornal Fato Novo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/271065704/s640/the-sylvester-and-tweety-mysteries/the-sylvester-and-tweety-mysteries" />
- <desc lang="pt">Com seus bichinhos de estimação, Frajola e Piu Piu, a tiracolo, a tranquila Vovó se transforma numa investigadora maníaca ao redor do mundo!</desc>
+<programme start="143000 -0300" stop="150000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">#QueBomTeVer</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/JAv4TjUyfLs/maxresdefault.jpg" />
+ <desc lang="pt">Waleska Andrade traz conteúdo leve e informativo que deixa as tardes muito mais divertidas. Notícias, curiosidades, comportamento, gastronomia, bem-estar, moda, saúde e muito mais.</desc>
+</programme>
+<programme start="150000 -0300" stop="160000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://portalwp.s3.amazonaws.com/wp-content/uploads/2023/07/12172907/thumbnail-default.jpeg" />
+ <desc lang="pt">Religioso</desc>
+</programme>
+<programme start="160000 -0300" stop="170000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Tarde Legal</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://tvnova.tv.br/wp-content/uploads/2023/08/icon-tarde-legal-23.jpg" />
+ <desc lang="pt">Marcos Silva faz o show com grandes nomes da nossa cena musical e abre espaço para novos talentos.</desc>
+</programme>
+<programme start="180000 -0300" stop="183000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Jornal Fato Novo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/07yPzTcUMd0/maxresdefault.jpg" />
+ <desc lang="pt">O Jornal Fato Novo apresenta os principais fatos de Pernambuco, do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+</programme>
+<programme start="200000 -0300" stop="210000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Jogo Certo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/EFYdudb0KxA/hq720_live.jpg" />
+ <desc lang="pt"> as últimas informações do futebol pernambucano, os destaques do esporte amador e a participação do telespectador.</desc>
 </programme>
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
