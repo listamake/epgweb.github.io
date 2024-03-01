@@ -2812,6 +2812,10 @@
  <title lang="pt">Jogo Certo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/EFYdudb0KxA/hq720_live.jpg" />
  <desc lang="pt"> as últimas informações do futebol pernambucano, os destaques do esporte amador e a participação do telespectador.</desc>
 </programme>
+<programme start="220000 -0300" stop="223000 -0300" channel="TVNovaNordeste.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Em Off</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/EFYdudb0KxA/hq720_live.jpg" />
+ <desc lang="pt"> as últimas informações do futebol pernambucano, os destaques do esporte amador e a participação do telespectador.</desc>
+</programme>
  <!-- Programas Retro Cartoon--> <!--Seg a Dom-->
 <programme start="000000 -0300" stop="120000 -0300" channel="RetroCartoon.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
  <title lang="pt">Desenhos Clássicos 24h</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
