@@ -1329,28 +1329,28 @@
 
    
  <!-- Programas Ideal TV--> <!--Seg a Sex-->
-<programme start="000000 -0300" stop="030000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,dom" />
+<programme start="000000 -0300" stop="030000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Programação Igreja Mundial</title> <rating system="CLASSIND"><value>10</value></rating><icon src="https://noticiasdatv.uol.com.br/media/_versions/_versions/noticias/2014/valdemiro_santiago_igreja_mundial_free_big_fixed_large.jpg" />
  <desc lang="pt">Acompanhe a programação da Igreja Mundial do Poder de Deus.</desc>
 </programme>
-<programme start="030000 -0300" stop="040000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,dom" />
+<programme start="030000 -0300" stop="040000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">De Olho no Mundo</title> <rating system="CLASSIND"><value>12</value></rating><icon src="https://i.ytimg.com/vi/gP9jXcs5gk0/maxresdefault.jpg" />
  <desc lang="pt">Acompanhe as últimas notícias do mundo, com conteúdos da AFP.</desc>
 </programme>
-<programme start="040000 -0300" stop="r000000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,dom" />
+<programme start="040000 -0300" stop="r000000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Programação Igreja Mundial</title> <rating system="CLASSIND"><value>10</value></rating><icon src="https://noticiasdatv.uol.com.br/media/_versions/_versions/noticias/2014/valdemiro_santiago_igreja_mundial_free_big_fixed_large.jpg" />
  <desc lang="pt">Acompanhe a programação da Igreja Mundial do Poder de Deus.</desc>
 </programme>
    
-<programme start="000000 -0300" stop="010000 -0300" channel="idtv.br"><weekday days="sab" />
+<programme start="000000 -0300" stop="010000 -0300" channel="idtv.br"><weekday days="dom" />
  <title lang="pt">Programação Igreja Mundial</title> <rating system="CLASSIND"><value>10</value></rating><icon src="https://noticiasdatv.uol.com.br/media/_versions/_versions/noticias/2014/valdemiro_santiago_igreja_mundial_free_big_fixed_large.jpg" />
  <desc lang="pt">Acompanhe a programação da Igreja Mundial do Poder de Deus.</desc>
 </programme>
-<programme start="010000 -0300" stop="020000 -0300" channel="idtv.br"><weekday days="sab" />
+<programme start="010000 -0300" stop="020000 -0300" channel="idtv.br"><weekday days="dom" />
  <title lang="pt">De Olho no Mundo</title> <rating system="CLASSIND"><value>12</value></rating><icon src="https://i.ytimg.com/vi/gP9jXcs5gk0/maxresdefault.jpg" />
  <desc lang="pt">Acompanhe as últimas notícias do mundo, com conteúdos da AFP.</desc>
 </programme>
-<programme start="020000 -0300" stop="r000000 -0300" channel="idtv.br"><weekday days="sab" />
+<programme start="020000 -0300" stop="r000000 -0300" channel="idtv.br"><weekday days="dom" />
  <title lang="pt">Programação Igreja Mundial</title> <rating system="CLASSIND"><value>10</value></rating><icon src="https://noticiasdatv.uol.com.br/media/_versions/_versions/noticias/2014/valdemiro_santiago_igreja_mundial_free_big_fixed_large.jpg" />
  <desc lang="pt">Acompanhe a programação da Igreja Mundial do Poder de Deus.</desc>
 </programme>
@@ -1410,13 +1410,13 @@
 </programme>
    
  <!-- Programas Interativa--> <!--Seg a sex-->
-<programme start="000000 -0300" stop="050000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
+<programme start="000000 -0300" stop="050000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" /> <category>Música</category>
  <title lang="pt">Insonia</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">Sem Sono sem problemas, a madrugada só de músicas.</desc>
 </programme>
 <programme start="050000 -0300" stop="060000 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
  <title lang="pt">Inesquecíveis</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
- <desc lang="pt">As classicas esttaão aqui.</desc>
+ <desc lang="pt">As classicas estão aqui.</desc>
 </programme>
 <programme start="060000 -0300" stop="080500 -0300" channel="interativatv.br"> <weekday days="seg,ter,qua,qui,sex,sab" /> <category>Música</category>
  <title lang="pt">Falando Sério</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/nzVanHNedMGZQwJoS7ewonPwA4KGKVB0uH7sHBcp.jpg" />
@@ -1475,10 +1475,18 @@
  <desc lang="pt">.</desc>
 </programme>
  <!-- Programas Interativa--> <!--Sab-->
-<programme start="080500 -0300" stop="170000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
- <title lang="pt">Maratona Bumerangue</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
- <desc lang="pt">Bora voltar no tempo e relembrar as musicas classicas que marcarm epoca.</desc>
+<programme start="080500 -0300" stop="100000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
+ <title lang="pt">Inbox</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
 </programme>
+<programme start="100000 -0300" stop="150000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
+ <title lang="pt">Churras</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="150000 -0300" stop="170000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
+ <title lang="pt">Programação Músical</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
+ <desc lang="pt">.</desc>
+</programme
 <programme start="170000 -0300" stop="180000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
  <title lang="pt">Interativa Indie</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/hHOBKAUUlDhC7aJPHk9vJaNAjd9NUcdbHmkCDJMe.jpg" />
  <desc lang="pt">Musica indie.</desc>
@@ -1488,16 +1496,12 @@
  <desc lang="pt">Musica .</desc>
 </programme>
  <!-- Programas Interativa--> <!--dom-->
-<programme start="000000 -0300" stop="170000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
+<programme start="050000 -0300" stop="170000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
  <title lang="pt">Maratona Insonia</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
  <desc lang="pt">Bora voltar no tempo e relembrar as musicas classicas que marcarm epoca.</desc>
 </programme>
-<programme start="170000 -0300" stop="180000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
- <title lang="pt">Adrenalina</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="" />
- <desc lang="pt">Musica.</desc>
-</programme>
-<programme start="180000 -0300" stop="190000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
- <title lang="pt">Sunset Retrô</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/nkd9Vft5fmLZplLJ5OMNNwGsw5uoLbXAS7rcE1a4.jpg" />
+<programme start="170000 -0300" stop="190000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
+ <title lang="pt">Sunset Retrô</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/hPunDhzDJAUgzChqbxcO4wCZUfAdFBNrIwj7c9Mm.jpg" />
  <desc lang="pt">Musica.</desc>
 </programme>
 <programme start="190000 -0300" stop="r000000 -0300" channel="interativatv.br"> <weekday days="dom" /> <category>Música</category>
@@ -1587,6 +1591,10 @@
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="130000 -0300" stop="160000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Comédia</category>
+ <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+ <desc lang="pt">Aquela série pra matar a saudades.</desc>
+</programme>
+<programme start="230000 -0300" stop="r000000 -0300" channel="ISTVHD.br"> <weekday days="sab" /> <category>Comédia</category>
  <title lang="pt">Séries</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
  <desc lang="pt">Aquela série pra matar a saudades.</desc>
 </programme>
