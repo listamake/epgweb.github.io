@@ -404,13 +404,13 @@
  <title lang="pt">Del Rubens Show</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/baixa_pcDyMhEBwSk3xnzraAKgbUQjv5.jpg" />
  <desc lang="pt">Cantor, compositor e apresentador, Del Rubens gravou mais de 100 composições de sua autoria em 12 álbuns, onde o hit Locutor Apaixonado foi seu maior sucesso ocupando os primeiros lugares nas paradas de sucesso de todo Brasil.</desc>
 </programme>
-<programme start="223000 -0300" stop="233500 -0300" channel="RedeCNT.br"> <weekday days="sab" />
+<programme start="223000 -0300" stop="230000 -0300" channel="RedeCNT.br"> <weekday days="sab" />
  <title lang="pt">WooHoo - Reprise</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://tecnoinforme.com.br/wp-content/uploads/2023/06/woohoo-editada.jpg" />
  <desc lang="pt">o WooHoo é muito mais do que um programa de tevê. Ele é o ponto de encontro de quem curte a vida zelando pela saúde, pelo conhecimento, pela amizade e pela força radical da juventude. </desc>
 </programme>
-<programme start="233500 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="sab" />
- <title lang="pt">Família Zoreia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_18-Copia-1024x553.png" />
- <desc lang="pt">A Família Zoreia invade a tela para trazer diversão e alegria! Embora possam parecer semelhantes às loucuras de sua própria família, cada membro tem sua maneira única de lidar com seus conflitos, desejos e vontades - e como todo ser humano, enfrentam crises com bom humor e resiliência.</desc>
+<programme start="230000 -0300" stop="r000000 -0300" channel="RedeCNT.br"> <weekday days="sab" />
+ <title lang="pt">PLURAL SHOW</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://www.cnt.com.br/public/uploads/baixa_IvQi5OZ2dHxLfrEYGb1ajeSWcM.jpg" />
+ <desc lang="pt">Programa PLURAL SHOW, cuja missão é animar e educar a geração jovem por meio de reflexões sobre a vida cotidiana, cultura, música, entrevistas e humor. O objetivo é criar um espaço onde a música não seja apenas entretenimento, mas uma linguagem universal que inspira, conecta e eleva o espírito.</desc>
 </programme>
 <programme start="220000 -0300" stop="224500 -0300" channel="RedeCNT.br"> <weekday days="dom" />
  <title lang="pt">CNT Esportes Debate</title> <rating system="CLASSIND"><value>L</value></rating>  <icon src="https://www.cnt.com.br/public/uploads/crop_CrgWfA59ts8NbuiEMJOvac62UL.jpg" />
