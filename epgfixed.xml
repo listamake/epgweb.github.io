@@ -1486,7 +1486,7 @@
 <programme start="150000 -0300" stop="170000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
  <title lang="pt">Programação Músical</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="" />
  <desc lang="pt">.</desc>
-</programme
+</programme>
 <programme start="170000 -0300" stop="180000 -0300" channel="interativatv.br"> <weekday days="sab" /> <category>Música</category>
  <title lang="pt">Interativa Indie</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/hHOBKAUUlDhC7aJPHk9vJaNAjd9NUcdbHmkCDJMe.jpg" />
  <desc lang="pt">Musica indie.</desc>
