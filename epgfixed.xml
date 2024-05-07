@@ -1318,13 +1318,202 @@
 </programme>
 
  <!-- Programas Fkids--> <!--Seg a Sex-->
-<programme start="000000 -0300" stop="120000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+
+<programme start="000000 -0300" stop="003000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+ <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+</programme>
+<programme start="003000 -0300" stop="010000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="120000 -0300" stop="r000000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+<programme start="010000 -0300" stop="013000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="013000 -0300" stop="020000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Goosebumps - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://imgix.bustle.com/rehost/2016/10/4/ed163b47-16f3-45da-b52d-352a209bfa76.jpg" />
+ <desc lang="pt">Inspirada nas histórias de terror para adolescentes de R.L. Stine, essa premiada série adentra nos mundos tenebrosos das tramas de suspense.</desc>
+</programme>
+<programme start="020000 -0300" stop="023000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Contos da Cripta - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
+ <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
+</programme>
+<programme start="020000 -0300" stop="023000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Pig - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="023000 -0300" stop="030000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="030000 -0300" stop="033000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Oggy e as Baratas - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="033000 -0300" stop="040000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+ <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+</programme>
+<programme start="040000 -0300" stop="043000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="043000 -0300" stop="050000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="050000 -0300" stop="053000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Goosebumps - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://imgix.bustle.com/rehost/2016/10/4/ed163b47-16f3-45da-b52d-352a209bfa76.jpg" />
+ <desc lang="pt">Inspirada nas histórias de terror para adolescentes de R.L. Stine, essa premiada série adentra nos mundos tenebrosos das tramas de suspense.</desc>
+</programme>
+<programme start="053000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Contos da Cripta - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
+ <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
+</programme>
+<programme start="060000 -0300" stop="063000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Digimon - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
+</programme>
+<programme start="063000 -0300" stop="070000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
+</programme>
+<programme start="070000 -0300" stop="073000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Patlabor - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
+ <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
+</programme>
+<programme start="073000 -0300" stop="080000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+ <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+</programme>
+<programme start="080000 -0300" stop="083000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="083000 -0300" stop="090000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="090000 -0300" stop="093000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Pig - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="093000 -0300" stop="100000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="100000 -0300" stop="103000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Oggy e as Baratas - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="103000 -0300" stop="110000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Digimon - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
+</programme>
+<programme start="110000 -0300" stop="113000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
+</programme>
+<programme start="113000 -0300" stop="120000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Patlabor - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
+ <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
+</programme>
+<programme start="120000 -0300" stop="123000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Pig</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="123000 -0300" stop="130000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">O Fantastico Mundo De Bobby</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="130000 -0300" stop="133000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Oggy e as Baratas</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="133000 -0300" stop="140000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Esquadrilha Aérea</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+ <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+</programme>
+<programme start="140000 -0300" stop="143000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Homen Aranha</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="143000 -0300" stop="150000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Ranger</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="150000 -0300" stop="153000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Pig - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="153000 -0300" stop="160000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="160000 -0300" stop="163000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+ <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+</programme>
+<programme start="163000 -0300" stop="170000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="170000 -0300" stop="173000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="173000 -0300" stop="180000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Digimon</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
+</programme>
+<programme start="180000 -0300" stop="183000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Medabots</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
+</programme>
+<programme start="183000 -0300" stop="190000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Patlabor</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
+ <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
+</programme>
+<programme start="190000 -0300" stop="193000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Super Pig - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="193000 -0300" stop="190000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+ <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+</programme>
+<programme start="200000 -0300" stop="203000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="210000 -0300" stop="213000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="213000 -0300" stop="220000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Digimon - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
+</programme>
+<programme start="220000 -0300" stop="223000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
+</programme>
+<programme start="223000 -0300" stop="230000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Patlabor - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
+ <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
+</programme>
+<programme start="230000 -0300" stop="233000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Goosebumps</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://imgix.bustle.com/rehost/2016/10/4/ed163b47-16f3-45da-b52d-352a209bfa76.jpg" />
+ <desc lang="pt">Inspirada nas histórias de terror para adolescentes de R.L. Stine, essa premiada série adentra nos mundos tenebrosos das tramas de suspense.</desc>
+</programme>
+<programme start="233000 -0300" stop="r000000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Contos da Cripta</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
+ <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
 </programme>
 
    
