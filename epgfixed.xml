@@ -1479,15 +1479,15 @@
  <title lang="pt">Super Pig - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="193000 -0300" stop="190000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="193000 -0300" stop="200000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="193000 -0300" stop="200000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="200000 -0300" stop="203000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
  <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
 </programme>
-<programme start="200000 -0300" stop="203000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="203000 -0300" stop="210000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
@@ -1514,6 +1514,11 @@
 <programme start="233000 -0300" stop="r000000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Contos da Cripta</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
  <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
+</programme>
+
+<programme start="000000 -0300" stop="r000000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Programação FK</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt">.</desc>
 </programme>
 
    
