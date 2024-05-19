@@ -1551,11 +1551,15 @@
  <title lang="pt">Maratona: Homen Aranha</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
+<programme start="043000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="dom" />
+ <title lang="pt">Maratona: Oggy e as Baratas</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
 <programme start="060000 -0300" stop="083000 -0300" channel="fkids.br"><weekday days="dom" />
   <title lang="pt">Maratona: Contos da Cripta</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
   <desc lang="pt"> A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
 </programme>
-<programme start="083000 -0300" stop="110000 -0300" channel="fkids.br"><weekday days="sab" />
+<programme start="083000 -0300" stop="110000 -0300" channel="fkids.br"><weekday days="dom" />
  <title lang="pt">Maratona: Super Pig</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
@@ -1563,7 +1567,7 @@
  <title lang="pt">Maratona: Oggy e as Baratas</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
- <programme start="120000 -0300" stop="140000 -0300" channel="fkids.br"><weekday days="dom" />
+<programme start="120000 -0300" stop="140000 -0300" channel="fkids.br"><weekday days="dom" />
    <title lang="pt">Cineskopio</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
  <desc lang="pt"> Fox kids o seu canal favorito.</desc>
  </programme>
@@ -1579,8 +1583,8 @@
       <title lang="pt">Cineskopio - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
       <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
 <programme start="210000 -0300" stop="213000 -0300" channel="fkids.br"><weekday days="dom" />
-      <title lang="pt">Polícia Funk</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
-      <desc lang="pt"> Fox kids o seu canal favorito.</desc>
+ <title lang="pt">Polícia Funk</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <desc lang="pt"> Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="213000 -0300" stop="r000000 -0300" channel="fkids.br"><weekday days="dom" />
  <title lang="pt">Maratona: Goosebumps</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://imgix.bustle.com/rehost/2016/10/4/ed163b47-16f3-45da-b52d-352a209bfa76.jpg" />
