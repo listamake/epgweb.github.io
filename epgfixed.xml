@@ -1379,8 +1379,8 @@
  <title lang="pt">Patlabor - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
  <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
 </programme>
-<programme start="073000 -0300" stop="080000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+<programme start="073000 -0300" stop="080000 -0300" channel="fkids.br"><weekday days="seg,qua,sex" />
+ <title lang="pt">Homem-Aranha e Seus Amigos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
  <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
 </programme>
 <programme start="080000 -0300" stop="083000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
@@ -1427,9 +1427,13 @@
  <title lang="pt">Oggy e as Baratas</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="133000 -0300" stop="140000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Esquadrilha Aérea</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
- <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+<programme start="133000 -0300" stop="140000 -0300" channel="fkids.br"><weekday days="seg,qua,sex" />
+ <title lang="pt">Homem-Aranha e Seus Amigos</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://universoxmen.com.br/wp-content/uploads/2021/07/0-Destacada-Homem-Aranha-e-Seus-Incriveis-Amigos-curiosidades.jpg" />
+ <desc lang="pt">Homem-Aranha, Homem de Gelo e Angélica Jones são estudantes da Universidade Empire State. O trio decide unir forças para combater forças do mal em Nova York.</desc>
+</programme>
+<programme start="133000 -0300" stop="140000 -0300" channel="fkids.br"><weekday days="ter,qui" />
+ <title lang="pt">The Tick</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
+ <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
 </programme>
 <programme start="140000 -0300" stop="143000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Homen Aranha</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
@@ -1447,9 +1451,13 @@
  <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="160000 -0300" stop="163000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+<programme start="160000 -0300" stop="163000 -0300" channel="fkids.br"><weekday days="seg,qua,sex" />
+ <title lang="pt">Homem-Aranha e Seus Amigos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
  <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+</programme>
+<programme start="160000 -0300" stop="163000 -0300" channel="fkids.br"><weekday days="ter,qui" />
+ <title lang="pt">The Tick - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
+ <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
 </programme>
 <programme start="163000 -0300" stop="170000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
@@ -1476,12 +1484,20 @@
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="193000 -0300" stop="200000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+< title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="200000 -0300" stop="203000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
- <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+<programme start="200000 -0300" stop="203000 -0300" channel="fkids.br"><weekday days="seg,qua,sex" />
+ <title lang="pt">Homem-Aranha e Seus Amigos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://universoxmen.com.br/wp-content/uploads/2021/07/0-Destacada-Homem-Aranha-e-Seus-Incriveis-Amigos-curiosidades.jpg" />
+ <desc lang="pt">Homem-Aranha, Homem de Gelo e Angélica Jones são estudantes da Universidade Empire State. O trio decide unir forças para combater forças do mal em Nova York.</desc>
+</programme>
+<programme start="200000 -0300" stop="203000 -0300" channel="fkids.br"><weekday days="ter,qui" />
+ <title lang="pt">The Tick - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
+ <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
+</programme>
+<programme start="193000 -0300" stop="200000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+< title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="203000 -0300" stop="210000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
