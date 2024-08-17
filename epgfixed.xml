@@ -1548,9 +1548,15 @@
  <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
 </programme>
 
-<programme start="060000 -0300" stop="083000 -0300" channel="fkids.br"><weekday days="sab" />
- <title lang="pt">Maratona: Esquadrilha Aérea</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
-<desc lang="pt"> Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc></programme>
+
+<programme start="060000 -0300" stop="070000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Maratona: The Tick</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
+ <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
+</programme> 
+<programme start="070000 -0300" stop="083000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Maratona: Homem-Aranha e Seus Amigos</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+ <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
+</programme>
 <programme start="083000 -0300" stop="110000 -0300" channel="fkids.br"><weekday days="sab" />
  <title lang="pt">Maratona: Oggy e as Baratas</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
@@ -1576,19 +1582,27 @@
  <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
 </programme>
 <programme start="233000 -0300" stop="r000000 -0300" channel="fkids.br"><weekday days="sab" />
-  <title lang="pt">Maratona: Contos da Cripta</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
+  <title lang="pt">Os Três Patetas</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://aventurasnahistoria.com.br/media/uploads/hollywood/curly-moe-larry.jpg" />
+  <desc lang="pt">Estão sempre se metendo em confusão</desc>
+</programme>
+<programme start="000000 -0300" stop="003000 -0300" channel="fkids.br"><weekday days="dom" />
+  <title lang="pt">Dilbert</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://images.seattletimes.com/wp-content/uploads/2022/09/09212022_tzr_tzr_160225.jpg" />
   <desc lang="pt"> A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
 </programme>
-<programme start="000000 -0300" stop="020000 -0300" channel="fkids.br"><weekday days="dom" />
-  <title lang="pt">Maratona: Contos da Cripta</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
-  <desc lang="pt"> A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
+<programme start="003000 -0300" stop="020000 -0300" channel="fkids.br"><weekday days="dom" />
+ <title lang="pt">Maratona: Homem-Aranha e Seus Amigos</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+ <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
 </programme>
-<programme start="020000 -0300" stop="043000 -0300" channel="fkids.br"><weekday days="dom" />
+<programme start="020000 -0300" stop="030000 -0300" channel="fkids.br"><weekday days="dom" />
+ <title lang="pt">Maratona: The Tick</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
+ <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
+</programme> 
+<programme start="030000 -0300" stop="053000 -0300" channel="fkids.br"><weekday days="dom" />
  <title lang="pt">Maratona: Homen Aranha</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="043000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="dom" />
- <title lang="pt">Maratona: Oggy e as Baratas</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+<programme start="053000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="dom" />
+ <title lang="pt">Polícia Funk</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="060000 -0300" stop="083000 -0300" channel="fkids.br"><weekday days="dom" />
@@ -1600,9 +1614,9 @@
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="110000 -0300" stop="120000 -0300" channel="fkids.br"><weekday days="dom" />
- <title lang="pt">Maratona: Oggy e as Baratas</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
-</programme>
+ <title lang="pt">Maratona: The Tick</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
+ <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
+</programme> 
 <programme start="120000 -0300" stop="140000 -0300" channel="fkids.br"><weekday days="dom" />
    <title lang="pt">Cineskopio</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
  <desc lang="pt"> Fox kids o seu canal favorito.</desc>
