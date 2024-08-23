@@ -1335,7 +1335,11 @@
  <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="010000 -0300" stop="013000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="010000 -0300" stop="013000 -0300" channel="fkids.br"><weekday days="qua,sex" />
+ <title lang="pt">Power Ranger: O Resgate - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://img.quizur.com/f/img5e96eeb7502213.13059484.png" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="010000 -0300" stop="013000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sab" />
  <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
@@ -1399,7 +1403,11 @@
  <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="083000 -0300" stop="090000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="083000 -0300" stop="090000 -0300" channel="fkids.br"><weekday days="qua,sex" />
+ <title lang="pt">Power Ranger: O Resgate - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://img.quizur.com/f/img5e96eeb7502213.13059484.png" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="083000 -0300" stop="090000 -0300" channel="fkids.br"><weekday days="seg,ter,qui" />
  <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
