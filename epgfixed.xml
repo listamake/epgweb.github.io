@@ -1319,10 +1319,7 @@
 
  <!-- Programas Fkids--> <!--Seg a Sex-->
 
-<programme start="000100 -0300" stop="003000 -0300" channel="fkids.br"><weekday days="" />
- <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
- <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
-</programme>
+
 <programme start="000000 -0300" stop="003000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sab" />
  <title lang="pt">Homem-Aranha e Seus Amigos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
  <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
