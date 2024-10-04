@@ -1319,11 +1319,11 @@
 
  <!-- Programas Fkids--> <!--Seg a Sex-->
 
-<programme start="000000 -0300" stop="003000 -0300" channel="fkids.br"><weekday days="sab" />
+<programme start="000100 -0300" stop="003000 -0300" channel="fkids.br"><weekday days="sab" />
  <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
  <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
 </programme>
-<programme start="000000 -0300" stop="003000 -0300" channel="fkids.br"><weekday days="seg,ter,qui" />
+<programme start="000000 -0300" stop="003000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sab" />
  <title lang="pt">Homem-Aranha e Seus Amigos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
  <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
 </programme>
@@ -1614,7 +1614,7 @@
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="053000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="dom" />
- <title lang="pt">Polícia Funk</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <title lang="pt">Turminha da Sala 402</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="060000 -0300" stop="083000 -0300" channel="fkids.br"><weekday days="dom" />
@@ -1644,8 +1644,9 @@
 <programme start="190000 -0300" stop="210000 -0300" channel="fkids.br"><weekday days="dom" />
       <title lang="pt">Cineskopio - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
       <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
+   
 <programme start="210000 -0300" stop="213000 -0300" channel="fkids.br"><weekday days="dom" />
- <title lang="pt">Polícia Funk</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+ <title lang="pt">Turminha da Sala 402</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt"> Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="213000 -0300" stop="r000000 -0300" channel="fkids.br"><weekday days="dom" />
