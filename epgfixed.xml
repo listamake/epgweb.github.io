@@ -1496,11 +1496,15 @@
  <title lang="pt">Power Ranger: O Resgate - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://img.quizur.com/f/img5e96eeb7502213.13059484.png" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="173000 -0300" stop="180000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="173000 -0300" stop="180000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sex" />
  <title lang="pt">Digimon</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
  <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
 </programme>
-<programme start="180000 -0300" stop="183000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="173000 -0300" stop="183000 -0300" channel="fkids.br"><weekday days="qua" />
+ <title lang="pt">Carga dupla: Digimon</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
+</programme>
+<programme start="180000 -0300" stop="183000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sex" />
  <title lang="pt">Medabots</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
 </programme>
@@ -1536,11 +1540,15 @@
  <title lang="pt">Power Ranger: O Resgate - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://img.quizur.com/f/img5e96eeb7502213.13059484.png" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="213000 -0300" stop="220000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="213000 -0300" stop="220000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sex" />
  <title lang="pt">Digimon - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
  <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
 </programme>
-<programme start="220000 -0300" stop="223000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="213000 -0300" stop="223000 -0300" channel="fkids.br"><weekday days="qua" />
+ <title lang="pt">Carga dupla: Digimon</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
+</programme>
+<programme start="220000 -0300" stop="223000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sex" />
  <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
 </programme>
