@@ -1380,17 +1380,25 @@
  <title lang="pt">Contos da Cripta - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
  <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
 </programme>
-<programme start="060000 -0300" stop="063000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="060000 -0300" stop="063000 -0300" channel="fkids.br"><weekday days="seg,ter,sex" />
  <title lang="pt">Digimon - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
  <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
 </programme>
-<programme start="063000 -0300" stop="070000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="063000 -0300" stop="070000 -0300" channel="fkids.br"><weekday days="seg,ter,sex" />
  <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
 </programme>
-<programme start="070000 -0300" stop="073000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="070000 -0300" stop="073000 -0300" channel="fkids.br"><weekday days="seg,ter,sex" />
  <title lang="pt">Patlabor - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
  <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
+</programme>
+<programme start="060000 -0300" stop="073000 -0300" channel="fkids.br"><weekday days="qua" />
+ <title lang="pt">Filme: O Natal do Riquinho</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">.</desc>
+</programme>
+<programme start="060000 -0300" stop="073000 -0300" channel="fkids.br"><weekday days="qui" />
+ <title lang="pt">Filme: Um Conto de Natal</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">.</desc>
 </programme>
 <programme start="073000 -0300" stop="080000 -0300" channel="fkids.br"><weekday days="seg,ter,qui" />
  <title lang="pt">Homem-Aranha e Seus Amigos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
@@ -1424,12 +1432,12 @@
  <title lang="pt">Pica-Pau - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="093000 -0300" stop="100000 -0300" channel="fkids.br"><weekday days="seg,ter,sex" />
+<programme start="093000 -0300" stop="100000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sex" />
  <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="093000 -0300" stop="100000 -0300" channel="fkids.br"><weekday days="qua" />
- <title lang="pt">Os Padrinhos Mágicos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
+ <title lang="pt">Os Padrinhos Mágicos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://super.abril.com.br/wp-content/uploads/2018/07/p186130_ce_h9_aa.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="100000 -0300" stop="103000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
