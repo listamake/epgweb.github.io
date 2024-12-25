@@ -1440,8 +1440,16 @@
  <title lang="pt">Os Padrinhos Mágicos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://super.abril.com.br/wp-content/uploads/2018/07/p186130_ce_h9_aa.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="100000 -0300" stop="103000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+<programme start="100000 -0300" stop="103000 -0300" channel="fkids.br"><weekday days="seg,ter,sex" />
  <title lang="pt">Oggy e as Baratas - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="100000 -0300" stop="103000 -0300" channel="fkids.br"><weekday days="qua" />
+ <title lang="pt">The Story Keepers - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="100000 -0300" stop="103000 -0300" channel="fkids.br"><weekday days="qui" />
+ <title lang="pt">Oliver Twist - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="103000 -0300" stop="110000 -0300" channel="fkids.br"><weekday days="seg,ter,sex" />
@@ -1488,12 +1496,16 @@
  <title lang="pt">Especial: O Mundo De Bobby</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="130000 -0300" stop="133000 -0300" channel="fkids.br"><weekday days="seg,qua,qui,sex" />
+<programme start="130000 -0300" stop="133000 -0300" channel="fkids.br"><weekday days="seg,qua,sex" />
   <title lang="pt">Oggy e as Baratas</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="130000 -0300" stop="133000 -0300" channel="fkids.br"><weekday days="ter" />
  <title lang="pt">Especial: The Story Keepers</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="130000 -0300" stop="133000 -0300" channel="fkids.br"><weekday days="qui" />
+  <title lang="pt">Oliver Twist</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="133000 -0300" stop="140000 -0300" channel="fkids.br"><weekday days="seg,sex" />
