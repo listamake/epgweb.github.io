@@ -3303,13 +3303,39 @@
  <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
  <desc lang="pt">No Series você assiste as melhores Series da TV!</desc>
 </programme>
-   
-<programme start="000000 -0300" stop="120000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação StrikerVerso</title> <icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
- <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>AL</value></rating>
+
+
+<!-- Programas Kanade--> <!--Seg a Sex-->
+<programme start="000000 -0300" stop="003000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">A Coelhinha Invisível (REP)</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/04/bunny-200x144.webp" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
 </programme>
-<programme start="120000 -0300" stop="r000000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab,dom" />
- <title lang="pt">Programação StrikerVerso</title><icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
+<programme start="003000 -0300" stop="010000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Orange (REP)</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/04/orange-200x144.webp" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
+</programme>
+<programme start="010000 -0300" stop="053000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Programação Kanade</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/04/bunny-200x144.webp" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
+</programme>
+<programme start="053000 -0300" stop="073000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Hora Wave</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/04/horawave-1-200x144.png" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>10</value></rating>
+</programme>
+<programme start="073000 -0300" stop="080000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">As Aventuras de Tintim</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/03/tintim-1-200x144.webp" />
+ <desc lang="pt">O programa conta a história de um jovem repórter belga chamado Tintin e todas as aventuras perigosas, emocionantes e bem-humoradas que ele vive em todo o mundo.</desc> <rating system="CLASSIND"><value>L</value></rating>
+</programme>
+<programme start="080000 -0300" stop="r000000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Programação Kanade</title><icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
+</programme>
+<programme start="073000 -0300" stop="r000000 -0300" channel="StrikerVerso.br"> <weekday days="sab" />
+ <title lang="pt">Programação Kanade</title><icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
+</programme>
+<programme start="000000 -0300" stop="r000000 -0300" channel="StrikerVerso.br"> <weekday days="dom" />
+ <title lang="pt">Programação Kanade</title><icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
  <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
  <!-- Programas TV Gazin--> <!--Seg a Sex-->
