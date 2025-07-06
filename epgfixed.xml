@@ -1465,7 +1465,7 @@
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="143000 -0300" stop="150000 -0300" channel="fkids.br"><weekday days="ter,qui" />
- <title lang="pt">Power Ranger</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+ <title lang="pt">Power Ranger Zeo</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="150000 -0300" stop="153000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
@@ -1533,7 +1533,7 @@
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="210000 -0300" stop="213000 -0300" channel="fkids.br"><weekday days="ter,qui" />
- <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+ <title lang="pt">Power Ranger Zeo- Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="213000 -0300" stop="220000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
@@ -3307,26 +3307,42 @@
 
 <!-- Programas Kanade--> <!--Seg a Sex-->
 <programme start="000000 -0300" stop="003000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">A Coelhinha Invisível (REP)</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/04/bunny-200x144.webp" />
+ <title lang="pt">Incidentes de Kemono (REPRISE)</title> <icon src="" />
  <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
 </programme>
 <programme start="003000 -0300" stop="010000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">Orange (REP)</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/04/orange-200x144.webp" />
+ <title lang="pt">Hanako-kun e os Mistérios do Colégio Kamome (REPRISE)</title> <icon src="" />
  <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
 </programme>
-<programme start="010000 -0300" stop="053000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="010000 -0300" stop="020000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Eu Não Sou um Robô (REPRISE)</title> <icon src="" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
+</programme>
+<programme start="020000 -0300" stop="023000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Dr. Stone (REPRISE)</title> <icon src="" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
+</programme>
+<programme start="023000 -0300" stop="030000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+ <title lang="pt">Super Doll Licca-Chan (REPRISE)</title> <icon src="" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
+</programme>
+<programme start="030000 -0300" stop="033000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">BNA: Brand New Animal (REPRISE)</title> <icon src="" />
+ <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
+</programme>
+<programme start="010000 -0300" stop="050000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Programação Kanade</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/04/bunny-200x144.webp" />
  <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
 </programme>
-<programme start="053000 -0300" stop="073000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="050000 -0300" stop="080000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex,sab" />
  <title lang="pt">Hora Wave</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/04/horawave-1-200x144.png" />
  <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>10</value></rating>
 </programme>
-<programme start="073000 -0300" stop="080000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
- <title lang="pt">As Aventuras de Tintim</title> <icon src="https://kanade.com.br/wp-content/uploads/2025/03/tintim-1-200x144.webp" />
- <desc lang="pt">O programa conta a história de um jovem repórter belga chamado Tintin e todas as aventuras perigosas, emocionantes e bem-humoradas que ele vive em todo o mundo.</desc> <rating system="CLASSIND"><value>L</value></rating>
+<programme start="080000 -0300" stop="083000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Tiny Toon</title> <icon src="" />
+ <desc lang="pt"></desc> <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="080000 -0300" stop="r000000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
+<programme start="083000 -0300" stop="r000000 -0300" channel="StrikerVerso.br"> <weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Programação Kanade</title><icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
  <desc lang="pt">Descubra o inesperado</desc> <rating system="CLASSIND"><value>14</value></rating>
 </programme>
