@@ -1356,7 +1356,7 @@
  <title lang="pt">O Fantastico Mundo De Bobby - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="033000 -0300" stop="040000 -0300" channel="fkids.br"><weekday days="seg,ter,qui,sab" />
+<programme start="033000 -0300" stop="040000 -0300" channel="fkids.br"><weekday days="seg,ter,qui" />
  <title lang="pt">Homem-Aranha e Seus Amigos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
  <desc lang="pt">Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc>
 </programme>
@@ -1364,19 +1364,19 @@
  <title lang="pt">The Tick - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
  <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
 </programme>
-<programme start="040000 -0300" stop="043000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="040000 -0300" stop="043000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="043000 -0300" stop="050000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Power Ranger - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+<programme start="043000 -0300" stop="050000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
+ <title lang="pt">Power Ranger  - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="050000 -0300" stop="053000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="050000 -0300" stop="053000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Goosebumps - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://imgix.bustle.com/rehost/2016/10/4/ed163b47-16f3-45da-b52d-352a209bfa76.jpg" />
  <desc lang="pt">Inspirada nas histórias de terror para adolescentes de R.L. Stine, essa premiada série adentra nos mundos tenebrosos das tramas de suspense.</desc>
 </programme>
-<programme start="053000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex,sab" />
+<programme start="053000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Contos da Cripta - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
  <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
 </programme>
@@ -1557,7 +1557,22 @@
  <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
 </programme>
 
-
+<programme start="033000 -0300" stop="040000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Oggy e as Baratas - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="040000 -0300" stop="043000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Digimon - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
+</programme>
+<programme start="043000 -0300" stop="050000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
+</programme>
+<programme start="050000 -0300" stop="053000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Patlabor - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
+ <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
+</programme>
 <programme start="060000 -0300" stop="070000 -0300" channel="fkids.br"><weekday days="sab" />
  <title lang="pt">Maratona: The Tick</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
  <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
@@ -1610,7 +1625,7 @@
  <title lang="pt">Maratona: Homen Aranha</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="053000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="dom" />
+<programme start="053000 -0300" stop="060000 -0300" channel="fkids.br"><weekday days="sab,dom" />
  <title lang="pt">Esquadrilha Aeréa</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
