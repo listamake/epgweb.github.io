@@ -1655,8 +1655,8 @@
 </programme>
 <programme start="190000 -0300" stop="210000 -0300" channel="fkids.br"><weekday days="dom" />
       <title lang="pt">Cineskopio - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
-      <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
-   
+      <desc lang="pt"> Fox kids o seu canal favorito.</desc>
+</programme> 
 <programme start="210000 -0300" stop="213000 -0300" channel="fkids.br"><weekday days="dom" />
  <title lang="pt">Esquadrilha Aérea</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
  <desc lang="pt"> Fox kids o seu canal favorito.</desc>
@@ -1668,17 +1668,17 @@
 
    
  <!-- Programas Ideal TV--> <!--Seg a Sex-->
-<programme start="000000 -0300" stop="030000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Programação Igreja Mundial</title> <rating system="CLASSIND"><value>10</value></rating><icon src="https://noticiasdatv.uol.com.br/media/_versions/_versions/noticias/2014/valdemiro_santiago_igreja_mundial_free_big_fixed_large.jpg" />
- <desc lang="pt">Acompanhe a programação da Igreja Mundial do Poder de Deus.</desc>
+<programme start="000000 -0300" stop="030000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Xsports</title> <rating system="CLASSIND"><value>10</value></rating><icon src="https://noticiasdatv.uol.com.br/media/_versions/_versions/noticias/2014/valdemiro_santiago_igreja_mundial_free_big_fixed_large.jpg" />
+ <desc lang="pt">Acompanhe a programação do Xsports.</desc>
 </programme>
-<programme start="030000 -0300" stop="040000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">De Olho no Mundo</title> <rating system="CLASSIND"><value>12</value></rating><icon src="https://i.ytimg.com/vi/gP9jXcs5gk0/maxresdefault.jpg" />
+<programme start="030000 -0300" stop="040000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Mundo em Foco</title> <rating system="CLASSIND"><value>12</value></rating><icon src="https://i.ytimg.com/vi/gP9jXcs5gk0/maxresdefault.jpg" />
  <desc lang="pt">Acompanhe as últimas notícias do mundo, com conteúdos da AFP.</desc>
 </programme>
-<programme start="040000 -0300" stop="r000000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab" />
- <title lang="pt">Programação Igreja Mundial</title> <rating system="CLASSIND"><value>10</value></rating><icon src="https://noticiasdatv.uol.com.br/media/_versions/_versions/noticias/2014/valdemiro_santiago_igreja_mundial_free_big_fixed_large.jpg" />
- <desc lang="pt">Acompanhe a programação da Igreja Mundial do Poder de Deus.</desc>
+<programme start="040000 -0300" stop="r000000 -0300" channel="idtv.br"><weekday days="seg,ter,qua,qui,sex,sab,dom" />
+ <title lang="pt">Programação Xsports</title> <rating system="CLASSIND"><value>10</value></rating><icon src="https://noticiasdatv.uol.com.br/media/_versions/_versions/noticias/2014/valdemiro_santiago_igreja_mundial_free_big_fixed_large.jpg" />
+ <desc lang="pt">Acompanhe a programação do Xsports.</desc>
 </programme>
    
 <programme start="000000 -0300" stop="010000 -0300" channel="idtv.br"><weekday days="dom" />
