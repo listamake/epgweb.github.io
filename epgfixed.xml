@@ -1380,13 +1380,9 @@
  <title lang="pt">Contos da Cripta - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
  <desc lang="pt">A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc>
 </programme>
-<programme start="060000 -0300" stop="063000 -0300" channel="fkids.br"><weekday days="seg,ter,qui" />
+<programme start="060000 -0300" stop="063000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Digimon 2 - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.comboinfinito.com.br/principal/wp-content/uploads/2022/08/Digimon-2.jpg" />
  <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-</programme>
-<programme start="060000 -0300" stop="063000 -0300" channel="fkids.br"><weekday days="qua,sex" />
- <title lang="pt">O Incrível Hulk - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="063000 -0300" stop="070000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
@@ -1428,13 +1424,9 @@
  <title lang="pt">Oggy e as Baratas - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating><icon src="" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="103000 -0300" stop="110000 -0300" channel="fkids.br"><weekday days="seg,ter,qui" />
+<programme start="103000 -0300" stop="110000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Digimon 2 - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.comboinfinito.com.br/principal/wp-content/uploads/2022/08/Digimon-2.jpg" />
  <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-</programme>
-<programme start="103000 -0300" stop="110000 -0300" channel="fkids.br"><weekday days="qua,sex" />
- <title lang="pt">O Incrível Hulk</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="110000 -0300" stop="113000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
@@ -1504,13 +1496,9 @@
    <title lang="pt">Power Ranger Zeo - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="173000 -0300" stop="180000 -0300" channel="fkids.br"><weekday days="seg,qua,sex" />
+<programme start="173000 -0300" stop="180000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Digimon 2</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.comboinfinito.com.br/principal/wp-content/uploads/2022/08/Digimon-2.jpg" />
  <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-</programme>
-<programme start="173000 -0300" stop="180000 -0300" channel="fkids.br"><weekday days="ter,qui" />
- <title lang="pt">O Incrível Hulk</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="180000 -0300" stop="183000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Medabots</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
@@ -1548,13 +1536,9 @@
  <title lang="pt">Power Ranger Zeo - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="213000 -0300" stop="220000 -0300" channel="fkids.br"><weekday days="seg,qua,sex" />
+<programme start="213000 -0300" stop="220000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Digimon 2 - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.comboinfinito.com.br/principal/wp-content/uploads/2022/08/Digimon-2.jpg" />
  <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-</programme>
-<programme start="213000 -0300" stop="220000 -0300" channel="fkids.br"><weekday days="ter,qui" />
- <title lang="pt">O Incrível Hulk - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="220000 -0300" stop="223000 -0300" channel="fkids.br"><weekday days="seg,ter,qua,qui,sex" />
  <title lang="pt">Medabots - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
@@ -1610,20 +1594,16 @@
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="160000 -0300" stop="183000 -0300" channel="fkids.br"><weekday days="sab" />
- <title lang="pt">Sábado Aranha</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
-</programme>
-<programme start="183000 -0300" stop="193000 -0300" channel="fkids.br"><weekday days="sab" />
- <title lang="pt">Sábado Verde</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
-</programme>
-<programme start="193000 -0300" stop="210000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Sábado Aranha</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+ <desc lang="pt">Assista de novo os episódios da semana.</desc>
+</programme> 
+<programme start="183000 -0300" stop="230000 -0300" channel="fkids.br"><weekday days="sab" />
  <title lang="pt">Evolusábado</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
  <desc lang="pt">Assista de novo os episódios com as mais geniais digievoluções de todos os tempos.</desc>
 </programme>   
-<programme start="210000 -0300" stop="233000 -0300" channel="fkids.br"><weekday days="sab" />
- <title lang="pt">Maratona: Patlabor</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
- <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
+<programme start="230000 -0300" stop="233000 -0300" channel="fkids.br"><weekday days="sab" />
+ <title lang="pt">Esquadrilha Aeréa</title> <rating system="CLASSIND"><value>A10</value></rating><icon src="" />
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="233000 -0300" stop="r000000 -0300" channel="fkids.br"><weekday days="sab" />
   <title lang="pt">Os Três Patetas</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://aventurasnahistoria.com.br/media/uploads/hollywood/curly-moe-larry.jpg" />
