@@ -2577,7 +2577,7 @@
   <programme channel="fkids.br" start="010000" stop="013000">
     <title>Power Ranger Turbo - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Z7LKPnWo9xNf53jXTmKcnZLLe9Qq2k2izQ&s" />
+    <icon src="https://images.justwatch.com/backdrop/328664129/s640/temporada-5" />
     <rating>
       <value>A10</value>
     </rating>
@@ -2685,7 +2685,7 @@
   <programme channel="fkids.br" start="060000" stop="063000">
     <title>Digimon 2 - Reprise</title>
     <desc>Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gag&s" />
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gags" />
     <rating>
       <value>A10</value>
     </rating>
@@ -2748,7 +2748,7 @@
   <programme channel="fkids.br" start="083000" stop="090000">
     <title>Power Ranger Turbo - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Z7LKPnWo9xNf53jXTmKcnZLLe9Qq2k2izQ&s" />
+    <icon src="https://images.justwatch.com/backdrop/328664129/s640/temporada-5" />
     <rating>
       <value>A10</value>
     </rating>
@@ -2793,7 +2793,7 @@
   <programme channel="fkids.br" start="103000" stop="110000">
     <title>Digimon 2 - Reprise</title>
     <desc>Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gag&s" />
+    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
     <rating>
       <value>A10</value>
     </rating>
@@ -2883,7 +2883,7 @@
   <programme channel="fkids.br" start="143000" stop="150000">
     <title>Power Ranger Turbo</title>
     <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Z7LKPnWo9xNf53jXTmKcnZLLe9Qq2k2izQ&s" />
+    <icon src="https://images.justwatch.com/backdrop/328664129/s640/temporada-5" />
     <rating>
       <value>A10</value>
     </rating>
@@ -2946,7 +2946,7 @@
   <programme channel="fkids.br" start="170000" stop="173000">
     <title>Power Ranger Turbo - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Z7LKPnWo9xNf53jXTmKcnZLLe9Qq2k2izQ&s" />
+    <icon src="https://images.justwatch.com/backdrop/328664129/s640/temporada-5" />
     <rating>
       <value>A10</value>
     </rating>
@@ -2955,7 +2955,7 @@
   <programme channel="fkids.br" start="173000" stop="180000">
     <title>Digimon 2</title>
     <desc>Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gag&s" />
+    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
     <rating>
       <value>A10</value>
     </rating>
@@ -3036,7 +3036,7 @@
   <programme channel="fkids.br" start="210000" stop="213000">
     <title>Power Ranger Turbo - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Z7LKPnWo9xNf53jXTmKcnZLLe9Qq2k2izQ&s" />
+    <icon src="https://images.justwatch.com/backdrop/328664129/s640/temporada-5" />
     <rating>
       <value>A10</value>
     </rating>
@@ -3045,7 +3045,7 @@
   <programme channel="fkids.br" start="213000" stop="220000">
     <title>Digimon 2 - Reprise</title>
     <desc>Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gag&s" />
+    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
     <rating>
       <value>A10</value>
     </rating>
@@ -3097,9 +3097,9 @@
     <weekday days="sab" />
   </programme>
   <programme channel="fkids.br" start="040000" stop="043000">
-    <title>Digimon - Reprise</title>
+    <title>Digimon 2 - Reprise</title>
     <desc>Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-    <icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
+    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
     <rating>
       <value>A10</value>
     </rating>
@@ -3108,6 +3108,7 @@
   <programme channel="fkids.br" start="043000" stop="050000">
     <title>Medabots - Reprise</title>
     <desc> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg" />
     <rating>
       <value>A10</value>
     </rating>
@@ -3294,6 +3295,7 @@
   <programme channel="fkids.br" start="163000" stop="190000">
     <title>Maratona: Medabots</title>
     <desc> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg" />
     <rating>
       <value>A10</value>
     </rating>
@@ -7977,7 +7979,7 @@
   </programme>
   <programme channel="fkids.br" start="043000" stop="050000">
     <title>Power Ranger Turbo - Reprise</title>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Z7LKPnWo9xNf53jXTmKcnZLLe9Qq2k2izQ&s" />
+    <icon src="https://images.justwatch.com/backdrop/328664129/s640/temporada-5" />
     <rating>
       <value>A10</value>
     </rating>
