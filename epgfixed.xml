@@ -2054,7 +2054,7 @@
     <rating>
       <value>12</value>
     </rating>
-    <weekday days="ter,qui" />
+    <weekday days="ter,qui,seg,qua,sex" />
   </programme>
   <programme channel="Clouding.br" start="033000" stop="043000">
     <title>Programa História sem fim</title>
@@ -2554,7 +2554,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qui,sab" />
+    <weekday days="seg,ter,sab" />
   </programme>
   <programme channel="fkids.br" start="000000" stop="003000">
     <title>The Tick - Reprise</title>
@@ -2572,7 +2572,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <weekday days="seg,ter,qua,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="010000" stop="013000">
     <title>Power Ranger Turbo - Reprise</title>
@@ -2590,7 +2590,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qui,sab" />
+    <weekday days="seg,ter,sab" />
   </programme>
   <programme channel="fkids.br" start="013000" stop="020000">
     <title>Goosebumps - Reprise</title>
@@ -2599,7 +2599,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <weekday days="seg,ter,qua,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="020000" stop="023000">
     <title>Contos da Cripta - Reprise</title>
@@ -2608,7 +2608,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <weekday days="seg,ter,qua,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="023000" stop="030000">
     <title>Super Pig - Reprise</title>
@@ -2617,7 +2617,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <weekday days="seg,ter,qua,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="030000" stop="033000">
     <title>O Fantastico Mundo De Bobby - Reprise</title>
@@ -2626,7 +2626,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <weekday days="seg,ter,qua,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="033000" stop="040000">
     <title>Homem-Aranha e Seus Amigos - Reprise</title>
@@ -2635,7 +2635,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qui" />
+    <weekday days="seg,ter" />
   </programme>
   <programme channel="fkids.br" start="033000" stop="040000">
     <title>The Tick - Reprise</title>
@@ -2653,7 +2653,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,sex" />
   </programme>
   <programme channel="fkids.br" start="043000" stop="050000">
     <title>Power Ranger: Força do Tempo - Reprise</title>
@@ -2662,7 +2662,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qui" />
+    <weekday days="seg,ter" />
   </programme>
   <programme channel="fkids.br" start="050000" stop="053000">
     <title>Goosebumps - Reprise</title>
@@ -2671,7 +2671,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,sex" />
   </programme>
   <programme channel="fkids.br" start="053000" stop="060000">
     <title>Contos da Cripta - Reprise</title>
@@ -2680,25 +2680,16 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,sex" />
   </programme>
   <programme channel="fkids.br" start="060000" stop="063000">
     <title>Digimon 2 - Reprise</title>
     <desc>Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gags" />
+    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qui" />
-  </programme>
-  <programme channel="fkids.br" start="060000" stop="063000">
-    <title>O Incrível Hulk - Reprise</title>
-    <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
-    <rating>
-      <value>A10</value>
-    </rating>
-    <weekday days="qua,sex" />
+    <weekday days="seg,ter,qui,qua,sex" />
   </programme>
   <programme channel="fkids.br" start="063000" stop="070000">
     <title>Medabots - Reprise</title>
@@ -2743,7 +2734,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,sex" />
   </programme>
   <programme channel="fkids.br" start="083000" stop="090000">
     <title>Power Ranger Turbo - Reprise</title>
@@ -2770,7 +2761,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,sex" />
   </programme>
   <programme channel="fkids.br" start="093000" stop="100000">
     <title>O Fantastico Mundo De Bobby - Reprise</title>
@@ -2779,7 +2770,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,sex" />
   </programme>
   <programme channel="fkids.br" start="100000" stop="103000">
     <title>Oggy e as Baratas - Reprise</title>
@@ -2788,7 +2779,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,sex" />
   </programme>
   <programme channel="fkids.br" start="103000" stop="110000">
     <title>Digimon 2 - Reprise</title>
@@ -3085,7 +3076,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="033000" stop="040000">
     <title>Oggy e as Baratas - Reprise</title>
@@ -4960,7 +4951,7 @@
     </rating>
     <weekday days="sab" />
   </programme>
-  <programme channel="radiocidadeverde.br" start="000000" stop="r00000">
+  <programme channel="radiocidadeverde.br" start="000000" stop="000000">
     <title>Parada Musical</title>
     <desc> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
     <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
@@ -5249,7 +5240,7 @@
     </rating>
     <weekday days="seg,ter,qua,qui,sex" />
   </programme>
-  <programme channel="radioclubeampe.br" start="200000" stop="r00000">
+  <programme channel="radioclubeampe.br" start="200000" stop="000000">
     <title>Faixa Musical</title>
     <desc>Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
     <icon src="https://yt3.googleusercontent.com/dgVBx9XBWn5HY7R7mVag5cKbwzhSzIWukaQcKjeNwte_5qfUfNx_nxU2KN_dS5deCN67FD8xIw=s900-c-k-c0x00ffffff-no-rj" />
@@ -5300,7 +5291,7 @@
     </rating>
     <weekday days="sab" />
   </programme>
-  <programme channel="radioclubeampe.br" start="170000" stop="r00000">
+  <programme channel="radioclubeampe.br" start="170000" stop="000000">
     <title>Programação Super Rádio Clube</title>
     <desc>A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
     <rating>
@@ -5332,7 +5323,7 @@
     </rating>
     <weekday days="dom" />
   </programme>
-  <programme channel="radioclubeampe.br" start="140000" stop="r00000">
+  <programme channel="radioclubeampe.br" start="140000" stop="000000">
     <title>Faixa Músical</title>
     <desc>A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
     <icon src="https://img.olhardigital.com.br/wp-content/uploads/2023/06/futebol.jpg" />
@@ -5506,7 +5497,7 @@
     </rating>
     <weekday days="sab,dom" />
   </programme>
-  <programme channel="rbctv.br" start="120000" stop="r00000">
+  <programme channel="rbctv.br" start="120000" stop="000000">
     <title>Programação RBC</title>
     <desc>Filmes Variados</desc>
     <rating>
@@ -6216,7 +6207,7 @@
     </rating>
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
   </programme>
-  <programme channel="turnerdemo.br" start="003000" stop="013000">
+  <programme channel="turnerdemo.br" start="003300" stop="013000">
     <title>Looney Tunes - Reprise</title>
     <desc>Acompanhe os parceiros Pernalonga e Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda, e sempre prontos para fazer novas amizades! </desc>
     <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
@@ -8133,5 +8124,37 @@
       <value>L</value>
     </rating>
     <weekday days="sab,seg,dom,ter,qui,qua,sex" />
+  </programme>
+  <programme channel="fkids.br" start="233000" stop="053000">
+    <title>Especial: Os Três Patetas</title>
+    <icon src="https://aventurasnahistoria.com.br/media/uploads/hollywood/curly-moe-larry.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+    <weekday days="qua" />
+  </programme>
+  <programme channel="fkids.br" start="053000" stop="060000">
+    <title>The Tick - Reprise</title>
+    <icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+    <weekday days="qui" />
+  </programme>
+  <programme channel="fkids.br" start="080000" stop="100000">
+    <title>Especial: O Príncipe do Egito </title>
+    <icon src="https://m.media-amazon.com/images/S/pv-target-images/7cfa326516212d7d76b90a2b4058ed40eab6539bebb3c9281884c89bc3a5870c._SX1080_FMjpg_.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+    <weekday days="qui" />
+  </programme>
+  <programme channel="fkids.br" start="100000" stop="103000">
+    <title>Especial: O Menino de Gahan Wilson </title>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeEDecj2NDc2QWp2b4RELDfzSC3dR4w8TNQ" />
+    <rating>
+      <value>L</value>
+    </rating>
+    <weekday days="qui" />
   </programme>
 </tv>
