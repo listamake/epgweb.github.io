@@ -2752,7 +2752,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qui" />
+    <weekday days="seg,ter" />
   </programme>
   <programme channel="fkids.br" start="090000" stop="093000">
     <title>Super Pig - Reprise</title>
