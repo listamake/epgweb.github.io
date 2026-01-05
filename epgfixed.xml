@@ -2554,7 +2554,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,sab" />
+    <weekday days="seg,ter,qui,sab" />
   </programme>
   <programme channel="fkids.br" start="000000" stop="003000">
     <title>The Tick - Reprise</title>
@@ -2572,7 +2572,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,sex,sab" />
+    <weekday days="seg,ter,qua,qui,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="010000" stop="013000">
     <title>Power Ranger Turbo - Reprise</title>
@@ -2590,7 +2590,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,sab" />
+    <weekday days="seg,ter,qui,sab" />
   </programme>
   <programme channel="fkids.br" start="013000" stop="020000">
     <title>Goosebumps - Reprise</title>
@@ -2599,7 +2599,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,sex,sab" />
+    <weekday days="seg,ter,qua,qui,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="020000" stop="023000">
     <title>Contos da Cripta - Reprise</title>
@@ -2608,7 +2608,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,sex,sab" />
+    <weekday days="seg,ter,qua,qui,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="023000" stop="030000">
     <title>Super Pig - Reprise</title>
@@ -2617,7 +2617,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,sex,sab" />
+    <weekday days="seg,ter,qua,qui,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="030000" stop="033000">
     <title>O Fantastico Mundo De Bobby - Reprise</title>
@@ -2626,7 +2626,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,sex,sab" />
+    <weekday days="seg,ter,qua,qui,sex,sab" />
   </programme>
   <programme channel="fkids.br" start="033000" stop="040000">
     <title>Homem-Aranha e Seus Amigos - Reprise</title>
@@ -2635,7 +2635,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter" />
+    <weekday days="seg,ter,qui" />
   </programme>
   <programme channel="fkids.br" start="033000" stop="040000">
     <title>The Tick - Reprise</title>
@@ -2653,7 +2653,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,sex" />
+    <weekday days="seg,ter,qua,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="043000" stop="050000">
     <title>Power Ranger: Força do Tempo - Reprise</title>
@@ -2662,7 +2662,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter" />
+    <weekday days="seg,ter,qui" />
   </programme>
   <programme channel="fkids.br" start="050000" stop="053000">
     <title>Goosebumps - Reprise</title>
@@ -2671,7 +2671,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,sex" />
+    <weekday days="seg,ter,qua,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="053000" stop="060000">
     <title>Contos da Cripta - Reprise</title>
@@ -2680,16 +2680,25 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,sex" />
+    <weekday days="seg,ter,qua,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="060000" stop="063000">
     <title>Digimon 2 - Reprise</title>
     <desc>Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gags" />
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qui,qua,sex" />
+    <weekday days="seg,ter,qui" />
+  </programme>
+  <programme channel="fkids.br" start="060000" stop="063000">
+    <title>O Incrível Hulk - Reprise</title>
+    <desc>Fox kids o seu canal favorito.</desc>
+    <icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
+    <rating>
+      <value>A10</value>
+    </rating>
+    <weekday days="qua,sex" />
   </programme>
   <programme channel="fkids.br" start="063000" stop="070000">
     <title>Medabots - Reprise</title>
@@ -2734,7 +2743,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qua,sex" />
+    <weekday days="seg,ter,qua,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="083000" stop="090000">
     <title>Power Ranger Turbo - Reprise</title>
@@ -2752,7 +2761,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter" />
+    <weekday days="seg,ter,qui" />
   </programme>
   <programme channel="fkids.br" start="090000" stop="093000">
     <title>Super Pig - Reprise</title>
@@ -2761,7 +2770,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,sex" />
+    <weekday days="seg,ter,qua,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="093000" stop="100000">
     <title>O Fantastico Mundo De Bobby - Reprise</title>
@@ -2770,7 +2779,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,sex" />
+    <weekday days="seg,ter,qua,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="100000" stop="103000">
     <title>Oggy e as Baratas - Reprise</title>
@@ -2779,7 +2788,7 @@
     <rating>
       <value>AL</value>
     </rating>
-    <weekday days="seg,ter,qua,sex" />
+    <weekday days="seg,ter,qua,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="103000" stop="110000">
     <title>Digimon 2 - Reprise</title>
@@ -3076,7 +3085,7 @@
     <rating>
       <value>A10</value>
     </rating>
-    <weekday days="seg,ter,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex" />
   </programme>
   <programme channel="fkids.br" start="033000" stop="040000">
     <title>Oggy e as Baratas - Reprise</title>
@@ -8124,37 +8133,5 @@
       <value>L</value>
     </rating>
     <weekday days="sab,seg,dom,ter,qui,qua,sex" />
-  </programme>
-  <programme channel="fkids.br" start="233000" stop="053000">
-    <title>Especial: Os Três Patetas</title>
-    <icon src="https://aventurasnahistoria.com.br/media/uploads/hollywood/curly-moe-larry.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-    <weekday days="qua" />
-  </programme>
-  <programme channel="fkids.br" start="053000" stop="060000">
-    <title>The Tick - Reprise</title>
-    <icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-    <weekday days="qui" />
-  </programme>
-  <programme channel="fkids.br" start="080000" stop="100000">
-    <title>Especial: O Príncipe do Egito </title>
-    <icon src="https://m.media-amazon.com/images/S/pv-target-images/7cfa326516212d7d76b90a2b4058ed40eab6539bebb3c9281884c89bc3a5870c._SX1080_FMjpg_.jpg" />
-    <rating>
-      <value>10</value>
-    </rating>
-    <weekday days="qui" />
-  </programme>
-  <programme channel="fkids.br" start="100000" stop="103000">
-    <title>Especial: O Menino de Gahan Wilson </title>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeEDecj2NDc2QWp2b4RELDfzSC3dR4w8TNQ" />
-    <rating>
-      <value>L</value>
-    </rating>
-    <weekday days="qui" />
   </programme>
 </tv>
