@@ -226,6 +226,9 @@
     <display-name>Yeeaah HD</display-name>
     <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp" />
   </channel>
+  <channel id="AcessoKids">
+    <display-name>Jetix</display-name>
+  </channel>
   <programme start="000000" stop="120000" channel="animetv.br">
     <title>Programação de Animes</title>
     <desc>Varios animes</desc>
@@ -279,14 +282,14 @@
     <title>Insight</title>
     <desc>No programa Insight o Monge Daiko sempre traz reflexões para o nosso dia a dia. Ele também nos convida ao autoconhecimento através da prática da meditação.</desc>
     <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
-    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
   <programme start="110000" stop="130000" channel="AstralTV.br">
     <title>Bom Astral</title>
     <desc>Bate-papos informativos com temática de espiritualidade, autoajuda, bem estar, autoconhecimento, terapias holísticas, dentre outras ferramentas que irão colaborar com o seu desenvolvimento pessoal.</desc>
     <icon src="https://aquitemfofoca.com.br/wp-content/uploads/2023/08/e0e9ad_e2c2bf2b828f477a861a28a912a90bf7mv2.webp" />
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
   <programme start="130000" stop="133000" channel="AstralTV.br">
@@ -618,7 +621,7 @@
   <programme start="010000" stop="013000" channel="Geekdot.br">
     <title>Seinfield (Reprise)</title>
     <desc>O comediante Jerry Seinfeld, o atrapalhado George Constanza, a frustrada Elaine Benes e o excêntrico Cosmo Kramer são quatro amigos que lidam com os absurdos do cotidiano em Nova York.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/91371064/s640/serial-experiments-lain/serial-experiments-lain" />
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/Seinfeld-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex,sab" />
     <rating><value>12</value></rating>
   </programme>
@@ -632,46 +635,46 @@
   <programme start="033000" stop="040000" channel="Geekdot.br">
     <title>SPY x FAMILY (Reprise)</title>
     <desc>Para investigar os movimentos do presidente de um importante partido político, Westalis mobiliza Twilight, seu melhor agente, para montar uma família falsa e se infiltrar em eventos sociais promovidos pela escola do filho do político. Mas por um acaso do destino, Twilight acaba adotando Anya, uma jovem com poderes telepáticos, e se "casando" com Yor, um assassino profissional! Sem saber das identidades uns dos outros, este trio incomum vai embarcar em aventuras cheias de surpresas para garantir a paz mundial.</desc>
-    <icon src="https://novaerageek.com.br/wp-content/uploads/2023/09/o-tempo-traz-voce-pra-mim-k-drama.webp" />
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/spy-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex,sab" />
     <rating><value>14</value></rating>
   </programme>
   <programme start="040000" stop="043000" channel="Geekdot.br">
-    <title>Dois Homens E Meio</title>
-    <desc>A série que acompanha a vida de dois irmãos, Charlie e Alan Harper, junto com o filho de Alan, Jake. A trama gira em torno das situações hilárias e complicadas que surgem quando o solteirão Charlie permite que seu irmão divorciado e seu sobrinho morem em sua casa. A série aborda temas como relacionamentos, família e humor adulto.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/8607461/s640/two-and-a-half-men/two-and-a-half-men" />
+    <title>Futurama (Reprise)</title>
+    <desc>Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço. Ele vai trabalhar para a Planet Express Corporation, um serviço de entrega futurista que transporta pacotes para todos os cinco quadrantes do universo.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/futurama-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex,sab" />
-    <rating><value>12</value></rating>
+    <rating><value>14</value></rating>
   </programme>
   <programme start="043000" stop="050000" channel="Geekdot.br">
-    <title>Como Eu Conheci Sua Mãe</title>
-    <desc>Ted Mosby se senta com seus filhos para contar a história de como conheceu a mãe deles. A história é contada através das memórias de seus amigos Marshall, Lily, Robin e Barney Stinson.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/178160052/s480/how-i-met-your-mother/how-i-met-your-mother" />
+    <title>Ryukendo (Reprise)</title>
+    <desc>Kenji Narukami, um jovem que se transforma no guerreiro místico Ryukendo para lutar contra as forças do mal. A cidade de Akebono é constantemente ameaçada pela organização demoníaca Jamanga, que busca dominar o mundo. Com a ajuda do Mestre Ryujin e a força do Dragão Espiritual, Kenji e seus aliados, Ryuguno e Ryujino, utilizam espadas místicas e veículos poderosos para enfrentar monstros e proteger a humanidade.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/rz4gh4KvISMO8WYQN5Qc2m233v7-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex,sab" />
     <rating><value>12</value></rating>
   </programme>
   <programme start="050000" stop="053000" channel="Geekdot.br">
-    <title>Três É Demais</title>
-    <desc>Esta é uma história sobre o locutor esportivo que virou apresentador de talk show matinal Danny Tanner e suas filhas, DJ (Donna Jo), Stephanie e Michelle. Antes do show começar, sua esposa Pam, é morta por um motorista bêbado, então ele precisa de ajuda para criar Suas filhas.</desc>
-    <icon src="https://cdn.fstatic.com/public/articles/files/2014/08/c649dbb1-e042-4836-8516-ae97b1571422.jpg" />
+    <title>O Policial de Aço: Jiban (Reprise)</title>
+    <desc>Naoto Tamura, um policial que, após ser gravemente ferido em uma emboscada, é ressuscitado como o policial ciborgue Jiban. Equipado com uma armadura de alta tecnologia e diversas armas, ele luta contra a organização criminosa Biolon, liderada pela maléfica Dr. Giba, que usa monstros biomecânicos para ameaçar a humanidade.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/jiban-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex,sab" />
     <rating><value>12</value></rating>
   </programme>
   <programme start="053000" stop="060000" channel="Geekdot.br">
-    <title>Produção Indepedente</title>
-    <desc>É Anime na veia!.</desc>
-    <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
-    <weekday days="seg,ter,qua,qui,sex,sab" />
-    <rating><value>14</value></rating>
-  </programme>
-  <programme start="060000" stop="070000" channel="Geekdot.br">
-    <title>CyberLife</title>
-    <desc>Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
-    <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+    <title>Black Kamen Rider (Reprise)</title>
+    <desc>Issamu Minami e seu irmão Nobuhiko Akizuki são sequestrados pela seita maligna Gorgom para se tornarem Imperadores Seculares de Gorgom. Mas Issamu consegue fugir antes de sofrer lavagem cerebral, e para resgatar Nobuhiko, se torna o Black Kamen Rider!</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/BlackKamenRider_01-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex,sab" />
     <rating><value>12</value></rating>
   </programme>
-  <programme start="070000" stop="080000" channel="Geekdot.br">
+  <programme start="060000" stop="063000" channel="Geekdot.br">
+    <title>With You and the Rain (Reprise)</title>
+    <desc>Num dia chuvoso, Fuji encontra uma criaturinha fofa disfarçada de cachorro, que lhe oferece um guarda-chuva e um cartão com a frase Por favor, me leve para casa, e ela não resiste. Com o charme peculiar e os modos misteriosos desse cãozinho de cartaz, a vida juntos se transforma numa aventura emocionante de amizade e momentos compartilhados.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/rain-e1763993906846-200x144.jpeg" />
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>10</value></rating>
+  </programme>
+  <programme start="070000" stop="073000" channel="Geekdot.br">
     <title>Programação Geekdot</title>
     <desc>Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
     <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
@@ -679,20 +682,16 @@
     <rating><value>12</value></rating>
   </programme>
   <programme start="090000" stop="093000" channel="Geekdot.br">
-    <title>Jelly Jamm</title>
-    <desc>Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
-    <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+    <title>Street Fighter: The Animated Series</title>
     <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>L</value></rating>
+    <rating><value>10</value></rating>
   </programme>
   <programme start="093000" stop="100000" channel="Geekdot.br">
-    <title>Ursos sem Curso</title>
-    <desc>Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
+    <title>The Real Ghostbusters</title>
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>L</value></rating>
   </programme>
-  <programme start="100000" stop="103000" channel="Geekdot.br">
+  <programme start="073000" stop="080000" channel="Geekdot.br">
     <title>Pita Ten (Reprise)</title>
     <desc>Kotarou tem uma vida comum, exceto seus amigos de escola que alegram sua vida. Um dia, uma aprendiz de anjo aparece em sua vida acompanhada de uma aprendiz de demônio e sua gata surpevisora.</desc>
     <icon src="https://www.justwatch.com/images/backdrop/270814875/s640/aoashi/aoashi" />
@@ -700,30 +699,28 @@
     <rating><value>12</value></rating>
   </programme>
   <programme start="103000" stop="110000" channel="Geekdot.br">
-    <title>Super Campeões J (Reprise)</title>
-    <desc>Jin Mori diz a todos que é o colegial mais forte que existe. Sua vida muda quando é convidado a participar do "God of High School", um torneio que decidirá quem é o colegial mais forte de todos, e que garantirá ao vencedor a realização de qualquer desejo que ele tiver. </desc>
-    <icon src="https://images.justwatch.com/backdrop/193558254/s640/the-god-of-high-school" />
+    <title>Ursos sem Curso</title>
     <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>14</value></rating>
+    <rating><value>L</value></rating>
   </programme>
   <programme start="110000" stop="113000" channel="Geekdot.br">
-    <title>Tenchi Universe (Reprise)</title>
-    <desc>Yuri Katsuki carregava a esperança de todo o Japão no Grande Prêmio de Patinação Artística, mas sofreu uma derrota esmagadora nas finais.</desc>
-    <icon src="https://images.justwatch.com/backdrop/11652527/s640/yuri-on-ice" />
+    <title>Anne Shirley</title>
+    <desc>Na bela Ilha do Príncipe Edward no Canadá, uma órfã chamada Anne Shirley é mandada por engano para Green Gables, terra de Matthew e Marilla Cuthbert. Eles escolhem mesmo assim adotá-la, e Anne encontra amizade, amor e alegria em sua nova casa.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/anime_anne_shirley_01__92px1y-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>14</value></rating>
+    <rating><value>10</value></rating>
   </programme>
-  <programme start="113000" stop="120000" channel="Geekdot.br">
+  <programme start="083000" stop="090000" channel="Geekdot.br">
     <title>Yu Yu Hakusho (Reprise)</title>
     <desc>Expulso de seu time, Makoto encontra uma nova chance de brilhar nas quadras de badminton... Tornando-se um assalariado.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/266862639/s640/salarymans-club/salarymans-club" />
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/tenchi-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
   <programme start="120000" stop="123000" channel="Geekdot.br">
     <title>Ryukendo</title>
     <desc>A história segue cinco jovens terrestres que foram sequestrados por alienígenas e treinados para se tornarem guerreiros Flashman, combatendo uma ameaça cósmica. Com trajes coloridos e robôs gigantes, a equipe enfrenta inimigos intergalácticos enquanto busca reencontrar suas famílias na Terra.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/202380194/s640/temporada-1/temporada-1" />
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/rz4gh4KvISMO8WYQN5Qc2m233v7-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>12</value></rating>
   </programme>
@@ -735,93 +732,65 @@
     <rating><value>12</value></rating>
   </programme>
   <programme start="130000" stop="133000" channel="Geekdot.br">
-    <title>Chuck</title>
-    <desc>Chuck Bartowski, um nerd tímido que trabalha em uma loja de eletrônicos. Sua vida muda drasticamente quando acidentalmente recebe um e-mail criptografado que carrega todos os segredos do governo americano diretamente em seu cérebro.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/8607461/s640/two-and-a-half-men/two-and-a-half-men" />
+    <title>Black Kamen Rider</title>
+    <desc>Issamu Minami e seu irmão Nobuhiko Akizuki são sequestrados pela seita maligna Gorgom para se tornarem Imperadores Seculares de Gorgom. Mas Issamu consegue fugir antes de sofrer lavagem cerebral, e para resgatar Nobuhiko, se torna o Black Kamen Rider!</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/BlackKamenRider_01-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>12</value></rating>
   </programme>
   <programme start="133000" stop="140000" channel="Geekdot.br">
-    <title>Chuck</title>
-    <desc>Chuck Bartowski, um nerd tímido que trabalha em uma loja de eletrônicos. Sua vida muda drasticamente quando acidentalmente recebe um e-mail criptografado que carrega todos os segredos do governo americano diretamente em seu cérebro.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/178160052/s480/how-i-met-your-mother/how-i-met-your-mother" />
+    <title>Seinfield</title>
+    <desc>O comediante Jerry Seinfeld, o atrapalhado George Constanza, a frustrada Elaine Benes e o excêntrico Cosmo Kramer são quatro amigos que lidam com os absurdos do cotidiano em Nova York.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/Seinfeld-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>12</value></rating>
   </programme>
-  <programme start="140000" stop="143000" channel="Geekdot.br">
-    <title>Recovery of an MMO Junkie</title>
-    <desc>Esta é uma história sobre o locutor esportivo que virou apresentador de talk show matinal Danny Tanner e suas filhas, DJ (Donna Jo), Stephanie e Michelle. Antes do show começar, sua esposa Pam, é morta por um motorista bêbado, então ele precisa de ajuda para criar Suas filhas.</desc>
-    <icon src="https://cdn.fstatic.com/public/articles/files/2014/08/c649dbb1-e042-4836-8516-ae97b1571422.jpg" />
+  <programme start="140000" stop="150000" channel="Geekdot.br">
+    <title>AniBox</title>
+    <desc>Sua tarde fica bem mais animada com o AniBox! Os clipes favoritos das Openings e Endings de animes, AMVs e muito mais, você pede e a gente coloca no ar!</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2024/05/GKD_CAPA_NEW-200x144.png" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>12</value></rating>
-  </programme>
-  <programme start="143000" stop="150000" channel="Geekdot.br">
-    <title>Skip And Loafer</title>
-    <desc>Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
-    <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>14</value></rating>
   </programme>
   <programme start="150000" stop="151500" channel="Geekdot.br">
-    <title>Achismos #3CONTINENTES FAQ</title>
-    <desc>Talentosos detetives da FTPCM, Daisuke e Haru, podem resolver qualquer mistério que lhes incubirem, a não ser que tenham um ao outro como parceiro.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/166370924/s640/fu-hao-xing-shi-balance-unlimited/fu-hao-xing-shi-balance-unlimited" />
+    <title>Carrapatos e Catapultas</title>
+    <desc>As curiosas peripécias de quatro carrapatos bicos de pato Bum, Bod, Bolão e Baixinho, habitantes do planeta Vaca.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/09/carrapatos_e_catapultas_02-200x144.webp" />
+    <weekday days="seg,ter,qua,qui,sex" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="151500" stop="154000" channel="Geekdot.br">
+    <title>SPY x FAMILY</title>
+    <desc>Para investigar os movimentos do presidente de um importante partido político, Westalis mobiliza Twilight, seu melhor agente, para montar uma família falsa e se infiltrar em eventos sociais promovidos pela escola do filho do político. Mas por um acaso do destino, Twilight acaba adotando Anya, uma jovem com poderes telepáticos, e se casando com Yor, um assassino profissional! Sem saber das identidades uns dos outros, este trio incomum vai embarcar em aventuras cheias de surpresas para garantir a paz mundial.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/spy-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
-  <programme start="151500" stop="153000" channel="Geekdot.br">
-    <title>Achismos #3CONTINENTES FAQ</title>
-    <desc>Talentosos detetives da FTPCM, Daisuke e Haru, podem resolver qualquer mistério que lhes incubirem, a não ser que tenham um ao outro como parceiro.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/166370924/s640/fu-hao-xing-shi-balance-unlimited/fu-hao-xing-shi-balance-unlimited" />
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>14</value></rating>
-  </programme>
-  <programme start="153000" stop="154500" channel="Geekdot.br">
-    <title>Faixa TV Marajoara: El Hazard</title>
-    <desc>Quando a popular Hori e o melancólico Miyamura se encontram, eles revelam seus lados ocultos. Isso pode ser o começo de algo novo?</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/244252607/s640/temporada-1/temporada-1" />
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>14</value></rating>
-  </programme>
-  <programme start="154500" stop="161500" channel="Geekdot.br">
+  <programme start="164000" stop="170000" channel="Geekdot.br">
     <title>Faixa TV Marajoara: Bucky</title>
     <desc>Jovens, livres e apaixonados. Quando adolescentes, eles viviam sem preocupações. Mas na vida adulta, parece que algo importante se perdeu.</desc>
     <icon src="https://itslizzie.space/wp-content/uploads/2019/05/primeira-vez-amor-serie-netflix-.jpg" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="161500" stop="170000" channel="Geekdot.br">
+  <programme start="154000" stop="160500" channel="Geekdot.br">
     <title>Faixa TV Marajoara: Futurama</title>
     <desc>Jovens, livres e apaixonados. Quando adolescentes, eles viviam sem preocupações. Mas na vida adulta, parece que algo importante se perdeu.</desc>
-    <icon src="https://itslizzie.space/wp-content/uploads/2019/05/primeira-vez-amor-serie-netflix-.jpg" />
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/futurama-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>10</value></rating>
   </programme>
   <programme start="170000" stop="180000" channel="Geekdot.br">
-    <title>The O.C.: Um Estranho no Paraíso</title>
-    <desc>De luto, uma mulher volta magicamente para o ano de 1998 e conhece um homem que se parece muito com o antigo amor de sua vida.</desc>
-    <icon src="https://novaerageek.com.br/wp-content/uploads/2023/09/o-tempo-traz-voce-pra-mim-k-drama.webp" />
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="180000" stop="190000" channel="Geekdot.br">
     <title>Pretendente Surpresa</title>
-    <desc>O anime acontece em um futuro onde a superpopulação é um problema. Um jovem chamado Junta, cujo DNA possui o "Mega-Playboy", é enviado de volta ao passado para evitar a existência desse playboy irresistível, mas as coisas não saem como planejado, resultando em uma história de comédia romântica com reviravoltas inesperadas.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/244456235/s640/dna2/dna2" />
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>14</value></rating>
-  </programme>
-  <programme start="190000" stop="193000" channel="Geekdot.br">
-    <title>Pita Ten</title>
-    <desc>Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
-    <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+    <desc>Ha-ri vai a um encontro às cegas se passando pela amiga e pronta para dispensar o pretendente. Mas o plano dá errado, e ele acaba fazendo uma proposta para ela.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/09/pretendente-surpresa_capa-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
   <programme start="193000" stop="200000" channel="Geekdot.br">
-    <title>Super Campeões J</title>
-    <desc>Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
-    <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+    <title>Pita Ten</title>
+    <desc>Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/09/1a5a23baf06b65ded57e8155bb1f4feab507b23f595ec3dd187f6a6e2af46c59._SX1080_FMjpg_-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
@@ -840,79 +809,78 @@
     <rating><value>14</value></rating>
   </programme>
   <programme start="210000" stop="213000" channel="Geekdot.br">
-    <title>Kaguya-Sama: Love is War</title>
-    <desc>O advento dos portais hiperespaciais, que permitem a viagem entre planetas em tempo hábil, deram início a uma Era Espacial no Sistema Solar. Spike, um ex-mafioso, e Jet, um ex-policial, são "cowboys", caçadores de recomepensas que voam pelo universo em busca de cabeças a prêmio.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/198463366/s640/cowboy-bebop-tengoku-no-tobira/cowboy-bebop-tengoku-no-tobira" />
+    <title>Frieren e a Jornada para o Além</title>
+    <desc>A maga elfa imortal Frieren comparece ao funeral de um de seus amigos e fica sabendo de novos fatos a respeito de seus companheiros.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/Frieren-Beyond-Journeys-End-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
   <programme start="213000" stop="220000" channel="Geekdot.br">
-    <title>My Dress-Up Darling</title>
-    <desc>Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
-    <icon src="https://japan-geeks.com/wp-content/uploads/2022/03/FMNUfRVaUAAVfGq-768x436.jpeg" />
+    <title>Sakamoto Days</title>
+    <desc>Taro Sakamoto já foi o maior assassino de aluguel de todos os tempos, mas largou tudo por amor. Agora, com o passado à espreita, ele vai ter que lutar como nunca.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/Sakamoto-Days-Criador-Surpreende-com-Nova-Arte-da-Abertura-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>16</value></rating>
   </programme>
   <programme start="220000" stop="223000" channel="Geekdot.br">
-    <title>Assassination Classroom</title>
-    <desc>Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
-    <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+    <title>Mob Psycho 100</title>
+    <desc>Kageyama Shigeo, o Mob, é um garoto que não leva muito jeito pra se expressar, mas que é um poderoso telepata. </desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/mob-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>12</value></rating>
+    <rating><value>14</value></rating>
   </programme>
   <programme start="223000" stop="230000" channel="Geekdot.br">
-    <title>Kaiju No. 8</title>
-    <desc>Durante a agitação da Era Bakumatsu, havia um guerreiro Imperialista temido como o "Battousai, o Rewtalhador". No entanto, com a chegada da nova era, o Battosai desapareceu dos olhos do público, deixando para trás apenas sua lenda como o mais forte guerreiro Revolucionário.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/311033133/s640/rurouni-kenshin/rurouni-kenshin" />
+    <title>DAN DA DAN</title>
+    <desc>Quando a estudante do ensino médio Momo – que vem de uma família de médiuns e não acredita em alienígenas – encontra Okarun, um garoto obcecado por ocultismo que acredita em extraterrestres, a rivalidade entre os dois coloca a dupla diante de ameaças paranormais reais.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/dndadn1-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
   <programme start="230000" stop="233000" channel="Geekdot.br">
-    <title>KONOSUBA -God's blessing on this wonderful world!</title>
-    <desc>A Koudo Ikusei Senior High School é uma escola de prestígio líder com instalações de última geração, onde quase 100% dos alunos vão para a universidade ou encontram emprego.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/10151754/s640/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he" />
+    <title>Death March to the Parallel World Rhapsody</title>
+    <desc>“Satou,” também conhecido como Ichiro Suzuki, é um programador no meio de uma marcha da morte. Ele só foi tirar um cochilo, mas sem querer acordou em outro mundo... Seja sonho ou realidade, a jornada de Satou está só começando.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/death-march-to-the-parallel-world-rhapsody-e1763994052784-200x144.webp" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
   <programme start="233000" stop="000000" channel="Geekdot.br">
     <title>Yamada-kun and the Seven Witches</title>
     <desc>Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
-    <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/yamada-200x144.jpg" />
     <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>16</value></rating>
   </programme>
-  <programme start="070000" stop="093000" channel="Geekdot.br">
-    <title>Maratona #FDS: Mais Que Casados, Menos Que Amantes</title>
-    <desc>Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
-    <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
+  <programme start="060000" stop="083000" channel="Geekdot.br">
+    <title>Maratona #FDS: Anne Shirley</title>
+    <desc>Na bela Ilha do Príncipe Edward no Canadá, uma órfã chamada Anne Shirley é mandada por engano para Green Gables, terra de Matthew e Marilla Cuthbert. Eles escolhem mesmo assim adotá-la, e Anne encontra amizade, amor e alegria em sua nova casa.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/anime_anne_shirley_01__92px1y-200x144.jpg" />
+    <weekday days="sab" />
+    <rating><value>10</value></rating>
+  </programme>
+  <programme start="083000" stop="110000" channel="Geekdot.br">
+    <title>Maratona #FDS: That Time I Got Reincarnated as a Slime</title>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/slime_ef8x.1200-200x144.webp" />
     <weekday days="sab" />
     <rating><value>14</value></rating>
   </programme>
-  <programme start="093000" stop="120000" channel="Geekdot.br">
-    <title>Maratona #FDS: The Millionaire Detective – Balance: UNLIMITED</title>
-    <desc>Talentosos detetives da FTPCM, Daisuke e Haru, podem resolver qualquer mistério que lhes incubirem, a não ser que tenham um ao outro como parceiro.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/166370924/s640/fu-hao-xing-shi-balance-unlimited/fu-hao-xing-shi-balance-unlimited" />
+  <programme start="110000" stop="133000" channel="Geekdot.br">
+    <title>Maratona #FDS: Sakamoto Days</title>
+    <desc>Taro Sakamoto já foi o maior assassino de aluguel de todos os tempos, mas largou tudo por amor. Agora, com o passado à espreita, ele vai ter que lutar como nunca.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/Sakamoto-Days-Criador-Surpreende-com-Nova-Arte-da-Abertura-200x144.webp" />
     <weekday days="sab" />
-    <rating><value>14</value></rating>
+    <rating><value>16</value></rating>
   </programme>
-  <programme start="120000" stop="143000" channel="Geekdot.br">
-    <title>Maratona #FDS: Aoashi</title>
-    <desc>Ashito Aoi é um adolescente que mora no interior do Japão e é o artilheiro de um time de várzea.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/270814875/s640/aoashi/aoashi" />
+  <programme start="133000" stop="160000" channel="Geekdot.br">
+    <title>Maratona #FDS: Mono</title>
+    <desc>Satsuki Amamiya estava deprimida com a formatura do presidente do Clube de Fotografia do Ensino Médio.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/G1XHJV0N8-backdrop_wide-e1763994017899-200x144.jpg" />
     <weekday days="sab" />
-    <rating><value>12</value></rating>
+    <rating><value>10</value></rating>
   </programme>
-  <programme start="143000" stop="170000" channel="Geekdot.br">
-    <title>Maratona #FDS: Horimiya: As Peças Perdidas</title>
-    <desc>Quando a popular Hori e o melancólico Miyamura se encontram, eles revelam seus lados ocultos. Isso pode ser o começo de algo novo?</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/244252607/s640/temporada-1/temporada-1" />
-    <weekday days="sab" />
-    <rating><value>14</value></rating>
-  </programme>
-  <programme start="170000" stop="193000" channel="Geekdot.br">
-    <title>Maratona #FDS: DNA²</title>
-    <desc>O anime acontece em um futuro onde a superpopulação é um problema. Um jovem chamado Junta, cujo DNA possui o "Mega-Playboy", é enviado de volta ao passado para evitar a existência desse playboy irresistível, mas as coisas não saem como planejado, resultando em uma história de comédia romântica com reviravoltas inesperadas.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/244456235/s640/dna2/dna2" />
+  <programme start="160000" stop="183000" channel="Geekdot.br">
+    <title>Maratona #FDS: Pita Ten</title>
+    <desc>Na vida, há solução para tudo Menos, para a morte... Yusuke Urameshi, 14 anos, estudante. Quem poderia pensar que um simples jovem, que vivia se metendo em brigas e confusões, poderia dar a sua vida para salvar um pobre garotinho que só queria a sua bola de volta?</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/09/1a5a23baf06b65ded57e8155bb1f4feab507b23f595ec3dd187f6a6e2af46c59._SX1080_FMjpg_-200x144.jpg" />
     <weekday days="sab" />
     <rating><value>14</value></rating>
   </programme>
@@ -958,59 +926,52 @@
     <weekday days="sab" />
     <rating><value>14</value></rating>
   </programme>
-  <programme start="000000" stop="013000" channel="Geekdot.br">
-    <title>Maratona #FDS: Classroom of the Elite</title>
-    <desc>A Koudo Ikusei Senior High School é uma escola de prestígio líder com instalações de última geração, onde quase 100% dos alunos vão para a universidade ou encontram emprego.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/10151754/s640/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he/youkososhi-li-zhi-shang-zhu-yi-nojiao-shi-he" />
+  <programme start="000000" stop="020000" channel="Geekdot.br">
+    <title>Maratona #FDS: Lazarus</title>
+    <desc>No ano utópico de 2052, o Dr. Skinner descobre uma droga milagrosa chamada Hapna. Mas, três anos depois, ele anuncia que todos os que a tomaram irão morrer. Um grupo conhecido como Lazarus tem a tarefa de encontrar Skinner e criar uma vacina.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/lazarus_header-200x144.jpg" />
     <weekday days="dom" />
     <rating><value>14</value></rating>
   </programme>
-  <programme start="013000" stop="040000" channel="Geekdot.br">
-    <title>Maratona #FDS: Serial Experiments Lain</title>
-    <desc>A série se foca em Lain Iwakura, uma adolescente japonesa moradora dos subúrbios e sua introdução à Wired, uma rede de comunicação global similar à internet. Lain mora com sua família de classe média, que consiste em sua inexpressiva irmã mais velha Mika, sua fria mãe, e seu pai obcecado por computadores.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/91371064/s640/serial-experiments-lain/serial-experiments-lain" />
+  <programme start="020000" stop="043000" channel="Geekdot.br">
+    <title>Maratona #FDS: Yamada-kun and the Seven Witches</title>
+    <desc>Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/yamada-200x144.jpg" />
     <weekday days="dom" />
     <rating><value>16</value></rating>
   </programme>
-  <programme start="040000" stop="063000" channel="Geekdot.br">
-    <title>Maratona #FDS: Hellsing</title>
-    <desc>O vampiro Arucard e sua serva, Seras Victoria, protegem o Império Britânico de ghouls e freaks satânicos. Juntos, eles caçam as sombras como uma sinistra força do bem... e, essa noite, as ruas da Inglaterra fluirão com o sangue de sua presa maligna.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/149275779/s640/herushingu-aruteimetsuto/herushingu-aruteimetsuto" />
-    <weekday days="dom" />
-    <rating><value>18</value></rating>
-  </programme>
-  <programme start="063000" stop="070000" channel="Geekdot.br">
-    <title>MangáMotion</title>
-    <desc>Manga em animação</desc>
-    <icon src="https://geekdot.live/wp-content/uploads/2023/09/MANGA_img_site-200x144.png" />
-    <weekday days="dom" />
-    <rating><value>16</value></rating>
-  </programme>
-  <programme start="070000" stop="093000" channel="Geekdot.br">
-    <title>Maratona #FDS: The God Of High School: O Deus Do Colegial</title>
-    <desc>Jin Mori diz a todos que é o colegial mais forte que existe. Sua vida muda quando é convidado a participar do "God of High School", um torneio que decidirá quem é o colegial mais forte de todos, e que garantirá ao vencedor a realização de qualquer desejo que ele tiver. </desc>
-    <icon src="https://images.justwatch.com/backdrop/193558254/s640/the-god-of-high-school" />
+  <programme start="043000" stop="053000" channel="Geekdot.br">
+    <title>Futurama (Episódio Duplo)</title>
+    <desc>Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço. Ele vai trabalhar para a Planet Express Corporation, um serviço de entrega futurista que transporta pacotes para todos os cinco quadrantes do universo.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/futurama-200x144.jpg" />
     <weekday days="dom" />
     <rating><value>14</value></rating>
   </programme>
-  <programme start="093000" stop="120000" channel="Geekdot.br">
-    <title>Maratona #FDS: Kaguya-Sama: O Amor É Uma Guerra</title>
-    <desc>Veio de boa família? Sim! Tem uma personalidade promissora? Sim! Todos os jovens de elite com futuros brilhantes acabam indo parar na Academia Shuchiin.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/192741551/s640/kaguyayang-hagao-rasetai-tian-cai-tachinolian-ai-tou-noy-zhan/kaguyayang-hagao-rasetai-tian-cai-tachinolian-ai-tou-noy-zhan" />
+  <programme start="063000" stop="090000" channel="Geekdot.br">
+    <title>Maratona #FDS: With You and the Rain (Reprise)</title>
+    <desc>Num dia chuvoso, Fuji encontra uma criaturinha fofa disfarçada de cachorro, que lhe oferece um guarda-chuva e um cartão com a frase Por favor, me leve para casa, e ela não resiste. Com o charme peculiar e os modos misteriosos desse cãozinho de cartaz, a vida juntos se transforma numa aventura emocionante de amizade e momentos compartilhados.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/rain-e1763993906846-200x144.jpeg" />
+    <weekday days="dom" />
+    <rating><value>10</value></rating>
+  </programme>
+  <programme start="090000" stop="113000" channel="Geekdot.br">
+    <title>Maratona #FDS: Tenchi Universe</title>
+    <desc>Yuri Katsuki carregava a esperança de todo o Japão no Grande Prêmio de Patinação Artística, mas sofreu uma derrota esmagadora nas finais.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/tenchi-200x144.webp" />
     <weekday days="dom" />
     <rating><value>14</value></rating>
   </programme>
-  <programme start="120000" stop="143000" channel="Geekdot.br">
-    <title>Maratona #FDS: Dr. Stone: Uma Nova Era</title>
-    <desc>Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
-    <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+  <programme start="113000" stop="140000" channel="Geekdot.br">
+    <title>Maratona #FDS: Claymore</title>
+    <desc>Quando um demônio metamorfo com sede de carne humana, conhecido como "youma", chegam à vila de Raki, uma mulher solitária com olhos prateados entra na cidade com apenas uma espada nas costas. Ela é uma "Claymore", um ser fabricado, meio humana e meio "youma", com o único propósito de exterminar estes monstros.</desc>
+    <icon src="https://www.justwatch.com/images/backdrop/244478370/s640/temporada-1/temporada-1" />
     <weekday days="dom" />
     <rating><value>14</value></rating>
   </programme>
-  <programme start="143000" stop="170000" channel="Geekdot.br">
-    <title>Maratona #FDS: Bungo Stray Dogs</title>
-    <desc>Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
-    <icon src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2023/07/legiao_8pzv4yqUaZ3A.jpg.webp" />
+  <programme start="140000" stop="163000" channel="Geekdot.br">
+    <title>Maratona #FDS: A Sign of Affection (Reprise)</title>
+    <desc>Yuki, uma estudante universitária surda, certo dia está passando por dificuldades quando um veterano de sua universidade, Itsuomi, decide ajudá-la. I</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/pettydramawatcher-a-sign-of-affection-ep1-itsuomi-yuki-1024x576-1-200x144.webp" />
     <weekday days="dom" />
     <rating><value>14</value></rating>
   </programme>
@@ -1632,170 +1593,97 @@
   <programme start="000000" stop="010000" channel="Clouding.br">
     <title>Cine Jovem</title>
     <desc>filmes de vários gêneros</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,dom,sab" />
     <rating><value>12</value></rating>
   </programme>
   <programme start="010000" stop="013000" channel="Clouding.br">
     <title>Programa Nostalgia clipes</title>
     <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
   <programme start="013000" stop="033000" channel="Clouding.br">
     <title>Cine Pipoca</title>
     <desc>.</desc>
-    <weekday days="ter,qui,seg,qua,sex" />
+    <weekday days="ter,qui,seg,qua,sex,sab,dom" />
     <rating><value>12</value></rating>
   </programme>
-  <programme start="033000" stop="043000" channel="Clouding.br">
-    <title>Programa História sem fim</title>
+  <programme start="053000" stop="070000" channel="Clouding.br">
+    <title>Cine Fun</title>
     <desc>.</desc>
-    <weekday days="ter,qui" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="043000" stop="060000" channel="Clouding.br">
-    <title>Super Herói</title>
-    <desc>.</desc>
-    <weekday days="ter,qui" />
+    <weekday days="ter,qui,seg,qua,sex,sab,dom" />
     <rating><value>12</value></rating>
   </programme>
-  <programme start="060000" stop="070000" channel="Clouding.br">
-    <title>Programa Canal triplo G</title>
+  <programme start="070000" stop="080000" channel="Clouding.br">
+    <title>Sessão Retrô</title>
     <desc>.</desc>
-    <weekday days="ter,qui" />
+    <weekday days="ter,qui,qua,seg,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="070000" stop="081000" channel="Clouding.br">
-    <title>Programa Nostalgia clipes</title>
+  <programme start="080000" stop="110000" channel="Clouding.br">
+    <title>TV Cloudinho </title>
     <desc>.</desc>
-    <weekday days="ter,qui" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="081000" stop="110000" channel="Clouding.br">
-    <title>Clouding kids</title>
-    <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>L</value></rating>
   </programme>
   <programme start="110000" stop="120000" channel="Clouding.br">
-    <title>Programa História sem fim</title>
+    <title>Sessão heróis</title>
     <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="120000" stop="123000" channel="Clouding.br">
-    <title>Malcolm in the Middle</title>
+  <programme start="120000" stop="130000" channel="Clouding.br">
+    <title>Sessão Retrô</title>
     <desc>.</desc>
-    <weekday days="seg,qua,sex" />
+    <weekday days="ter,qui,qua,seg,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="120000" stop="123000" channel="Clouding.br">
-    <title>Drake e Josh</title>
+  <programme start="130000" stop="143000" channel="Clouding.br">
+    <title>Cine Fun</title>
     <desc>.</desc>
-    <weekday days="ter,qui" />
+    <weekday days="ter,qui,qua,seg,sex,dom,sab" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="123000" stop="130000" channel="Clouding.br">
-    <title>Nostalgia clipes</title>
+  <programme start="143000" stop="162000" channel="Clouding.br">
+    <title>Sessão Super Hérois</title>
     <desc>.</desc>
-    <weekday days="seg,qua,sex" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="123000" stop="130000" channel="Clouding.br">
-    <title>Programa Multiverso</title>
-    <desc>.</desc>
-    <weekday days="ter,qui" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="130000" stop="133000" channel="Clouding.br">
-    <title>O Multiverso</title>
-    <desc>.</desc>
-    <weekday days="seg,qua,sex" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="130000" stop="133000" channel="Clouding.br">
-    <title>Programa Em Estado de Banca</title>
-    <desc>.</desc>
-    <weekday days="ter,qui" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="133000" stop="141000" channel="Clouding.br">
-    <title>Jornal Brasil News</title>
-    <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="141000" stop="160000" channel="Clouding.br">
-    <title>Super Herói</title>
-    <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>12</value></rating>
   </programme>
-  <programme start="160000" stop="170000" channel="Clouding.br">
-    <title>Cartoon Geek</title>
-    <desc>.</desc>
-    <icon src="https://pa-str.srvsite.com/arquivos/7030/locutor-7030-20220918164118.jpg" />
-    <weekday days="seg,qua,sex" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="160000" stop="170000" channel="Clouding.br">
-    <title>Programa Canal triplo G</title>
-    <desc>.</desc>
-    <weekday days="ter,qui" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="170000" stop="183000" channel="Clouding.br">
+  <programme start="171500" stop="184500" channel="Clouding.br">
     <title>Cine trash</title>
     <desc>.</desc>
-    <weekday days="seg,qua,sex" />
+    <weekday days="seg,qua,sex,ter,qui,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="170000" stop="183000" channel="Clouding.br">
-    <title>Cine Jovem</title>
+  <programme start="184500" stop="194000" channel="Clouding.br">
+    <title>Sessão Retrô</title>
     <desc>.</desc>
-    <weekday days="ter,qui" />
+    <weekday days="ter,qui,qua,seg,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="183000" stop="190000" channel="Clouding.br">
-    <title>Programa Jeplay Games</title>
+  <programme start="194000" stop="201000" channel="Clouding.br">
+    <title>Vale a Pena Ver Outra Vez</title>
     <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="190000" stop="193000" channel="Clouding.br">
-    <title>Programa Multiverso</title>
-    <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="193000" stop="200000" channel="Clouding.br">
-    <title>Programa História sem fim</title>
-    <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>10</value></rating>
-  </programme>
-  <programme start="200000" stop="220000" channel="Clouding.br">
+  <programme start="201000" stop="220000" channel="Clouding.br">
     <title>Sessão animes</title>
     <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>12</value></rating>
   </programme>
-  <programme start="200000" stop="220000" channel="Clouding.br">
-    <title>Eu,a patroa e as crianças</title>
+  <programme start="220000" stop="222500" channel="Clouding.br">
+    <title>Clouding Séries</title>
     <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>12</value></rating>
   </programme>
-  <programme start="223000" stop="230000" channel="Clouding.br">
-    <title>Programa Megaverso</title>
-    <desc>.</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
-    <rating><value>12</value></rating>
-  </programme>
-  <programme start="230000" stop="000000" channel="Clouding.br">
-    <title>Cine Jovem</title>
+  <programme start="222500" stop="231500" channel="Clouding.br">
+    <title>Clouding Séries II</title>
     <desc>filmes de vários gêneros</desc>
-    <weekday days="seg,ter,qua,qui,sex" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>12</value></rating>
   </programme>
   <programme start="000000" stop="080000" channel="GlnTV.br">
@@ -2046,13 +1934,13 @@
     <weekday days="qua,sex" />
     <rating><value>A10</value></rating>
   </programme>
-  <programme start="010000" stop="013000" channel="fkids.br">
+  <aprogramme start="010000" stop="013000" channel="fkids.br">
     <title>Power Ranger: Força do Tempo - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
     <icon src="https://www.flixfilm.dk/wp-content/uploads/2021/01/Power-Rangers-Time-Force-1.jpg" />
     <weekday days="seg,ter,qui,sab" />
     <rating><value>A10</value></rating>
-  </programme>
+  </aprogramme>
   <programme start="013000" stop="020000" channel="fkids.br">
     <title>Goosebumps - Reprise</title>
     <desc>Inspirada nas histórias de terror para adolescentes de R.L. Stine, essa premiada série adentra nos mundos tenebrosos das tramas de suspense.</desc>
@@ -2103,9 +1991,9 @@
     <rating><value>A10</value></rating>
   </programme>
   <programme start="043000" stop="050000" channel="fkids.br">
-    <title>Power Ranger: Força do Tempo - Reprise</title>
+    <title>Power Ranger: Força Animal - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://i.ytimg.com/vi/5jV0qtZ9TE8/hq720.jpg" />
+    <icon src="https://blogdaileon.com/wp-content/uploads/2022/07/powerrangersforcaanimal-destacada.jpg" />
     <weekday days="seg,ter,qui" />
     <rating><value>A10</value></rating>
   </programme>
@@ -2173,9 +2061,9 @@
     <rating><value>A10</value></rating>
   </programme>
   <programme start="083000" stop="090000" channel="fkids.br">
-    <title>Power Ranger: Força do Tempo - Reprise</title>
+    <title>Power Ranger: Força Animal - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://www.flixfilm.dk/wp-content/uploads/2021/01/Power-Rangers-Time-Force-1.jpg" />
+    <icon src="https://blogdaileon.com/wp-content/uploads/2022/07/powerrangersforcaanimal-destacada.jpg" />
     <weekday days="seg,ter,qui" />
     <rating><value>A10</value></rating>
   </programme>
@@ -2264,13 +2152,6 @@
     <rating><value>A10</value></rating>
   </programme>
   <programme start="143000" stop="150000" channel="fkids.br">
-    <title>Power Ranger: Força do Tempo</title>
-    <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://www.flixfilm.dk/wp-content/uploads/2021/01/Power-Rangers-Time-Force-1.jpg" />
-    <weekday days="seg,qua,sex" />
-    <rating><value>A10</value></rating>
-  </programme>
-  <programme start="143000" stop="150000" channel="fkids.br">
     <title>Power Ranger Turbo</title>
     <desc>Fox kids o seu canal favorito.</desc>
     <icon src="https://images.justwatch.com/backdrop/328664129/s640/temporada-5" />
@@ -2309,13 +2190,6 @@
     <title>Homen Aranha - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
     <icon src="https://disneyplusbrasil.com.br/wp-content/uploads/2021/08/Trailer-Homem-Aranha-Sem-Volta-Para-Casa-desenho-anos-90.jpg" />
-    <weekday days="seg,qua,sex" />
-    <rating><value>A10</value></rating>
-  </programme>
-  <programme start="170000" stop="173000" channel="fkids.br">
-    <title>Power Ranger: Força do Tempo - Reprise</title>
-    <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://www.flixfilm.dk/wp-content/uploads/2021/01/Power-Rangers-Time-Force-1.jpg" />
     <weekday days="seg,qua,sex" />
     <rating><value>A10</value></rating>
   </programme>
@@ -2381,13 +2255,6 @@
     <icon src="https://disneyplusbrasil.com.br/wp-content/uploads/2021/08/Trailer-Homem-Aranha-Sem-Volta-Para-Casa-desenho-anos-90.jpg" />
     <weekday days="seg,qua,sex" />
     <rating><value>AL</value></rating>
-  </programme>
-  <programme start="210000" stop="213000" channel="fkids.br">
-    <title>Power Ranger: Força do Tempo - Reprise</title>
-    <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://www.flixfilm.dk/wp-content/uploads/2021/01/Power-Rangers-Time-Force-1.jpg" />
-    <weekday days="seg,qua,sex" />
-    <rating><value>A10</value></rating>
   </programme>
   <programme start="210000" stop="213000" channel="fkids.br">
     <title>Power Ranger Turbo - Reprise</title>
@@ -2598,7 +2465,7 @@
     <weekday days="dom" />
     <rating><value>A10</value></rating>
   </programme>
-  <programme start="213000" stop="r000000" channel="fkids.br">
+  <programme start="213000" stop="000000" channel="fkids.br">
     <title>Maratona: Goosebumps</title>
     <desc>Inspirada nas histórias de terror para adolescentes de R.L. Stine, essa premiada série adentra nos mundos tenebrosos das tramas de suspense.</desc>
     <icon src="https://imgix.bustle.com/rehost/2016/10/4/ed163b47-16f3-45da-b52d-352a209bfa76.jpg" />
@@ -4687,7 +4554,7 @@
     <weekday days="dom" />
     <rating><value>AL</value></rating>
   </programme>
-  <programme start="094000" stop="103000" channel="turnerdemo.br">
+  <programme start="122500" stop="131500" channel="turnerdemo.br">
     <title>Scooby Doo, Cadê Você?</title>
     <desc>Caramba! Quais são as Novas Aventuras do Scooby-Doo? apresenta as famosas "crianças intrometidas" no século 21 quando Scooby e seus corajosos amigos - Salsicha, Velma, Daphne e Fred - topam com novos mistérios e aventuras. </desc>
     <icon src="https://images.justwatch.com/backdrop/258371511/s640/o-que-ha-de-novo-scooby-doo" />
@@ -4701,14 +4568,7 @@
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>AL</value></rating>
   </programme>
-  <programme start="152000" stop="160500" channel="turnerdemo.br">
-    <title>Os Jetsons - Reprise</title>
-    <desc>Conheça George Jetson e sua família maluca: sua esposa, Jane; seu filho, Elroy, e sua filha, Judy. </desc>
-    <icon src="https://www.justwatch.com/images/backdrop/183492392/s640/os-jetsons/os-jetsons" />
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>AL</value></rating>
-  </programme>
-  <programme start="013000" stop="040300" channel="turnerdemo.br">
+  <programme start="011500" stop="040300" channel="turnerdemo.br">
     <title>Programação Tooncast</title>
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>AL</value></rating>
@@ -4725,14 +4585,14 @@
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>AL</value></rating>
   </programme>
-  <programme start="073000" stop="080900" channel="turnerdemo.br">
+  <programme start="091000" stop="093000" channel="turnerdemo.br">
     <title>Hi Hi Puffy Ami Yumi - Reprise</title>
     <desc>Ami e Yumi são cantoras de rock que vivem aventuras incríveis! Nas histórias, as personagens se apresentam em muitos lugares do planeta e fazem o maior sucesso entre os fãs.</desc>
     <icon src="https://www.justwatch.com/images/backdrop/306135317/s640/hi-hi-puffy-amiyumi/hi-hi-puffy-amiyumi" />
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>AL</value></rating>
   </programme>
-  <programme start="080900" stop="090000" channel="turnerdemo.br">
+  <programme start="060000" stop="065000" channel="turnerdemo.br">
     <title>Mansão Foster para Amigos Imaginários</title>
     <desc>Todo mundo pode vê-los, todo mundo pode falar com eles, mas algumas vezes, nem todo mundo vai querer eles por perto. Felizmente, eles são sempre bem-vindos na Mansão Foster para Amigos Imaginários.</desc>
     <icon src="https://www.justwatch.com/images/backdrop/183782622/s640/fosters-home-for-imaginary-friends/fosters-home-for-imaginary-friends" />
@@ -4745,50 +4605,23 @@
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>AL</value></rating>
   </programme>
-  <programme start="060000" stop="063500" channel="turnerdemo.br">
+  <programme start="103000" stop="110000" channel="turnerdemo.br">
     <title>Esquadrão do Tempo</title>
     <desc>Completando uma missão no tempo das cavernas, Abelardo mata uma mosca e desencadeia uma desastrosa série de eventos pela história.</desc>
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="070000" stop="073000" channel="turnerdemo.br">
-    <title>Krypto, o Supercão</title>
-    <desc>Krypto chega à Terra e faz amizade com um garoto chamado Kevin, que o acolhe.</desc>
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>L</value></rating>
-  </programme>
-  <programme start="000000" stop="003300" channel="turnerdemo.br">
+  <programme start="233000" stop="002500" channel="turnerdemo.br">
     <title>Os Baby Looney Tunes - Reprise</title>
     <desc>Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas! </desc>
     <icon src="https://www.justwatch.com/images/backdrop/89663490/s640/temporada-1/temporada-1" />
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>AL</value></rating>
   </programme>
-  <programme start="123000" stop="133500" channel="turnerdemo.br">
-    <title>Looney Tunes</title>
-    <desc>Acompanhe os parceiros Pernalonga e Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda, e sempre prontos para fazer novas amizades! </desc>
-    <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>AL</value></rating>
-  </programme>
-  <programme start="133500" stop="140000" channel="turnerdemo.br">
-    <title>Duck Dodgers</title>
-    <desc>Estamos na metade do século 24 e o Protetorado Galáctico da Terra possui uma nova arma secreta... um pato congelado. </desc>
-    <icon src="https://static.wikia.nocookie.net/international-entertainment-project/images/6/66/DuckDodgersBanner.jpg/" />
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>AL</value></rating>
-  </programme>
-  <programme start="193000" stop="200500" channel="turnerdemo.br">
+  <programme start="210500" stop="213000" channel="turnerdemo.br">
     <title>Hi Hi Puffy Ami Yumi - Reprise</title>
     <desc>Ami e Yumi são cantoras de rock que vivem aventuras incríveis! Nas histórias, as personagens se apresentam em muitos lugares do planeta e fazem o maior sucesso entre os fãs.</desc>
     <icon src="https://www.justwatch.com/images/backdrop/306135317/s640/hi-hi-puffy-amiyumi/hi-hi-puffy-amiyumi" />
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>AL</value></rating>
-  </programme>
-  <programme start="170000" stop="173000" channel="turnerdemo.br">
-    <title>Mansão Foster para Amigos Imaginários</title>
-    <desc>Todo mundo pode vê-los, todo mundo pode falar com eles, mas algumas vezes, nem todo mundo vai querer eles por perto. Felizmente, eles são sempre bem-vindos na Mansão Foster para Amigos Imaginários.</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/183782622/s640/fosters-home-for-imaginary-friends/fosters-home-for-imaginary-friends" />
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>AL</value></rating>
   </programme>
@@ -4798,46 +4631,19 @@
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>AL</value></rating>
   </programme>
-  <programme start="180500" stop="183000" channel="turnerdemo.br">
+  <programme start="222800" stop="230000" channel="turnerdemo.br">
     <title>Esquadrão do Tempo</title>
     <desc>Completando uma missão no tempo das cavernas, Abelardo mata uma mosca e desencadeia uma desastrosa série de eventos pela história.</desc>
     <icon src="https://images.justwatch.com/backdrop/306154336/s640/legiao-dos-super-herois/legiao-dos-super-herois" />
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="183000" stop="185500" channel="turnerdemo.br">
+  <programme start="230000" stop="233000" channel="turnerdemo.br">
     <title>Os Sábados Secretos</title>
     <desc>A equipe do cientista secreto Dr. Paul Cheechoo mexe acidentalmente em uma câmara Inuit, provocando uma violenta tempestade de neve e libertando um lobo Amarok.</desc>
     <icon src="https://www.justwatch.com/images/backdrop/240820606/s640/x-men-evolution/x-men-evolution" />
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>10</value></rating>
-  </programme>
-  <programme start="185500" stop="193000" channel="turnerdemo.br">
-    <title>Krypto, o Supercão</title>
-    <desc>Krypto chega à Terra e faz amizade com um garoto chamado Kevin, que o acolhe.</desc>
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>L</value></rating>
-  </programme>
-  <programme start="223000" stop="233000" channel="turnerdemo.br">
-    <title>Tom e Jerry - Reprise</title>
-    <desc>O obstinado gato Tom nunca sai da cola de seu arquiinimigo, Jerry, o rato, e nenhum truque, armadilha nem frigideira de ferro o impedirá em sua busca incansável. </desc>
-    <icon src="https://www.justwatch.com/images/backdrop/302372815/s640/temporada-1/temporada-1" />
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>AL</value></rating>
-  </programme>
-  <programme start="233000" stop="000000" channel="turnerdemo.br">
-    <title>Os Filhos de Tom e Jerry - Reprise</title>
-    <desc>OS FILHOS DE TOM E JERRY</desc>
-    <icon src="https://www.justwatch.com/images/backdrop/310483878/s640/tom-and-jerry-kids/tom-and-jerry-kids" />
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>AL</value></rating>
-  </programme>
-  <programme start="003300" stop="013000" channel="turnerdemo.br">
-    <title>Looney Tunes - Reprise</title>
-    <desc>Acompanhe os parceiros Pernalonga e Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda, e sempre prontos para fazer novas amizades! </desc>
-    <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-    <rating><value>AL</value></rating>
   </programme>
   <programme start="073000" stop="080000" channel="TVNovaNordeste.br">
     <title>Fé Perfeita</title>
@@ -6203,10 +6009,11 @@
     <weekday days="sab,seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
-  <programme start="080000" stop="090000" channel="Geekdot.br">
-    <title>Fullmetal Alchemist: Brotherhood (Reprise)</title>
-    <desc>O descaso com as leis da alquimia tomou dois dos membros de Edward Elric e deixou a alma de Alphonse presa a uma armadura. Para recuperar o que perderam, os irmãos procuram a Pedra Filosofal.</desc>
-    <weekday days="sab,sex,qui,qua,ter,seg" />
+  <programme start="080000" stop="083000" channel="Geekdot.br">
+    <title>Tenchi Universe (Reprise)</title>
+    <desc>Yuri Katsuki carregava a esperança de todo o Japão no Grande Prêmio de Patinação Artística, mas sofreu uma derrota esmagadora nas finais.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/tenchi-200x144.webp" />
+    <weekday days="seg,ter,qua,qui,sex" />
     <rating><value>14</value></rating>
   </programme>
   <programme start="023000" stop="030000" channel="Geekdot.br">
@@ -6236,88 +6043,47 @@
     <weekday days="sex,qui,qua,ter,seg" />
     <rating><value>L</value></rating>
   </programme>
-  <programme start="120000" stop="123000" channel="turnerdemo.br">
+  <programme start="113000" stop="122500" channel="turnerdemo.br">
     <title>Os Baby Looney Tunes</title>
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <rating><value>L</value></rating>
   </programme>
-  <programme start="113000" stop="120000" channel="turnerdemo.br">
-    <title>Os Filhos de Tom e Jerry</title>
-    <icon src="https://www.justwatch.com/images/backdrop/310483878/s640/tom-and-jerry-kids/tom-and-jerry-kids" />
-    <weekday days="sab,seg,ter,qua,qui,sex,dom" />
-    <rating><value>L</value></rating>
-  </programme>
-  <programme start="103000" stop="113000" channel="turnerdemo.br">
-    <title>Tom e Jerry</title>
-    <desc>O obstinado gato Tom nunca sai da cola de seu arquiinimigo, Jerry, o rato, e nenhum truque, armadilha nem frigideira de ferro o impedirá em sua busca incansável. </desc>
-    <icon src="https://www.justwatch.com/images/backdrop/302372815/s640/temporada-1/temporada-1" />
-    <weekday days="sab,seg,ter,qua,qui,sex,dom" />
-    <rating><value>L</value></rating>
-  </programme>
-  <programme start="160500" stop="164000" channel="turnerdemo.br">
+  <programme start="152500" stop="163500" channel="turnerdemo.br">
     <title>Corrida Maluca</title>
     <desc>O diabólico Dick Vigarista usa cera de chão para deslizar os outros carros a fazenda de McDonald.</desc>
     <weekday days="sab,seg,ter,qua,qui,sex,dom" />
     <rating><value>L</value></rating>
   </programme>
-  <programme start="164000" stop="170000" channel="turnerdemo.br">
+  <programme start="163500" stop="173000" channel="turnerdemo.br">
     <title>ThunderCats</title>
     <desc>Ansiosos para provar que são maduros o suficiente para usar armas de adultos, Wilykit e Wilykat dão uma escapada com as armas dos ThunderCats para praticar um pouco.</desc>
     <weekday days="sab,seg,dom,ter,qua,qui,sex" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="200600" stop="205500" channel="turnerdemo.br">
+  <programme start="180500" stop="190000" channel="turnerdemo.br">
     <title>A Mansão Foster para Amigos Imaginários - Reprise</title>
     <desc>Berry é a nova amiga imaginária da casa e se apaixona perdidamente por Blu. Agora, qualquer coisa que a afaste dele, deve ser eliminada, mesmo se for seu melhor amigo.</desc>
     <weekday days="sab,seg,dom,ter,qua,qui,sex" />
     <rating><value>L</value></rating>
   </programme>
-  <programme start="205500" stop="211600" channel="turnerdemo.br">
-    <title>O Que Há de Novo Scooby Doo? - Reprise</title>
-    <desc>Durante uma escavação arqueológica com Melbourne O'Reilly no Egito, a turma descobre a maldição do Faraó Scamses: a múmia tem poderes de transformar as pessoas em zumbis. Eles precisam agir rápido quando um grupo de turistas chega ao deserto.</desc>
-    <weekday days="sab,seg,ter,dom,qua,qui,sex" />
-    <rating><value>L</value></rating>
-  </programme>
-  <programme start="211600" stop="223000" channel="turnerdemo.br">
+  <programme start="002500" stop="011500" channel="turnerdemo.br">
     <title>Scooby Doo, Cadê Você? - Reprise</title>
     <desc>A galera faz uma visita à amiga Sharon Weatherby, cujo tio Stuart está sendo perseguido pelo fantasma de Elias Kingston. Quando Stuart desaparece, a Mistério S/A se aventura na abandonada e supostamente assombrada mansão Kingston.</desc>
     <weekday days="sab,seg,ter,qua,qui,sex,dom" />
     <rating><value>10</value></rating>
   </programme>
-  <programme start="142500" stop="152000" channel="turnerdemo.br">
+  <programme start="142500" stop="152500" channel="turnerdemo.br">
     <title>Os Flintstones</title>
     <desc>Fred deve explicar seus lucros no pôquer à Wilma, que achava que o marido estava visitando um amigo doente.</desc>
     <weekday days="sab,seg,dom,ter,qua,qui,sex" />
     <rating><value>AL</value></rating>
   </programme>
-  <programme start="090000" stop="094000" channel="turnerdemo.br">
-    <title>O Que Há de Novo Scooby Doo?</title>
-    <desc>Durante uma escavação arqueológica com Melbourne O'Reilly no Egito, a turma descobre a maldição do Faraó Scamses: a múmia tem poderes de transformar as pessoas em zumbis. Eles precisam agir rápido quando um grupo de turistas chega ao deserto.</desc>
-    <weekday days="sab,seg,dom,ter,qua,qui,sex" />
-    <rating><value>L</value></rating>
-  </programme>
-  <programme start="063500" stop="070000" channel="turnerdemo.br">
+  <programme start="110000" stop="113000" channel="turnerdemo.br">
     <title>Os Sábados Secretos</title>
     <desc>A equipe do cientista secreto Dr. Paul Cheechoo mexe acidentalmente em uma câmara Inuit, provocando uma violenta tempestade de neve e libertando um lobo Amarok.</desc>
     <weekday days="sab,seg,dom,ter,qui,qua,sex" />
     <rating><value>L</value></rating>
   </programme>
-  <aprogramme start="120000" stop="140000" channel="fkids.br">
-    <title>Digimon: O Filme</title>
-    <sub-title>Cineskópio</sub-title>
-    <desc>Ao longo de três histórias diferentes, Kari Kamiya e seus amigos assumem explosivas aventuras envolvendo criaturas digitais.</desc>
-    <icon src="https://i.ebayimg.com/images/g/NNoAAMXQTghRU6gu/s-l1200.jpg" />
-    <weekday days="dom" />
-    <rating><value>A10</value></rating>
-  </aprogramme>
-  <aprogramme start="190000" stop="210000" channel="fkids.br">
-    <title>Digimon: O Filme - Reprise</title>
-    <sub-title>Cineskópio</sub-title>
-    <desc>Ao longo de três histórias diferentes, Kari Kamiya e seus amigos assumem explosivas aventuras envolvendo criaturas digitais.</desc>
-    <icon src="https://i.ebayimg.com/images/g/NNoAAMXQTghRU6gu/s-l1200.jpg" />
-    <weekday days="dom" />
-    <rating><value>A10</value></rating>
-  </aprogramme>
   <programme start="080000" stop="083000" channel="fkids.br">
     <title>O Incrível Hulk - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
@@ -6360,6 +6126,440 @@
     <weekday days="ter,qui" />
     <rating><value>A10</value></rating>
   </programme>
+  <programme start="173000" stop="183000" channel="fkids.br">
+    <title>Sábado Verde</title>
+    <desc>Fox kids o seu canal favorito.</desc>
+    <icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/hulk-1.jpg" />
+    <weekday days="sab" />
+    <rating><value>A10</value></rating>
+  </programme>
+  <programme start="000000" stop="050000" channel="AcessoKids">
+    <title>Power Rangers</title>
+    <weekday days="seg,ter,dom,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="050000" stop="070000" channel="AcessoKids">
+    <title>Bayblede</title>
+    <weekday days="seg,dom,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="070000" stop="083000" channel="AcessoKids">
+    <title>Os Padrinhos Mágicos </title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="100000" stop="120000" channel="AcessoKids">
+    <title>W.I.T.C.H</title>
+    <weekday days="seg,ter,qua,sex,sab,qui" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="120000" stop="133000" channel="AcessoKids">
+    <title>Power Rangers: Força Mística</title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="180000" stop="190000" channel="AcessoKids">
+    <title>Power Rangers</title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="163000" stop="180000" channel="AcessoKids">
+    <title>W.I.T.C.H</title>
+    <weekday days="seg,ter,qua,sex,sab,qui" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="233000" stop="000000" channel="AcessoKids">
+    <title>W.I.T.C.H</title>
+    <weekday days="seg,ter,qua,sex,sab,qui" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="133000" stop="150000" channel="AcessoKids">
+    <title>Bayblede</title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="150000" stop="163000" channel="AcessoKids">
+    <title>Os Padrinhos Mágicos </title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="200000" stop="213000" channel="AcessoKids">
+    <title>Os Padrinhos Mágicos </title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="213000" stop="233000" channel="AcessoKids">
+    <title>Cineskópio</title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="083000" stop="100000" channel="AcessoKids">
+    <title>Shuriken Scool</title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="190000" stop="200000" channel="AcessoKids">
+    <title>Shuriken Scool</title>
+    <weekday days="seg,ter,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="070000" stop="100000" channel="AcessoKids">
+    <title>Os Padrinhos Mágicos </title>
+    <weekday days="dom" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="100000" stop="130000" channel="AcessoKids">
+    <title>Power Rangers: Força Mística</title>
+    <weekday days="dom" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="130000" stop="143000" channel="AcessoKids">
+    <title>Bayblede</title>
+    <weekday days="dom" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="143000" stop="000000" channel="AcessoKids">
+    <title>Cineskópio</title>
+    <weekday days="dom" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="063000" stop="070000" channel="Geekdot.br">
+    <title>A Sign of Affection (Reprise)</title>
+    <desc>Yuki, uma estudante universitária surda, certo dia está passando por dificuldades quando um veterano de sua universidade, Itsuomi, decide ajudá-la. I</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/pettydramawatcher-a-sign-of-affection-ep1-itsuomi-yuki-1024x576-1-200x144.webp" />
+    <weekday days="seg,ter,qua,qui,sex" />
+    <rating><value>14</value></rating>
+  </programme>
+  <programme start="113000" stop="120000" channel="Geekdot.br">
+    <title>Mono</title>
+    <desc>Satsuki Amamiya estava deprimida com a formatura do presidente do Clube de Fotografia do Ensino Médio.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/G1XHJV0N8-backdrop_wide-e1763994017899-200x144.jpg" />
+    <weekday days="seg,ter,qua,qui,sex" />
+    <rating><value>10</value></rating>
+  </programme>
+  <programme start="160500" stop="164000" channel="Geekdot.br">
+    <title>Faixa TV Marajoara: Fullmetal Alchemist: Brotherhood (Reprise)</title>
+    <desc>O descaso com as leis da alquimia tomou dois dos membros de Edward Elric e deixou a alma de Alphonse presa a uma armadura. Para recuperar o que perderam, os irmãos procuram a Pedra Filosofal.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/c912a1ce1d58e50f37495f640cb61839c7183adb78470593267cabaedf4fd3c8-200x144.jpg" />
+    <weekday days="sex,qui,qua,ter,seg" />
+    <rating><value>14</value></rating>
+  </programme>
+  <programme start="190000" stop="193000" channel="Geekdot.br">
+    <title>That Time I Got Reincarnated as a Slime</title>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/slime_ef8x.1200-200x144.webp" />
+    <weekday days="seg,ter,qua,qui,sex" />
+    <rating><value>14</value></rating>
+  </programme>
+  <programme start="183000" stop="190000" channel="Geekdot.br">
+    <title>A Sign of Affection</title>
+    <weekday days="seg,ter,qua,qui,sex" />
+    <rating><value>14</value></rating>
+  </programme>
+  <programme start="180000" stop="183000" channel="Geekdot.br">
+    <title>With You and the Rain</title>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/rain-e1763993906846-200x144.jpeg" />
+    <weekday days="seg,ter,qua,qui,sex" />
+    <rating><value>10</value></rating>
+  </programme>
+  <programme start="053000" stop="063000" channel="Geekdot.br">
+    <title>Seinfield (Episódio Duplo)</title>
+    <desc>O comediante Jerry Seinfeld, o atrapalhado George Constanza, a frustrada Elaine Benes e o excêntrico Cosmo Kramer são quatro amigos que lidam com os absurdos do cotidiano em Nova York.</desc>
+    <icon src="https://geekdot.live/wp-content/uploads/2025/11/Seinfeld-200x144.webp" />
+    <weekday days="dom" />
+    <rating><value>12</value></rating>
+  </programme>
+  <programme start="100000" stop="103000" channel="Geekdot.br">
+    <title>Corneil e Bernie</title>
+    <weekday days="seg,ter,qua,qui,sex" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="162000" stop="171500" channel="Clouding.br">
+    <title>Clouding Séries</title>
+    <weekday days="seg,ter,qua,sex,qui,sab,dom" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="231500" stop="000000" channel="Clouding.br">
+    <title>Morcegão</title>
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>10</value></rating>
+  </programme>
+  <programme start="033000" stop="053000" channel="Clouding.br">
+    <title>Programação Clounding</title>
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="190000" stop="200500" channel="turnerdemo.br">
+    <title>O Acampamento de Lazlo - Reprise</title>
+    <desc>A série se passa em um universo habitado apenas por animais antropomórficos de diversas espécies e acompanha as aventuras surreais de um trio de campistas em um acampamento de verão mal administrado, conhecido como Acampamento Rim. O trio é formado por Lazlo, um macaco-aranha excêntrico e otimista; Raj, um elefante indiano tímido; e Clam, um rinoceronte-pigmeu albino silencioso.</desc>
+    <icon src="https://m.media-amazon.com/images/S/pv-target-images/c98a3b2037ab4bac9410b490acceb67a16035a632abe88ef9a46f80e9a8415ab.jpg" />
+    <weekday days="ter,seg,dom,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="200500" stop="210500" channel="turnerdemo.br">
+    <title>Meu Amigo da Escola É um Macaco - Reprise</title>
+    <icon src="https://images.justwatch.com/backdrop/267836579/s640/meu-amigo-da-escola-e-um-macaco.avif" />
+    <weekday days="ter,seg,dom,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="210500" stop="220500" channel="turnerdemo.br">
+    <title>Mike, Lu e Og</title>
+    <weekday days="ter,qua,seg,qui,sex,sab,dom" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="131500" stop="140000" channel="turnerdemo.br">
+    <title>Scooby-Doo! Mistério S/A</title>
+    <weekday days="ter,qua,seg,dom,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="100500" stop="103000" channel="turnerdemo.br">
+    <title>Sheep na Cidade Grande</title>
+    <weekday days="ter,qua,qui,sex,sab,dom,seg" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="093000" stop="100500" channel="turnerdemo.br">
+    <title>Mike, Lu e Og</title>
+    <weekday days="ter,seg,dom,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="065000" stop="080000" channel="turnerdemo.br">
+    <title>O Acampamento de Lazlo</title>
+    <desc>A série se passa em um universo habitado apenas por animais antropomórficos de diversas espécies e acompanha as aventuras surreais de um trio de campistas em um acampamento de verão mal administrado, conhecido como Acampamento Rim. O trio é formado por Lazlo, um macaco-aranha excêntrico e otimista; Raj, um elefante indiano tímido; e Clam, um rinoceronte-pigmeu albino silencioso.</desc>
+    <icon src="https://m.media-amazon.com/images/S/pv-target-images/c98a3b2037ab4bac9410b490acceb67a16035a632abe88ef9a46f80e9a8415ab.jpg" />
+    <weekday days="ter,seg,dom,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="080000" stop="091000" channel="turnerdemo.br">
+    <title>Meu Amigo da Escola É um Macaco - Reprise</title>
+    <icon src="https://images.justwatch.com/backdrop/267836579/s640/meu-amigo-da-escola-e-um-macaco.avif" />
+    <weekday days="ter,seg,dom,qua,qui,sex,sab" />
+    <rating><value>L</value></rating>
+  </programme>
+  <programme start="220500" stop="222800" channel="turnerdemo.br">
+    <title>Sheep na Cidade Grande - Reprise</title>
+    <weekday days="ter,seg,dom,qua,qui,sab,sex" />
+    <rating><value>L</value></rating>
+  </programme>
+  <aprogramme start="190000" stop="210000" channel="fkids.br">
+    <title>Turbo: A Power Rangers Movie - Reprise</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>Os Turbo Power Rangers têm que enfrentar o diabólico pirata espacial Diratox que sequestrou um alienígena pequeno, mas sábio. Diratox o sequestra na ilha de Muranthias, onde apenas o mago Lerigot tem a chave para libertá-lo. </desc>
+    <icon src="https://tokusatsu.blog.br/wp-content/uploads/2020/09/Power-Rangers-Turbo.jpg" />
+    <weekday days="dom" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
+  <aprogramme start="120000" stop="140000" channel="fkids.br">
+    <title>Turbo: A Power Rangers Movie</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>Os Turbo Power Rangers têm que enfrentar o diabólico pirata espacial Diratox que sequestrou um alienígena pequeno, mas sábio. Diratox o sequestra na ilha de Muranthias, onde apenas o mago Lerigot tem a chave para libertá-lo. </desc>
+    <icon src="https://tokusatsu.blog.br/wp-content/uploads/2020/09/Power-Rangers-Turbo.jpg" />
+    <weekday days="dom" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
+  <programme start="143000" stop="150000" channel="fkids.br">
+    <title>Power Ranger: Força Animal</title>
+    <desc>Fox kids o seu canal favorito.</desc>
+    <icon src="https://blogdaileon.com/wp-content/uploads/2022/07/powerrangersforcaanimal-destacada.jpg" />
+    <weekday days="seg,qua,sex" />
+    <rating><value>A10</value></rating>
+  </programme>
+  <programme start="170000" stop="173000" channel="fkids.br">
+    <title>Power Ranger: Força Animal - Reprise</title>
+    <desc>Fox kids o seu canal favorito.</desc>
+    <icon src="https://blogdaileon.com/wp-content/uploads/2022/07/powerrangersforcaanimal-destacada.jpg" />
+    <weekday days="seg,qua,sex" />
+    <rating><value>A10</value></rating>
+  </programme>
+  <programme start="210000" stop="213000" channel="fkids.br">
+    <title>Power Ranger: Força Animal - Reprise</title>
+    <desc>Fox kids o seu canal favorito.</desc>
+    <icon src="https://blogdaileon.com/wp-content/uploads/2022/07/powerrangersforcaanimal-destacada.jpg" />
+    <weekday days="seg,qua,sex" />
+    <rating><value>A10</value></rating>
+  </programme>
+  <aprogramme start="143000" stop="150000" channel="fkids.br">
+    <title>Power Ranger: Força do Tempo</title>
+    <desc>Fox kids o seu canal favorito.</desc>
+    <icon src="https://www.flixfilm.dk/wp-content/uploads/2021/01/Power-Rangers-Time-Force-1.jpg" />
+    <weekday days="seg,qua,sex" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
+  <aprogramme start="170000" stop="173000" channel="fkids.br">
+    <title>Power Ranger: Força do Tempo - Reprise</title>
+    <desc>Fox kids o seu canal favorito.</desc>
+    <icon src="https://www.flixfilm.dk/wp-content/uploads/2021/01/Power-Rangers-Time-Force-1.jpg" />
+    <weekday days="seg,qua,sex" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
+  <aprogramme start="210000" stop="213000" channel="fkids.br">
+    <title>Power Ranger: Força do Tempo - Reprise</title>
+    <desc>Fox kids o seu canal favorito.</desc>
+    <icon src="https://www.flixfilm.dk/wp-content/uploads/2021/01/Power-Rangers-Time-Force-1.jpg" />
+    <weekday days="seg,qua,sex" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
+  <aprogramme start="120000" stop="140000" channel="fkids.br">
+    <title>Paulie - O Papagaio Bom de Papo</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>O esperto papagaio Paulie, preso em um laboratório, conta a história de sua vida a um faxineiro solitário. Paulie teve vários donos, incluindo um criminoso. Comovido pelas histórias, o faxineiro tenta libertá-lo.</desc>
+    <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
+    <weekday days="dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="190000" stop="210000" channel="fkids.br">
+    <title>Paulie - O Papagaio Bom de Papo - Reprise</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>O esperto papagaio Paulie, preso em um laboratório, conta a história de sua vida a um faxineiro solitário. Paulie teve vários donos, incluindo um criminoso. Comovido pelas histórias, o faxineiro tenta libertá-lo.</desc>
+    <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
+    <weekday days="dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="193000" stop="200000" channel="Geekdot.br">
+    <title>Super Campeões J</title>
+    <desc>Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
+    <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
+    <weekday days="seg,ter,qua,qui,sex" />
+    <rating><value>14</value></rating>
+  </aprogramme>
+  <aprogramme start="120000" stop="123000" channel="Clouding.br">
+    <title>Drake e Josh</title>
+    <desc>.</desc>
+    <weekday days="ter,qui" />
+    <rating><value>10</value></rating>
+  </aprogramme>
+  <aprogramme start="152000" stop="160500" channel="turnerdemo.br">
+    <title>Os Jetsons - Reprise</title>
+    <desc>Conheça George Jetson e sua família maluca: sua esposa, Jane; seu filho, Elroy, e sua filha, Judy. </desc>
+    <icon src="https://www.justwatch.com/images/backdrop/183492392/s640/os-jetsons/os-jetsons" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="070000" stop="073000" channel="turnerdemo.br">
+    <title>Krypto, o Supercão</title>
+    <desc>Krypto chega à Terra e faz amizade com um garoto chamado Kevin, que o acolhe.</desc>
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>L</value></rating>
+  </aprogramme>
+  <aprogramme start="123000" stop="133500" channel="turnerdemo.br">
+    <title>Looney Tunes</title>
+    <desc>Acompanhe os parceiros Pernalonga e Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda, e sempre prontos para fazer novas amizades! </desc>
+    <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="133500" stop="140000" channel="turnerdemo.br">
+    <title>Duck Dodgers</title>
+    <desc>Estamos na metade do século 24 e o Protetorado Galáctico da Terra possui uma nova arma secreta... um pato congelado. </desc>
+    <icon src="https://static.wikia.nocookie.net/international-entertainment-project/images/6/66/DuckDodgersBanner.jpg/" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="180500" stop="190000" channel="turnerdemo.br">
+    <title>Mansão Foster para Amigos Imaginários</title>
+    <desc>Todo mundo pode vê-los, todo mundo pode falar com eles, mas algumas vezes, nem todo mundo vai querer eles por perto. Felizmente, eles são sempre bem-vindos na Mansão Foster para Amigos Imaginários.</desc>
+    <icon src="https://www.justwatch.com/images/backdrop/183782622/s640/fosters-home-for-imaginary-friends/fosters-home-for-imaginary-friends" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="185500" stop="193000" channel="turnerdemo.br">
+    <title>Krypto, o Supercão</title>
+    <desc>Krypto chega à Terra e faz amizade com um garoto chamado Kevin, que o acolhe.</desc>
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>L</value></rating>
+  </aprogramme>
+  <aprogramme start="223000" stop="233000" channel="turnerdemo.br">
+    <title>Tom e Jerry - Reprise</title>
+    <desc>O obstinado gato Tom nunca sai da cola de seu arquiinimigo, Jerry, o rato, e nenhum truque, armadilha nem frigideira de ferro o impedirá em sua busca incansável. </desc>
+    <icon src="https://www.justwatch.com/images/backdrop/302372815/s640/temporada-1/temporada-1" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="233000" stop="000000" channel="turnerdemo.br">
+    <title>Os Filhos de Tom e Jerry - Reprise</title>
+    <desc>OS FILHOS DE TOM E JERRY</desc>
+    <icon src="https://www.justwatch.com/images/backdrop/310483878/s640/tom-and-jerry-kids/tom-and-jerry-kids" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="003300" stop="013000" channel="turnerdemo.br">
+    <title>Looney Tunes - Reprise</title>
+    <desc>Acompanhe os parceiros Pernalonga e Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda, e sempre prontos para fazer novas amizades! </desc>
+    <icon src="https://images.justwatch.com/backdrop/53892005/s640/looney-tunes-1929/looney-tunes-1929" />
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <rating><value>AL</value></rating>
+  </aprogramme>
+  <aprogramme start="113000" stop="120000" channel="turnerdemo.br">
+    <title>Os Filhos de Tom e Jerry</title>
+    <icon src="https://www.justwatch.com/images/backdrop/310483878/s640/tom-and-jerry-kids/tom-and-jerry-kids" />
+    <weekday days="sab,seg,ter,qua,qui,sex,dom" />
+    <rating><value>L</value></rating>
+  </aprogramme>
+  <aprogramme start="103000" stop="113000" channel="turnerdemo.br">
+    <title>Tom e Jerry</title>
+    <desc>O obstinado gato Tom nunca sai da cola de seu arquiinimigo, Jerry, o rato, e nenhum truque, armadilha nem frigideira de ferro o impedirá em sua busca incansável. </desc>
+    <icon src="https://www.justwatch.com/images/backdrop/302372815/s640/temporada-1/temporada-1" />
+    <weekday days="sab,seg,ter,qua,qui,sex,dom" />
+    <rating><value>L</value></rating>
+  </aprogramme>
+  <aprogramme start="205500" stop="211600" channel="turnerdemo.br">
+    <title>O Que Há de Novo Scooby Doo? - Reprise</title>
+    <desc>Durante uma escavação arqueológica com Melbourne O'Reilly no Egito, a turma descobre a maldição do Faraó Scamses: a múmia tem poderes de transformar as pessoas em zumbis. Eles precisam agir rápido quando um grupo de turistas chega ao deserto.</desc>
+    <weekday days="sab,seg,ter,dom,qua,qui,sex" />
+    <rating><value>L</value></rating>
+  </aprogramme>
+  <aprogramme start="090000" stop="094000" channel="turnerdemo.br">
+    <title>O Que Há de Novo Scooby Doo?</title>
+    <desc>Durante uma escavação arqueológica com Melbourne O'Reilly no Egito, a turma descobre a maldição do Faraó Scamses: a múmia tem poderes de transformar as pessoas em zumbis. Eles precisam agir rápido quando um grupo de turistas chega ao deserto.</desc>
+    <weekday days="sab,seg,dom,ter,qua,qui,sex" />
+    <rating><value>L</value></rating>
+  </aprogramme>
+  <aprogramme start="120000" stop="140000" channel="fkids.br">
+    <title>O Príncipe do Egito</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>O filme é baseado no livro do Êxodo que narra a história de Moisés, um judeu adotado e criado como príncipe egípcio, que acaba descobrindo suas verdadeiras origens e decide abandonar a vida no palácio para salvar o povo hebreu da escravidão.</desc>
+    <icon src="https://futaricombii.com/wp-content/uploads/2021/05/prince-of-egypt-dreamworks-1024x580.jpg" />
+    <weekday days="dom" />
+    <rating><value>L</value></rating>
+  </aprogramme>
+  <aprogramme start="190000" stop="210000" channel="fkids.br">
+    <title>O Príncipe do Egito - Reprise</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>O filme é baseado no livro do Êxodo que narra a história de Moisés, um judeu adotado e criado como príncipe egípcio, que acaba descobrindo suas verdadeiras origens e decide abandonar a vida no palácio para salvar o povo hebreu da escravidão.</desc>
+    <icon src="https://futaricombii.com/wp-content/uploads/2021/05/prince-of-egypt-dreamworks-1024x580.jpg" />
+    <weekday days="dom" />
+    <rating><value>L</value></rating>
+  </aprogramme>
+  <aprogramme start="120000" stop="140000" channel="fkids.br">
+    <title>José, o Rei dos Sonhos</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>A habilidade de um menino em prever o futuro gera discórdia familiar, levando-o para o Egito, onde ele ajuda o faraó a proteger o reino e evitar tragédias.</desc>
+    <icon src="https://blogbeautifuldreams.wordpress.com/wp-content/uploads/2017/01/joseph-king-of-dreams-2.jpg" />
+    <weekday days="dom" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
+  <aprogramme start="190000" stop="210000" channel="fkids.br">
+    <title>José, o Rei dos Sonhos - Reprise</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>A habilidade de um menino em prever o futuro gera discórdia familiar, levando-o para o Egito, onde ele ajuda o faraó a proteger o reino e evitar tragédias.</desc>
+    <icon src="https://blogbeautifuldreams.wordpress.com/wp-content/uploads/2017/01/joseph-king-of-dreams-2.jpg" />
+    <weekday days="dom" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
+  <aprogramme start="120000" stop="140000" channel="fkids.br">
+    <title>Digimon: O Filme</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>Ao longo de três histórias diferentes, Kari Kamiya e seus amigos assumem explosivas aventuras envolvendo criaturas digitais.</desc>
+    <icon src="https://i.ebayimg.com/images/g/NNoAAMXQTghRU6gu/s-l1200.jpg" />
+    <weekday days="dom" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
+  <aprogramme start="190000" stop="210000" channel="fkids.br">
+    <title>Digimon: O Filme - Reprise</title>
+    <sub-title>Cineskópio</sub-title>
+    <desc>Ao longo de três histórias diferentes, Kari Kamiya e seus amigos assumem explosivas aventuras envolvendo criaturas digitais.</desc>
+    <icon src="https://i.ebayimg.com/images/g/NNoAAMXQTghRU6gu/s-l1200.jpg" />
+    <weekday days="dom" />
+    <rating><value>A10</value></rating>
+  </aprogramme>
   <aprogramme start="120000" stop="140000" channel="fkids.br">
     <title>O Caminho para El Dorado</title>
     <sub-title>Cineskópio</sub-title>
@@ -6408,39 +6608,23 @@
     <weekday days="dom" />
     <rating><value>10</value></rating>
   </aprogramme>
-  <aprogramme start="120000" stop="140000" channel="fkids.br">
+  <programme start="120000" stop="140000" channel="fkids.br">
     <title>Cineskopio</title>
     <desc> Fox kids o seu canal favorito.</desc>
     <weekday days="dom" />
     <rating><value>AL</value></rating>
-  </aprogramme>
-  <aprogramme start="190000" stop="210000" channel="fkids.br">
+  </programme>
+  <programme start="190000" stop="210000" channel="fkids.br">
     <title>Cineskopio - Reprise</title>
     <desc> Fox kids o seu canal favorito.</desc>
     <weekday days="dom" />
     <rating><value>AL</value></rating>
-  </aprogramme>
-  <programme start="120000" stop="140000" channel="fkids.br">
-    <title>Cineskópio</title>
-    <sub-title>Cineskópio</sub-title>
-    <desc>A habilidade de um menino em prever o futuro gera discórdia familiar, levando-o para o Egito, onde ele ajuda o faraó a proteger o reino e evitar tragédias.</desc>
-    <icon src="https://blogbeautifuldreams.wordpress.com/wp-content/uploads/2017/01/joseph-king-of-dreams-2.jpg" />
-    <weekday days="dom" />
-    <rating><value>A10</value></rating>
   </programme>
-  <programme start="190000" stop="210000" channel="fkids.br">
-    <title>Cineskópio</title>
-    <sub-title>Cineskópio</sub-title>
-    <desc>A habilidade de um menino em prever o futuro gera discórdia familiar, levando-o para o Egito, onde ele ajuda o faraó a proteger o reino e evitar tragédias.</desc>
-    <icon src="https://blogbeautifuldreams.wordpress.com/wp-content/uploads/2017/01/joseph-king-of-dreams-2.jpg" />
-    <weekday days="dom" />
-    <rating><value>A10</value></rating>
-  </programme>
-  <programme start="173000" stop="183000" channel="fkids.br">
-    <title>Sábado Verde</title>
+  <programme start="010000" stop="013000" channel="fkids.br">
+    <title>Power Ranger: Força Animal - Reprise</title>
     <desc>Fox kids o seu canal favorito.</desc>
-    <icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/hulk-1.jpg" />
-    <weekday days="sab" />
+    <icon src="https://blogdaileon.com/wp-content/uploads/2022/07/powerrangersforcaanimal-destacada.jpg" />
+    <weekday days="seg,ter,qui,sab" />
     <rating><value>A10</value></rating>
   </programme>
 </tv>
